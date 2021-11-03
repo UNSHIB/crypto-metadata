@@ -1,0 +1,23 @@
+{
+    "id": "bitsol-finance",
+    "symbol": "btsl",
+    "name": "Bitsol Finance",
+    "platforms": {
+        "solana": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BTSL is a technology that\u2019s home to digital money, global payments, and applications. The community has built a booming digital economy, bold new ways for creators to earn online, and so much more. It\u2019s open to everyone, wherever you are in the world \u2013 all you need is the internet.\r\n(BTSL)  bitcoin solana enabling them to own bitcoin by mining which is unique and has fast transaction speed and lower fees compared to the bitcoin SHA-256 algorithm."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5",
+    "url": "https://bitsol.finance",
+    "explorers": [
+        "https://solscan.io/token/DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5"
+    ],
+    "twitter": "bitsol_finance",
+    "telegram": "bitsol_finance",
+    "github_org": "Bitcoinsolana"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "drachma",
+    "symbol": "dra",
+    "name": "Drachma",
+    "platforms": {
+        "binance-smart-chain": "0x694956a7236e39c60e9113211330350619dfcce6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As we grow in number and volume, Drachma will strive for making this Cryptocurrency a decentralized peer-to-peer community. Therefore, we want to blur the line between the cryptocurrency exchanges and fiat banks, making it possible to secure your tokens in Drachmas own wallet and creditcard. This will give the investors the freedom to spend it safe and secure. We will popularize the cryptocurrency by giving free admission, and by helping people understand and confide what we believe to be the future of money."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x694956a7236e39c60e9113211330350619dfcce6",
+    "url": "https://drachma.cc/",
+    "explorers": [
+        "https://bscscan.com/token/0x694956a7236e39c60e9113211330350619dfcce6"
+    ],
+    "twitter": "drachmatoken",
+    "telegram": "drachmatoken",
+    "reddit": "drachmatoken",
+    "github_org": "Nikethedike1"
+}

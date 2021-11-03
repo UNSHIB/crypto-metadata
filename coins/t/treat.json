@@ -1,0 +1,22 @@
+{
+    "id": "treat",
+    "symbol": "treat",
+    "name": "Treat",
+    "platforms": {
+        "fantom": "0x484f2ff94a7790759d56fb1efbace8075aba5e06"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Treat is a fork of a paladin audited goose contract that has the changed functionality of emissions being timed per second and not per block, this makes for a more accurate distribution of tokens in the event of network congestion. As yield farmers, we looked to provide a safe and transparent farm, we have plans to use the token we are distributing as governance and create an nft project as we grow and are able to hire an artist. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x484f2ff94a7790759d56fb1efbace8075aba5e06",
+    "url": "https://trickortreat.farm",
+    "explorers": [
+        "https://ftmscan.com/token/0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06"
+    ],
+    "twitter": "tricktreatfarm",
+    "telegram": "tricktreat_farm"
+}

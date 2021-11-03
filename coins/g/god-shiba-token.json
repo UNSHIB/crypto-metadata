@@ -1,0 +1,22 @@
+{
+    "id": "god-shiba-token",
+    "symbol": "gshib",
+    "name": "God Shiba Token",
+    "platforms": {
+        "binance-smart-chain": "0xe38928cd467ad7347465048b3637893124187d02"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community-focused & decentralized network created by God Shiba himself. A charity token to aid all the living things on planet earth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe38928cd467ad7347465048b3637893124187d02",
+    "url": "https://www.godshibatoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe38928cd467ad7347465048b3637893124187d02"
+    ],
+    "twitter": "GodShibaToken",
+    "telegram": "GodShibaToken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "island-doges",
+    "symbol": "island",
+    "name": "Island Doges",
+    "platforms": {
+        "ethereum": "0xa0dc5132c91ea4d94fcf1727c32cc5a303b34cfc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Island Doge is a decentralised, autonomous and community-powered project cantered around celebrating the viral sensation that is the island boys. The aim is to help build a community around upcoming artists in the hip hop scene, giving them a fan base to aid in growth and development of their image. \r\n\r\nIsland Doge hopes to associate itself with these artists for collaborations to leverage both parties social influence to maximize their career potential.  To assist in maintaining social relevance for artists Island Doge plans on creating games and NFT collections of those we represent and bring the rap culture to the metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa0dc5132c91ea4d94fcf1727c32cc5a303b34cfc",
+    "url": "https://islanddoges.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa0dc5132c91ea4d94fcf1727c32cc5a303b34cfc",
+        "https://ethplorer.io/address/0xa0dc5132c91ea4d94fcf1727c32cc5a303b34cfc"
+    ],
+    "twitter": "islanddoges",
+    "telegram": "islanddoges",
+    "github_org": "IslandDogesToken"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "shokky",
+    "symbol": "shokky",
+    "name": "SHOKKY",
+    "platforms": {
+        "ethereum": "0xb02db7bd0cbc93a31f3c92349b4a206368174fc0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHOKKY is an ERC-20 token aimed to build a strong, meme-based community. We aim to build a SHOKKY-inspired game that will allow players to interact with our community. A special point of our tokenomics helps to increase our liquidity by adding part of sell transactions to LP!\r\n\r\nThe dog coin that will Shokk you! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb02db7bd0cbc93a31f3c92349b4a206368174fc0",
+    "url": "https://shokkyinu.io",
+    "explorers": [
+        "https://etherscan.io/token/0xb02db7bd0cbc93a31f3c92349b4a206368174fc0",
+        "https://ethplorer.io/address/0xb02db7bd0cbc93a31f3c92349b4a206368174fc0"
+    ],
+    "twitter": "shokkytoken",
+    "telegram": "ShokkyErc"
+}

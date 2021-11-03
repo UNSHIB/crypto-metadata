@@ -1,0 +1,22 @@
+{
+    "id": "ethereum-name-service",
+    "symbol": "ens",
+    "name": "Ethereum Name Service",
+    "platforms": {
+        "ethereum": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system based on the Ethereum blockchain.\r\n\r\nENS\u2019s job is to map human-readable names like \u2018alice.eth\u2019 to machine-readable identifiers such as Ethereum addresses, other cryptocurrency addresses, content hashes, and metadata. ENS also supports \u2018reverse resolution\u2019, making it possible to associate metadata such as canonical names or interface descriptions with Ethereum addresses.\r\n\r\nENS has similar goals to DNS, the Internet\u2019s Domain Name Service, but has significantly different architecture due to the capabilities and constraints provided by the Ethereum blockchain. Like DNS, ENS operates on a system of dot-separated hierarchical names called domains, with the owner of a domain having full control over subdomains.\r\n\r\nTop-level domains, like \u2018.eth\u2019 and \u2018.test\u2019, are owned by smart contracts called registrars, which specify rules governing the allocation of their subdomains. Anyone may, by following the rules imposed by these registrar contracts, obtain ownership of a domain for their own use. ENS also supports importing in DNS names already owned by the user for use on ENS.\r\n\r\nBecause of the hierarchal nature of ENS, anyone who owns a domain at any level may configure subdomains - for themselves or others - as desired. For instance, if Alice owns 'alice.eth', she can create 'pay.alice.eth' and configure it as she wishes.\r\n\r\nENS is deployed on the Ethereum main network and on several test networks. If you use a library such as the ensjs Javascript library, or an end-user application, it will automatically detect the network you are interacting with and use the ENS deployment on that network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+    "url": "https://ens.domains/",
+    "explorers": [
+        "https://etherscan.io/token/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+        "https://ethplorer.io/address/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+    ],
+    "twitter": "ensdomains"
+}

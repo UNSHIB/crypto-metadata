@@ -1,0 +1,22 @@
+{
+    "id": "squidanomics",
+    "symbol": "squid",
+    "name": "Squidanomics",
+    "platforms": {
+        "binance-smart-chain": "0x1f878d0bccd3d502ff55f7a4797c556f103d6e4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launched on 18/10/2021 by a team based in Canada and the United States, Squidanomics is a BUSD rewards token on the Binance Smart Chain. This means that holders can receive BUSD reflections from Buys and Sells by holding their Squidanomics tokens. No claiming required from holders to receive.\r\n\r\nBut more than a rewards token., Squidanomics is a fan made token that combines great tokenomics with the amazing TV concept that is Squid Game. People from any walk of life have the chance to participate and make themselves ridiculous money for participating in simple games. The games are not life or death as in the show, but the prizes to be won will make people feel that way. There are so many different ways to earn BUSD at Squidanomics.\r\n \r\nSquidanomics is where Squid Game, NFTs, Gaming, and Passive Income all come together into one token. On launch a 3D Knife web browser game was released that is Hold to Play. This means players must hold a certain amount of Squidanomics to participate and receive the BUSD rewards distributed to tournament players. There is also a 2D shooter launching that will require NFTs to play and earn. This is a mobile game and will be available on app stores. Also in the telegram group there are ongoing tournaments for BUSD rewards. These are original chat based games that anyone can play with only telegram. These include Red Light/Green Light, Dice, and the Glass Floor. This allows holders without access to PC or only access to Telegram to participate in games and receive BUSD rewards. However, to participate in these games holders must hold a special limited 1 of 100 Dagger NFT.\r\n\r\nThe Squidanomics NFT marketplace on Treasureland allows investors to buy limited hand-drawn Squid Game NFTs of characters from the show. There are Common (1 of 50), Rare (1 of 5) and Legendary (1 of 1). As mentioned above the \"\"Dagger\"\" NFT allows holders to participate in the telegram games for BUSD prizes. Also, the Rare Nfts allow holders to receive an additional 3% prize money and the Legendary allow holders an additional 10% prize money. For collecting 1 of each rare from each drop holders will receive a completion NFT that allows for 20% extra prize money.\r\n\r\nTokenomics:\r\n\r\n5% Tax for BUSD reflections to holders\r\n5% Marketing fund for perpetual growth\r\n3% Liquidity Tax for rising price floor\r\n2% Developer Tax for continued innovation\r\n\r\nThere will be more Squid Game themed games developed for holders to enjoy and NFT drops with utilities for the community constantly developed. Rewards tracker for following BUSD earned through the rewards in the contract to be released soon.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1f878d0bccd3d502ff55f7a4797c556f103d6e4b",
+    "url": "https://squidanomics.xyz",
+    "explorers": [
+        "https://bscscan.com/token/0x1f878d0bccd3d502ff55f7a4797c556f103d6e4b"
+    ],
+    "twitter": "Squidanomics",
+    "telegram": "Squidanomics"
+}

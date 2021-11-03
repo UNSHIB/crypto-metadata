@@ -1,0 +1,23 @@
+{
+    "id": "hellsing-inu",
+    "symbol": "hellsing",
+    "name": "Hellsing Inu",
+    "platforms": {
+        "ethereum": "0xb087c2180e3134db396977065817aed91fea6ead"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hellsing Inu intends to be the currency for a new fantasy and horror metaverse about vampire and vampire hunters. Hellsing Inu will be mostly used to provide access to NFT auctions for characters and weapons in the metaverse. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb087c2180e3134db396977065817aed91fea6ead",
+    "url": "https://hellsinginu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb087c2180e3134db396977065817aed91fea6ead",
+        "https://ethplorer.io/address/0xb087c2180e3134db396977065817aed91fea6ead"
+    ],
+    "twitter": "HellsingInu",
+    "telegram": "hellsinginu"
+}

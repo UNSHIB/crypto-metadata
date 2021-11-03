@@ -1,0 +1,23 @@
+{
+    "id": "xlshiba",
+    "symbol": "xlshiba",
+    "name": "XLSHIBA",
+    "platforms": {
+        "ethereum": "0x443c31b525791b4bfb1cf67196475cb27b834b67"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XLSHIBA ($XLSHIBA) is a decentralized multi-purpose token designed to cultivate XL utility, XL growth and an XL community. Pushing the envelope as a GENESIS token representative of the next generation meme culture, XLSHIBA is designed to be cross-functional through scalable utility."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x443c31b525791b4bfb1cf67196475cb27b834b67",
+    "url": "https://xlshiba.com",
+    "explorers": [
+        "https://etherscan.io/token/0x443c31b525791b4bfb1cf67196475cb27b834b67",
+        "https://ethplorer.io/address/0x443c31b525791b4bfb1cf67196475cb27b834b67"
+    ],
+    "twitter": "XLshiba",
+    "telegram": "XLSHIBA"
+}

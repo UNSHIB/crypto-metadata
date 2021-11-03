@@ -1,0 +1,22 @@
+{
+    "id": "crypto-classic",
+    "symbol": "crc",
+    "name": "Crypto Classic",
+    "platforms": {
+        "binance-smart-chain": "0x8a6cfd647abdafb80cfcf941bf96011a67f35e9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Classic is a protocol that unifies leading BSC protocols and blockchain infrastructure by standardising communication between them in order to create and execute complex financial transactions, while championing Confidentiality, Anonymity and Liberty.\r\nCrypto Classic is a distributed network consisting of a blockchain ledger, native cryptocurrency robust ecosystem of on-chain applications and services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a6cfd647abdafb80cfcf941bf96011a67f35e9a",
+    "url": "https://www.cryptoclassic.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x8a6cfd647abdafb80cfcf941bf96011a67f35e9a"
+    ],
+    "twitter": "cro_classic",
+    "telegram": "crypto_classic"
+}

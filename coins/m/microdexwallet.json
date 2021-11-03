@@ -1,0 +1,22 @@
+{
+    "id": "microdexwallet",
+    "symbol": "micro",
+    "name": "MicroDexWallet",
+    "platforms": {
+        "binance-smart-chain": "0xf93e77f8f6c7af96f96112826205ba1982faed85"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf93e77f8f6c7af96f96112826205ba1982faed85",
+    "url": "https://microdex.ninja/",
+    "explorers": [
+        "https://bscscan.com/token/0xf93e77f8f6c7af96f96112826205ba1982faed85"
+    ],
+    "twitter": "microDexWallet",
+    "telegram": "microDexGlobal"
+}

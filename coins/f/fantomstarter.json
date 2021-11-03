@@ -1,0 +1,22 @@
+{
+    "id": "fantomstarter",
+    "symbol": "fs",
+    "name": "FantomStarter",
+    "platforms": {
+        "fantom": "0xc758295cd1a564cdb020a78a681a838cf8e0627d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meet the platform that enables investors to participate first in the most promising projects and products with solid business plans to win top blockchain opportunities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc758295cd1a564cdb020a78a681a838cf8e0627d",
+    "url": "https://www.fantomstarter.io/",
+    "explorers": [],
+    "twitter": "fantomstarter",
+    "telegram": "fantomstarterannouncement",
+    "reddit": "FantomStarter/",
+    "github_org": "fantomstarter"
+}

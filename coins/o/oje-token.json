@@ -1,0 +1,24 @@
+{
+    "id": "oje-token",
+    "symbol": "oje",
+    "name": "Oje Token",
+    "platforms": {
+        "ethereum": "0xc5ec4f1fc86da45ae788ec98756ba70b57676409"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Oje token is creating the only music NFT and art NFT vr metaverse (The Ojeverse)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc5ec4f1fc86da45ae788ec98756ba70b57676409",
+    "url": "https://ojetoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xC5ec4f1FC86DA45AE788EC98756BA70B57676409",
+        "https://ethplorer.io/address/0xc5ec4f1fc86da45ae788ec98756ba70b57676409"
+    ],
+    "twitter": "OjeToken",
+    "telegram": "Oje_Token",
+    "github_org": "OjeToken"
+}

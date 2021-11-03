@@ -1,0 +1,26 @@
+{
+    "id": "tanks",
+    "symbol": "tanks",
+    "name": "Tanks",
+    "platforms": {
+        "ethereum": "0xf604d1e51122592e0babe63ac334c0e647222f2d",
+        "binance-smart-chain": "0xd20738760aededa73f6cd91a3d357746e0283a0e",
+        "polygon-pos": "0x985f3300cb203efae88d9f9a2a707c7a330f2967"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tanks! For Playing is a Turn-Based Multiplayer Online Blockchain Game involving cooperation, coordination, planning, strategy and eventually betrayal. Tanks! can be played entirely on-chain (web3) or off-chain on a managed server (web2). Games can range in duration from a few hours (~6 hrs) to over the course of days or weeks. Tanks! For Playing is powered by the game token TANKS. TANKS are finite in supply, with a proportion of revenue to be burnt ensuring that the token is deflationary."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf604d1e51122592e0babe63ac334c0e647222f2d",
+    "url": "https://tanksforplaying.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf604d1e51122592e0babe63ac334c0e647222f2d",
+        "https://ethplorer.io/address/0xf604d1e51122592e0babe63ac334c0e647222f2d"
+    ],
+    "twitter": "tanks4playing",
+    "telegram": "Tanks4PlayingPublic",
+    "reddit": "TanksForPlaying/"
+}

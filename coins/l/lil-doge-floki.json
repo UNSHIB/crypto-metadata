@@ -1,0 +1,23 @@
+{
+    "id": "lil-doge-floki",
+    "symbol": "lildogefloki",
+    "name": "Lil Doge Floki",
+    "platforms": {
+        "ethereum": "0xc1ad57141844b5441526451f03748ce4cf1e75e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc1ad57141844b5441526451f03748ce4cf1e75e2",
+    "url": "https://lildogeflokielon.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc1ad57141844b5441526451f03748ce4cf1e75e2",
+        "https://ethplorer.io/address/0xc1ad57141844b5441526451f03748ce4cf1e75e2"
+    ],
+    "twitter": "LILDOGEFL",
+    "telegram": "lildogeFlokiElon"
+}

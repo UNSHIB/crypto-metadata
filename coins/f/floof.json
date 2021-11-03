@@ -1,0 +1,22 @@
+{
+    "id": "floof",
+    "symbol": "floof",
+    "name": "FLOOF",
+    "platforms": {
+        "solana": "3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FLOOF has an long roadmap including NFT releases, partnerships and collaborations with other projects, and a P2E game coming out in Q1 2022."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw",
+    "url": "https://www.floofsolana.com",
+    "explorers": [
+        "https://solscan.io/token/3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw"
+    ],
+    "twitter": "FLOOF_SOLANA",
+    "github_org": "GreenFailure"
+}

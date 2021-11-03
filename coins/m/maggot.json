@@ -1,0 +1,22 @@
+{
+    "id": "maggot",
+    "symbol": "maggot",
+    "name": "Maggot",
+    "platforms": {
+        "binance-smart-chain": "0xdbc68862a8880c0c4693a920bd1e461f07f6262e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Maggot is the exclusive token for the Rich. It's different than Rotten, as it will serve a luxurious purpose rather than a utility one.\r\n\r\nOur VIP NFTs grant exclusive in-game cosmetic items, access to restricted areas, private discussion channels and airdrops. The first collection is released and available to everyone, but starting from the second collection the only way to acquire the NFTs will be minting them with Maggot tokens, burning them in the process.\r\n\r\nMaggot tokens will also grant fast-track access to all activities in the Rotten Floki platform, discount on all of the in-game wearables (discount % depending on the amount of Maggot tokens you're holding) and will also be used to stake and receive rewards in Rotten."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdbc68862a8880c0c4693a920bd1e461f07f6262e",
+    "url": "https://www.rottenfloki.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xDBc68862a8880C0c4693A920BD1e461f07F6262e"
+    ],
+    "twitter": "TheRottenFloki",
+    "telegram": "RottenFloki"
+}

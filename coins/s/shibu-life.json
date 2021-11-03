@@ -1,0 +1,22 @@
+{
+    "id": "shibu-life",
+    "symbol": "shibu",
+    "name": "Shibu Life",
+    "platforms": {
+        "binance-smart-chain": "0x2690a474c68f4313603816e3cc6576a74b56944f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A tasty treat full of Metaverse action, Meme fun and NFTs delight. A vibrant ecosystem that combines all the fun elements of crypto into a unique Metaverse ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2690a474c68f4313603816e3cc6576a74b56944f",
+    "url": "https://shibu.life/",
+    "explorers": [
+        "https://bscscan.com/token/0x2690a474c68f4313603816e3cc6576a74b56944f"
+    ],
+    "twitter": "ShibuLife",
+    "telegram": "shibu_life"
+}

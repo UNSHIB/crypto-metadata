@@ -1,0 +1,22 @@
+{
+    "id": "apelab",
+    "symbol": "ape",
+    "name": "ApeLab",
+    "platforms": {
+        "binance-smart-chain": "0x54283eb77cc33182c06b311248c48c73adf4e2ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Apelab is a full DeFi multi tool platform with utility right from launch"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x54283eb77cc33182c06b311248c48c73adf4e2ef",
+    "url": "https://apelab.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x54283eb77cc33182c06b311248c48c73adf4e2ef"
+    ],
+    "twitter": "apelabofficial",
+    "telegram": "ApeLabOfficial"
+}

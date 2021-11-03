@@ -1,0 +1,23 @@
+{
+    "id": "secured-ship",
+    "symbol": "ship",
+    "name": "Secured Ship",
+    "platforms": {
+        "binance-smart-chain": "0x050ca43222dfb2b50ff5d6e5a2785fc14f07f889"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x050ca43222dfb2b50ff5d6e5a2785fc14f07f889",
+    "url": "https://securedship.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x050ca43222dfb2b50ff5d6e5a2785fc14f07f889"
+    ],
+    "twitter": "SecuredShip",
+    "telegram": "securedship",
+    "reddit": "SecuredShip"
+}

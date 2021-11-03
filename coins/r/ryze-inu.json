@@ -1,0 +1,23 @@
+{
+    "id": "ryze-inu",
+    "symbol": "$ryzeinu",
+    "name": "Ryze Inu",
+    "platforms": {
+        "ethereum": "0xa63deda2909a682ad6cc4558468cf2a64d90706e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ryze Inu is a token based on the character Ryze from League of Legends and with the Rise of anime tokens we decided to begin to look for the new trend and decided upon the most popular Moba game League of Legends. Ryze was one of the characters who build the foundations of league of legends and has lead it to evolve into the game it is today. Ryze Is beloved by fans all over the world and is often a choice for popular esports players. He is also always in the spotlight from Riot as they love to devote attention towards the character."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa63deda2909a682ad6cc4558468cf2a64d90706e",
+    "url": "https://www.ryzeinuerc.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa63deda2909a682ad6cc4558468cf2a64d90706e",
+        "https://ethplorer.io/address/0xa63deda2909a682ad6cc4558468cf2a64d90706e"
+    ],
+    "twitter": "RyzeInu",
+    "telegram": "RyzeInuErc"
+}

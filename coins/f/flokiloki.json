@@ -1,0 +1,23 @@
+{
+    "id": "flokiloki",
+    "symbol": "flokiloki",
+    "name": "FlokiLoki",
+    "platforms": {
+        "binance-smart-chain": "0x722abb6b45df70bba7333af705d86be90c985be0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Floki & Loki combined forces merging to the ultimate dog FlokiLoki using the tesseract energy on the Binance Smart Chain to reward all its holders with Cardano!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x722abb6b45df70bba7333af705d86be90c985be0",
+    "url": "https://flokiloki.com",
+    "explorers": [
+        "https://bscscan.com/token/0x722abb6b45df70bba7333af705d86be90c985be0"
+    ],
+    "twitter": "flokilokitoken",
+    "telegram": "flokiloki_token",
+    "reddit": "https://www.reddit.com"
+}

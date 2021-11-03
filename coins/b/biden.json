@@ -1,0 +1,22 @@
+{
+    "id": "biden",
+    "symbol": "biden",
+    "name": "BIDEN Token",
+    "platforms": {
+        "binance-smart-chain": "0x8282c1daa19ee23276f307b8f4aff5002af53211"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8282c1daa19ee23276f307b8f4aff5002af53211",
+    "url": "https://www.bidentoken.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x8282c1DAA19Ee23276f307b8F4AFf5002AF53211"
+    ],
+    "twitter": "Biden_Token",
+    "telegram": "BidenTG"
+}

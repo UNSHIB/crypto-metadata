@@ -1,0 +1,22 @@
+{
+    "id": "alpha-shiba-inu",
+    "symbol": "alphashib",
+    "name": "Alpha Shiba Inu",
+    "platforms": {
+        "polygon-pos": "0x4668e4225e6bf7469c70adb17a6e1cacd03e7c85"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meme Investment DAO on Polygon"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4668e4225e6bf7469c70adb17a6e1cacd03e7c85",
+    "url": " https://alphashibainu.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x4668e4225e6bf7469c70adb17a6e1cacd03e7c85"
+    ],
+    "twitter": "alphashibainu",
+    "telegram": "AlphaShibaInuToken"
+}

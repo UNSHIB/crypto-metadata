@@ -1,0 +1,23 @@
+{
+    "id": "killua-inu",
+    "symbol": "killua",
+    "name": "Killua Inu",
+    "platforms": {
+        "ethereum": "0xeef61fc851ccac31b71b075e5e963803654f047b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "From the Hunter x Hunter universe comes a one-of-a-kind GameFi project! Killua Inu is set to push the bounds of what has currently been done on Ethereum for anime tokens! With a unique NFT-based game set to release in the coming months, Killua Inu is primed to become a gamechanging token and NFT collection in the world of DeFi and GameFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeef61fc851ccac31b71b075e5e963803654f047b",
+    "url": "https://killuainu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xeef61fc851ccac31b71b075e5e963803654f047b",
+        "https://ethplorer.io/address/0xeef61fc851ccac31b71b075e5e963803654f047b"
+    ],
+    "twitter": "KilluaInuETH",
+    "telegram": "KilluaInu"
+}
