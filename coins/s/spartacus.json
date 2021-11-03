@@ -1,0 +1,24 @@
+{
+    "id": "spartacus",
+    "symbol": "spa",
+    "name": "Spartacus",
+    "platforms": {
+        "fantom": "0x5602df4a94eb6c680190accfa2a475621e0ddbdc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Spartacus is the Olympus fork on Fantom. Spartacus is missioned to build a community owned protocol for decentralized reserve currency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5602df4a94eb6c680190accfa2a475621e0ddbdc",
+    "url": "https://spartacus.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x5602df4a94eb6c680190accfa2a475621e0ddbdc"
+    ],
+    "twitter": "Spartacus_Fi",
+    "github_org": "spartacus-finance"
+}

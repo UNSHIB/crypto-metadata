@@ -1,0 +1,22 @@
+{
+    "id": "baby-white-hamster",
+    "symbol": "$bwh",
+    "name": "Baby White Hamster",
+    "platforms": {
+        "binance-smart-chain": "0x4ed2bbfc2fc7b0b7400d8d12248649045e82c708"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ed2bbfc2fc7b0b7400d8d12248649045e82c708",
+    "url": "https://babywhitehamster.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4ed2bbfc2fc7b0b7400d8d12248649045e82c708"
+    ],
+    "twitter": "BabyWhiteHamstr",
+    "telegram": "BabyWhiteHamster"
+}

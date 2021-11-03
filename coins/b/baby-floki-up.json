@@ -1,0 +1,23 @@
+{
+    "id": "baby-floki-up",
+    "symbol": "bfu",
+    "name": "Baby Floki Up",
+    "platforms": {
+        "binance-smart-chain": "0x8927282a3d05ef5f7dc24ed0ee009be264d2ebd7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8927282a3d05ef5f7dc24ed0ee009be264d2ebd7",
+    "url": "https://babyflokiup.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8927282a3d05EF5F7dc24eD0eE009be264d2ebd7"
+    ],
+    "twitter": "babyflokiup",
+    "telegram": "babyflokiupchannel",
+    "reddit": "babyflokiup/"
+}

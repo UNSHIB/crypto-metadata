@@ -1,0 +1,22 @@
+{
+    "id": "pixelpotus",
+    "symbol": "pxl",
+    "name": "PixelPotus",
+    "platforms": {
+        "tezos": "KT1F1mn2jbqQCJcsNgYKVAQjvenecNMY2oPK"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PixelPotus is a digital collectable competition built on the Tezos blockchain.\r\n\r\nThere are 45 presidents* with 6 different rarities for each, with custom artwork for each president at each level. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1F1mn2jbqQCJcsNgYKVAQjvenecNMY2oPK",
+    "url": "https://www.pixelpotus.com/",
+    "explorers": [
+        "https://tzkt.io/KT1F1mn2jbqQCJcsNgYKVAQjvenecNMY2oPK/"
+    ],
+    "twitter": "PixelPotus",
+    "telegram": "pixelpotus"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "shibanomi",
+    "symbol": "shio",
+    "name": "Shibanomi",
+    "platforms": {
+        "binance-smart-chain": "0x0c251e67d41efc33a9d3264a5492f63f743ca87c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0c251e67d41efc33a9d3264a5492f63f743ca87c",
+    "url": "https://www.shibanomitoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0c251e67d41efc33a9d3264a5492f63f743ca87c"
+    ],
+    "twitter": "ShibanomiToken",
+    "telegram": "shibanomitoken",
+    "reddit": "Shibanomi"
+}

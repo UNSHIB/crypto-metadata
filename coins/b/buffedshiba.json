@@ -1,0 +1,22 @@
+{
+    "id": "buffedshiba",
+    "symbol": "bshib",
+    "name": "BuffedShiba",
+    "platforms": {
+        "binance-smart-chain": "0xd8f61cdeca41def1a7923f308a042f678109f54b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BuffedShiba is a community driven token inspired by the commonly known Buff Doge meme.\r\n\r\nThe $BSHIB token has the following characteristics:\r\n- Deflationary: 1% of each transaction will get sent to a burn address.\r\n- Anti-Whale: The maximum balance each wallet can hold is 0.5% of the total supply.\r\n- Auto-Liquidity: A certain percentage of each transaction will be added to liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd8f61cdeca41def1a7923f308a042f678109f54b",
+    "url": "https://www.buffedshiba.com",
+    "explorers": [
+        "https://bscscan.com/token/0xD8F61cdECA41dEF1a7923F308a042F678109f54B"
+    ],
+    "twitter": "BuffedShiba",
+    "telegram": "BuffedShiba"
+}

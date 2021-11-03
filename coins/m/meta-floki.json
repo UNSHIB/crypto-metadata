@@ -1,0 +1,22 @@
+{
+    "id": "meta-floki",
+    "symbol": "mfloki",
+    "name": "Meta Floki",
+    "platforms": {
+        "binance-smart-chain": "0x1931461c770509cc20aca503d3c5637e7b6c5220"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meta floki is a floki token based on the latest trend META and floki makes the perfect token which automatically gives holders 5% in floki rewards just for holding"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1931461c770509cc20aca503d3c5637e7b6c5220",
+    "url": "https://meta-floki.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1931461c770509cc20aca503d3c5637e7b6c5220"
+    ],
+    "twitter": "MetaFloki",
+    "telegram": "MetaFlokiBSC"
+}

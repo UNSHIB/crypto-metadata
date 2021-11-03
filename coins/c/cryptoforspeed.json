@@ -1,0 +1,23 @@
+{
+    "id": "cryptoforspeed",
+    "symbol": "cfs",
+    "name": "CryptoForSpeed",
+    "platforms": {
+        "binance-smart-chain": "0x0da208f8a0e119b62a83a44f09c2cf2eba7ab93f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoForSpeed is an NFT-Based Card Game, which brings innovation for GameFi field so that players can enjoy the joy of collecting NFT Auto cards while earning rewards. In a word, Players can obtain CFS token rewards through various play patterns In the game. \r\nIt should be emphasized that the NFT cards in the CryptoForSpeed are obtained by staking LP. After 60 days, players can release and unstake the LP, which means that the NFT cards are free to some extent!\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0da208f8a0e119b62a83a44f09c2cf2eba7ab93f",
+    "url": "https://cryptoforspeed.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0DA208f8A0e119B62A83a44F09C2Cf2EBa7AB93F"
+    ],
+    "twitter": "cryptoforspeed",
+    "telegram": "cryptoforspeedchannel",
+    "reddit": "CryptoForSpeed/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "corsac",
+    "symbol": "csct",
+    "name": "Corsac",
+    "platforms": {
+        "binance-smart-chain": "0x63ac1962ff47921cbf66f444b907f8ab93da4f08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "New token with Whale proof security, hourly 8% BUSD reflection to your wallet, 2% liq, 2% buyback,"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x63ac1962ff47921cbf66f444b907f8ab93da4f08",
+    "url": "https://www.corsactoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x63aC1962FF47921Cbf66F444b907F8aB93da4F08"
+    ],
+    "twitter": "corsac_official",
+    "telegram": "corsacofficiallaunch",
+    "github_org": "CorsacToken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "gains-network",
+    "symbol": "gns",
+    "name": "Gains Network",
+    "platforms": {
+        "polygon-pos": "0xe5417af564e4bfda1c483642db72007871397896"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$GNS brings decentralized leveraged trading to #Polygon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe5417af564e4bfda1c483642db72007871397896",
+    "url": "https://gains.trade/",
+    "explorers": [
+        "https://polygonscan.com/token/0xE5417Af564e4bFDA1c483642db72007871397896"
+    ],
+    "twitter": "GainsNetwork_io",
+    "telegram": "GainsNetwork"
+}

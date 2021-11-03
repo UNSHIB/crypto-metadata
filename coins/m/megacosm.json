@@ -1,0 +1,23 @@
+{
+    "id": "megacosm",
+    "symbol": "megacosm",
+    "name": "Megacosm",
+    "platforms": {
+        "ethereum": "0x15fc9f4efdd40f0f8a62f2a2ee7bbc79679540e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x15fc9f4efdd40f0f8a62f2a2ee7bbc79679540e8",
+    "url": "https://megacosm.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x15fc9f4efdd40f0f8a62f2a2ee7bbc79679540e8",
+        "https://ethplorer.io/address/0x15fc9f4efdd40f0f8a62f2a2ee7bbc79679540e8"
+    ],
+    "twitter": "MegacosmToken",
+    "telegram": "megacosmofficial"
+}

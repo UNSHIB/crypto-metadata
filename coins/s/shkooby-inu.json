@@ -1,0 +1,24 @@
+{
+    "id": "shkooby-inu",
+    "symbol": "shkooby",
+    "name": "SHKOOBY INU",
+    "platforms": {
+        "ethereum": "0x29a5c1db7321c5c9eae57f9366ee8eef00ca11fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHKOOBY INU ($SHKOOBY) is a decentralized & community-driven meme token on the Ethereum Blockchain. The Shkooby Metaverse (Shkooby-verse) will feature a Swap, Games, NFTs, and an NFT Marketplace.\r\n\r\n$SHKOOBY will aim to bring utility across the entire meme-coin universe. We begin with releasing products relevant to our native token, $SHKOOBY, but will immediately proceed with releasing SHKOOBY SWAP, a dedicated farm for dog coings, with the most Shkoobielicious rewards.\r\n\r\nThe SHKOOBY-VERSE will serve as the core ecosystem of SHKOOBY INU. The Metaverse will be for people of all ages and cultures worldwide and will be the future of memes. $SHKOOBY will be the currency of the Metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x29a5c1db7321c5c9eae57f9366ee8eef00ca11fb",
+    "url": "https://shkoobyinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x29A5c1Db7321C5c9EaE57F9366eE8eef00cA11fb",
+        "https://ethplorer.io/address/0x29a5c1db7321c5c9eae57f9366ee8eef00ca11fb"
+    ],
+    "twitter": "shkoobyinu",
+    "telegram": "shkoobyinu",
+    "reddit": "SHKOOBY_INU"
+}

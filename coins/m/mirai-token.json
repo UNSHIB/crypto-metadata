@@ -1,0 +1,22 @@
+{
+    "id": "mirai-token",
+    "symbol": "mirai",
+    "name": "Mirai Token",
+    "platforms": {
+        "binance-smart-chain": "0xe74c273ab62169656df1dd146f40e26baef5b057"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Expedite the creation of a sustainable world 3.0 & incubate the next green projects | Green DeFi+GameFi+NFTs+eCommerce"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe74c273ab62169656df1dd146f40e26baef5b057",
+    "url": "https://www.mirailabs.it/",
+    "explorers": [
+        "https://bscscan.com/token/0xe74c273ab62169656df1dd146f40e26baef5b057"
+    ],
+    "twitter": "mirailabsexp",
+    "reddit": "mirailabs/"
+}

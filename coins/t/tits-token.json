@@ -1,0 +1,23 @@
+{
+    "id": "tits-token",
+    "symbol": "tits",
+    "name": "TITS Token",
+    "platforms": {
+        "ethereum": "0x5831be7c2429e886013124fd119dcda7ec4c750e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TITS is project is creating a blockchain education platform focused to meme coin traders. Memes with education to protect everyone involved in this big market. \r\n\r\nAlong with that, a staking platform is coming which will reward user in exclusive NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5831be7c2429e886013124fd119dcda7ec4c750e",
+    "url": "https://www.titstoken.net",
+    "explorers": [
+        "https://etherscan.io/token/0x5831be7c2429e886013124fd119dcda7ec4c750e",
+        "https://ethplorer.io/address/0x5831be7c2429e886013124fd119dcda7ec4c750e"
+    ],
+    "twitter": "Titstokeneth",
+    "telegram": "https://t.me/tits_token"
+}

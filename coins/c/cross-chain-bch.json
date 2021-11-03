@@ -1,0 +1,24 @@
+{
+    "id": "cross-chain-bch",
+    "symbol": "ccbch",
+    "name": "Cross-Chain BCH",
+    "platforms": {
+        "ethereum": "0xdb792b1d8869a7cfc34916d6c845ff05a7c9b789"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cross-Chain Tokens(ccTokens) are the pegged tokens backed 1:1 with blockchain assets like BTC. It enables the seamless integration of various crypto assets into the DeFi ecosystem. All ccTokens are fully backed and safeguarded by qualified third-party custodians or validators. Meanwhile, a multi-signature mechanism is adopted for its crucial aspects: mining, burning and allowing on-the-chain verification. Therefore, it provides cross-chain asset services that are both transparent and reliable. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb792b1d8869a7cfc34916d6c845ff05a7c9b789",
+    "url": "https://www.crosschain.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xdb792b1d8869a7cfc34916d6c845ff05a7c9b789",
+        "https://ethplorer.io/address/0xdb792b1d8869a7cfc34916d6c845ff05a7c9b789"
+    ],
+    "twitter": "CrosschainToken",
+    "telegram": "CrosschainToken",
+    "github_org": "ccTokens"
+}

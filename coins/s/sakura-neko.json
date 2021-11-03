@@ -1,0 +1,22 @@
+{
+    "id": "sakura-neko",
+    "symbol": "neko",
+    "name": "Sakura Neko",
+    "platforms": {
+        "binance-smart-chain": "0x2c5f1769b819b5e70aa7106c989d38ad71ba2546"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2c5f1769b819b5e70aa7106c989d38ad71ba2546",
+    "url": "https://www.sakuraneko.io",
+    "explorers": [
+        "https://bscscan.com/token/0x2c5f1769b819b5e70aa7106c989d38ad71ba2546"
+    ],
+    "twitter": "sakuranekotoken",
+    "telegram": "SakuraNekoBSC"
+}

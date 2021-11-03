@@ -1,0 +1,23 @@
+{
+    "id": "yandere-shiba",
+    "symbol": "yansh",
+    "name": "Yandere Shiba",
+    "platforms": {
+        "ethereum": "0xd19f9858de386c938d1b832a5b87f80a178fe28d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd19f9858de386c938d1b832a5b87f80a178fe28d",
+    "url": "https://yandereshib.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd19f9858de386c938d1b832a5b87f80a178fe28d",
+        "https://ethplorer.io/address/0xd19f9858de386c938d1b832a5b87f80a178fe28d"
+    ],
+    "twitter": "yandereshib",
+    "telegram": "yandereshib"
+}

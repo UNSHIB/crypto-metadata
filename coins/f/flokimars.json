@@ -1,0 +1,22 @@
+{
+    "id": "flokimars",
+    "symbol": "flom",
+    "name": "Flokimars",
+    "platforms": {
+        "binance-smart-chain": "0xcc2bf0f46c561afdce6c23710d0d7f38b007443f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Floki Mars is a Deflationary Token That Charges Tx Fees On Everything But Buys. The Fees Charged On All Non-Buy Transactions Help Reward And Protect All HOLDRs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc2bf0f46c561afdce6c23710d0d7f38b007443f",
+    "url": "https://flokimars.space/",
+    "explorers": [
+        "https://bscscan.com/token/0xcc2bf0f46c561afdce6c23710d0d7f38b007443f"
+    ],
+    "twitter": "flokimars_space",
+    "telegram": "Flokimars_official"
+}

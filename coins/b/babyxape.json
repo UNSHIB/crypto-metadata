@@ -1,0 +1,22 @@
+{
+    "id": "babyxape",
+    "symbol": "babyx",
+    "name": "BabyXape",
+    "platforms": {
+        "binance-smart-chain": "0x234003ffa399e8bc53236ac777f4c781b10d1344"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x234003ffa399e8bc53236ac777f4c781b10d1344",
+    "url": "https://babyxape.com",
+    "explorers": [
+        "https://bscscan.com/token/0x234003ffa399e8bc53236ac777f4c781b10d1344"
+    ],
+    "twitter": "BabyXape",
+    "telegram": "babyxape"
+}

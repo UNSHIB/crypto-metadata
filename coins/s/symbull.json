@@ -1,0 +1,22 @@
+{
+    "id": "symbull",
+    "symbol": "symbull",
+    "name": "SymBULL",
+    "platforms": {
+        "binance-smart-chain": "0xa176fa55bef56d18ab671251957acb0db630539b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Decentralized Token that created a Crypto EcoVERSE!\r\n\r\nSymBULL, RIDE, CHARGE \u2014 BullSwap \u2014 Innovative Reward System \u2014 BullRUN NFT Game \u2014 The SymBULL EcoVerse!\r\n\r\nSymBULL is a deflationary token designed to become more scarce over time. All holders of SymBULL will earn 8% reward from every Buy/Sell Transaction in Binance pegged BUSD, which is automatically sent to your wallet by simply holding SymBULL.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa176fa55bef56d18ab671251957acb0db630539b",
+    "url": "https://symbull.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xA176fa55bef56D18ab671251957aCB0Db630539b"
+    ],
+    "twitter": "SymBULLCoin",
+    "telegram": "symbull"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "gaming-doge",
+    "symbol": "gamingdoge",
+    "name": "Gaming Doge",
+    "platforms": {
+        "binance-smart-chain": "0x536627083e216c3cf4476ec504eb51bbd47ca4ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x536627083e216c3cf4476ec504eb51bbd47ca4ac",
+    "url": "https://gamingdoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x536627083e216c3cf4476ec504eb51bbd47ca4ac"
+    ],
+    "twitter": "GamingDogeToken",
+    "telegram": "gamingdogetoken",
+    "reddit": "GamingDogeOfficial/"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "egyptian-mau",
+    "symbol": "mau",
+    "name": "Egyptian Mau",
+    "platforms": {
+        "binance-smart-chain": "0xfab98b45593e94c2513ba028c43187fd6e3453ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The EgxMau Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfab98b45593e94c2513ba028c43187fd6e3453ed",
+    "url": "https://www.egxmau.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xfab98b45593e94c2513ba028c43187fd6e3453ed"
+    ],
+    "twitter": "EgxMau"
+}

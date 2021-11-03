@@ -1,0 +1,23 @@
+{
+    "id": "ryoshimoto",
+    "symbol": "ryoshimoto",
+    "name": "Ryoshimoto",
+    "platforms": {
+        "ethereum": "0xbe054615b779c7ca6249e4186252a95e4f6c52f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our story began with a mission, inspired by the vision of the great Ryoshi, (Founder of the Shiba universe): to disrupt traditional finance by developing an entirely decentralised project, run by the people, for the people. We are RyoshiMoto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe054615b779c7ca6249e4186252a95e4f6c52f4",
+    "url": "https://www.ryoshimoto.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xbe054615b779c7ca6249e4186252a95e4f6c52f4",
+        "https://ethplorer.io/address/0xbe054615b779c7ca6249e4186252a95e4f6c52f4"
+    ],
+    "twitter": "Ryoshimoto_",
+    "telegram": "ryoshimoto_token"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "arabtycoon",
+    "symbol": "at",
+    "name": "ArabTycoon",
+    "platforms": {
+        "binance-smart-chain": "0xfdb8b7fc07a36b4d908d4c317118761667236a37"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Have you ever dreamed of building a huge modern Arab city? Play \"desert Sultan\" and become a rich Arab businessman by building your dream city in the desert."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdb8b7fc07a36b4d908d4c317118761667236a37",
+    "url": "http://arab-tycoon.top/",
+    "explorers": [
+        "https://bscscan.com/token/0xfdb8B7fc07a36B4d908d4c317118761667236a37"
+    ],
+    "twitter": "Arab_Tycoon",
+    "telegram": "ArabTycoon"
+}

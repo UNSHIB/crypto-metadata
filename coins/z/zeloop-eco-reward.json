@@ -1,0 +1,23 @@
+{
+    "id": "zeloop-eco-reward",
+    "symbol": "erw",
+    "name": "ZeLoop Eco Reward",
+    "platforms": {
+        "binance-smart-chain": "0x77e5cce02139814e7eff377244cac8b802cddab8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZeLoop mobile Application motivates and guides consumers on waste collection, fighting plastic littering and rewards them using a crypto currency the Eco Reward ERW and prizes, building a community of everyday heroes sharing tips, achievement and experience. \r\n\r\nZeLoop is also a platform than can host other eco-friendly applications for an ecosystem giving value to pro-environmental behaviors, providing continuity to all stakeholders \r\napplying sustainable practices towards a circular economy"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77e5cce02139814e7eff377244cac8b802cddab8",
+    "url": "https://zeloop.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x77e5cce02139814e7eff377244cac8b802cddab8"
+    ],
+    "twitter": "zeloop_",
+    "telegram": "ZeloopOfficial",
+    "reddit": "Zeloop/"
+}

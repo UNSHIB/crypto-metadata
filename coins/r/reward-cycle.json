@@ -1,0 +1,22 @@
+{
+    "id": "reward-cycle",
+    "symbol": "rc",
+    "name": "Reward Cycle",
+    "platforms": {
+        "binance-smart-chain": "0x229a54fb9de889c271380452c0483ce89b8c1e0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x229a54fb9de889c271380452c0483ce89b8c1e0d",
+    "url": "https://rewardcycle.club/",
+    "explorers": [
+        "https://bscscan.com/token/0x229a54fb9de889c271380452c0483ce89b8c1e0d"
+    ],
+    "twitter": "rewardcycle",
+    "telegram": "rewardcycle"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "ardana",
+    "symbol": "dana",
+    "name": "Ardana",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ardana is an asset backed stablecoin protocol and decentralized exchange stable asset liquidity pool built on Cardano. The stablecoin is overcollateralized with on-chain Cardano native assets and the decentralized exchange allows for highly capital efficient trading between stablecoins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://ardana.org/",
+    "explorers": [],
+    "twitter": "ardanaproject",
+    "telegram": "ardanaofficial",
+    "reddit": "Ardana/"
+}

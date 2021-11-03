@@ -1,0 +1,22 @@
+{
+    "id": "titsv2",
+    "symbol": "tits",
+    "name": "TitsV2",
+    "platforms": {
+        "binance-smart-chain": "0xa753d241ffce10a3570eda72f6561c04b1f9ae77"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TitsV2 (TITS) is the governance token for a decentralized platform dedicated to crypto lovers around the world who encourage breast cancer awareness and the enhancement or correction done by breast augmentation.\r\n\r\nTitsV2 is the native utility token that is used for voting within the TITS ecosystem and receiving passive distributions from transactions\r\n\r\nTitsV2 launched on Pancakeswap V2 on May 25th with a total supply of 1 quadrillion tokens. This was a revamp of the Titscoin token. 50% of the tokens were burned and the remaining were distributed between the marketing fund, Titscoin community and the public launch."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa753d241ffce10a3570eda72f6561c04b1f9ae77",
+    "url": "https://titscoin.io",
+    "explorers": [
+        "https://bscscan.com/token/0xa753d241ffce10a3570eda72f6561c04b1f9ae77"
+    ],
+    "twitter": "titsfortits2",
+    "telegram": "TitsToTheMoon"
+}

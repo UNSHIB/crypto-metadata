@@ -1,0 +1,25 @@
+{
+    "id": "pappay",
+    "symbol": "pappay",
+    "name": "Pappay",
+    "platforms": {
+        "binance-smart-chain": "0x8c88699ef5ada1e5bedff7a4590aa346abd3536d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x8c88699ef5ada1e5bedff7a4590aa346abd3536d",
+    "url": "https://www.pappay.net",
+    "explorers": [
+        "https://bscscan.com/token/0x8c88699ef5ada1e5bedff7a4590aa346abd3536d"
+    ],
+    "twitter": "PappayOfficial",
+    "facebook": "pappmobile",
+    "telegram": "pappayofficial",
+    "reddit": "Papptoken/",
+    "github_org": "canerelmas"
+}

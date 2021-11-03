@@ -1,0 +1,22 @@
+{
+    "id": "liquid-collectibles",
+    "symbol": "lico",
+    "name": "Liquid Collectibles",
+    "platforms": {
+        "binance-smart-chain": "0x4f3266a56589357b4f8082918b14b923693e57f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Liquid NFTs are NFT collections tokenized as fungible tokens (like BEP-20 tokens) enabling them to be instantly traded on decentralized exchanges such as ApeSwap, and making it possible to benefit from DeFi features such as yielding and staking."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f3266a56589357b4f8082918b14b923693e57f0",
+    "url": "https://liquidcollectibles.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x4F3266a56589357B4f8082918b14B923693e57f0"
+    ],
+    "twitter": "LiqCollectibles",
+    "telegram": "LiquidCollectibles"
+}

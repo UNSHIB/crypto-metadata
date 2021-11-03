@@ -1,0 +1,25 @@
+{
+    "id": "master-usd",
+    "symbol": "musd",
+    "name": "MASTER USD",
+    "platforms": {
+        "ethereum": "0xa52383b665b91dce42dd4b6d1e0fb37d3effe489"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "MUSD is decentralized peer-to-peer, based on Ethereum blockchain.\r\nShop and pay your services and products using MUSD.\r\nAnyone who owns MUSD will find a variety of fields to use them, not only trading and exchanges but also it can be use to shop and pay your services and products."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa52383b665b91dce42dd4b6d1e0fb37d3effe489",
+    "url": "https://master-usd.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xa52383b665b91dce42dd4b6d1e0fb37d3effe489",
+        "https://ethplorer.io/address/0xa52383b665b91dce42dd4b6d1e0fb37d3effe489"
+    ],
+    "twitter": "masterusdorg",
+    "telegram": "masterusd"
+}

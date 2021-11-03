@@ -1,0 +1,22 @@
+{
+    "id": "afrostar",
+    "symbol": "afro",
+    "name": "Afrostar",
+    "platforms": {
+        "binance-smart-chain": "0x2f4e9c97aaffd67d98a640062d90e355b4a1c539"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f4e9c97aaffd67d98a640062d90e355b4a1c539",
+    "url": "https://www.afrostar.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2f4e9c97aaffd67d98a640062d90e355b4a1c539"
+    ],
+    "twitter": "afrostarcrypto",
+    "telegram": "afrostarcommunity"
+}

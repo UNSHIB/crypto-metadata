@@ -1,0 +1,23 @@
+{
+    "id": "daddybezos",
+    "symbol": "djbz",
+    "name": "DaddyBezos",
+    "platforms": {
+        "ethereum": "0xbf825207c74b6c3c01ab807c4f4a4fce26ebdf0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DaddyBezos is a DeFi project, built on the ERC-20 blockchain. It is based around Jeff Bezos, one of the richest men alive; a man who needs no introduction. \r\n\r\nWe launched DaddyBezos in October 2021, with the sole purpose to create a token that gives back to the community, with rewards for holding. We realise the importance of a great community, and that is why we are giving out free giveaways, to members. \r\n\r\nSo far the organic growth within the project has been amazing, which is thanks to the great team and great community behind it. The team are working in shifts, 24/7, to take this token to the next level, while the friendly community are simultaneously putting out videos, tweets and Instagram posts.\r\n\r\nThe speed at which this project is growing is more than anyone could have ever hoped, and we are just getting started. \r\n\r\nOne Important feature of DaddyBezos that sets us aside from all the other meme tokens is it\u2019s utility, we aim to create a DaddyBezos P2E game. A place were you can interact with other holders and trade NFTS."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf825207c74b6c3c01ab807c4f4a4fce26ebdf0f",
+    "url": "https://daddybezos.com",
+    "explorers": [
+        "https://etherscan.io/token/0xbf825207c74b6c3c01ab807c4f4a4fce26ebdf0f",
+        "https://ethplorer.io/address/0xbf825207c74b6c3c01ab807c4f4a4fce26ebdf0f"
+    ],
+    "twitter": "daddybezos",
+    "telegram": "DaddyBezos"
+}

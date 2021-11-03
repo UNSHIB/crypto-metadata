@@ -1,0 +1,22 @@
+{
+    "id": "ultrachad",
+    "symbol": "uchad",
+    "name": "UltraChad",
+    "platforms": {
+        "binance-smart-chain": "0x17e7668dbcaae71b8965cd44785d070bd4e129cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17e7668dbcaae71b8965cd44785d070bd4e129cf",
+    "url": "https://www.ultrachad.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x17e7668dbcaae71b8965cd44785d070bd4e129cf"
+    ],
+    "twitter": "ultraCHADev",
+    "telegram": "UltraChadBSC"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "stemx",
+    "symbol": "stemx",
+    "name": "STEMX",
+    "platforms": {
+        "binance-smart-chain": "0x26734add0650719ea29087fe5cc0aab81b4f237d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sport token exchange market"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26734add0650719ea29087fe5cc0aab81b4f237d",
+    "url": "https://promo.stem-ru.com/en",
+    "explorers": [
+        "https://bscscan.com/token/0x26734add0650719ea29087fe5cc0aab81b4f237d"
+    ],
+    "twitter": "STEMRUCOM",
+    "telegram": "stemxme"
+}

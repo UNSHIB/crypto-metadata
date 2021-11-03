@@ -1,0 +1,23 @@
+{
+    "id": "granny-shiba",
+    "symbol": "gshiba",
+    "name": "Granny Shiba",
+    "platforms": {
+        "ethereum": "0x956cdc7effb7767dc366c2243fc1c21221bc7814"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "yielFarming , Staking, LaunchPad platform.\r\nTiered launch\r\nHolders of the native GSHIBA token get access to LAUNCHPAD pools and the opportunity to get into new projects fairly without bots or whales eating the allocation.\r\nStaking other Tokens to got more GSHIBA"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x956cdc7effb7767dc366c2243fc1c21221bc7814",
+    "url": "https://grannyshiba.in/",
+    "explorers": [
+        "https://etherscan.io/token/0x956cdc7effb7767dc366c2243fc1c21221bc7814",
+        "https://ethplorer.io/address/0x956cdc7effb7767dc366c2243fc1c21221bc7814"
+    ],
+    "twitter": "GrannyShiba",
+    "telegram": "GrannyShiba"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "metashib-token",
+    "symbol": "metashib",
+    "name": "MetaShib Token",
+    "platforms": {
+        "ethereum": "0x181c94a45ed257baf2211d4ff7e1f49a5964134a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x181c94a45ed257baf2211d4ff7e1f49a5964134a",
+    "url": "https://www.metashib.space/",
+    "explorers": [
+        "https://etherscan.io/token/0x181c94a45ed257baf2211d4ff7e1f49a5964134a",
+        "https://ethplorer.io/address/0x181c94a45ed257baf2211d4ff7e1f49a5964134a"
+    ],
+    "twitter": "MetaShibETH",
+    "telegram": "metashibtoken"
+}

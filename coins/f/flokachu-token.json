@@ -1,0 +1,22 @@
+{
+    "id": "flokachu-token",
+    "symbol": "flokachu",
+    "name": "Flokachu Token",
+    "platforms": {
+        "binance-smart-chain": "0x8167b85a10ce3bf274c464362ae9b2d411dba447"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8167b85a10ce3bf274c464362ae9b2d411dba447",
+    "url": "https://flokachu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8167B85a10cE3bF274C464362ae9b2D411dBa447"
+    ],
+    "twitter": "TheRealFlokachu",
+    "telegram": "FLOKACHU"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "zoo-labs",
+    "symbol": "zoo",
+    "name": "Zoo Labs",
+    "platforms": {
+        "binance-smart-chain": "0x09e2b83fe5485a7c8beaa5dffd1d324a2b2d5c13"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zoo is an autonomous ecosystem where users can collect, breed, and trade exotic animal hybrids on the blockchain. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x09e2b83fe5485a7c8beaa5dffd1d324a2b2d5c13",
+    "url": "https://zoolabs.io",
+    "explorers": [
+        "https://bscscan.com/token/0x09e2b83fe5485a7c8beaa5dffd1d324a2b2d5c13"
+    ],
+    "twitter": "zoo_labs",
+    "telegram": "RealZoolabs",
+    "reddit": "zoolabs/",
+    "github_org": "zoo-labs"
+}

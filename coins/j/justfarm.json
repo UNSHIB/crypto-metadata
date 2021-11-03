@@ -1,0 +1,22 @@
+{
+    "id": "justfarm",
+    "symbol": "jfm",
+    "name": "JustFarm",
+    "platforms": {
+        "binance-smart-chain": "0x221d20fe8996b49590513e5b5b8f9d8b0024dc40"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield farming with autocompounding platform on Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x221d20fe8996b49590513e5b5b8f9d8b0024dc40",
+    "url": "https://justfarm.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x221d20fe8996b49590513e5b5b8f9d8b0024dc40"
+    ],
+    "twitter": "justfarm_",
+    "telegram": "justfarm"
+}

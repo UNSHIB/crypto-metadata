@@ -1,0 +1,23 @@
+{
+    "id": "rivrshiba",
+    "symbol": "rivrshib",
+    "name": "RivrShiba",
+    "platforms": {
+        "moonriver": "0x3d593056f3e34db7a4720d7f171447c489cfa195"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RivrShiba is a meme token inspired by SHIBA INU. It is the first and only Shiba fork on Moonriver Network.\r\n\r\nThere is no specific purpose of this token and probably will never have one."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d593056f3e34db7a4720d7f171447c489cfa195",
+    "url": "https://rivrshiba.com",
+    "explorers": [
+        "https://blockscout.moonriver.moonbeam.network/tokens/0x3d593056F3e34dB7A4720d7F171447C489CFa195/token-transfers"
+    ],
+    "twitter": "rivrshiba",
+    "telegram": "rivrshiba",
+    "github_org": "rivrshiba"
+}

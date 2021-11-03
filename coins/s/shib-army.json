@@ -1,0 +1,22 @@
+{
+    "id": "shib-army",
+    "symbol": "shibarmy",
+    "name": "Shib Army",
+    "platforms": {
+        "binance-smart-chain": "0x940230b6b7ef1979a28f32196a8e3439c645ba49"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$SHIBARMY is audited and vetted token on BSC that pays holders 8% rewards in $SHIB as dividends for holding. SHIBARMY is here to follow SHIBA INU\u2019s footsteps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x940230b6b7ef1979a28f32196a8e3439c645ba49",
+    "url": "https://shibarmybsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x940230b6b7ef1979a28f32196a8e3439c645ba49"
+    ],
+    "twitter": "shibarmybsc",
+    "telegram": "ShibarmyToken"
+}

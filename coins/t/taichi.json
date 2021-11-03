@@ -1,0 +1,24 @@
+{
+    "id": "taichi",
+    "symbol": "tac",
+    "name": "TaiChi",
+    "platforms": {
+        "binance-smart-chain": "0xe49bfc53a195a62d78a941a1967d7b0f83a47c14"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "TaiChi is the first decentralized reserve currency protocol based on TAC token on Binance Smart Chain. Each TAC token has a basket of assets (such as BUSD, TAC-BNB LP tokens, etc.) supported in TaiChi's balance library, giving Tac an inherent value that will not be lower. TaiChi also introduces economic and game theory dynamics to the market through pledges and bonds.\r\nOur goal is to build a currency system fully controlled by the protocol on the BSC network. In the long run, we believe that this system can be used to optimize stability and consistency, so that TAC can function as a global accounting unit and medium of exchange. In the short term, we intend to optimize the TaiChi system for growth and wealth creation. We intend to achieve a price balance of a representative basket of commodities without using legal tender, so that the cryptocurrency industry will be separated from the traditional financial world forever! (This is also the original vision of its own cryptocurrency)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe49bfc53a195a62d78a941a1967d7b0f83a47c14",
+    "url": "https://app.taichidao.io/#/stake",
+    "explorers": [
+        "https://bscscan.com/token/0xe49bfc53a195a62d78a941a1967d7b0f83a47c14"
+    ],
+    "twitter": "TaiChi_Dao_",
+    "telegram": "TaiChiDaoCommunity"
+}

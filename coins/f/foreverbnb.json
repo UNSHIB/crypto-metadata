@@ -1,0 +1,23 @@
+{
+    "id": "foreverbnb",
+    "symbol": "fbnb",
+    "name": "ForeverBNB",
+    "platforms": {
+        "binance-smart-chain": "0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Introducing ForeverBNB\r\nThe first token on the BSC smartchain to combine the rebase rewards with rewards in $BUSD .\r\n\r\nHold $ForeverBNB and receive $BUSD directly to your BEP-20 wallet as a reward for holding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4",
+    "url": "https://foreverbnb.online",
+    "explorers": [
+        "https://bscscan.com/token/0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4"
+    ],
+    "twitter": "ForeverBNBBSC",
+    "telegram": "TheForeverBNB",
+    "reddit": "ForeverBNB/"
+}

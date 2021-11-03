@@ -1,0 +1,22 @@
+{
+    "id": "spookyshiba",
+    "symbol": "spookyshiba",
+    "name": "SpookyShiba",
+    "platforms": {
+        "binance-smart-chain": "0xed74bc5dc139356e08de28143996f5ef6e4334a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed74bc5dc139356e08de28143996f5ef6e4334a4",
+    "url": "https://spookyshibabsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xed74bc5dc139356e08de28143996f5ef6e4334a4"
+    ],
+    "twitter": "shibaSpooky",
+    "telegram": "spookyshibaofficial"
+}

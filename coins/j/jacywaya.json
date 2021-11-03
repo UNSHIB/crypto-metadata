@@ -1,0 +1,23 @@
+{
+    "id": "jacywaya",
+    "symbol": "jacy",
+    "name": "JACYWAYA",
+    "platforms": {
+        "ethereum": "0x08f2991a6eff2671cf791b82aeae64fbbfdd0633"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x08f2991a6eff2671cf791b82aeae64fbbfdd0633",
+    "url": "https://jacytoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x08f2991a6eff2671cf791b82aeae64fbbfdd0633",
+        "https://ethplorer.io/address/0x08f2991a6eff2671cf791b82aeae64fbbfdd0633"
+    ],
+    "twitter": "JacyWaya",
+    "telegram": "JACYWAYA"
+}

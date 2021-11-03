@@ -1,0 +1,23 @@
+{
+    "id": "avaterra",
+    "symbol": "terra",
+    "name": "Avaterra",
+    "platforms": {
+        "avalanche": "0x9f87c6c30f4b23c7b51aa7465a9e0a836514700d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AVATERRA Finance is the next generation of decentralised finance (DeFi) and yield farm application on Avalanche blockchain.  Built upon proven features and logic that have been battle tested on Avalanche, our initial strategy for securing yield is to use these proven features to generate solid yield and passive income for token holders.\r\nA community-owned yield farm and blockchain platform. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f87c6c30f4b23c7b51aa7465a9e0a836514700d",
+    "url": "https://app.avaterra.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D/token-transfers"
+    ],
+    "twitter": "avaterrafinance",
+    "telegram": "avaterra",
+    "github_org": "AVATerra"
+}

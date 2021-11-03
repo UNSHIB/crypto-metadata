@@ -1,0 +1,22 @@
+{
+    "id": "pool-token",
+    "symbol": "pool",
+    "name": "Pool Token",
+    "platforms": {
+        "binance-smart-chain": "0x30f11795b21b5efc1a2ded78d04574d0e36442bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "POOL TOKEN is the governance token of Pool Party Finance, allowing users to vote in future business decisions. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x30f11795b21b5efc1a2ded78d04574d0e36442bd",
+    "url": "https://poolpartyfinance.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x30F11795B21b5EFC1A2DeD78d04574d0e36442BD#code"
+    ],
+    "twitter": "poolpartyfinan1",
+    "telegram": "poolpartyfinance"
+}

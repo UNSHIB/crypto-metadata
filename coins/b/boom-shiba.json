@@ -1,0 +1,23 @@
+{
+    "id": "boom-shiba",
+    "symbol": "boomshiba",
+    "name": "Boom Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x14af0e9d51d9fe25c1675cc580409b640286167f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Boom Shiba is cute but with a lot of BITE! $BOOMSHIBA is a deflationary coin.\r\nAll holders of Boom Shiba will earn BUSD that is automatically sent to your wallet by simply by holding Boom Shiba\u2019s in your wallet.\r\n\r\nWatch the value of your wallet grow as all holders automatically receive a 7% fee from every transaction that happens on the Boom Shiba network.\r\nThe community receives more BUSD from the fees generated each transaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x14af0e9d51d9fe25c1675cc580409b640286167f",
+    "url": "https://boomshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x14af0e9d51d9fe25c1675cc580409b640286167f"
+    ],
+    "twitter": "boomshiba",
+    "telegram": "boomshiba",
+    "reddit": "boomshiba"
+}

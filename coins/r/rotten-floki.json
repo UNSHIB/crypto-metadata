@@ -1,0 +1,23 @@
+{
+    "id": "rotten-floki",
+    "symbol": "rotten",
+    "name": "Rotten Floki",
+    "platforms": {
+        "binance-smart-chain": "0x7f976fce4ff9f5fa3ed76609c5cb4d406399e32d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Rotten Floki is a virtual environment where users may create, control, and monetize game experiences with non-fungible tokens (NFTs) and the platform's utility token \u2013 Rotten.\r\n\r\nIn-game items are stored as NFTs on the Solana blockchain. The Rotten token uses the BEP-20 standard, but will support ERC-20 once cross-chain is deployed. The platform runs on a standard backend operating on AWS with logs being stored on Elasticsearch. Each in-game asset is hashed and deployed on the blockchain using a smart contract to ensure full ownership.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f976fce4ff9f5fa3ed76609c5cb4d406399e32d",
+    "url": "https://www.rottenfloki.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7f976fce4ff9f5fa3ed76609c5cb4d406399e32d"
+    ],
+    "twitter": "TheRottenFloki",
+    "telegram": "RottenFloki",
+    "github_org": "RottenFloki"
+}

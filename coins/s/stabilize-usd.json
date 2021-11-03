@@ -1,0 +1,23 @@
+{
+    "id": "stabilize-usd",
+    "symbol": "susd",
+    "name": "Stabilize USD",
+    "platforms": {
+        "avalanche": "0xaafd2577fb67366d3c89db0d627c49d769ee2e5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stabilize is a decentralized borrowing protocol2.0 that allows you to draw interest-free loans against basic asset & ibTKNs used as collaterals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaafd2577fb67366d3c89db0d627c49d769ee2e5d",
+    "url": "https://app.stabilize.fi",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/token-transfers"
+    ],
+    "twitter": "stabilize_fi",
+    "telegram": "StabilizeFi",
+    "github_org": "Stabilizefi"
+}
