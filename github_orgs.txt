@@ -297,6 +297,7 @@ auxiliumglobal
 ava-labs
 avalaunch-app
 Y3tiq
+AVATerra
 AventusProtocolFoundation
 avme
 AwareFoundation
@@ -997,6 +998,7 @@ CORE-Blockchain
 corgidoge-official
 CORIONplatform
 banteg
+CorsacToken
 CortexFoundation
 cosmicmusic
 cosmicswap
@@ -1036,6 +1038,7 @@ crevacoin
 cribnb
 zebidata
 CroatApps
+ccTokens
 crossfidao
 Crossing-the-Yellow-Blocks
 crowfinance
@@ -1872,6 +1875,7 @@ gondola-finance
 goodgamesguild
 Gooreo
 goosedefi
+GooseFX1
 GorillaDiamond
 gourmetgalaxy
 Zilliqa
@@ -2946,6 +2950,7 @@ notsafemoon
 novacoin-project
 novadefi
 novaxdeveloper
+Nowl-Age
 npccoin
 npcoincoreteam
 nrgydefi
@@ -3526,6 +3531,7 @@ riskmoonbsc
 risqprotocol
 RitoProject
 RiveX-Foundation
+rivrshiba
 Rizencoin
 rmrk-team
 robinosfinance
@@ -3550,6 +3556,7 @@ keeperdao
 rootkitfinance
 rsksmart
 CryptoFutureGmbH
+RottenFloki
 rottenswap
 rougecoin-project
 roultoken
@@ -3856,6 +3863,7 @@ SolarisPlatform
 SolBerryDev
 SolbitManager
 monselice
+soldogefrens
 solendprotocol
 sol-farm
 SolidDefi
@@ -3899,6 +3907,7 @@ sparklecoin
 Sparkleloyalty
 sparkpointio
 sparkspay
+spartacus-finance
 spartan-protocol
 spartancoin-online
 spectre-ai
@@ -3930,6 +3939,7 @@ jajones10s
 srcoin-ico
 srnArtGallery
 stabilize-token
+Stabilizefi
 StableGaj
 stablexlabs
 Stacktical
@@ -4773,6 +4783,7 @@ ZOE-Cash
 Zombiesfarm
 St4yInTh3D4rk
 ZooEcosystem
+zoo-labs
 zooFarming
 zoomswap
 zoracles
