@@ -582,6 +582,7 @@ BitRewardsCoin
 BitScreenerTech
 bitshares
 bitsharkcoin
+Bitcoinsolana
 bitsongofficial
 Bitstake
 bitstashco
@@ -1363,6 +1364,7 @@ dotoracle
 DoughToken
 dovuofficial
 dowtoken
+Nikethedike1
 Dracula-Protocol
 sam-thewise
 vic203020
@@ -1636,6 +1638,7 @@ FandomGold
 fanspel-official
 FantasyGold
 Fantom-foundation
+fantomstarter
 plaasio
 ammar4243
 FarmersOnlyFi
@@ -1696,6 +1699,7 @@ flokimusk-dev
 FlokiShibaTeam
 FlokiFrunkPuppyfinance
 Flokinomics
+GreenFailure
 florinxfl
 meteor83
 onflow
@@ -2136,6 +2140,7 @@ Infinium-dev
 inflationcoin
 Inflex-Finance
 Coryvmcs1
+infomatixDev
 projectinft
 InkProtocol
 inklabsfoundation
@@ -2193,6 +2198,7 @@ Hermes-defi
 IronFinance
 ironfinance
 IsikC-code
+IslandDogesToken
 IStardust-io
 italocoin-project
 sppl
@@ -2998,6 +3004,7 @@ ogcnode
 theohmproject
 oikos-cash
 oilernetwork
+OjeToken
 OKBOOMERTOKEN
 okcashpro
 Okschain
