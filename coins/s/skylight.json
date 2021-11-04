@@ -1,0 +1,22 @@
+{
+    "id": "skylight",
+    "symbol": "sltn",
+    "name": "Skylight",
+    "platforms": {
+        "binance-smart-chain": "0x069d4401ac10e171f0d276a93b16dcd38ca6ba55"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Skylightexchange is a Decentralized automated Market-making (AMM) Protocol that is based on Binance smart chain (BSC). The Skiylight Token is a native Bep-20 governance Token on the Skylightexchange platform.\r\n\r\nUsers have the ability to earn Skylight Tokens by providing liquidity on skylightexchange and hodlers can use their Skylight Token for Buy-back contrcat call and receive transaction fee Dividends.\r\n\r\nthe rewards are offered in Skylight. Skylight holders can purchase goods and services at Skylight E-commerce site with more discount and stand a chance to win monthly customers rewards"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x069d4401ac10e171f0d276a93b16dcd38ca6ba55",
+    "url": "https://skylightexchange.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x069d4401ac10e171f0d276a93b16dcd38ca6ba55"
+    ],
+    "twitter": "Skylightex",
+    "telegram": "SkylightexchangeAnnouncement"
+}

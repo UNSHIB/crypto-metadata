@@ -1,0 +1,23 @@
+{
+    "id": "coin-of-nature",
+    "symbol": "con",
+    "name": "Coin of Nature",
+    "platforms": {
+        "binance-smart-chain": "0xe0e0fbc7e8d881953d39cf899409410b50b8c924"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Coin of Nature (CON) is a community-based project that was launched at the beginning of July 2021. Due to the type of the project Due to the type of this project, the timeline is based on the number of holders rather than dates. The detailed roadmap can be found on the official website.\r\n\r\nThe major aim of the project is not only to promote sports and a healthy lifestyle but also to develop a sustainable ecosystem based on innovative solutions. The project focuses on using the latest technologies and applying them in the Blockchain.\r\n\r\nDuring the first stage of the project, the CON token has been developed. The token is deflationary and based on BSC20 network. It is also worth noting that 5% of each completed transaction is distributed among all holders, while another 5% goes to the liquidity pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0e0fbc7e8d881953d39cf899409410b50b8c924",
+    "url": "https://coinofnature.io",
+    "explorers": [
+        "https://bscscan.com/token/0xe0e0fbc7e8d881953d39cf899409410b50b8c924"
+    ],
+    "twitter": "CoinOfNature",
+    "telegram": "coin_of_nature",
+    "reddit": "Coin_of_Nature"
+}

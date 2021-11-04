@@ -1,0 +1,22 @@
+{
+    "id": "future-real-estate-token",
+    "symbol": "fret",
+    "name": "Future Real Estate Token",
+    "platforms": {
+        "binance-smart-chain": "0x24b34286810a8c4accfaa71d5723de3724f6867b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The  Future Real Estate Token (FRET) is going to be a currency for tokenized properties, to buy and sell these illiquid assets anytime 24/7 for the first in the European Union.\r\n\r\n Already now, real estate companies whose name is going revealed time by time will use FRET as part of their commission payment to give the token value and growth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x24b34286810a8c4accfaa71d5723de3724f6867b",
+    "url": "https://www.futuretoken.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x24B34286810A8C4ACCFAa71d5723de3724F6867b"
+    ],
+    "twitter": "FutureREtoken",
+    "telegram": "futurerealestatetoken"
+}

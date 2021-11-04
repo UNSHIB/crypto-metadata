@@ -1,0 +1,23 @@
+{
+    "id": "stardust",
+    "symbol": "sd",
+    "name": "StarDust",
+    "platforms": {
+        "binance-smart-chain": "0x277819bf69667b48af57abc52dddcb92ab6a2c45"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StarDust is a new generation of farming & staking."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x277819bf69667b48af57abc52dddcb92ab6a2c45",
+    "url": "https://stardust-crypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x277819bf69667b48af57abc52dddcb92ab6a2c45"
+    ],
+    "twitter": "Stardust_DevJr",
+    "telegram": "SD_Official_StarDust",
+    "reddit": "Stardust_SD"
+}

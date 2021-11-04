@@ -1,0 +1,23 @@
+{
+    "id": "wolverine",
+    "symbol": "wlvr",
+    "name": "Wolverine",
+    "platforms": {
+        "binance-smart-chain": "0xbe6de6b614b079236839404440e3e8867b5d6751"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe6de6b614b079236839404440e3e8867b5d6751",
+    "url": "https://wolverineofficial.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbe6de6b614b079236839404440e3e8867b5d6751"
+    ],
+    "twitter": "WolverineBSC",
+    "telegram": "WolverineBSC",
+    "reddit": "WolverineOfficial/"
+}

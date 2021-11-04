@@ -1,0 +1,22 @@
+{
+    "id": "merkle-network",
+    "symbol": "merkle",
+    "name": "Merkle Network",
+    "platforms": {
+        "binance-smart-chain": "0x000000000ca5171087c18fb271ca844a2370fc0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Merkle Network is a Web3.0 interoperability protocol that enables cross-chain transfers of blockchain assets and data between blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x000000000ca5171087c18fb271ca844a2370fc0a",
+    "url": "https://merkle.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x000000000ca5171087c18fb271ca844a2370fc0a"
+    ],
+    "twitter": "merkleNetwork",
+    "telegram": "merkleNetwork"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "shibalite",
+    "symbol": "shiblite",
+    "name": "ShibaLite",
+    "platforms": {
+        "binance-smart-chain": "0x76ef2a25b1ea6eb5dc4d079ae82c767d55b0a99e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShibaLite is a comm  driven meme/charity coin - A Faster, cheaper version of Shiba Inu on BSC. 3% reflections, 1% burnt, 1% marketing 2% liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76ef2a25b1ea6eb5dc4d079ae82c767d55b0a99e",
+    "url": "https://www.shiblite.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x76Ef2A25B1EA6EB5dC4d079AE82c767D55b0A99E"
+    ],
+    "twitter": "ShibLite",
+    "reddit": "ShibaLiteSquad/"
+}

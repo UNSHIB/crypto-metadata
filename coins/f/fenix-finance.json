@@ -1,0 +1,23 @@
+{
+    "id": "fenix-finance",
+    "symbol": "fenix",
+    "name": "Fenix Finance",
+    "platforms": {
+        "binance-smart-chain": "0x8f8a854865c7b16f75f2b8f251475558045d29a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FenixFinance is AMM & Yield farming /Staking dapp on Binance Smart Chain & HecoChain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f8a854865c7b16f75f2b8f251475558045d29a3",
+    "url": "https://fenixfinance.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x8F8a854865c7B16F75f2b8f251475558045D29A3"
+    ],
+    "twitter": "fenixfinance",
+    "telegram": "fenixfinancechat",
+    "github_org": "fenixfinance"
+}

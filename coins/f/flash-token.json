@@ -1,0 +1,22 @@
+{
+    "id": "flash-token",
+    "symbol": "flash",
+    "name": "Flash Loans",
+    "platforms": {
+        "binance-smart-chain": "0x5f0366c9962193fa774cdce9602195593b49f23c",
+        "ethereum": "0x5f0366c9962193fa774cdce9602195593b49f23c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flash loans are a new uncollateralised loan product in DeFi.\r\n\r\nFlash loans empower traders and DeFi users by enabling instant borrowing with no collateral required provided that the liquidity is returned to the pool within one transaction block."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f0366c9962193fa774cdce9602195593b49f23c",
+    "url": "https://flashloans.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5f0366c9962193fa774cdce9602195593b49f23c"
+    ],
+    "twitter": "ComFlashloans"
+}

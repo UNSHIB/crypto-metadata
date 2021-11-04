@@ -1,0 +1,23 @@
+{
+    "id": "bit2me",
+    "symbol": "b2m",
+    "name": "Bit2Me",
+    "platforms": {
+        "ethereum": "0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Receive, store, send, buy, sell, and use cryptocurrencies (such as Bitcoin or Ethereum) and traditional money easily, quickly, and securely.\r\n\r\nBank 3.0? No, this is better! The Bit2Me freedom formula is: Cryptocurrencies + Traditional Money + Debit Mastercard Cryptocard + Shared IBAN + Payments between friends + Simple Exchanges."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f",
+    "url": "https://bit2me.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f",
+        "https://ethplorer.io/address/0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f"
+    ],
+    "twitter": "bit2me",
+    "github_org": "bit2me-devs"
+}

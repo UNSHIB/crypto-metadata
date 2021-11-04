@@ -1,0 +1,24 @@
+{
+    "id": "rune-shards",
+    "symbol": "rxs",
+    "name": "Rune Shards",
+    "platforms": {
+        "binance-smart-chain": "0x2098fef7eeae592038f4f3c4b008515fed0d5886"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rune is the future of gaming.\r\n\r\nWe're building modern game experiences, backed by open immutable hash technology. Aligning incentives between games and gamers in new revolutionary ways. Soon you won't know you're using blockchain, but you'll be glad you are."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2098fef7eeae592038f4f3c4b008515fed0d5886",
+    "url": "https://rune.game/",
+    "explorers": [
+        "https://bscscan.com/token/0x2098fef7eeae592038f4f3c4b008515fed0d5886"
+    ],
+    "twitter": "RuneMMO",
+    "telegram": "runemmo",
+    "reddit": "RuneMMO/",
+    "github_org": "RuneFarm"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "gami-world",
+    "symbol": "gami",
+    "name": "GAMI World",
+    "platforms": {
+        "binance-smart-chain": "0x1236a887ef31b4d32e1f0a2b5e4531f52cec7e75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1236a887ef31b4d32e1f0a2b5e4531f52cec7e75",
+    "url": "https://gamiworld.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1236a887ef31b4d32e1f0a2b5e4531f52cec7e75"
+    ],
+    "twitter": "gamiworld",
+    "telegram": "gamiworldcommunity"
+}

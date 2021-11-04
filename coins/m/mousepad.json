@@ -1,0 +1,23 @@
+{
+    "id": "mousepad",
+    "symbol": "mpad",
+    "name": "MousePad",
+    "platforms": {
+        "binance-smart-chain": "0x0504dcddef1ba1f18d44a0149d8b5524c9c5946d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MPad Exchange is the worlds first trading platform exclusively for BSC. The first platform on and for Binance Smart Chain, and we're looking to be the best.\r\n\r\nOur roadmap includes extensive marketing campaigns, MPad Exchange, Investing through Staking/Farming $Mpad & in soon enough developing our own blockchain and releasing a physical debit card for our users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0504dcddef1ba1f18d44a0149d8b5524c9c5946d",
+    "url": "https://mpadexchange.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0504dcddef1ba1f18d44a0149d8b5524c9c5946d"
+    ],
+    "twitter": "mpadexchange",
+    "telegram": "MPadOfficial",
+    "github_org": "mousepadofficial"
+}

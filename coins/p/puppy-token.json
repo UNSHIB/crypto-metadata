@@ -1,0 +1,23 @@
+{
+    "id": "puppy-token",
+    "symbol": "puppy",
+    "name": "Puppy Token",
+    "platforms": {
+        "ethereum": "0x94e25fc8960dce26823afeebf8a82ebc13c8e439"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The $Puppy is a community-driven meme token of metaverse. There is a huge plan on this token including the 10000 NFT launch with great art. This NFT will be a metaverse user's Pet and they will love to use those NFT to their avatar."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x94e25fc8960dce26823afeebf8a82ebc13c8e439",
+    "url": "https://mypuppytoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x94e25fc8960dce26823afeebf8a82ebc13c8e439",
+        "https://ethplorer.io/address/0x94e25fc8960dce26823afeebf8a82ebc13c8e439"
+    ],
+    "twitter": "puppy_token",
+    "telegram": "puppiestoken"
+}

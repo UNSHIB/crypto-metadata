@@ -1,0 +1,23 @@
+{
+    "id": "lil-doge-floki-token",
+    "symbol": "ldf",
+    "name": "Lil Doge Floki Token",
+    "platforms": {
+        "binance-smart-chain": "0xaa15f52ef3994213a9e06731f6471786b75372cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lil Doge Floki, a community-driven meme token inspired by Elon Musk! Lil Doge Floki's mission is to build a DAO to drive the most popular and original P2E Game"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaa15f52ef3994213a9e06731f6471786b75372cc",
+    "url": "https://lildogefloki.fun/",
+    "explorers": [
+        "https://bscscan.com/token/0xaa15f52ef3994213a9e06731f6471786b75372cc"
+    ],
+    "twitter": "lildogefiokiceo",
+    "telegram": "Lil_Doge_Floki",
+    "github_org": "LilDogeFlokiToken"
+}

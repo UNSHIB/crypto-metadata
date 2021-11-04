@@ -1,0 +1,24 @@
+{
+    "id": "bking-finance",
+    "symbol": "bkf",
+    "name": "BKING Finance",
+    "platforms": {
+        "binance-smart-chain": "0x767da3a74154bfb1f022087e533967afeaebf892"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BKING FINANCE BKF token is the most generous BNB Rewards token on the Binance Smart Chain. $BKF has been designed with holders big profits as frictionless capital revenue, holders protection, and state of the art immutable financial logic."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x767da3a74154bfb1f022087e533967afeaebf892",
+    "url": "https://bking.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x767Da3A74154Bfb1f022087e533967afEAeBF892"
+    ],
+    "twitter": "bkingdefi",
+    "telegram": "KingArthurDeFi",
+    "reddit": "BkingDefi_BSC/",
+    "github_org": "kingarthurdefi"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "sleepearn-finance",
+    "symbol": "sen",
+    "name": "SleepEarn Finance",
+    "platforms": {
+        "kardiachain": "0xb697231730c004110a86f51bff4b8dd085c0cb28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SleepEarn Finance is a Decentralized, Yield Optimizer platform on KardiaChain that allows its users to earn compound interest on their crypto holdings.\r\nThrough a set of investment strategies secured and enforced by smart contracts, SleepEarn Finance automatically maximizes the user rewards from various liquidity pools (LPs),\u200c \u200cautomated market making (AMM) projects,\u200c \u200cand\u200c \u200cother yield\u200c farming \u200copportunities in the DeFi ecosystem.\r\nBasically auto-compounding on SleepEarn Finance will 'take profit' from your LP tokens into half. \r\nThe main product offered by SleepEarn Finance are the 'Vaults' in which you stake your crypto tokens. The investment strategy tied to the specific vault will automatically increase your deposited token amount by compounding arbitrary yield farm reward tokens back into your initially deposited asset. Despite the name 'Vault' suggests, your funds are never locked in any vault on SleepEarn Finance: you can always withdraw at any moment in time.\r\n\r\nFor example: when you stake KAI/K-USDT LP Token and earn X token on X yield farming platform, the system will return N amount of token X as reward, SleepEarn service will sell ~50% of N and keep adding liquidity to KAI/K-USDT pool and compounding. You will earn more KAI and K-USDT as your position on KAI/K-USDT LP is gaining.\r\nDeFi applications are unique in the sense that they are permissionless and trustless, meaning that anyone with a supported wallet can interact with them without the need for a trusted middleman. While you have funds staked in a vault, you remain 100% in control of your crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb697231730c004110a86f51bff4b8dd085c0cb28",
+    "url": "https://sleepearn.finance/",
+    "explorers": [
+        "https://explorer.kardiachain.io/token/0xb697231730C004110A86f51BfF4B8DD085c0CB28"
+    ],
+    "twitter": "sleepearn",
+    "telegram": "sleepearn"
+}
