@@ -34,5 +34,10 @@ def generate_indexes():
                 visited[github_org] = True
                 f.write(f'{github_org}\n')
 
+    with open('./coins/meta.json', 'w') as f:
+        f.write(json.dumps({
+            "total_cryptos": len(coins)
+        }))
+
 if __name__ == '__main__':
     generate_indexes()
