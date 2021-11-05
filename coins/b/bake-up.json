@@ -1,0 +1,22 @@
+{
+    "id": "bake-up",
+    "symbol": "$bakeup",
+    "name": "Bake Up",
+    "platforms": {
+        "binance-smart-chain": "0x101c35e6eed9ca13046f1de0487388cdff6943a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x101c35e6eed9ca13046f1de0487388cdff6943a8",
+    "url": "https://bakeup.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x101c35e6eed9ca13046f1de0487388cdff6943a8"
+    ],
+    "twitter": "BakeUpBSC",
+    "telegram": "bakeupbsc"
+}

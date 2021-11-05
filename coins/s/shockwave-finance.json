@@ -1,0 +1,23 @@
+{
+    "id": "shockwave-finance",
+    "symbol": "wave",
+    "name": "Shockwave Finance",
+    "platforms": {
+        "okex-chain": "0x173c1374e7c4c5ab3eb90cf6b32668b5dcbaa3fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shockwave finance is a 100% Decentralized contract control protocol on OKExchain. Shockwave provide NFT tradings and Vaults where users can not only repurchase to help earn and ensure the value of the WAVE tokens, but also investors maximize and grow their remaining assets. Different from other projects, we're invested in building a strong foundation with our WAVE token as a governance token, diverse farms, various NFTs, fun blind boxes and user-centered services. \r\nThe DeFi movement, and more specifically Yield Aggregators, have seen a huge surge in activity in 2020. The Rise of Yearn, which uses existing protocols such as Compound, DyDx, and Curve, has influenced the development of various other Yield Aggregator projects on the Ethereum Network. Our goal is to expand that same interest through the OKExChain Ecosystem. All at fractions of a cent per transaction, with OKEx fast speed. Stay Shocked."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x173c1374e7c4c5ab3eb90cf6b32668b5dcbaa3fd",
+    "url": "https://www.shockwave.finance/",
+    "explorers": [
+        "https://www.oklink.com/okexchain/address/0x173c1374e7c4c5ab3eb90cf6b32668b5dcbaa3fd"
+    ],
+    "twitter": "ShockwaveFi",
+    "telegram": "shockwaveFi",
+    "github_org": "ShockwaveFinance"
+}

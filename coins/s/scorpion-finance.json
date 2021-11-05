@@ -1,0 +1,23 @@
+{
+    "id": "scorpion-finance",
+    "symbol": "scorpfin",
+    "name": "Scorpion Finance",
+    "platforms": {
+        "binance-smart-chain": "0x475c8df9860e42605d9917f0a2e522cc861cbf82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Scorpion Finance is one of the newest and forward-looking innovation projects in cryptocurrency platforms. Scorpion-finance aims to interconnect Blockchain services like Defi, NFT, Gaming, Payment and Marketplace under one seamless, responsive, and easy-to-use ecosystem\r\n\r\nThere is rising demand for both self-hosted wallet solutions and access to diverse solutions. ScorpFin encompasses the qualities of a secure self-hosted wallet, a DEX, a merchant payment network, Gaming and a Defi farming and staking services aggregator within a single application. Grounded in a frictionless UX and robust security, ScorpFin aims to be the leading wallet solution for cryptocurrency veterans and newcomers alike.\r\nLongevity is one of the driving forces of Scorpion Finance. Come on board and earn a long-term passive income through our innovations. Like dual rewards upto 10% BNB and 5% in scorpFin token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x475c8df9860e42605d9917f0a2e522cc861cbf82",
+    "url": "https://www.scorpion-finance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x475c8df9860e42605d9917f0a2e522cc861cbf82"
+    ],
+    "twitter": "ScorpionFinance",
+    "telegram": "ScorpFin",
+    "github_org": "scorpion-finance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "profit-bank",
+    "symbol": "pbk",
+    "name": "Profit Bank",
+    "platforms": {
+        "binance-smart-chain": "0xf2f087955684eabdf252a16c7b6620a1e3774515"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Profit Bank offers a smart and secure way to invest in crypto, earn compound interest and achieve long term growth of your capital.\r\nThe legacy financial system is slow, inefficient, and constrained by intermediaries. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf2f087955684eabdf252a16c7b6620a1e3774515",
+    "url": "https://profitbank.io",
+    "explorers": [
+        "https://bscscan.com/token/0xf2f087955684Eabdf252A16C7B6620a1e3774515"
+    ],
+    "twitter": "profitbankcoin",
+    "telegram": "Profitbankofficial"
+}

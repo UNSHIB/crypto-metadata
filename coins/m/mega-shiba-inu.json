@@ -1,0 +1,23 @@
+{
+    "id": "mega-shiba-inu",
+    "symbol": "megashib",
+    "name": "Mega Shiba Inu",
+    "platforms": {
+        "ethereum": "0x1c23f0f3e06fa0e07c5e661353612a2d63323bc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mega Shiba Inu is building Decentralised Shiba NFT ecosystem, which is coming up with a long roadmap like NFT Marketplace and NFT Staking, Play to Earn Games, Cross Chain Launches, Staking Rewards etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c23f0f3e06fa0e07c5e661353612a2d63323bc6",
+    "url": "https://www.megashibainu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1c23f0f3e06fa0e07c5e661353612a2d63323bc6",
+        "https://ethplorer.io/address/0x1c23f0f3e06fa0e07c5e661353612a2d63323bc6"
+    ],
+    "twitter": "Megashibainu",
+    "telegram": "Megashibainu"
+}

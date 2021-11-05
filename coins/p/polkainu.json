@@ -1,0 +1,23 @@
+{
+    "id": "polkainu",
+    "symbol": "pinu",
+    "name": "PolkaInu",
+    "platforms": {
+        "ethereum": "0xaabcecd071ab4ace5496f6ff3e1c4c3ee8116f75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$PINU is a utility token that offers holders access to our future projects - PolkaPad, PolkaChampion, etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaabcecd071ab4ace5496f6ff3e1c4c3ee8116f75",
+    "url": "https://www.polkainu.org",
+    "explorers": [
+        "https://etherscan.io/token/0xaabcecd071ab4ace5496f6ff3e1c4c3ee8116f75",
+        "https://ethplorer.io/address/0xaabcecd071ab4ace5496f6ff3e1c4c3ee8116f75"
+    ],
+    "twitter": "Polka_Inu",
+    "telegram": "polkainu_official"
+}

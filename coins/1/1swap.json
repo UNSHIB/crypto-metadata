@@ -1,0 +1,23 @@
+{
+    "id": "1swap",
+    "symbol": "1swap",
+    "name": "1Swap",
+    "platforms": {
+        "moonriver": "0x3516a7588c2e6ffa66c9507ef51853eb85d76e5b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1Swap is the first stablecoin-DEX project on Moonriver Network. Our main product is 1Swap, a decentralized stablecoin exchange which allows users to efficiently swap stablecoins and pegged assets. The 1Swap AMM offers low slippage and just 0.04% swap fees which results to the best swap rates. With all main and popular stablecoins listed already, we are the premier place for MOVRines to swap their stable assets!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3516a7588c2e6ffa66c9507ef51853eb85d76e5b",
+    "url": "https://1swap.fi/",
+    "explorers": [
+        "https://moonriver.moonscan.io/token/0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B"
+    ],
+    "twitter": "1swapfi",
+    "telegram": "oneswapfi",
+    "github_org": "1swapfi"
+}

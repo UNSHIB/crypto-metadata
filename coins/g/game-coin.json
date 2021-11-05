@@ -1,0 +1,21 @@
+{
+    "id": "game-coin",
+    "symbol": "gmex",
+    "name": "Game Coin",
+    "platforms": {
+        "binance-smart-chain": "0xe9d78bf51ae04c7e1263a76ed89a65537b9ca903"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe9d78bf51ae04c7e1263a76ed89a65537b9ca903",
+    "url": "https://www.thegamecoin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xE9d78BF51ae04c7E1263A76ED89a65537B9cA903"
+    ],
+    "twitter": "GameCoinGMEX"
+}

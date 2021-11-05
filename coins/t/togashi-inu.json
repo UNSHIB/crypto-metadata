@@ -1,0 +1,23 @@
+{
+    "id": "togashi-inu",
+    "symbol": "togashi",
+    "name": "Togashi Inu",
+    "platforms": {
+        "ethereum": "0x5daa0cbe290e082dbfd6f595e2e53b678895f322"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5daa0cbe290e082dbfd6f595e2e53b678895f322",
+    "url": "https://www.togashiinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5daa0cbe290e082dbfd6f595e2e53b678895f322",
+        "https://ethplorer.io/address/0x5daa0cbe290e082dbfd6f595e2e53b678895f322"
+    ],
+    "twitter": "TOGASHIINU",
+    "telegram": "TogashiInu"
+}

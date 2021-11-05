@@ -1,0 +1,22 @@
+{
+    "id": "hedge-finance",
+    "symbol": "hedge",
+    "name": "Hedge Finance",
+    "platforms": {
+        "binance-smart-chain": "0xe7784072fc769d8b7f8c0a3fa008722eef5dddd5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hedge token is a custom tailored reflection token, allowing you the peace of mind to step away from your portfolio. We are constantly monitoring the market to determine which BSC tokens have the most upside potential. We then provide a vetted list and allow our token holders to pick what they want to receive. Just sit back, HODL HEDGE, and watch your portfolio grow!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe7784072fc769d8b7f8c0a3fa008722eef5dddd5",
+    "url": "https://www.hedge-finance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe7784072fc769d8b7f8c0a3fa008722eef5dddd5"
+    ],
+    "twitter": "Hedge_Finance",
+    "telegram": "HedgeFinancial"
+}

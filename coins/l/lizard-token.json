@@ -1,0 +1,23 @@
+{
+    "id": "lizard-token",
+    "symbol": "lizard",
+    "name": "Lizard Token",
+    "platforms": {
+        "solana": "5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lizard Token is a meme token project on the Solana blockchain. Lizard Token was born in a small town and wants to see the world. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o",
+    "url": "https://www.lizardtoken.xyz/",
+    "explorers": [
+        "https://solscan.io/token/5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o"
+    ],
+    "twitter": "Lizard_Token",
+    "telegram": "Lizard_Token",
+    "github_org": "LizardToken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "big-eth",
+    "symbol": "bigeth",
+    "name": "BIG ETH",
+    "platforms": {
+        "binance-smart-chain": "0x2866e9546be562301046206824ab33283983c6db"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The King of meme coin offering the Biggest reflection reward in ETHEREUM after every hour BIGETH transactions get distributed among holders and contribute toward automatically generating liquidity locked inside the LP-pool.\r\n\r\nWe\u2019ve built a Reflationary Token to Earn 8% Ethereum every hour."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2866e9546be562301046206824ab33283983c6db",
+    "url": "https://bigeth.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2866e9546be562301046206824ab33283983c6db"
+    ],
+    "twitter": "bigethofficial",
+    "telegram": "big_eth",
+    "reddit": "bigeth/",
+    "github_org": "BigbtcSAM"
+}

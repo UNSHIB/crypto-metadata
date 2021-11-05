@@ -1,0 +1,25 @@
+{
+    "id": "shibamon",
+    "symbol": "shibamon",
+    "name": "Shibamon",
+    "platforms": {
+        "ethereum": "0x36b00c4c6ce3653a091c7940fc98c3acb0043871"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shibamon is a deflationary token on the Ethereum smart chain that gives holders reflections in the form of Shibamon rewards.\r\n\r\nRare and shiny NFTs, all original 151 Shibamon will be available in varying rarities. You\u2019ll be able to mint them, trade and even evolve them by combining 2 or more of the same NFT \ud83d\udc40 Work and design has already started and they will play a massive part in the ecosystem Shibamon is currently building."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x36b00c4c6ce3653a091c7940fc98c3acb0043871",
+    "url": "https://shibamon.io",
+    "explorers": [
+        "https://etherscan.io/token/0x36b00c4c6ce3653a091c7940fc98c3acb0043871",
+        "https://ethplorer.io/address/0x36b00c4c6ce3653a091c7940fc98c3acb0043871"
+    ],
+    "twitter": "shibamoneth",
+    "telegram": "shibamonofficial",
+    "reddit": "shibamoneth",
+    "github_org": "shibamoneth"
+}

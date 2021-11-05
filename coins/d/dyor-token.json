@@ -1,0 +1,23 @@
+{
+    "id": "dyor-token",
+    "symbol": "dyor",
+    "name": "DYOR Token",
+    "platforms": {
+        "binance-smart-chain": "0xbbe0a94f363a52da9229a7546434b6e657a6a78f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbbe0a94f363a52da9229a7546434b6e657a6a78f",
+    "url": "https://dyortoken.info/",
+    "explorers": [
+        "https://bscscan.com/token/0xbbe0a94f363a52da9229a7546434b6e657a6a78f"
+    ],
+    "twitter": "DYORToken_BSC",
+    "telegram": "DYORTokenBSC",
+    "reddit": "DYOR_Token/"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "dogerocket",
+    "symbol": "dogerkt",
+    "name": "DogeRocket",
+    "platforms": {
+        "binance-smart-chain": "0xcbb003273efcbb1ea394d18863fbaac67a28b7c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcbb003273efcbb1ea394d18863fbaac67a28b7c7",
+    "url": "https://dogerocket.live/",
+    "explorers": [
+        "https://bscscan.com/token/0xcbb003273efcbb1ea394d18863fbaac67a28b7c7"
+    ],
+    "twitter": "DogeRocketToken",
+    "telegram": "DogeRocketChat"
+}

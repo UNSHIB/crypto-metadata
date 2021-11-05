@@ -1,0 +1,23 @@
+{
+    "id": "dragon-battles",
+    "symbol": "drb",
+    "name": "Dragon Battles",
+    "platforms": {
+        "binance-smart-chain": "0xbd5e68e88c54c4a0c1fa3239f74a3cbab9a6707f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dragon Battles is one of the best Play & Earn games that based on BSC platform.\r\n\r\nStep into the sacred land of legendary dragons to uncover mysterious stories and experience dramatic battles. \r\n\r\nIn the world of Dragon Battles, not only can you have wonderful experiences from participating in the battles, you will also directly make good profits from playing games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd5e68e88c54c4a0c1fa3239f74a3cbab9a6707f",
+    "url": "https://dragonbattles.io",
+    "explorers": [
+        "https://bscscan.com/token/0xbD5e68E88C54C4A0c1fa3239F74a3cBaB9a6707f"
+    ],
+    "twitter": "dragon_battles",
+    "telegram": "dragon_battles",
+    "reddit": "DragonBattles_100"
+}

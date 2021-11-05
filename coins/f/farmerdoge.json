@@ -1,0 +1,22 @@
+{
+    "id": "farmerdoge",
+    "symbol": "crop",
+    "name": "FarmerDoge",
+    "platforms": {
+        "binance-smart-chain": "0x54d625b45bcb1326f64ce79fac313f4d8f47ae24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x54d625b45bcb1326f64ce79fac313f4d8f47ae24",
+    "url": "https://www.farmerdoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x54d625b45bcb1326f64ce79fac313f4d8f47ae24"
+    ],
+    "twitter": "farmerdogebsc",
+    "telegram": "FarmerDogeCryp"
+}

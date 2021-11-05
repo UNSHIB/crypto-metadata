@@ -1,0 +1,23 @@
+{
+    "id": "cardanomics",
+    "symbol": "adx",
+    "name": "Cardanomics",
+    "platforms": {
+        "binance-smart-chain": "0x9068bbcdd5a9e9f545539ce9953778967e18d5a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9068bbcdd5a9e9f545539ce9953778967e18d5a4",
+    "url": "https://www.cardanomics.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x9068bbcdd5a9e9f545539ce9953778967e18d5a4"
+    ],
+    "twitter": "Cardanomics_org",
+    "telegram": "cardanomicscommunity",
+    "reddit": "https://www.reddit.com"
+}

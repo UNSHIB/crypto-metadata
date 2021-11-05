@@ -1,0 +1,22 @@
+{
+    "id": "omax-token",
+    "symbol": "omax",
+    "name": "Omax Token",
+    "platforms": {
+        "binance-smart-chain": "0xeb84be66c8e71f07ea57cf3b21626d7784f32a7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Through our OMAX TOKEN. Running on the BEP20 platform, OMAX is fast, low in transaction fees, and most importantly - secure.\r\n\r\nOMAX P2P MARKETPLACE\r\nOur Marketplace will be a hub where users can buy, sell, and trade every day items using cryptocurrency. OMAX Token will be the primary currency, however we plan to integrate other tokens in the future.\r\n\r\nOMAX POINT-OF-SALE\r\nBy integrating our Blockchain into popular e-commerce and shopping cart platforms, we aim to grant users the ability to easily complete their everyday purchases using their crypto currency balances.\r\n\r\nOMAX SWAP\r\nUsers will be able to swap or exchange among their crypto assets. For purposes of growth, this will initially be specific to BSC.\r\n\r\nUpon launch of the OMAX Blockchain, OMAX Swap will bridge all known blockchains into its protocol powered and be powered by OMAX Token.\r\n\r\nOMAX VAULT\r\nOMAX Vault will be a platform with the abilities of Staking, Time-Locking, and Lending. This will be BSC exclusive during our infancy - but the future OMAX Vault will be powered by the OMAX Blockchain and will support modern tokenomics like reflection rewards.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb84be66c8e71f07ea57cf3b21626d7784f32a7f",
+    "url": "https://www.omaxtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xeB84be66c8E71f07eA57Cf3b21626d7784F32A7F"
+    ],
+    "twitter": "omaxtoken",
+    "telegram": "OmaxToken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "surfmoon",
+    "symbol": "surfmoon",
+    "name": "SurfMoon",
+    "platforms": {
+        "binance-smart-chain": "0xc47f53c425d08f8457471538ae641655814beae8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc47f53c425d08f8457471538ae641655814beae8",
+    "url": "https://www.surfmoon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xc47f53c425d08f8457471538ae641655814beae8"
+    ],
+    "twitter": "SurfMoonToken",
+    "telegram": "SurfMoonToken"
+}

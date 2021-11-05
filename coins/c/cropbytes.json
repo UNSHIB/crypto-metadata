@@ -1,0 +1,24 @@
+{
+    "id": "cropbytes",
+    "symbol": "cbx",
+    "name": "CropBytes",
+    "platforms": {
+        "ethereum": "0x37fc4b48ce93469dbea9918468993c735049642a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CropBytes | Play & Earn Cryptocurrency Daily.\r\nFarm, invest, or trade to earn cryptocurrency in an open economy.\r\nPlay CropBytes on your Android & iOS devices with your friends & grow your crypto earnings."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x37fc4b48ce93469dbea9918468993c735049642a",
+    "url": "https://www.cropbytes.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x37fc4b48ce93469dbea9918468993c735049642a",
+        "https://ethplorer.io/address/0x37fc4b48ce93469dbea9918468993c735049642a"
+    ],
+    "twitter": "CropBytes",
+    "telegram": "ccropbytes",
+    "reddit": "CropBytes_Crypto_Game/"
+}

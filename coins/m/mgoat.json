@@ -1,0 +1,22 @@
+{
+    "id": "mgoat",
+    "symbol": "mgoat",
+    "name": "MetaGoat",
+    "platforms": {
+        "binance-smart-chain": "0xdb680a8f1dc76ab1f17ab5f8ecd9c0a0a7c27e0b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb680a8f1dc76ab1f17ab5f8ecd9c0a0a7c27e0b",
+    "url": "https://metagoattoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0xdb680a8f1dc76ab1f17ab5f8ecd9c0a0a7c27e0b"
+    ],
+    "twitter": "MetaGoatToken",
+    "telegram": "metagoat"
+}

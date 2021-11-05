@@ -1,0 +1,24 @@
+{
+    "id": "catena-x",
+    "symbol": "cex",
+    "name": "Catena X",
+    "platforms": {
+        "binance-smart-chain": "0x59f2c86cfaa2ec1b07b3d032708220506657c479"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Catena X (CEX) will deploy the latest advances in blockchain technology to promote the widespread adoption of DeFi. With CEX\u2019s multi-chain bridge protocol, holders will be able to transact seamlessly between different blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x59f2c86cfaa2ec1b07b3d032708220506657c479",
+    "url": "https://catenax.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x59F2c86CFAa2EC1b07b3D032708220506657c479"
+    ],
+    "twitter": "catena_x",
+    "telegram": "CatenaX",
+    "reddit": "CatenaX",
+    "github_org": "CatenaXDex"
+}

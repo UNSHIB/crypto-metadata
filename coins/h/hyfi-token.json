@@ -1,0 +1,23 @@
+{
+    "id": "hyfi-token",
+    "symbol": "hyfi",
+    "name": "HyFi Token",
+    "platforms": {
+        "ethereum": "0x79a1ca1768fe91867be916efa2b1630c7fc83422"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HyFi Corp (a US Public Company) is an upcoming decentralized finances (DeFi) exchange marketplace utilizing blockchain technology. The DeFi principles are based on the creation of an innovative ecosystem of financial services, which is accessible to everyone without exception. HyFi Token will be featured on HyFi Platform as the governance token, and to be used as a payment token for transaction fees on the Platform. HyFi ecosystem will be built on a combination of tokens to support its economy. The HyFi economy is being established to advance and accelerate renewable energy, environmental, agrifood and other important markets and causes globally. While the economy will feature many elements it will emphasize the two following elements."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x79a1ca1768fe91867be916efa2b1630c7fc83422",
+    "url": "https://hyfi-corp.com",
+    "explorers": [
+        "https://etherscan.io/token/0x79a1ca1768fe91867be916efa2b1630c7fc83422",
+        "https://ethplorer.io/address/0x79a1ca1768fe91867be916efa2b1630c7fc83422"
+    ],
+    "twitter": "HyFiCorp",
+    "telegram": "WPPEnergy"
+}

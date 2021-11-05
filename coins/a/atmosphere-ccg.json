@@ -1,0 +1,25 @@
+{
+    "id": "atmosphere-ccg",
+    "symbol": "atmssft",
+    "name": "Atmosphere CCG",
+    "platforms": {
+        "binance-smart-chain": "0xc53c65c4a925039cc149fa99fd011490d40270a3",
+        "fantom": "0xfc74d58550485e54dc3a001f6f371741dceea094"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AtmosSoft is providing a play-2-earn NFT based CCG with NFT staking rewards and much more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc53c65c4a925039cc149fa99fd011490d40270a3",
+    "url": "https://www.atmossoftdefi.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xC53C65C4A925039cC149fA99fD011490D40270a3"
+    ],
+    "twitter": "AtmosSoft",
+    "telegram": "atmossoft",
+    "reddit": "AtmosSoft/",
+    "github_org": "AtmosSoftGameFiApps"
+}

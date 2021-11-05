@@ -1,0 +1,23 @@
+{
+    "id": "vaultdefi",
+    "symbol": "vault",
+    "name": "VaultDeFi",
+    "platforms": {
+        "binance-smart-chain": "0x92da405b6771c9caa7988a41dd969a73d10a3cc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VaultDeFi is a unique multi token project with flexible and interchangeable commodities. These assets have been uniquely designed to reward holders with proprietary double compounding interest, highlighted with our innovative \u201cdelete bag\u201d function that burns a percentage of the current supply with all transactions creating a direct benefit to the current market supply developing a larger market share for all investors. Having hyper-deflationary rewarding assets are revolutionary in the DeFi space and will be beneficial to all investors, especially the latest Vault token that rewards in an XSurge wrapped central market commodities with variants and intermediary vehicles.\r\n\r\nVaultDeFi\u2019s distinctive reflections system allows Digital Asset investors to diversify their portfolios even while only holding a single token. This unique token offers the first commodity with a PICK YOUR OWN DIVIDEND function. Choice of dividends include BUSD, SETH, SBTC, SADA and the new DeFi token SUSELESS. Due to Surges innovative smart contracts this is a great way to invest into The Central Markets cryptocurrencies for the long term, as they offer a hedge against a bear market or greatly benefit from a bull market. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x92da405b6771c9caa7988a41dd969a73d10a3cc6",
+    "url": "https://vaultdefi.com",
+    "explorers": [
+        "https://bscscan.com/token/0x92da405b6771c9caa7988a41dd969a73d10a3cc6"
+    ],
+    "twitter": "VaultDeFi",
+    "telegram": "Vault_DeFi",
+    "reddit": "Vault_DeFi/"
+}

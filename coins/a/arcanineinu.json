@@ -1,0 +1,23 @@
+{
+    "id": "arcanineinu",
+    "symbol": "arcanineinu",
+    "name": "ArcanineInu",
+    "platforms": {
+        "ethereum": "0xe217c5eb9ea6f94ba965fabd0e867aa47b6f986e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe217c5eb9ea6f94ba965fabd0e867aa47b6f986e",
+    "url": "https://www.arcanineinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe217c5eb9ea6f94ba965fabd0e867aa47b6f986e",
+        "https://ethplorer.io/address/0xe217c5eb9ea6f94ba965fabd0e867aa47b6f986e"
+    ],
+    "twitter": "arcanineinu",
+    "telegram": "arcanineinu"
+}

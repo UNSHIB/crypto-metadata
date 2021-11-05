@@ -1,0 +1,20 @@
+{
+    "id": "mainframe-protocol",
+    "symbol": "vmain",
+    "name": "MainFrame Protocol",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launchpad, video game builder, streaming platform builder. Resource sharing and communication protocol. Powered by the Theta blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2046a1a690f8a57a11071eb8ba26947d7d0697b0",
+    "url": "https://mainframe.center",
+    "explorers": [
+        "https://explorer.thetatoken.org/account/0x2046a1a690F8A57A11071eb8BA26947D7d0697B0"
+    ],
+    "telegram": "mainframeprotocol",
+    "github_org": "MainFrame-Protocol"
+}

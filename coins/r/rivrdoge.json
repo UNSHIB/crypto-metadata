@@ -1,0 +1,23 @@
+{
+    "id": "rivrdoge",
+    "symbol": "rivrdoge",
+    "name": "RivrDoge",
+    "platforms": {
+        "moonriver": "0x5d4360f1be94bd6f182f09cfe5ef9832e65eb1ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Moonriver Network is Community-Led (the community owns a majority of the MOVR tokens). The Network exists as an Experimental Parachain on the Kusama Network \u2014 which is itself the Experimental, Canary Network of Polkadot. In this cauldron of community, experimentation, and fun, RivrDoge plans to celebrate this explosion of new chains!\r\n\r\nThe plan and direction of the project is to create a fun, community-owned coin on a fun, community-owned network and also \"\"occupy the field\"\" of memecoins on Moonriver to hellp guide people to the network safely! An ambassador to experimentation!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5d4360f1be94bd6f182f09cfe5ef9832e65eb1ac",
+    "url": "https://rivrdoge.com/",
+    "explorers": [
+        "https://moonriver.moonscan.io/token/0x5d4360f1be94bd6f182f09cfe5ef9832e65eb1ac"
+    ],
+    "twitter": "RivrDoge",
+    "telegram": "RivrDogeOfficial",
+    "github_org": "rivrdoge"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "solalambo",
+    "symbol": "sob",
+    "name": "SolaLambo",
+    "platforms": {
+        "solana": "EkDf4Nt89x4Usnxkj4sGHX7sWxkmmpiBzA4qdDkgEN6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SOB is a decentralized community driven token whose main focus is to support Solana Ecosystem & connect all SPL token. SOB is hard capped at 1M Total Supply. We are running on Solana blockchain network working on our Dex- Dex with lowest fee and friendly user interface."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "EkDf4Nt89x4Usnxkj4sGHX7sWxkmmpiBzA4qdDkgEN6b",
+    "url": "https://sob.finance/",
+    "explorers": [
+        "https://solscan.io/token/EkDf4Nt89x4Usnxkj4sGHX7sWxkmmpiBzA4qdDkgEN6b"
+    ],
+    "twitter": "SolaLambo"
+}

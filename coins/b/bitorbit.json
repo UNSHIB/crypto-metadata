@@ -1,0 +1,22 @@
+{
+    "id": "bitorbit",
+    "symbol": "bitorb",
+    "name": "BitOrbit",
+    "platforms": {
+        "binance-smart-chain": "0xed0c1c9c64ff7c7cc37c3af0dfcf5b02efe0bb5f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Building a loyal base of fanatic followers is difficult, but monetizing your content shouldn't be. We built Bitorbit for those influencers who want to generate more revenue from their content.\r\n \r\nWe built Bitorbit for those influencers who value their privacy and for those who want to eliminate the middlemen and gatekeepers. Most importantly we built Bitorbit for those influencers who want it all without having to sacrifice one aspect for another."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed0c1c9c64ff7c7cc37c3af0dfcf5b02efe0bb5f",
+    "url": "https://bitorbit.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xEd0c1C9c64Ff7C7cC37c3AF0dfcf5B02eFE0Bb5f"
+    ],
+    "twitter": "bitorbitapp",
+    "telegram": "BitOrbit_Official"
+}

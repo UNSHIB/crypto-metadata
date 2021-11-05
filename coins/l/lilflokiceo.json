@@ -1,0 +1,23 @@
+{
+    "id": "lilflokiceo",
+    "symbol": "lilflokiceo",
+    "name": "LilFlokiCeo",
+    "platforms": {
+        "ethereum": "0x83d4cf08be796a08041a71152b653c828211c866"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x83d4cf08be796a08041a71152b653c828211c866",
+    "url": "https://lilflokiceo.com",
+    "explorers": [
+        "https://etherscan.io/token/0x83d4cf08be796a08041a71152b653c828211c866",
+        "https://ethplorer.io/address/0x83d4cf08be796a08041a71152b653c828211c866"
+    ],
+    "twitter": "LilFlokiCEO",
+    "telegram": "lilflokiceoentry"
+}

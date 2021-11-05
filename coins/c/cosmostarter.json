@@ -1,0 +1,23 @@
+{
+    "id": "cosmostarter",
+    "symbol": "csms",
+    "name": "Cosmostarter",
+    "platforms": {
+        "ethereum": "0x4461cfd640da24d1a4642fa5f9ea3e6da966b831"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cosmos is an accelerator & launchpad which aims to create value and connections between investors and promising projects in the cosmos ecosystem. The mission is to bring the next wave of users and developers into the Cosmos ecosystem. We help connect investors with vetted projects on Cosmos, an emerging network with a focus on revolutionizing blockchain interoperability and sovereignty. Projects receive services ranging from marketing, technical advisory, smart contract audits, fundraising, and ultimately help to bring them to market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4461cfd640da24d1a4642fa5f9ea3e6da966b831",
+    "url": "https://cosmostarter.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4461cfd640da24d1a4642fa5f9ea3e6da966b831",
+        "https://ethplorer.io/address/0x4461cfd640da24d1a4642fa5f9ea3e6da966b831"
+    ],
+    "twitter": "Cosmostarterio",
+    "telegram": "cosmostarterio"
+}

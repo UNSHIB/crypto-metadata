@@ -1,0 +1,23 @@
+{
+    "id": "koromaru",
+    "symbol": "koromaru",
+    "name": "KOROMARU",
+    "platforms": {
+        "ethereum": "0xd0d42005e7b3c0812b1268f0e5faf97ff2423651"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KOROMARU is a \"\"dog token\"\", and \"\"anime token\"\" and a \"\"gaming token\"\" all at once, tapping into the spirit of the communities that support and surround the above token categories. Because of the nature and expectations of the meme coin space, our roadmap is two-pronged: short-term and long-term goals.\r\n\r\nOn the short-term we are working on an NFT card game, benefitting long-term investors and expanding our reach into budding gaming ecosystems.\r\n\r\nIn the spirit of KOROMARU being a dog/anime/gaming hybrid token, the ultimate goal is to create a DAO of projects where each voter is a multi-million dollar token, where we can all work together to further and fund our common interests. This includes donations to charity and funding ambitious projects benefiting all parties."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0d42005e7b3c0812b1268f0e5faf97ff2423651",
+    "url": "https://www.koromaruinu.com",
+    "explorers": [
+        "https://etherscan.io/token/0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651",
+        "https://ethplorer.io/address/0xd0d42005e7b3c0812b1268f0e5faf97ff2423651"
+    ],
+    "twitter": "KoromaruInu",
+    "telegram": "koromaruinuOfficial"
+}

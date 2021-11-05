@@ -1,0 +1,22 @@
+{
+    "id": "spinada-cash",
+    "symbol": "spin",
+    "name": "Spinada Cash",
+    "platforms": {
+        "binance-smart-chain": "0xe19a9626aef55e20400a3b82a25c003403e88b7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Spinada.cash is a completely decentralized protocol for private transactions on Cardano blockchain. It breaks the on-chain link between senders and receivers of Cardano native tokens on the blockchain. This gives complete privacy and security in a completely decentralized manner.\r\n\r\nIt uses a Zero Knowledge proof protocol known as zk-SNARKs , developed by the good fellows at Zcash, to ensure secure anonymous transactions of Cardano assets on the blockchain. It uses a Smart contract which accepts Cardano tokens and then allows anyone with a proof of knowledge to withdraw those tokens through the use of Cryptographic key notes. When a sender submits a transaction, he receives a Key Note and a corresponding hash is received by the Smart contract. When a receiver furnishes the right Key note, it is matched with the hash to output the corresponding submitted tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe19a9626aef55e20400a3b82a25c003403e88b7f",
+    "url": "https://spinada.cash",
+    "explorers": [
+        "https://bscscan.com/token/0xe19a9626aef55e20400a3b82a25c003403e88b7f"
+    ],
+    "twitter": "spinadacash",
+    "telegram": "spinada"
+}

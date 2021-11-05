@@ -1,0 +1,22 @@
+{
+    "id": "evergreen-token",
+    "symbol": "egt",
+    "name": "Evergreen Token",
+    "platforms": {
+        "binance-smart-chain": "0xa865c6cc3a6164c3a0188efeed6f32aba134693c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Evergreen token is the worlds first environmental sanitation defi token combining crypto and the environment for the safety of lives, plants and animals across the globe, preventing pollutions and keeping the world evergreen."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa865c6cc3a6164c3a0188efeed6f32aba134693c",
+    "url": "https://www.evergreentokens.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xa865c6CC3A6164c3a0188efEED6F32ABa134693c"
+    ],
+    "twitter": "evergreentokens",
+    "telegram": "evergreentokengroup"
+}

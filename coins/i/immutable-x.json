@@ -1,0 +1,23 @@
+{
+    "id": "immutable-x",
+    "symbol": "imx",
+    "name": "Immutable X",
+    "platforms": {
+        "ethereum": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IMX is the native token for the Immutable X network, the first zk-rollup for NFT on Ethereum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+    "url": "https://www.immutable.com",
+    "explorers": [
+        "https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+        "https://ethplorer.io/address/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+    ],
+    "twitter": "Immutable",
+    "telegram": "immutablex"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "neet-finance",
+    "symbol": "neet",
+    "name": "NEET Finance",
+    "platforms": {
+        "binance-smart-chain": "0xcff58cf16064f51bb3139ef98ed39b479c79c18a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcff58cf16064f51bb3139ef98ed39b479c79c18a",
+    "url": "https://neetfinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xCff58CF16064F51BB3139eF98ED39B479c79C18a"
+    ],
+    "twitter": "NeetFinance",
+    "telegram": "neetfinance"
+}

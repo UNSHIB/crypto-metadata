@@ -1,0 +1,22 @@
+{
+    "id": "pomerocket",
+    "symbol": "pome",
+    "name": "PomeRocket",
+    "platforms": {
+        "binance-smart-chain": "0x45402c2ce9f5d1d73f7674c8809d4bfde402b935"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x45402c2ce9f5d1d73f7674c8809d4bfde402b935",
+    "url": "https://pomerocket.dog/",
+    "explorers": [
+        "https://bscscan.com/token/0x45402c2ce9f5d1d73f7674c8809d4bfde402b935"
+    ],
+    "twitter": "PomeRocket",
+    "telegram": "pomerocket"
+}

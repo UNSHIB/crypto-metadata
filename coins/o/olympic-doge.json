@@ -1,0 +1,22 @@
+{
+    "id": "olympic-doge",
+    "symbol": "olympic doge",
+    "name": "Olympic Doge",
+    "platforms": {
+        "binance-smart-chain": "0xe8a7da5c28ab1b29c4389b864fa890e225ddd6c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8a7da5c28ab1b29c4389b864fa890e225ddd6c8",
+    "url": "http://olympicdoge.cc/",
+    "explorers": [
+        "https://bscscan.com/token/0xE8a7dA5c28Ab1B29c4389b864Fa890E225ddD6c8"
+    ],
+    "twitter": "olydoge",
+    "telegram": "OlympicDogeChina"
+}

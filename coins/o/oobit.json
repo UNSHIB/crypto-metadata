@@ -1,0 +1,25 @@
+{
+    "id": "oobit",
+    "symbol": "obt",
+    "name": "Oobit",
+    "platforms": {
+        "ethereum": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Oobit (OBT) is an all-in-one financial services platform for cryptocurrency users.\r\nLaunched in June 2017, it focuses on three main components: investing, managing and spending crypto along with wallet-style payments.\r\nBy combining emerging blockchain technology and traditional finance services, Oobit created trusted and easy-to-use products allowing users to utilize crypto without digital walls and complex barriers. Oobit\u2019s native token (OBT) is created on the Ethereum blockchain that is used within Oobit as the basis for all of the ecosystem\u2019s transactions and interactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22",
+    "url": "https://www.oobit.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22",
+        "https://ethplorer.io/address/0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22"
+    ],
+    "twitter": "oobit",
+    "telegram": "OObit",
+    "reddit": "Oobit",
+    "github_org": "oobit-tech"
+}

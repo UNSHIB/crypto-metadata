@@ -1,0 +1,23 @@
+{
+    "id": "balisari",
+    "symbol": "bst",
+    "name": "Balisari",
+    "platforms": {
+        "solana": "EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2",
+    "url": "https://www.balisaritrans.site/",
+    "explorers": [
+        "https://solscan.io/token/EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2"
+    ],
+    "twitter": "balisaritrans",
+    "telegram": "balisaritrans",
+    "github_org": "kadekjr"
+}

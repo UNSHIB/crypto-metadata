@@ -1,0 +1,23 @@
+{
+    "id": "infomatix",
+    "symbol": "info",
+    "name": "Infomatix",
+    "platforms": {
+        "binance-smart-chain": "0xdf727040d3997b5d95dee8c661fa96e3c13ee0c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Infomatix collects and distributes crowdsourced asset data. The Infomatix platform links experts to requests, allowing them to monetize their expertise and provide information to the requesters. The project's aim is to democratise financial data which previously was available only to institutions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf727040d3997b5d95dee8c661fa96e3c13ee0c9",
+    "url": "https://infomatix.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xdf727040d3997b5d95dee8c661fa96e3c13ee0c9"
+    ],
+    "twitter": "Infomatix_io",
+    "telegram": "infomatix",
+    "github_org": "infomatixDev"
+}

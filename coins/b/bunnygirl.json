@@ -1,0 +1,22 @@
+{
+    "id": "bunnygirl",
+    "symbol": "bunnygirl",
+    "name": "BunnyGirl",
+    "platforms": {
+        "binance-smart-chain": "0xa0382abb8f6373fe0db62083d95ad69a57c467e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BunnyGirl is a project that was introduced in Q4 2021 as a community driven token on the Binance Smart Chain. \r\n\r\nBunnyGirl intends to become a DAO in the near future where token holders gain access to exclusive token and NFT airdrops. Furthermore, a community vault will be created where members of BunnyGirl decide on which assets to invest in. Profits from the vault will be shared among token holders.\r\n\r\nCatgirl was founded by two people who have chosen not to reveal their identities for now. The team consists of a leading developer and a head of marketing (a writer also responsible for content creation and social media management. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa0382abb8f6373fe0db62083d95ad69a57c467e2",
+    "url": "https://www.bunnygirlcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa0382abb8F6373FE0DB62083d95Ad69A57c467E2"
+    ],
+    "twitter": "BunnyGirlCoin",
+    "telegram": "BunnyGirlCoin"
+}

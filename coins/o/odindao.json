@@ -1,0 +1,23 @@
+{
+    "id": "odindao",
+    "symbol": "odin",
+    "name": "OdinDAO",
+    "platforms": {
+        "kardiachain": "0x22b3e7db80c0be427ebf0ade0e66cf5b1afe1285"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ODIN is a treasury- and protocol backed token that accrues value through yield strategies and revenue from dApps on KardiaChain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x22b3e7db80c0be427ebf0ade0e66cf5b1afe1285",
+    "url": "https://odindao.com",
+    "explorers": [
+        "https://explorer.kardiachain.io/token/0x22b3e7dB80c0Be427eBf0ADE0e66CF5b1Afe1285"
+    ],
+    "twitter": "OdinDAO",
+    "telegram": "OdinDAO",
+    "github_org": "OdinDAO"
+}

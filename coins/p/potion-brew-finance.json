@@ -1,0 +1,23 @@
+{
+    "id": "potion-brew-finance",
+    "symbol": "brew",
+    "name": "Potion Brew Finance",
+    "platforms": {
+        "fantom": "0x46d3ece45f8e16bec4bd241c248ce0e7cfff310e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Potion Brew Finance is a unique liquidity mining protocol on the Fantom Opera network that aims to solve the problems with traditional yield farming by introducing time-variable APR values. It improves upon standard practices by introducing incentives in its protocol that encourage sustainable farming and long term growth. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x46d3ece45f8e16bec4bd241c248ce0e7cfff310e",
+    "url": "https://potionbrew.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x46D3Ece45F8E16beC4Bd241C248CE0e7CffF310e"
+    ],
+    "twitter": "BrewPotion",
+    "telegram": "PotionBrewFinance",
+    "github_org": "MoonGusto"
+}

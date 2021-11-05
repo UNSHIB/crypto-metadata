@@ -1,0 +1,22 @@
+{
+    "id": "sunshield",
+    "symbol": "sshld",
+    "name": "SunShield",
+    "platforms": {
+        "binance-smart-chain": "0x1e3b5cf330849ee07c5213d2d01dacade02d186d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e3b5cf330849ee07c5213d2d01dacade02d186d",
+    "url": "https://www.sunshield.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1e3b5cf330849ee07c5213d2d01dacade02d186d"
+    ],
+    "twitter": "SUNSHIELD_DEFI",
+    "telegram": "Sunshield_Defi"
+}

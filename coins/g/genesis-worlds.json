@@ -1,0 +1,23 @@
+{
+    "id": "genesis-worlds",
+    "symbol": "genesis",
+    "name": "Genesis Worlds",
+    "platforms": {
+        "polygon-pos": "0x51869836681bce74a514625c856afb697a013797"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The GENESIS token is the principal element of the Genesis Worlds metaverse. Tokens allow holders to participate in project governance and the global game economy. Farm GENESIS tokens now by staking GAME in our farming pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x51869836681bce74a514625c856afb697a013797",
+    "url": "https://genesis.game/",
+    "explorers": [
+        "https://polygonscan.com/token/0x51869836681BcE74a514625c856aFb697a013797"
+    ],
+    "twitter": "gamecredits",
+    "telegram": "gamecreditsglobal",
+    "reddit": "GameCredits/"
+}

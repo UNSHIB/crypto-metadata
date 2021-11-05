@@ -1,0 +1,24 @@
+{
+    "id": "gemit-app",
+    "symbol": "gemit",
+    "name": "GEMIT.app",
+    "platforms": {
+        "binance-smart-chain": "0xa91a840ee787bb773922f961b6c5cd2a564f535d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GEMIT.app is a set of tools designed to help BSC traders (In the future also the other networks). The token is used to unlock higher tiers which unlock premium features and remove limitations. The token holders are rewarded with redistribution from all token transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa91a840ee787bb773922f961b6c5cd2a564f535d",
+    "url": "https://www.gemit.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xA91A840eE787Bb773922f961b6C5cD2A564F535d"
+    ],
+    "twitter": "Gemit_app",
+    "telegram": "gemit_chat",
+    "reddit": "Gemit/",
+    "github_org": "GemitApp"
+}

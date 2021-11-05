@@ -1,0 +1,23 @@
+{
+    "id": "parrot-egg-polygon",
+    "symbol": "ppegg",
+    "name": "Polygon Parrot Egg",
+    "platforms": {
+        "polygon-pos": "0xb63e54f16600b356f6d62ddd43fca5b43d7c66fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Parrot DeFi is a decentralized yield farming multi-chain platform based on Matic, IoTeX and Arbitrum. It offers high APRs and new pools are constantly added.\r\n\r\nThe team is composed of experienced entrepreneurs, smart contract developers, project managers and crypto enthusiasts; and has been excited about EVMs.\r\n\r\nAfter a successful launch on Arbitrum, and Polygon Parrot Defi continues its expansion and has landed to Polygon, where they are committed to continue developing new features to offer their users the best yield farming experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb63e54f16600b356f6d62ddd43fca5b43d7c66fd",
+    "url": "https://polygon.parrotdefi.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0xB63E54F16600b356f6d62dDd43Fca5b43d7c66fd"
+    ],
+    "twitter": "parrotdefinews",
+    "telegram": "parrotdefiofficial",
+    "github_org": "parrotdefifarm1"
+}
