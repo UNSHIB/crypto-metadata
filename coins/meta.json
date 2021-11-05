@@ -1,5 +1,5 @@
 {
-    "total_cryptos": 10475,
+    "total_cryptos": 10542,
     "orgs": {
         "zocteam": {
             "id": "01coin",
@@ -65,6 +65,11 @@
             "id": "1million-token",
             "name": "1Million Token",
             "symbol": "1MT"
+        },
+        "1swapfi": {
+            "id": "1swap",
+            "name": "1Swap",
+            "symbol": "1SWAP"
         },
         "onetronic": {
             "id": "1tronic",
@@ -1346,6 +1351,11 @@
             "name": "Atmos",
             "symbol": "ATMOS"
         },
+        "atmossoftgamefiapps": {
+            "id": "atmosphere-ccg",
+            "name": "Atmosphere CCG",
+            "symbol": "ATMSSFT"
+        },
         "atnio": {
             "id": "atn",
             "name": "ATN",
@@ -1815,6 +1825,11 @@
             "id": "balicoin",
             "name": "Bali Coin",
             "symbol": "BALI"
+        },
+        "kadekjr": {
+            "id": "balisari",
+            "name": "Balisari",
+            "symbol": "BST"
         },
         "balkari": {
             "id": "balkari-token",
@@ -2310,6 +2325,11 @@
             "id": "bifrost-native-coin",
             "name": "Bifrost Native Coin",
             "symbol": "BNC"
+        },
+        "bigbtcsam": {
+            "id": "big-eth",
+            "name": "BIG ETH",
+            "symbol": "BIGETH"
         },
         "bigbomio": {
             "id": "bigbom-eco",
@@ -4140,6 +4160,11 @@
             "id": "cate-shiba",
             "name": "Cate Shiba",
             "symbol": "CHIBA"
+        },
+        "catenaxdex": {
+            "id": "catena-x",
+            "name": "Catena X",
+            "symbol": "CEX"
         },
         "catexexchange": {
             "id": "catex-token",
@@ -7856,6 +7881,11 @@
             "name": "EtherLite",
             "symbol": "ETL"
         },
+        "gyan0890": {
+            "id": "ethernaal",
+            "name": "Ethernaal",
+            "symbol": "NAAL"
+        },
         "etherparty": {
             "id": "etherparty",
             "name": "Etherparty",
@@ -9071,6 +9101,11 @@
             "name": "Gemini Dollar",
             "symbol": "GUSD"
         },
+        "gemitapp": {
+            "id": "gemit-app",
+            "name": "GEMIT.app",
+            "symbol": "GEMIT"
+        },
         "gemstones-finance": {
             "id": "gemstones",
             "name": "Gemstones",
@@ -9180,6 +9215,11 @@
             "id": "gimmer",
             "name": "Gimmer",
             "symbol": "GMR"
+        },
+        "grim-finance": {
+            "id": "ginspirit",
+            "name": "GinSpirit",
+            "symbol": "GINSPIRIT"
         },
         "givetokenco": {
             "id": "give-token",
@@ -9550,11 +9590,6 @@
             "id": "gridzone",
             "name": "GridZone.io",
             "symbol": "ZONE"
-        },
-        "grim-finance": {
-            "id": "grimtoken",
-            "name": "GrimToken",
-            "symbol": "GRIM"
         },
         "grinplusplus": {
             "id": "grin",
@@ -10717,7 +10752,7 @@
             "symbol": "INFX"
         },
         "infomatixdev": {
-            "id": "informatix",
+            "id": "infomatix",
             "name": "Infomatix",
             "symbol": "INFO"
         },
@@ -12346,6 +12381,11 @@
             "name": "Lixir Finance",
             "symbol": "LIX"
         },
+        "lizardtoken": {
+            "id": "lizard-token",
+            "name": "Lizard Token",
+            "symbol": "LIZARD"
+        },
         "llamafinance": {
             "id": "llamaswap",
             "name": "LlamaSwap",
@@ -12685,6 +12725,11 @@
             "id": "maincoin",
             "name": "MainCoin",
             "symbol": "MNC"
+        },
+        "mainframe-protocol": {
+            "id": "mainframe-protocol",
+            "name": "MainFrame Protocol",
+            "symbol": "VMAIN"
         },
         "hifi-finance": {
             "id": "mainframe",
@@ -13555,6 +13600,11 @@
             "id": "mixty-finance",
             "name": "Mixty Finance",
             "symbol": "MXF"
+        },
+        "miyazakiinu": {
+            "id": "miyazaki-inu",
+            "name": "Miyazaki Inu",
+            "symbol": "MIYAZAKI"
         },
         "mktcashofficial": {
             "id": "mktcash",
@@ -14976,6 +15026,11 @@
             "name": "OdinBrowser",
             "symbol": "ODIN"
         },
+        "odindao": {
+            "id": "odindao",
+            "name": "OdinDAO",
+            "symbol": "ODIN"
+        },
         "odinyblockchain": {
             "id": "odinycoin",
             "name": "Odinycoin",
@@ -15200,6 +15255,11 @@
             "id": "onx-finance",
             "name": "OnX Finance",
             "symbol": "ONX"
+        },
+        "oobit-tech": {
+            "id": "oobit",
+            "name": "Oobit",
+            "symbol": "OBT"
         },
         "opacity": {
             "id": "opacity",
@@ -15632,9 +15692,9 @@
             "symbol": "GOT"
         },
         "parrotdefifarm1": {
-            "id": "parrot-egg",
-            "name": "Parrot Egg",
-            "symbol": "IPEGG"
+            "id": "parrot-egg-polygon",
+            "name": "Polygon Parrot Egg",
+            "symbol": "PPEGG"
         },
         "particl": {
             "id": "particl",
@@ -16595,6 +16655,11 @@
             "id": "potentiam",
             "name": "Potentiam",
             "symbol": "PTM"
+        },
+        "moongusto": {
+            "id": "potion-brew-finance",
+            "name": "Potion Brew Finance",
+            "symbol": "BREW"
         },
         "povofinance": {
             "id": "povo-finance",
@@ -17666,6 +17731,11 @@
             "name": "Rivex",
             "symbol": "RVX"
         },
+        "rivrdoge": {
+            "id": "rivrdoge",
+            "name": "RivrDoge",
+            "symbol": "RIVRDOGE"
+        },
         "rivrshiba": {
             "id": "rivrshiba",
             "name": "RivrShiba",
@@ -18361,6 +18431,11 @@
             "name": "Score Milk",
             "symbol": "MILK"
         },
+        "scorpion-finance": {
+            "id": "scorpion-finance",
+            "name": "Scorpion Finance",
+            "symbol": "SCORPFIN"
+        },
         "scorpion-token": {
             "id": "scorpion-token",
             "name": "Scorpion Token",
@@ -18646,6 +18721,11 @@
             "name": "ShibaLink",
             "symbol": "SLINK"
         },
+        "shibamoneth": {
+            "id": "shibamon",
+            "name": "Shibamon",
+            "symbol": "SHIBAMON"
+        },
         "shibance": {
             "id": "shibance-token",
             "name": "Shibance Token",
@@ -18740,6 +18820,11 @@
             "id": "shitcoin",
             "name": "ShitCoin",
             "symbol": "SHIT"
+        },
+        "shockwavefinance": {
+            "id": "shockwave-finance",
+            "name": "Shockwave Finance",
+            "symbol": "WAVE"
         },
         "shoefy": {
             "id": "shoefy",
