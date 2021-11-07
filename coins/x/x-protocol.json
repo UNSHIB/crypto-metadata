@@ -1,0 +1,18 @@
+{
+    "id": "x-protocol",
+    "symbol": "pot",
+    "name": "X Protocol",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "X Protocol is the first metaverse+ application portal programmed using RUST language with source-generated gameplay and land economy model. \r\n\r\nIt also provides low-cost access to the Metaverse for DAPPs on heterogeneous chains, sharing X Protocol's users while making the X Protocol ecosystem more prosperous. \r\n\r\nX Protocol will strive to become the \u201cReady Player One\u201d\u2018s World + STEAM platform in the blockchain space. \r\n\r\nConsidering that Polka JS. wallet does not support mobile devices, X Protocol will be deployed on multiple public chains such as Polkadot, Solana, Polygon, Ethereum, BSC, etc. in order to serve more users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://x-protocol.com/",
+    "explorers": [],
+    "twitter": "X_Protocol_",
+    "telegram": "XPredictMarket",
+    "github_org": "XPredictMarket"
+}

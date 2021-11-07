@@ -1,0 +1,23 @@
+{
+    "id": "kubic",
+    "symbol": "kubic",
+    "name": "Kubic",
+    "platforms": {
+        "binance-smart-chain": "0x92dd5b17bdacbbe3868a09be5a3df93032c29ddb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KUBIC is the first regulated AMM where exchange assets are commodities and both buyer and seller are validated by KYC and AML and traceability"
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x92dd5b17bdacbbe3868a09be5a3df93032c29ddb",
+    "url": "https://www.defi.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x92dd5b17bdacbbe3868a09be5a3df93032c29ddb"
+    ],
+    "twitter": "Kubic_EN",
+    "telegram": "KUBIC_EN",
+    "github_org": "Woonkly"
+}

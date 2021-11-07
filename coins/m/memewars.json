@@ -1,0 +1,22 @@
+{
+    "id": "memewars",
+    "symbol": "mwar",
+    "name": "MemeWars",
+    "platforms": {
+        "binance-smart-chain": "0x9f28455a82baa6b4923a5e2d7624aaf574182585"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first ever DeFi game that allows players to strategically stake, defend and attack enemy staking pools. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f28455a82baa6b4923a5e2d7624aaf574182585",
+    "url": "https://memewars.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9f28455a82BAA6B4923A5e2d7624aAf574182585"
+    ],
+    "twitter": "MemeWarsCrypto",
+    "telegram": "officialmemewars"
+}

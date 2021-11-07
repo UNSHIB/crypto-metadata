@@ -1,0 +1,22 @@
+{
+    "id": "yokai-money",
+    "symbol": "yokai",
+    "name": "Yokai Money",
+    "platforms": {
+        "binance-smart-chain": "0xff4245b8fd43f75476608a94768ebb29bb678c2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xff4245b8fd43f75476608a94768ebb29bb678c2c",
+    "url": "https://yokai.money/",
+    "explorers": [
+        "https://bscscan.com/token/0xff4245b8fd43f75476608a94768ebb29bb678c2c"
+    ],
+    "twitter": "yokai_money",
+    "telegram": "Yokaimoney2"
+}

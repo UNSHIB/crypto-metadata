@@ -1,0 +1,22 @@
+{
+    "id": "footballgo",
+    "symbol": "fgsport",
+    "name": "FootBallGo",
+    "platforms": {
+        "binance-smart-chain": "0x9d12cc56d133fc5c60e9385b7a92f35a682da0bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"FootBallGo \u2014 Gamefi x NFT x Metaverse x Binance Smart Chain \r\nFootBallGo is a different Game \u2014 Financial ecosystem built on blockchain technology. We offer our users the opportunity to earn from Play-to-Earn mechanism through a football-themed video game. FootBallGo revolves around the plot of a virtual planet \u2014 FootBallMetaverse.\r\nFootBallGo owns outstanding features, creating a comprehensive ecosystem to help holder optimize their investment.\r\n- Digital real estate ownership\r\n- Play to Earn (PvE, PvP)\r\n- NFT Market\r\n- NFT Farming\r\nThis is one special thing only at FootBallGo \u2014 the first fully decentralized game with a football theme that allows you to decide and vote on how the football world works.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d12cc56d133fc5c60e9385b7a92f35a682da0bd",
+    "url": "https://footballgo.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9d12cc56d133fc5c60e9385b7a92f35a682da0bd"
+    ],
+    "twitter": "FootballGobsc",
+    "telegram": "FootballGobsc"
+}

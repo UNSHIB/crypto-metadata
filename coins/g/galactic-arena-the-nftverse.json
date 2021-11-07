@@ -1,0 +1,22 @@
+{
+    "id": "galactic-arena-the-nftverse",
+    "symbol": "gan",
+    "name": "Galactic Arena: The NFTverse",
+    "platforms": {
+        "binance-smart-chain": "0x8f1408171eae06aec4549fd0a5808a42cee6dd84"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Galactic Arena: The NFTverse is the first of its kind gaming platform where players can battle each other in real time, and earn crypto. \r\n\r\nIt also gives players the option to connect their gaming NFTs from external sources (other games) with the ecosystem and play. \r\n\r\nThis is the first time these capabilities have been introduced into GameFi, and this is the first project that was able to implement them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f1408171eae06aec4549fd0a5808a42cee6dd84",
+    "url": "https://galacticarena.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8f1408171eae06aec4549fd0a5808a42cee6dd84"
+    ],
+    "twitter": "GANFTverseBSC",
+    "telegram": "theNFTverseofficial"
+}

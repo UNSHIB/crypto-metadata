@@ -1,0 +1,22 @@
+{
+    "id": "shar-pei",
+    "symbol": "sharpei",
+    "name": "Shar Pei",
+    "platforms": {
+        "binance-smart-chain": "0xfe3af7376e412a377358d5894c790bb3e00d0dc1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fair Launch, Decentralized Meme Token on Binance Smart Chain. Ready to Change the Meme Standards For Ever. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe3af7376e412a377358d5894c790bb3e00d0dc1",
+    "url": "https://sharpeitoken.io",
+    "explorers": [
+        "https://bscscan.com/token/0xfe3af7376e412a377358d5894c790bb3e00d0dc1"
+    ],
+    "twitter": "shartoken",
+    "telegram": "SharPeiOfficial"
+}

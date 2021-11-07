@@ -1,0 +1,23 @@
+{
+    "id": "berserk-inu",
+    "symbol": "berserk",
+    "name": "Berserk Inu",
+    "platforms": {
+        "ethereum": "0x55ae8e43172e91fab2a9e97636023f4c87b4c470"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Berserk-inu is our guardian angel. He is not only watching out for all his friends, but he\u2019s also now a rising star in the world of crypto! future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x55ae8e43172e91fab2a9e97636023f4c87b4c470",
+    "url": "https://berserkinu.com",
+    "explorers": [
+        "https://etherscan.io/token/0x55ae8e43172e91fab2a9e97636023f4c87b4c470",
+        "https://ethplorer.io/address/0x55ae8e43172e91fab2a9e97636023f4c87b4c470"
+    ],
+    "twitter": "BerserkInu",
+    "telegram": "berserkinu"
+}

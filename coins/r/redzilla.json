@@ -1,0 +1,22 @@
+{
+    "id": "redzilla",
+    "symbol": "redz",
+    "name": "RedZilla",
+    "platforms": {
+        "binance-smart-chain": "0xf9e45bf69d369d3e1ad2e16bd3ec4006c330f33a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What is the RedZilla?\r\n\r\n         The RedZilla project is designed to not destroy all other memes tokens. In the not too distant future this will happen and then all eyes will be on the RedZilla community. Then the sun will rise again for memes tokens and a new era will begin in the crypto world. The RedZilla community are the fearless soldiers who will open this new era. It's still not too late to join us, why don't you join? Remember, without you, we are one person short.\r\n\r\nHow many RedZillatokens are there in circulation?\r\n\r\n         Initially, 1 quintillion RedZilla tokens were generated, but after that, 43.5% of the tokens were burned manually. Over time, this figure increased to 52.7% with taxes deducted from purchases and sales. RedZilla token charges 13% fee on every transaction. The nice thing about the RedZilla token is that the developer team is dedicated to the community without expecting any financial resources for them. So it will be easier for developers to destroy other meme tokens that they are constantly thinking about. Because RedZilla is a community, not a team.\r\n\r\nWho are the founders of RedZilla?\r\n\r\n          The RedZilla project was founded by Red Team, but as we mentioned earlier, Red Team gave up all its rights immediately after RedZilla was founded and dedicated RedZilla to the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9e45bf69d369d3e1ad2e16bd3ec4006c330f33a",
+    "url": "https://www.redzilla.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0xf9e45bf69d369d3e1ad2e16bd3ec4006c330f33a"
+    ],
+    "twitter": "RedZilla_Bsc",
+    "telegram": "RedZilla_Origin"
+}

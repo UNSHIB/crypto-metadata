@@ -1,0 +1,23 @@
+{
+    "id": "dfsocial-gaming-2",
+    "symbol": "dfsg",
+    "name": "DFSocial Gaming",
+    "platforms": {
+        "binance-smart-chain": "0x612c49b95c9121107be3a2fe1fcf1efc1c4730ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x612c49b95c9121107be3a2fe1fcf1efc1c4730ad",
+    "url": "https://dfsocial.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x612C49b95c9121107BE3A2FE1fcF1eFC1C4730AD"
+    ],
+    "twitter": "DFSocial_Gaming",
+    "telegram": "DFSocialAnnouncements",
+    "reddit": "https://www.reddit.com"
+}

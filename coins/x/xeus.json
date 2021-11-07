@@ -1,0 +1,24 @@
+{
+    "id": "xeus",
+    "symbol": "xeus",
+    "name": "XEUS",
+    "platforms": {
+        "binance-smart-chain": "0x4e141769366634d9c4e498257fa7ec204d22b634"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "XEUS is a decentralized reserve currency protocol based on the XEUS token. Each XEUS token is backed by a basket of assets (e.g. BUSD, DAI, LPs) in the XEUS treasury, giving it an intrinsic value that it cannot fall below. Xeus also introduces unique economic and game-theoretic dynamics into the market through staking and bonding. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e141769366634d9c4e498257fa7ec204d22b634",
+    "url": "http://xeus.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x4e141769366634d9c4e498257fa7ec204d22b634"
+    ],
+    "twitter": "xeus_finance",
+    "telegram": "xeusfinance"
+}
