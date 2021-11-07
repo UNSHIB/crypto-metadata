@@ -1,5 +1,5 @@
 {
-    "total_cryptos": 10542,
+    "total_cryptos": 10554,
     "orgs": {
         "zocteam": {
             "id": "01coin",
@@ -11726,6 +11726,11 @@
             "name": "Kuai Token",
             "symbol": "KT"
         },
+        "woonkly": {
+            "id": "kubic",
+            "name": "Kubic",
+            "symbol": "KUBIC"
+        },
         "kudoge": {
             "id": "kudoge",
             "name": "KuDoge",
@@ -22971,11 +22976,6 @@
             "name": "Woofy",
             "symbol": "WOOFY"
         },
-        "woonkly": {
-            "id": "woonkly-defi",
-            "name": "Woonkly Defi",
-            "symbol": "WDEFI"
-        },
         "workquest": {
             "id": "work-quest",
             "name": "Work Quest",
@@ -23075,6 +23075,11 @@
             "id": "x-cash",
             "name": "X-CASH",
             "symbol": "XCASH"
+        },
+        "xpredictmarket": {
+            "id": "x-protocol",
+            "name": "X Protocol",
+            "symbol": "POT"
         },
         "xworldgames": {
             "id": "x-world-games",
