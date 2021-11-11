@@ -21186,11 +21186,6 @@
             "name": "Tokocrypto",
             "symbol": "TKO"
         },
-        "ccxt": {
-            "id": "tokok",
-            "name": "Tokok",
-            "symbol": "TOK"
-        },
         "tokpie": {
             "id": "tokpie",
             "name": "TOKPIE",
