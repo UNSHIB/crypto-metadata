@@ -1,0 +1,23 @@
+{
+    "id": "bakedcake",
+    "symbol": "bakedcake",
+    "name": "BakedCake Finance",
+    "platforms": {
+        "binance-smart-chain": "0xdaef65a2d139893898ac4906dc1965abc1527ecd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Baked Caked features are the following:\r\nBakedCake.Finance - Dapp Features\r\n\r\nBakedCakeSwap - Innovative New\r\nNFT Treasure Chest with special rewards\r\nNFT Marketplace with Auctions\r\nNFT Staking - Get Rewards\r\nNFT Minting - Create your own NFT's\r\nGames - Play Games, Earn Rewards!\r\nLottery - Weekly Giveaways!\r\nCharts - BakedCake Charts, Clean simple\r\nUtilities - Limit Trade, Sniper"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdaef65a2d139893898ac4906dc1965abc1527ecd",
+    "url": "https://bakedcake.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xdaef65a2d139893898ac4906dc1965abc1527ecd"
+    ],
+    "twitter": "BakedCakeToken",
+    "telegram": "BakedCakeToken",
+    "reddit": "https://www.reddit.com"
+}

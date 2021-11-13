@@ -1,0 +1,22 @@
+{
+    "id": "metadoge",
+    "symbol": "metadoge",
+    "name": "MetaDoge",
+    "platforms": {
+        "binance-smart-chain": "0x31e7ddebc4b4c1a9ba91a761390445f887354b25"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaDoge is a community-driven project. We are a Memecoin + Utility in the crypto sphere. We have strong developer & marketing team to achieve our Moonshot mission. There is no other coin or token that exists today on the crypto space that is more ambitious and aggressive than our team here at MetaDoge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31e7ddebc4b4c1a9ba91a761390445f887354b25",
+    "url": "https://metadoge.live/",
+    "explorers": [
+        "https://bscscan.com/token/0x31e7ddebc4b4c1a9ba91a761390445f887354b25"
+    ],
+    "twitter": "MetaDogeBSC",
+    "telegram": "MetaDoge_Official"
+}

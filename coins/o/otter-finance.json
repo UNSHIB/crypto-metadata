@@ -1,0 +1,22 @@
+{
+    "id": "otter-finance",
+    "symbol": "otr",
+    "name": "Otter Finance",
+    "platforms": {
+        "solana": "6TgvYd7eApfcZ7K5Mur7MaUQ2xT7THB4cLHWuMkQdU5Z"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Otter Finance is a new meme token built on the solana network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "6TgvYd7eApfcZ7K5Mur7MaUQ2xT7THB4cLHWuMkQdU5Z",
+    "url": "https://www.otterfinance.site/",
+    "explorers": [
+        "https://solscan.io/token/6TgvYd7eApfcZ7K5Mur7MaUQ2xT7THB4cLHWuMkQdU5Z"
+    ],
+    "twitter": "otter_finance",
+    "github_org": "otterfinance"
+}

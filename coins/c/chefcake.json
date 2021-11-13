@@ -1,0 +1,22 @@
+{
+    "id": "chefcake",
+    "symbol": "chefcake",
+    "name": "ChefCake",
+    "platforms": {
+        "binance-smart-chain": "0x10e24a15bb2b49f6211401af82f0f3ebed05bf71"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10e24a15bb2b49f6211401af82f0f3ebed05bf71",
+    "url": "https://chefcake.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x10e24a15bb2b49f6211401af82f0f3ebed05bf71"
+    ],
+    "twitter": "ChefCakeBsc",
+    "telegram": "chefcakebsc"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "optimuscat",
+    "symbol": "opcat",
+    "name": "OptimusCat",
+    "platforms": {
+        "binance-smart-chain": "0x6a7a68397b47ecaab4bb3acd7c710be8e906e4ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Optimus Cat is a deflationary meme-token on Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a7a68397b47ecaab4bb3acd7c710be8e906e4ce",
+    "url": "https://www.optimuscat.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6A7A68397b47ECaab4Bb3acD7c710Be8e906E4cE",
+        "https://bscscan.com/token/0x6a7a68397b47ecaab4bb3acd7c710be8e906e4ce"
+    ],
+    "twitter": "OptimusCatBSC",
+    "telegram": "OptimusCat",
+    "reddit": "https://www.reddit.com"
+}

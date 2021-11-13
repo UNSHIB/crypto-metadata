@@ -1,0 +1,23 @@
+{
+    "id": "ethernal-finance",
+    "symbol": "ethfin",
+    "name": "Ethernal Finance",
+    "platforms": {
+        "binance-smart-chain": "0x17bd2e09fa4585c15749f40bb32a6e3db58522ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ethernal is a utility ecosystem that provides rewards in any top coins you want (e.g. ETH, BTC, BNB, SHIB) simply by holding, no need to stake or farm.\r\n\r\nA community-driven DeFi Token built on the Binance Smart Chain with an innovative reflections functionality and a focus on continuous, sustainable growth. Ethernal's main objective is to offer as much value as possible to its users through added utility.\r\n\r\nThe Ethernal project seeks to build upon famous reflection tokens such as Safemoon and\r\nEverGrow by adding an innovative functionality which allows users to claim rewards in up to 6 concurrent tokens of their choosing. In order to guarantee continuous usage, rewards, and valuation, the project team aims to launch new functionalities and marketing efforts regularly."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17bd2e09fa4585c15749f40bb32a6e3db58522ba",
+    "url": "https://ethernalfinance.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x17bd2e09fa4585c15749f40bb32a6e3db58522ba"
+    ],
+    "twitter": "ethernalfinance",
+    "telegram": "Ethernalfinance",
+    "reddit": "Ethernal_Finance/"
+}

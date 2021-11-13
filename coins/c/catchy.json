@@ -1,0 +1,22 @@
+{
+    "id": "catchy",
+    "symbol": "catchy",
+    "name": "Catchy",
+    "platforms": {
+        "binance-smart-chain": "0x2789604fe261adc1aed3927f41277d8bffe33c36"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$CATCHY is a  BSC token focused on making crypto tracking simple and accessible. The token has already developed the first multichain telegram wallet tracker. Holders of the token will have access to premium features in all their crypto tracking tools.\r\nThe CatchyCoin team has 7 members on board with three developers who maintain and update our product, a marketing expert who knows his way around crypto, two community managers who keep our users informed and gather feedback, and a graphic designer who guides the visual direction of our brand and product. The team's vision extends far beyond what is currently offered. We wish to expand Catchy Wallet Bot's utility to include more appealing visual designs, intuitive analytics, and possibly other chains. With the help of our community, we want to make CatchyCoin a household name in crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2789604fe261adc1aed3927f41277d8bffe33c36",
+    "url": "https://catchy.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2789604fe261adc1aed3927f41277d8bffe33c36"
+    ],
+    "twitter": "CatchyBSC",
+    "telegram": "CATCHYTOKEN"
+}

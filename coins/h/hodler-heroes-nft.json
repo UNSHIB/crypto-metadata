@@ -1,0 +1,23 @@
+{
+    "id": "hodler-heroes-nft",
+    "symbol": "hhnft",
+    "name": "Hodler Heroes NFT",
+    "platforms": {
+        "binance-smart-chain": "0x882fd7db274b32dd0361931c406f7cf058bac822"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x882fd7db274b32dd0361931c406f7cf058bac822",
+    "url": "https://hodlerheroes.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x882fd7db274b32dd0361931c406f7cf058bac822"
+    ],
+    "twitter": "hodlerheroesnft",
+    "telegram": "hodlerheroesgerman",
+    "github_org": "HodlerHeroes"
+}

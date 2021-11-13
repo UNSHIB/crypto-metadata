@@ -1,0 +1,23 @@
+{
+    "id": "fren",
+    "symbol": "fren",
+    "name": "FREN",
+    "platforms": {
+        "ethereum": "0x37941b3fdb2bd332e667d452a58be01bcacb923e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "we are all frens. FREN is a tribute token similiar to \"\"gm\"\" and \"\"gn\"\". It's a popular meme on crypto twitter and we will be contributing.\r\n\r\nplay together, laugh together, invest together. utility will be coming too."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x37941b3fdb2bd332e667d452a58be01bcacb923e",
+    "url": "https://www.hellofren.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x37941b3fdb2bd332e667d452a58be01bcacb923e",
+        "https://ethplorer.io/address/0x37941b3fdb2bd332e667d452a58be01bcacb923e"
+    ],
+    "twitter": "FRENwgmi",
+    "telegram": "frenTokenETH"
+}

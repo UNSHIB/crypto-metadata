@@ -1,0 +1,24 @@
+{
+    "id": "aquarius",
+    "symbol": "aqua",
+    "name": "Aquarius",
+    "platforms": {
+        "stellar": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AQUA is the currency for rewards and on-chain voting on the Stellar network. The Aquarius project has been designed to supercharge trading on Stellar, bring more liquidity and give control over how it is distributed across various market pairs of Stellar\u2019s internal Decentralized Exchange (SDEX).\r\n\r\nAquarius allows the community to set market making rewards for selected markets through on-chain voting. AQUA holders can vote for market pairs that need more liquidity and select trusted assets. Both DEX traders and LPs can earn AQUA rewards on selected market pairs based on their participation with market making on the Stellar blockchain.\r\n\r\nAQUA holders will be able to participate in DAO voting to decide the direction of the Community DAO Fund and navigate future Aquarius developments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA",
+    "url": "https://aqua.network",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/AQUA-GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA"
+    ],
+    "twitter": "aqua_token",
+    "telegram": "aqua_token",
+    "reddit": "AquariusAqua",
+    "github_org": "AquaToken"
+}

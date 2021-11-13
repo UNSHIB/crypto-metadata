@@ -1,0 +1,24 @@
+{
+    "id": "dynasty-global-investments-ag",
+    "symbol": "dyn",
+    "name": "Dynasty Global Investments AG",
+    "platforms": {
+        "ethereum": "0x65167e381388bc803aa2f22cd99d093068e98007"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x65167e381388bc803aa2f22cd99d093068e98007",
+    "url": "https://dynastygi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x65167E381388Bc803Aa2F22cd99d093068E98007",
+        "https://ethplorer.io/address/0x65167e381388bc803aa2f22cd99d093068e98007",
+        "https://etherscan.io/token/0x65167e381388bc803aa2f22cd99d093068e98007"
+    ],
+    "twitter": "Dynasty_GI",
+    "telegram": "dynastygi"
+}

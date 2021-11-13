@@ -1,0 +1,22 @@
+{
+    "id": "little-tsuki-inu",
+    "symbol": "liltk",
+    "name": "Little Tsuki Inu",
+    "platforms": {
+        "ethereum": "0xcdf6e6d4b5c840478a4b38a5c42224f5c0e6f858"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcdf6e6d4b5c840478a4b38a5c42224f5c0e6f858",
+    "url": "https://www.littletsukiinu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xcdf6e6d4b5c840478a4b38a5c42224f5c0e6f858",
+        "https://ethplorer.io/address/0xcdf6e6d4b5c840478a4b38a5c42224f5c0e6f858"
+    ],
+    "telegram": "littletsukiinu"
+}

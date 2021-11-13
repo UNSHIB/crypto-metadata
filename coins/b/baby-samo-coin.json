@@ -1,0 +1,23 @@
+{
+    "id": "baby-samo-coin",
+    "symbol": "baby",
+    "name": "Baby Samo Coin",
+    "platforms": {
+        "solana": "Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "In October 2021 Baby Samo Coin was born on the Solana blockchain to deliver a new generation of meme powered gains. Our tokenomics work to solve illiquid NFT's by reserving 40% of the total supply to exchange and burn Baby Samo NFT's for the $BABY coin. Half of the Baby Samo NFT mint proceeds go to buy-back and burn $BABY on the open market, creating a positive feedback loop between $BABY and Baby Samo NFT holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH",
+    "url": "https://www.babysamocoin.com/",
+    "explorers": [
+        "https://solscan.io/token/Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH"
+    ],
+    "twitter": "BabySamoCoin",
+    "telegram": "BabySamoCoin",
+    "reddit": "BabySamo/"
+}

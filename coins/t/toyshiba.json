@@ -1,0 +1,22 @@
+{
+    "id": "toyshiba",
+    "symbol": "toyshiba",
+    "name": "ToySHIBA",
+    "platforms": {
+        "binance-smart-chain": "0x6d050f273d1588af26f61bf58f4d98effb3dba82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ToySHIB is a charity driven token which strives to help children  whom are less fortunate."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6d050f273d1588af26f61bf58f4d98effb3dba82",
+    "url": "https://www.toyshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6d050f273d1588af26f61bf58f4d98effb3dba82"
+    ],
+    "twitter": "toyshib",
+    "telegram": "ToySHIBACOIN"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "dogethefloki",
+    "symbol": "dtf",
+    "name": "DogeTheFloki",
+    "platforms": {
+        "binance-smart-chain": "0x9680c8cea945816dc0c0d3ea047925181b6bc06b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DodgetheFloki is decentralised token on the Binance smart chain network. The project has been created by an experienced business management team along with some of the best P2E game developers in the Crypto space. Our vision is to create 12 of the most exciting and addictive P2E games on the Bsc network.\r\nOur main focus will be P2E gaming but we won't be forgetting the NFT hype and will be establishing our exclusive NFT collection based on DodgetheFloki gaming characters. We will do all this whilst giving you SUPER LOW TAXES! BNB REWARDS\r\n\r\nJoin Dodgethefloki on our mission to Mars!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9680c8cea945816dc0c0d3ea047925181b6bc06b",
+    "url": "https://www.dodgethefloki.com",
+    "explorers": [
+        "https://bscscan.com/token/0x9680c8cea945816dc0c0d3ea047925181b6bc06b"
+    ],
+    "twitter": "dodgethefloki",
+    "telegram": "dodgetheflokiofficial"
+}

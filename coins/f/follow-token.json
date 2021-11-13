@@ -1,0 +1,24 @@
+{
+    "id": "follow-token",
+    "symbol": "folo",
+    "name": "Follow Token",
+    "platforms": {
+        "ethereum": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a",
+    "url": "https://alphaimpact.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xb2a63a5dd36c91ec2da59b188ff047f66fac122a",
+        "https://ethplorer.io/address/0xb2a63a5dd36c91ec2da59b188ff047f66fac122a"
+    ],
+    "twitter": "AlphaImpact_fi",
+    "telegram": "alphaimpact_fi",
+    "github_org": "alphaimpact-fi"
+}

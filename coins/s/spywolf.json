@@ -1,0 +1,22 @@
+{
+    "id": "spywolf",
+    "symbol": "$spy",
+    "name": "Spywolf",
+    "platforms": {
+        "binance-smart-chain": "0xc2d0f6b7513994a1ba86cef3aac181a371a4ca0c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The $SPY token, created by SpyWolf, is aimed to eliminate monetary fraud in the crypto space and help investors gain their trust back through an ecosystem of helpful resources."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc2d0f6b7513994a1ba86cef3aac181a371a4ca0c",
+    "url": "https://spywolf.co/token/",
+    "explorers": [
+        "https://bscscan.com/token/0xc2d0f6b7513994a1ba86cef3aac181a371a4ca0c"
+    ],
+    "twitter": "SpyWolfNetwork",
+    "telegram": "SpyWolfNetwork"
+}

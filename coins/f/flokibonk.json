@@ -1,0 +1,24 @@
+{
+    "id": "flokibonk",
+    "symbol": "flobo",
+    "name": "FlokiBonk",
+    "platforms": {
+        "binance-smart-chain": "0x9d3e14b607b2f569cfafe29af71e811d7e575cfe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d3e14b607b2f569cfafe29af71e811d7e575cfe",
+    "url": "https://flokibonk.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9d3e14b607b2f569cfafe29af71e811d7e575cfe"
+    ],
+    "twitter": "FLOKO_BONKO",
+    "telegram": "flokibonk",
+    "reddit": "FlokiBonk/",
+    "github_org": "FlokiBonk"
+}

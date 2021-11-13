@@ -1,0 +1,23 @@
+{
+    "id": "goal-token",
+    "symbol": "goal",
+    "name": "Goal Token",
+    "platforms": {
+        "binance-smart-chain": "0x438fc473ba340d0734e2d05acdf5bee775d1b0a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x438fc473ba340d0734e2d05acdf5bee775d1b0a4",
+    "url": "https://footballertoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x438fc473ba340d0734e2d05acdf5bee775d1b0a4"
+    ],
+    "twitter": "footballertoken",
+    "telegram": "GOALtoken",
+    "reddit": "FootballerToken/"
+}

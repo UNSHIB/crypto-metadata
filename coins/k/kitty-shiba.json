@@ -1,0 +1,22 @@
+{
+    "id": "kitty-shiba",
+    "symbol": "kshiba",
+    "name": "Kitty Shiba",
+    "platforms": {
+        "binance-smart-chain": "0xc978ba9309f3c3be3a79302251a2bb041baa7118"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc978ba9309f3c3be3a79302251a2bb041baa7118",
+    "url": "https://kittyshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc978ba9309f3c3be3a79302251a2bb041baa7118"
+    ],
+    "twitter": "kittyshiba",
+    "telegram": "kittyshiba"
+}

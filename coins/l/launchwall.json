@@ -1,0 +1,23 @@
+{
+    "id": "launchwall",
+    "symbol": "wall",
+    "name": "LaunchWall",
+    "platforms": {
+        "binance-smart-chain": "0x07a9e0f02a129fd420fbeda766bd793860a9e812"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launchwall is the best presale research & enhancement platform.\r\n\r\n$WALL is a utility token with reward mechanisms driven by user engagement and platform revenue."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07a9e0f02a129fd420fbeda766bd793860a9e812",
+    "url": "https://www.launchwall.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x07A9E0f02a129Fd420fbeda766bd793860a9E812",
+        "https://bscscan.com/token/0x07a9e0f02a129fd420fbeda766bd793860a9e812"
+    ],
+    "twitter": "launchwall",
+    "telegram": "launchwall"
+}

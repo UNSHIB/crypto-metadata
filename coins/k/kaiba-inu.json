@@ -1,0 +1,24 @@
+{
+    "id": "kaiba-inu",
+    "symbol": "kaiba",
+    "name": "Kaiba Inu",
+    "platforms": {
+        "ethereum": "0x8bb048845ee0d75be8e07954b2e1e5b51b64b442"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kaiba Inu is currently on the Ethereum network and is available to purchase by inputting our contract address into a DEX such as uniswap.\r\nKaiba Inu is here to bring something brand new to the Ethereum network. Our vision revolves around an ecosystem that is fun and fair for investors. We\u2019ve designed a revolutionary gas fee optimiser that ensures that you never pay more than you need to for gas. Our roadmap includes, a gas tracker DApp, staking, custom minted NFTs, and a marketplace. High gas fees plague the ethereum network and put off many potential investors, forcing them to stay on other, cheaper chains. With Kaiba Inu, everyone has the chance to join in. The gas optimiser is a proprietary feature of Kaiba Inu which incorporates middleware to monitor gas price and automatically decide if the swap should go through, or saved for a more optimal time.\r\nNever pay for excess gas again. Our proprietary gas fee optimizer ensures you\u2019ll always pay the bare minimum in gas to get your transaction in. This allows investors both big and small to secure their spot with Kaiba Inu. We designed an automated system that, in high gas price conditions, won't burden the activity on the token with all the internal transactions that can be easily be postponed for more favourable conditions. \r\nOur tax system is designed to ensure the longevity of the token l, and to make sure that the team has the ability to market Kaiba Inu to the standard it deserves. Kaiba Inu\u2019s tax per transaction is just 6%, 4% of this goes to the liquidity pool to ensure stability, 2% goes to the marketing wallet to give us the ability to spread the word about Kaiba Inu.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8bb048845ee0d75be8e07954b2e1e5b51b64b442",
+    "url": "https://www.kaibainu.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8bb048845ee0d75be8e07954b2e1e5b51b64b442",
+        "https://ethplorer.io/address/0x8bb048845ee0d75be8e07954b2e1e5b51b64b442"
+    ],
+    "twitter": "kaiba_inu",
+    "telegram": "kaibainuofficial",
+    "reddit": "https://www.reddit.com"
+}

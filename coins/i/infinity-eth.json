@@ -1,0 +1,24 @@
+{
+    "id": "infinity-eth",
+    "symbol": "ieth",
+    "name": "Infinity ETH",
+    "platforms": {
+        "binance-smart-chain": "0x16f761f89967a1dfc8e851a48904fb0c177bb373"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "InfinityETH is one of the first Ethereum reflection token running on Binance Smart Chain. Simply hold tokens and get rewarded in Ethereum on every transaction.\r\n\r\nWith the auto-claim feature, you will receive ETH automatically in your wallet \r\n\r\nTax Distribution: 7% dividend 4% split between marketing and buyback 2% liquidity"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16f761f89967a1dfc8e851a48904fb0c177bb373",
+    "url": "https://infinityeth.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x16F761F89967A1dFC8E851a48904FB0c177bB373",
+        "https://bscscan.com/token/0x16f761f89967a1dfc8e851a48904fb0c177bb373"
+    ],
+    "twitter": "infinity_eth",
+    "telegram": "infinity_eth",
+    "reddit": "https://www.reddit.comr/CryptoMoonShots/comments/qf7uua/dont_miss_infinityetha_bsc_gem_that_gives_passive/"
+}

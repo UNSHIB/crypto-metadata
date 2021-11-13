@@ -1,0 +1,24 @@
+{
+    "id": "bsc33dao",
+    "symbol": "bsc33",
+    "name": "BSC33DAO",
+    "platforms": {
+        "binance-smart-chain": "0x25559a80e1f6e0d6db28848003716a555727ca55"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Financial tools to grow your wealth - stake and earn compounding interest"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25559a80e1f6e0d6db28848003716a555727ca55",
+    "url": "https://www.bsc33.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x25559A80e1f6E0D6Db28848003716a555727Ca55",
+        "https://bscscan.com/token/0x25559a80e1f6e0d6db28848003716a555727ca55"
+    ],
+    "twitter": "Bsc33DAO",
+    "telegram": "BSC33GROUP",
+    "github_org": "BSC33DAO"
+}

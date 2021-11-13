@@ -1,0 +1,22 @@
+{
+    "id": "sol-fox",
+    "symbol": "sfox",
+    "name": "Sol Fox",
+    "platforms": {
+        "solana": "3TMdBbnXKASdx9rBcZ5HQsyqCky7Gt2ea44gYB6Ro15A"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our focus is becoming a functional cogwheel in the crypto space, a small piece of the puzzle that puts it all together. Our team consists of 3 core members; \r\none possessing years of experience web and app developer,\r\none who has 5 years of experience being a senior team leader in game design,\r\nand myself, who is a passionate crypto enthusiast that has been working to mobilize my team to get something brought to market.\r\n\r\nOur token at the moment has no use case, it currently is simply a meme-token within the Solana ecosystem, however we aim to become much more than that. Our current direction remains somewhat uncertain, one step at a time with goal-posts in mind is what is important.\r\n\r\nWe hope to use this project to bring about a friendly community within the booming Solana ecosystem, welcoming and assisting newcommers into this space. On the early horizons we forsee an NFT launch, and we are gunning for the release of our own Dex."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "3TMdBbnXKASdx9rBcZ5HQsyqCky7Gt2ea44gYB6Ro15A",
+    "url": "http://www.solfox.org/",
+    "explorers": [
+        "https://solscan.io/token/3TMdBbnXKASdx9rBcZ5HQsyqCky7Gt2ea44gYB6Ro15A"
+    ],
+    "twitter": "Solfox_official",
+    "telegram": "Solfox_Official"
+}

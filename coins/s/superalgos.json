@@ -1,0 +1,24 @@
+{
+    "id": "superalgos",
+    "symbol": "sa",
+    "name": "Superalgos",
+    "platforms": {
+        "binance-smart-chain": "0xfb981ed9a92377ca4d75d924b9ca06df163924fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfb981ed9a92377ca4d75d924b9ca06df163924fd",
+    "url": "https://superalgos.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xfb981ed9a92377ca4d75d924b9ca06df163924fd"
+    ],
+    "twitter": "superalgos",
+    "telegram": "superalgoscommunity",
+    "reddit": "Superalgos/",
+    "github_org": "Superalgos"
+}

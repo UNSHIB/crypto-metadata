@@ -1,0 +1,21 @@
+{
+    "id": "nora-token",
+    "symbol": "nra",
+    "name": "Nora Token",
+    "platforms": {
+        "solana": "1C2EYVrwmoXAGbiKirFFBeDFDYUBHPhDeg9trhibTND"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NORA TOKEN is a community own token build on solana for community. Top holders are entitled to SolNoraNFT."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "1C2EYVrwmoXAGbiKirFFBeDFDYUBHPhDeg9trhibTND",
+    "url": "https://solananora.com/",
+    "explorers": [
+        "https://solscan.io/token/1C2EYVrwmoXAGbiKirFFBeDFDYUBHPhDeg9trhibTND"
+    ],
+    "twitter": "SolNoraToken"
+}

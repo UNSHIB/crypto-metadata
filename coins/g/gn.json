@@ -1,0 +1,23 @@
+{
+    "id": "gn",
+    "symbol": "gn",
+    "name": "GN",
+    "platforms": {
+        "ethereum": "0xc5019e129b75d380d3d837b8e609dec6c8f5d044"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$GN was created to pay respects to all of us who missed airdrops, pumps, and the millions GMers made while we were sleeping. We are here to cope together. We are here to make it with $GN."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc5019e129b75d380d3d837b8e609dec6c8f5d044",
+    "url": "https://ngmi-gn.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc5019e129b75d380d3d837b8e609dec6c8f5d044",
+        "https://ethplorer.io/address/0xc5019e129b75d380d3d837b8e609dec6c8f5d044"
+    ],
+    "twitter": "ngmigntoken",
+    "telegram": "ngmign"
+}

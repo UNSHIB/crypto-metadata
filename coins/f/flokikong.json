@@ -1,0 +1,22 @@
+{
+    "id": "flokikong",
+    "symbol": "kong",
+    "name": "FlokiKong",
+    "platforms": {
+        "binance-smart-chain": "0x8f7ff372869a25eded0c094e854e66c3a471de3d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A deflationary token designed to provide lucrative passive income through native token reflections. Backed by huge budget guerrilla marketing campaigns.\r\n\r\nPinksale Presale - Tuesday, 9th November\r\nPancakeSwap Launch - Wednesday 10th, November\r\n\r\nTOKENOMICS\r\n\r\n9% BUY/SELL TAX\r\n\r\n\ud83d\udcb9 5% MARKETING\r\n\ud83e\udd11 3% REFLECTION\r\n\ud83c\udf7c 1% LIQUIDITY POOL\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f7ff372869a25eded0c094e854e66c3a471de3d",
+    "url": "https://www.flokikong.org",
+    "explorers": [
+        "https://bscscan.com/token/0x8f7ff372869a25eded0c094e854e66c3a471de3d"
+    ],
+    "twitter": "FlokiKong",
+    "telegram": "FlokiKong"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "spike-inu",
+    "symbol": "spki",
+    "name": "Spike Inu",
+    "platforms": {
+        "ethereum": "0x0f3debf94483beecbfd20167c946a61ea62d000f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Spike Inu ($SPKI) is a community-focused Defi crypto project, which includes the charity Spike  Cross-chain Swap, Dex and Spike NFT marketplace, Spike wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f3debf94483beecbfd20167c946a61ea62d000f",
+    "url": "https://spikeinu.io",
+    "explorers": [
+        "https://etherscan.io/token/0x0f3debf94483beecbfd20167c946a61ea62d000f",
+        "https://ethplorer.io/address/0x0f3debf94483beecbfd20167c946a61ea62d000f"
+    ],
+    "twitter": "spikeinuio",
+    "telegram": "SpikeInuGlobal"
+}

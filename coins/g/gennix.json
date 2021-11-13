@@ -1,0 +1,22 @@
+{
+    "id": "gennix",
+    "symbol": "gnnx",
+    "name": "Gennix",
+    "platforms": {
+        "binance-smart-chain": "0x022b0f871edc12b1549f894e3a2d721bbef7519b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gennix is a decentralized, frictionless digital asset borrowing/lending protocol that leverages Layer 2 scaling solutions in the Binance Smart Chain Ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x022b0f871edc12b1549f894e3a2d721bbef7519b",
+    "url": "https://www.gennix.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x022b0f871eDc12B1549f894e3A2d721BBEf7519b"
+    ],
+    "twitter": "gennixdefi",
+    "telegram": "GennixCommunity"
+}

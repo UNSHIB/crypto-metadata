@@ -1,0 +1,25 @@
+{
+    "id": "pancake-games",
+    "symbol": "gcake",
+    "name": "Pancake Games",
+    "platforms": {
+        "ethereum": "0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
+        "binance-smart-chain": "0x61d5822dd7b3ed495108733e6550d4529480c8f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pancake Games is the NFT game project that no one has experienced."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
+    "url": "https://pancakegames.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
+        "https://ethplorer.io/address/0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
+        "https://bscscan.com/token/0x61d5822dd7b3ed495108733e6550d4529480c8f6"
+    ],
+    "twitter": "NFTpancakegames",
+    "telegram": "PancakeGames"
+}

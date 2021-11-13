@@ -1,0 +1,17 @@
+{
+    "id": "yin-finance",
+    "symbol": "yin",
+    "name": "YIN Finance",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YIN Finance is a multi-strategy NFT liquidity management platform that allows users to subscribe to the project\u2019s strategies (CHIs) to achieve effective high-yield liquidity management on different public chains and decentralized exchanges. In addition to CHI, there is the native platform token $YIN, as well as an NFT Vault to be released named YANG, and leveraged yield farming in their GRAND MASTER module."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://yin.finance",
+    "explorers": [],
+    "telegram": "YinFinance",
+    "github_org": "YinFinance"
+}

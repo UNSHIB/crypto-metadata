@@ -1,0 +1,22 @@
+{
+    "id": "dkey-bank",
+    "symbol": "dkey",
+    "name": "DKEY Bank",
+    "platforms": {
+        "binance-smart-chain": "0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DKEY Bank is a decentralized financial ecosystem empowering people to control their finances by generating passive income on crypto assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1",
+    "url": "https://dkey.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1"
+    ],
+    "twitter": "Dkeybank",
+    "github_org": "dkeyissuer"
+}

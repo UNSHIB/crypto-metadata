@@ -1,0 +1,22 @@
+{
+    "id": "premio",
+    "symbol": "premio",
+    "name": "Premio",
+    "platforms": {
+        "celo": "0x94140c2ea9d208d8476ca4e3045254169791c59e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Premio, meaning \u201caward\u201d in Esperanto, is a token on Celo that enables the distribution of awards on a blockchain network. Premio is a decentralized award distribution programme that provides several incentives for different marketing activities including but not limited to loyalty programmes, staking and farming.\r\n\r\nThrough Premio, companies in the real and crypto world can strategize several promotional incentives and reach out to their target market without complex, irrelevant or valueless rewards. Premio also helps crypto assets participate in different Defi functions such as staking and farming activities by offering Premio tokens to its audience.\r\n\r\nBy being on the Celo network, Premio will gain the competitive advantage of offering fast and secure transactions with very low costs, thus enabling companies in consumer goods and other low reward per person loyalty programmes to successfully perform their initiatives without any constraints."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x94140c2ea9d208d8476ca4e3045254169791c59e",
+    "url": "http://premio.finance/",
+    "explorers": [
+        "https://explorer.celo.org/token/0x94140c2eA9D208D8476cA4E3045254169791C59e/token-transfers"
+    ],
+    "twitter": "premiofinance",
+    "telegram": "PREMIOFINANCE"
+}

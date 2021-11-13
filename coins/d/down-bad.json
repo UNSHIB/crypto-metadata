@@ -1,0 +1,23 @@
+{
+    "id": "down-bad",
+    "symbol": "db",
+    "name": "Down Bad",
+    "platforms": {
+        "ethereum": "0x73c0120afa56c74cbe5d8c9ad73979787aba91fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$DB is an ERC20 meme token. DB was created to pay respect to those who are down bad and to give them a way out."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73c0120afa56c74cbe5d8c9ad73979787aba91fc",
+    "url": "https://downbadtoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x73c0120afa56c74cbe5d8c9ad73979787aba91fc",
+        "https://ethplorer.io/address/0x73c0120afa56c74cbe5d8c9ad73979787aba91fc"
+    ],
+    "twitter": "DownBadToken",
+    "telegram": "downbadtoken"
+}

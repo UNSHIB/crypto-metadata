@@ -1,0 +1,23 @@
+{
+    "id": "party-v2",
+    "symbol": "party",
+    "name": "Party",
+    "platforms": {
+        "avalanche": "0x25afd99fcb474d7c336a2971f26966da652a92bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25afd99fcb474d7c336a2971f26966da652a92bc",
+    "url": "https://partyswap.io/",
+    "explorers": [
+        "https://snowtrace.io/token/0x25afD99fcB474D7C336A2971F26966da652a92bc"
+    ],
+    "twitter": "partyswapdex",
+    "telegram": "partyswap",
+    "github_org": "PartySwapDEX"
+}

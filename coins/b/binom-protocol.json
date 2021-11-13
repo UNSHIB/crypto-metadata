@@ -1,0 +1,22 @@
+{
+    "id": "binom-protocol",
+    "symbol": "binom",
+    "name": "Binom Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x6a4368c8358488c0ab37f561fcb16ab751917201"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Binom Protocol is the governance token of the Binomial Labs Foundation and its prodcuts.\r\nBinom Protocol is Agile, Resilient and connected to Binomial Labs Foundation's ecological model as it is the canary of the coal mine for the products of Binomial Labs Foundation which are LandGrapper, BidHunt and GabblerApp."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a4368c8358488c0ab37f561fcb16ab751917201",
+    "url": "https://binom.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x6a4368c8358488c0ab37f561fcb16ab751917201"
+    ],
+    "twitter": "binomprotocol",
+    "telegram": "BinomProtocolOfficial"
+}

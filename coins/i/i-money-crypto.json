@@ -1,0 +1,23 @@
+{
+    "id": "i-money-crypto",
+    "symbol": "imc",
+    "name": "i Money Crypto",
+    "platforms": {
+        "ethereum": "0xbf0741e995f469d39e4f96c0780f9a8e43f4b978"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IMC (i money crypto) is a real utility token from WY USA for global everyday life, backed by real e-commerce communities, like G Point community. IMC is the first Blockchain solution in the market that offers a marketplace for goods and services where merchants can pay their suppliers in Gpoints which can be converted to IMC. All transactions are done through the G-Wallet app where users can eventually exchange tokens for G-points and buy coins with the G-wallet app."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf0741e995f469d39e4f96c0780f9a8e43f4b978",
+    "url": "https://www.imctoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbf0741e995f469d39e4f96c0780f9a8e43f4b978",
+        "https://ethplorer.io/address/0xbf0741e995f469d39e4f96c0780f9a8e43f4b978"
+    ],
+    "twitter": "imc_token",
+    "telegram": "imoneycrypto1"
+}

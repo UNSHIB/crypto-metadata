@@ -1,0 +1,23 @@
+{
+    "id": "1box",
+    "symbol": "1box",
+    "name": "1BOX",
+    "platforms": {
+        "binance-smart-chain": "0x82160113b730fc0b36c18795cc976fda93ccc1e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An NFT marketplace dedicated to bringing top-notch IPs into the metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82160113b730fc0b36c18795cc976fda93ccc1e1",
+    "url": "https://www.1boxnft.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x82160113b730fC0B36C18795CC976fda93ccc1e1",
+        "https://bscscan.com/token/0x82160113b730fc0b36c18795cc976fda93ccc1e1"
+    ],
+    "twitter": "1boxnft",
+    "telegram": "ONEBOX_EN"
+}

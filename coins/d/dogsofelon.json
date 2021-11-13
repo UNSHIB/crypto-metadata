@@ -1,0 +1,25 @@
+{
+    "id": "dogsofelon",
+    "symbol": "doe",
+    "name": "Dogs Of Elon",
+    "platforms": {
+        "ethereum": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
+    "url": "https://dogsofelon.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
+        "https://ethplorer.io/address/0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef"
+    ],
+    "twitter": "dogsofelon",
+    "telegram": "dogsofelon"
+}

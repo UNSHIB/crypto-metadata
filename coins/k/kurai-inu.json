@@ -1,0 +1,23 @@
+{
+    "id": "kurai-inu",
+    "symbol": "kurai",
+    "name": "Kurai Inu",
+    "platforms": {
+        "binance-smart-chain": "0x70c82588fcc570cd4885ca50b8d34c225f431ee8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KURAI INU, also known as the dark Shiba, was created with a goal to combine an instantly recognisable and loveable Meme Token with strong utility. Kurai Inu will achieve this goal by, firstly, establishing strong brand-awareness with cutting edge graphics and engaging content, and by secondly launching the highly anticipated SafetySwap. SafetySwap is Kurai Inu's own decentralised exchange platform, designed with ease of use and safety in mind. SafetySwap will provide users with the ability to trade any BSC Token and, in a phase two rollout, will implement an Ethereum Bridge, to allow the additional trading of any ETH Token and expand the reach of the Kurai Inu project, onto another network, targetting new investors. Additional features within SafetySwap include Staking (initially of the Kurai Inu native token, $KURAI, but there are future plans to provide staking pools of various BSC & ETH Tokens) and a Dashboard, displaying the user's fund values in USD and $KURAI. The Kurai Inu team ensure that transparency, user safety and community"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70c82588fcc570cd4885ca50b8d34c225f431ee8",
+    "url": "https://kuraiinu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x70C82588FCc570cd4885CA50b8d34c225f431EE8",
+        "https://bscscan.com/token/0x70c82588fcc570cd4885ca50b8d34c225f431ee8"
+    ],
+    "twitter": "kuraiinutoken",
+    "telegram": "kuraiinu"
+}

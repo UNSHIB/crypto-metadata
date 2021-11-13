@@ -1,0 +1,22 @@
+{
+    "id": "nickel-token",
+    "symbol": "nickel",
+    "name": "Nickel Token",
+    "platforms": {
+        "binance-smart-chain": "0x8a660e26de13178d7847cf6061a360fdf987e697"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Nickel is a decentralized utility token built on the Binance smart chain. This celebrity backed BEP-20 token will bridge the gap of entertainers, artists, and content creators with their fans through creative use cases."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a660e26de13178d7847cf6061a360fdf987e697",
+    "url": "https://nickeltoken.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8a660e26de13178d7847cf6061a360fdf987e697"
+    ],
+    "twitter": "NickelToken",
+    "telegram": "NickelToken"
+}

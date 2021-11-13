@@ -1,0 +1,23 @@
+{
+    "id": "rocketbusd",
+    "symbol": "rocketbusd",
+    "name": "RocketBUSD",
+    "platforms": {
+        "binance-smart-chain": "0x17fabaf66256fb40f350576bafa1807429708e34"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17fabaf66256fb40f350576bafa1807429708e34",
+    "url": "http://www.rocketbusd.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x17fabaf66256fb40f350576bafa1807429708e34"
+    ],
+    "twitter": "RocketBusd",
+    "telegram": "RocketBUSD",
+    "reddit": "https://www.reddit.com"
+}

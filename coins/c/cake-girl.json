@@ -1,0 +1,22 @@
+{
+    "id": "cake-girl",
+    "symbol": "cakegirl",
+    "name": "Cake Girl",
+    "platforms": {
+        "binance-smart-chain": "0xdc9a806e3304abf847aa6bf09b0d8883f20a5c08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdc9a806e3304abf847aa6bf09b0d8883f20a5c08",
+    "url": "https://www.cakegirl.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xdc9a806e3304abf847aa6bf09b0d8883f20a5c08"
+    ],
+    "twitter": "CakeGirlBSC",
+    "telegram": "CakeGirlToken"
+}

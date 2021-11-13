@@ -1,0 +1,22 @@
+{
+    "id": "gamma-token",
+    "symbol": "gam",
+    "name": "Gamma Token",
+    "platforms": {
+        "binance-smart-chain": "0x51cb2cff2dc93291cc3a56d74dec731d5a9d3162"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x51cb2cff2dc93291cc3a56d74dec731d5a9d3162",
+    "url": "https://app.metawars.gg/",
+    "explorers": [
+        "https://bscscan.com/token/0x51cb2cff2dc93291cc3a56d74dec731d5a9d3162"
+    ],
+    "twitter": "MetaWarsNFT",
+    "reddit": "MetaWarsNFT/"
+}

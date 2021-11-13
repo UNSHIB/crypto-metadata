@@ -1,0 +1,23 @@
+{
+    "id": "ghibli-inu",
+    "symbol": "ghibli",
+    "name": "Ghibli Inu",
+    "platforms": {
+        "ethereum": "0x3beb1555b821f06f95a0bf67974914abe7a2581e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ghibli is a Japanese animation film studio headquartered in Koganei, Tokyo. The studio is best known for its animated feature films such as My Neighbor Totoro, Spirited Away, Howl's Moving Castle, and Ponyo. Which we will be integrated into your \"\"utility\"\" ecosystem.\r\n\r\nWith the recent boom of Anime Crypto tokens, we intend to build a foundation where all these tokens can connect with one another in some way, with Ghibli Utility.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3beb1555b821f06f95a0bf67974914abe7a2581e",
+    "url": "https://www.ghibliinu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3beb1555b821f06f95a0bf67974914abe7a2581e",
+        "https://ethplorer.io/address/0x3beb1555b821f06f95a0bf67974914abe7a2581e"
+    ],
+    "twitter": "GhibliInu",
+    "telegram": "GhibliInuETH"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "frieza-inu",
+    "symbol": "frinu",
+    "name": "Frieza Inu",
+    "platforms": {
+        "ethereum": "0x5aa5ba99105469b10bd82cd22b3166c88d187e3b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Frieza Inu is a community-driven reflect token on the Ethereum Mainnet. \r\n\r\n1% of every transaction is redistributed to holders, and 8% is used for marketing and development.\r\n\r\nLike-minded community members have rallied around our mascot character and in-turn receive Static Rewards. These rewards are correlated with trading volume and allow all users a chance to grow their holdings."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5aa5ba99105469b10bd82cd22b3166c88d187e3b",
+    "url": "https://www.frieza-inu.com",
+    "explorers": [
+        "https://etherscan.io/token/0x5aa5ba99105469b10bd82cd22b3166c88d187e3b",
+        "https://ethplorer.io/address/0x5aa5ba99105469b10bd82cd22b3166c88d187e3b"
+    ],
+    "twitter": "FriezaInuETH",
+    "telegram": "FriezaInuETH"
+}

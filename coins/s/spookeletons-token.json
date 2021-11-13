@@ -1,0 +1,20 @@
+{
+    "id": "spookeletons-token",
+    "symbol": "spkl",
+    "name": "Spookeletons Token",
+    "platforms": {
+        "solana": "31tCNEE6LiL9yW4Bu153Dq4vi2GuorXxCA9pW9aA6ecU"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A collection of 6.666 Spookeletons that are all different, algorithmically generated, fierce, and collectible."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "31tCNEE6LiL9yW4Bu153Dq4vi2GuorXxCA9pW9aA6ecU",
+    "url": "https://www.spookeletons.com/",
+    "explorers": [
+        "https://solscan.io/token/31tCNEE6LiL9yW4Bu153Dq4vi2GuorXxCA9pW9aA6ecU"
+    ]
+}

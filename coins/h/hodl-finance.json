@@ -1,0 +1,22 @@
+{
+    "id": "hodl-finance",
+    "symbol": "hft",
+    "name": "Hodl Finance",
+    "platforms": {
+        "binance-smart-chain": "0x186866858aef38c05829166a7711b37563e15994"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hodl Finance merges centralized and decentralized finance to create a sustainable ecosystem for constant innovation. By combining the best aspects of community governance and a transparent foundation, the growth of the community and ecosystem is ensured.\r\n\r\nThe HFT token is used to vote for governance proposals and gives you access to key benefits within our ecosystem. By keeping the tokens in your wallet you will be able to unlock the newest perks and features."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x186866858aef38c05829166a7711b37563e15994",
+    "url": "https://hodl.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x186866858aef38c05829166a7711b37563e15994"
+    ],
+    "twitter": "HFToken",
+    "telegram": "HodlFinance"
+}

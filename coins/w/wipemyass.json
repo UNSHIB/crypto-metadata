@@ -1,0 +1,21 @@
+{
+    "id": "wipemyass",
+    "symbol": "wipe",
+    "name": "WipeMyAss",
+    "platforms": {
+        "solana": "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Most of projects are s**t we are here to clean it \ud83e\uddfb"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
+    "url": "https://wipemyass.io/",
+    "explorers": [
+        "https://solscan.io/token/9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6"
+    ],
+    "twitter": "WipeMyAssNFT"
+}

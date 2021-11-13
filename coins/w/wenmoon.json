@@ -1,0 +1,23 @@
+{
+    "id": "wenmoon",
+    "symbol": "wm",
+    "name": "WenMoon",
+    "platforms": {
+        "ethereum": "0x750c83707112e9acc452692c190cb55e30f42510"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WenMoon is a community based meme token. Since the inception of Bitcoin the question, \"WenMoon?\" has been countless number of times. Now we become the SOLUTION! WenMoon is a deflationary token with 5% reflection to marketing and 2% reflection to holders. The token will be used in the future for a P2E Space game in which holders will be able to compete against each other and wager their tokens for the opportunity to win more. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x750c83707112e9acc452692c190cb55e30f42510",
+    "url": "https://wenmoonanon.com",
+    "explorers": [
+        "https://etherscan.io/token/0x750c83707112e9acc452692c190cb55e30f42510",
+        "https://ethplorer.io/address/0x750c83707112e9acc452692c190cb55e30f42510"
+    ],
+    "twitter": "WenMoonAnon",
+    "telegram": "wenmoonanon"
+}

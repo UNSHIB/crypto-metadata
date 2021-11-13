@@ -1,0 +1,22 @@
+{
+    "id": "chika-inu",
+    "symbol": "chika",
+    "name": "Chika Inu",
+    "platforms": {
+        "binance-smart-chain": "0x78d0c2afea8733b6f450b5c68b012b34dddeed00"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chika Inu is essentially a meme token that\u2019s unlike any other. It\u2019s created by meme lovers for others who share the same obsession for memes. The only things that matter and what we guarantee are growth and community. Cryptocurrencies are nothing without the purpose they serve. This is why we are building a community of crypto and meme enthusiasts who strive for change through real utility of seamless Chika Swap, Chika Inu NFTs, Chika Incubator etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78d0c2afea8733b6f450b5c68b012b34dddeed00",
+    "url": "https://chikainu.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x78d0c2afea8733b6f450b5c68b012b34dddeed00"
+    ],
+    "twitter": "chikainu_",
+    "telegram": "chikainu"
+}

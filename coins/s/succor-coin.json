@@ -1,0 +1,24 @@
+{
+    "id": "succor-coin",
+    "symbol": "succor",
+    "name": "Succor Coin",
+    "platforms": {
+        "binance-smart-chain": "0x8f27e7ba0a141cf15adcf6c135c4d694debd001d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Succor Coin is establishing the new standard of DeFi tokenomics with its innovative automated buyback, collection, reward and burn system and revolutionary use-cases.\r\nIt is a renounced coin contract where the project is owned by the community none of the team members or anyone have control of the contract, this is to assure longevity of the project and ownership to the community.\r\nCollection of 1% from the transaction is sent to a special charity address which will be used to raise funds for Charity services automatically ensuring your contribution in blockchain.\r\nUnlike a burn from non-circulating supply, the buyback immediately transfers value to the token holders and the community by purchasing tokens from the open market to burn.\r\nSuccor token holders also benefit through a 2% static reflection reward from every transaction. Gaining while holding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f27e7ba0a141cf15adcf6c135c4d694debd001d",
+    "url": "https://succorcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8F27e7Ba0A141cF15Adcf6C135c4d694deBD001D",
+        "https://bscscan.com/token/0x8f27e7ba0a141cf15adcf6c135c4d694debd001d"
+    ],
+    "twitter": "succorcoin",
+    "telegram": "succorcoin",
+    "github_org": "succorcoin"
+}

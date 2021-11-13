@@ -1,0 +1,22 @@
+{
+    "id": "cryowar-token",
+    "symbol": "cwar",
+    "name": "Cryowar Token",
+    "platforms": {
+        "solana": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryowar is a Solana based, NFT, PvPvP, fast-paced gaming arena meta-verse which is built on the Unreal Engine. \r\nPvPvP game built on both mobile and PC (rapidly growing economies). It introduced the best practices of the blockchain world of DAO voting, NFTs, and decentralized finance and Play-To-Earn. Cryowar has been in development for three years. \r\nPlay-to-Earn, Deflationary Mechanisms, High-Octane Gameplay, Solana and DAO Governance are just some of the functionalities we will start with but our long term vision it to expand further and make Cryowar the Champions League of Crypto where players using different blockchain network and NFTs to fight together."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
+    "url": "https://cryowar.com/",
+    "explorers": [
+        "https://solscan.io/token/HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo"
+    ],
+    "twitter": "cryowardevs",
+    "telegram": "cryowar"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "tetsu-inu",
+    "symbol": "tetsu",
+    "name": "Tetsu Inu",
+    "platforms": {
+        "ethereum": "0x1e9dae82fa136796d306695b8be1e151bc5365e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TETSU is an ERC20 powered, community driven, meme ecosystem that rewards its holders by distributing TETSU through airdrops. Come and join us in our adventure as the newest dog on the block! #TeamTETSU\r\n\r\nTetsu, also known as Tetsuya #2, is a cute Alaskan Malamut pup that is an anime basketball team's top mascot and best friend of Tetsuya Kuroko! \r\n\r\nOur goal is to create an ecosystem of DeFi technologies such as NFTs, Liquidity Providing, NFTs, Lending, and more all through the power of our community.\r\nAll of our users will automatically earn TETSU by simply holding Tetu Inu Tokens. All rewards are distributed everyday and are proportional to your ownership of Tetsu."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e9dae82fa136796d306695b8be1e151bc5365e8",
+    "url": "https://tetsuinu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e9dae82fa136796d306695b8be1e151bc5365e8",
+        "https://ethplorer.io/address/0x1e9dae82fa136796d306695b8be1e151bc5365e8"
+    ],
+    "twitter": "TetsuInuETH",
+    "telegram": "tetsuinu"
+}

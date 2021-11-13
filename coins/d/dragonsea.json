@@ -1,0 +1,23 @@
+{
+    "id": "dragonsea",
+    "symbol": "dge",
+    "name": "DragonSea",
+    "platforms": {
+        "binance-smart-chain": "0x467f4773879a3917ddc2a6befa430c5d8ac22bee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Inspired by Role-Playing Games and the virtual world Metaverse with Blockchain technology, we build DragonSea as a Mystic Dragon world, where there are all the elements so that players can freely immerse themselves in a real virtual universe. Here players will play the role of real Dragon Riders. Players will build not only their own dragon kingdom but also lands with different constructions and items obtained in the game, and especially players will own real Dragon warriors. Besides, this is also the place where players will train Dragon warriors from the beginning until becoming a dragon warrior with unbeatable strength.\r\n\r\nPlayers will be immersed in a virtual universe when participating in the game. At the same time, players can bring their Dragon characters to participate in battles to protect their land or conquer other lands. And what is really attractive is that players will receive valuable rewards when participating in these game modes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x467f4773879a3917ddc2a6befa430c5d8ac22bee",
+    "url": "https://dragonsea.io",
+    "explorers": [
+        "https://bscscan.com/token/0x467f4773879a3917ddc2a6befa430c5d8ac22bee"
+    ],
+    "twitter": "dragonseaio",
+    "telegram": "dragonsea_global",
+    "reddit": "dragonsea"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "solana-inu",
+    "symbol": "inu",
+    "name": "Solana Inu",
+    "platforms": {
+        "solana": "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
+    "url": "https://www.solanainu.finance/",
+    "explorers": [
+        "https://solscan.io/token/5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko"
+    ],
+    "twitter": "SolanaInu"
+}

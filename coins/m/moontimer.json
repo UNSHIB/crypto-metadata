@@ -1,0 +1,22 @@
+{
+    "id": "moontimer",
+    "symbol": "mtg",
+    "name": "MoonTimer",
+    "platforms": {
+        "binance-smart-chain": "0xe5bb16faceafea96c3e1c97b3c20f0edfe94a9c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonTimer aims to become the leading P2E (Play to Earn) gaming and farming platform, powered by a unique and innovative game called the MoonTimer. Play, earn and win rewards paid out in BUSD, all controlled by smart contracts.\r\nStake, farm and compound your MTG tokens and utilize them in the MoonTimer game, buying gold and silver tickets to win the prize pots, paid out directly to your wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe5bb16faceafea96c3e1c97b3c20f0edfe94a9c3",
+    "url": "https://moontimer.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xe5bb16faceafea96c3e1c97b3c20f0edfe94a9c3"
+    ],
+    "twitter": "MoonTimerGame",
+    "telegram": "moontimergame"
+}

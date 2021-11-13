@@ -1,0 +1,22 @@
+{
+    "id": "mintswap",
+    "symbol": "mint",
+    "name": "MintSwap",
+    "platforms": {
+        "avalanche": "0x7bf4ca9aec25adaaf7278eedbe959d81893e314f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Value oriented, economically sustainable yield farm on AVAX."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7bf4ca9aec25adaaf7278eedbe959d81893e314f",
+    "url": "https://mint-swap.com/",
+    "explorers": [
+        "https://snowtrace.io/token/0x7Bf4cA9aEC25aDAAf7278EEDbe959d81893e314F"
+    ],
+    "twitter": "SwapMint",
+    "telegram": "MintSwap_Avax"
+}

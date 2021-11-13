@@ -1,0 +1,23 @@
+{
+    "id": "gm-inu",
+    "symbol": "gminu",
+    "name": "GM Inu",
+    "platforms": {
+        "ethereum": "0x4b4cfbbc89a2d9d241ff2c6ac1fcad663a2a1d4a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$GMINU is the most based dog around, but not an early riser. Coffee and Crypto gets him through the day. In an ever expanding universe his main goal in life is to see the people around him make it.\r\n \r\n1% of every transaction is split amongst holders in form of reflections\r\n9% of every transaction is sent straight to the marketing wallet for buy backs and marketing, making him the most based doggo around\r\nFor a total of 10% tax.\r\n \r\nTo avoid quick dumps, a 24h 25% tax is introduced. This counts from your first buy. So while you are allowed to take your gains, in return you help the coin grow."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b4cfbbc89a2d9d241ff2c6ac1fcad663a2a1d4a",
+    "url": "https://goodmorninginu.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x4b4cfbbc89a2d9d241ff2c6ac1fcad663a2a1d4a",
+        "https://ethplorer.io/address/0x4b4cfbbc89a2d9d241ff2c6ac1fcad663a2a1d4a"
+    ],
+    "twitter": "gm_inu",
+    "telegram": "GmInuOffical"
+}

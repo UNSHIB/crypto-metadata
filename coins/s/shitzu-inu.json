@@ -1,0 +1,23 @@
+{
+    "id": "shitzu-inu",
+    "symbol": "shitzuinu",
+    "name": "Shitzu Inu",
+    "platforms": {
+        "ethereum": "0xddf825aa40aba689e040fd9be863573999314773"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shitzu Inu was created to raise awareness and funding for dogs that can`t afford the medical procedures and treatments they need. This project is here to help change the lives of these dogs and their owners. It will give 1% of the tax to a animal charity for dog with disability's and will develop  virtual pet NFT to use in a game.   "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xddf825aa40aba689e040fd9be863573999314773",
+    "url": "https://www.shitzuinu.io",
+    "explorers": [
+        "https://etherscan.io/token/0xddf825aa40aba689e040fd9be863573999314773",
+        "https://ethplorer.io/address/0xddf825aa40aba689e040fd9be863573999314773"
+    ],
+    "twitter": "shitzuinueth",
+    "telegram": "ShitzuInuETH"
+}

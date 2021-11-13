@@ -1,0 +1,23 @@
+{
+    "id": "defi-launch",
+    "symbol": "dlaunch",
+    "name": "DeFi Launch",
+    "platforms": {
+        "binance-smart-chain": "0xd7d23d89c510f306e4037385ebbefc6dd6c41e61"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi Launch is a high-potential project incubator that provides support and assistance during the launch process."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd7d23d89c510f306e4037385ebbefc6dd6c41e61",
+    "url": "https://app.defilaunch.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xD7D23d89c510f306e4037385EbbEFc6Dd6C41e61",
+        "https://bscscan.com/token/0xd7d23d89c510f306e4037385ebbefc6dd6c41e61"
+    ],
+    "twitter": "defi_launch",
+    "telegram": "DeFi_Launch"
+}

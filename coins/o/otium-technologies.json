@@ -1,0 +1,23 @@
+{
+    "id": "otium-technologies",
+    "symbol": "otium",
+    "name": "Otium Technologies",
+    "platforms": {
+        "binance-smart-chain": "0x56a02228ce17dbbbc809fe2262b36dd99f28e824"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bringing Blockchain to Travel and Tourism"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56a02228ce17dbbbc809fe2262b36dd99f28e824",
+    "url": "https://otiumtechnologies.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x56a02228ce17dbbbc809fe2262b36dd99f28e824"
+    ],
+    "twitter": "otium_tech",
+    "telegram": "OtiumOverseas",
+    "reddit": "OtiumTechnologies/"
+}

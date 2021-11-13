@@ -1,0 +1,22 @@
+{
+    "id": "paycheck-defi",
+    "symbol": "check",
+    "name": "Paycheck Defi",
+    "platforms": {
+        "binance-smart-chain": "0x0f17771ccf1b990dbe2a6d7f61183c9b29997e36"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Paycheck is a decentralized finance network on the Binance blockchain, with functionalities such as staking, farming, lotteries and a lot more, operating similarly to a high yield certificate of deposit."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f17771ccf1b990dbe2a6d7f61183c9b29997e36",
+    "url": "https://paycheck.io",
+    "explorers": [
+        "https://bscscan.com/token/0x0f17771ccf1b990dbe2a6d7f61183c9b29997e36"
+    ],
+    "twitter": "CryptoPaycheck",
+    "telegram": "cryptopaycheck"
+}

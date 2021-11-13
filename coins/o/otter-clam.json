@@ -1,0 +1,23 @@
+{
+    "id": "otter-clam",
+    "symbol": "clam",
+    "name": "Otter Clam",
+    "platforms": {
+        "polygon-pos": "0x4d6a30efbe2e9d7a9c143fce1c5bb30d9312a465"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Decentralized Reserve Memecoin. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d6a30efbe2e9d7a9c143fce1c5bb30d9312a465",
+    "url": "https://www.otterclam.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x4d6A30EFBE2e9D7A9C143Fce1C5Bb30d9312A465",
+        "https://polygonscan.com/token/0x4d6a30efbe2e9d7a9c143fce1c5bb30d9312a465"
+    ],
+    "twitter": "otterclam",
+    "github_org": "OtterClam"
+}

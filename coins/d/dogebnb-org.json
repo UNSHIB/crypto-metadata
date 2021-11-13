@@ -1,0 +1,24 @@
+{
+    "id": "dogebnb-org",
+    "symbol": "dogebnb",
+    "name": "DogeBNB.org",
+    "platforms": {
+        "binance-smart-chain": "0xa591588ac622303c730a85eea4eb8c20fe7ef82a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"DogeBNB.org token ($DogeBNB) is a meme currency powered by Binance Smart Chain & DogeBNB Nft platform.\u00a0\r\n\r\nWhat Is the DogeBNB.org token (DogeBNB)?\r\n\r\nLaunched in 2021 September, DogeBNB is a community currency. DogeBNB brings Binance Smart Chain benefits and innovation to the masses.\r\n\r\nDogeBNB is a blockchain research project, which employ the powers of blockchain technology to bring new-age finance and NFT-s to the world. DogeBNB token is the core element of the DogeBNB NFT platform. DogeBNB is a utility token that can be used to issue NFT-s, and part of the platform fees will be used to buy back and burn tokens.\r\n\r\nDogeBNB tokenomics:\u00a0\r\nAccording to white paper, DogeBNB was launched via fair distribution Initial\u00a0Dex Offering on Julpad, 70% of the supply was allocated to the community. Total 60BNB was raised.\u00a0\r\n\r\n10% supply for the team, 5% supply was allocated for the liquidity. 5% for the marketing and 5% for the airdrops, and 5% for the foundation. Taking DogeBNB Coin price today, that represents an almost 500%\u00a0return on investment\u00a0(ROI).\r\n\r\nDogeBNB Innovation:\u00a0\u00a0\r\n1. Binance Smart Chain\r\n2. Peer-to-peer\u00a0\r\n3. Distributed via far distribution model\u00a0\r\n4. Community-driven\u00a0\r\n5. Backed with NFT-s\u00a0\r\n6. Global & ultrafast payments\u00a0\r\n7. Transaction cost ~ 0,1$\u00a0\r\n8. Fair launch token\r\n\r\nRoadmap:\r\nQ4 - NFT platform on Binance Smart Chain\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa591588ac622303c730a85eea4eb8c20fe7ef82a",
+    "url": "https://dogebnb.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xa591588aC622303C730a85EEa4Eb8C20FE7ef82A",
+        "https://bscscan.com/token/0xa591588ac622303c730a85eea4eb8c20fe7ef82a"
+    ],
+    "twitter": "dogebnborg",
+    "telegram": "dogeBNB_org",
+    "reddit": "https://www.reddit.com"
+}

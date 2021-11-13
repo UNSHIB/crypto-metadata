@@ -1,0 +1,22 @@
+{
+    "id": "la-casa-de-papel",
+    "symbol": "lcdp",
+    "name": "La Casa De Papel",
+    "platforms": {
+        "binance-smart-chain": "0x1e19f5f52527700186339da4409bb19fbc622f2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LCDP is a modern NFT online game based on the Binance Smart Chain. You can play as single or multiplayer. The goal in our game will be to survive or win against the other team/opponent.\r\n\r\nEvery of our NFT's will be unique and have  different rarity. In our marketplace you can buy, sell and trade the NFT's."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e19f5f52527700186339da4409bb19fbc622f2c",
+    "url": "https://www.lcdptoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1e19f5f52527700186339da4409bb19fbc622f2c"
+    ],
+    "twitter": "LCDPtoken",
+    "telegram": "lcdptoken"
+}

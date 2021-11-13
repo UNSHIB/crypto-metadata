@@ -1,0 +1,23 @@
+{
+    "id": "alien-shiba-inu",
+    "symbol": "ashib",
+    "name": "Alien Shiba Inu",
+    "platforms": {
+        "binance-smart-chain": "0x66eb97542e35fb514ab378253386792ea6536fb6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Alien Shiba Inu is working on three flagship utility projects: an NFT character collection for play to earn gaming, an decentralized exchange (DEX) and merchandise marketplace called AlienShibaInuCrew."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x66eb97542e35fb514ab378253386792ea6536fb6",
+    "url": "https://alienshibainu.com",
+    "explorers": [
+        "https://bscscan.com/token/0x66eb97542e35FB514ab378253386792eA6536FB6",
+        "https://bscscan.com/token/0x66eb97542e35fb514ab378253386792ea6536fb6"
+    ],
+    "twitter": "AlienShibaInu",
+    "telegram": "AlienShibaInu_Global"
+}

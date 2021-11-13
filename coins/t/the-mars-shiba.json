@@ -1,0 +1,24 @@
+{
+    "id": "the-mars-shiba",
+    "symbol": "marsshib",
+    "name": "The Mars Shiba",
+    "platforms": {
+        "binance-smart-chain": "0xe41a093549beee36b76728d456894093396d1120"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "By simply holding TheMarsShiba Token, you will earn BNB and $MARSSHIBA token. The longer you hold, the more you earn - it really is that simple."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe41a093549beee36b76728d456894093396d1120",
+    "url": "https://themarsshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe41A093549BeEe36b76728D456894093396D1120",
+        "https://bscscan.com/token/0xe41a093549beee36b76728d456894093396d1120"
+    ],
+    "twitter": "TheMarsShiba",
+    "telegram": "themarsshiba",
+    "github_org": "themarsshiba"
+}

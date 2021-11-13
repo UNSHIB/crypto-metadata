@@ -1,0 +1,23 @@
+{
+    "id": "metastar",
+    "symbol": "metastar",
+    "name": "Metastar",
+    "platforms": {
+        "ethereum": "0xc58a919f1844a2d5c1c1030f1ba8bfb368980cfc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Metastar is a metaverse project consisting of the NFT marketplace, Metastar anime, and the Metastar P2E game, and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc58a919f1844a2d5c1c1030f1ba8bfb368980cfc",
+    "url": "https://metastartoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc58a919f1844a2d5c1c1030f1ba8bfb368980cfc",
+        "https://ethplorer.io/address/0xc58a919f1844a2d5c1c1030f1ba8bfb368980cfc"
+    ],
+    "twitter": "metastartoken",
+    "telegram": "metastarofficial"
+}

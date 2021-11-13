@@ -1,0 +1,23 @@
+{
+    "id": "stoneage-nft",
+    "symbol": "ges",
+    "name": "Stoneage NFT",
+    "platforms": {
+        "binance-smart-chain": "0x01ad5c8ca6b2470cbc81c398336f83aae22e4471"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Welcome to Stoneage NFT where Stones, or known as GeStone (GES) are deemed as the main mode of transaction within the ecosystem. GeStone (GES) can be used in the marketplace as a mode of currency, as NFTs, as auction bids, as Creators, as well as games! GES is also widely accepted within other stores using the Binance Smart Chain Technology. Behold, Stoneage NFT and GES."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01ad5c8ca6b2470cbc81c398336f83aae22e4471",
+    "url": "https://stoneagenft.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x01ad5c8ca6b2470cbc81c398336f83aae22e4471"
+    ],
+    "twitter": "StoneageNFT",
+    "reddit": "StoneAge_NFT/",
+    "github_org": "StoneAgeNFT"
+}

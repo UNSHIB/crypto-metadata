@@ -1,0 +1,21 @@
+{
+    "id": "apple",
+    "symbol": "apple",
+    "name": "Apple",
+    "platforms": {
+        "solana": "8E5W9PMhnEvdvM2Q9XBLMJW7UsFiieXnRHPj8zhtB23h"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Apple is a Meme coin. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "8E5W9PMhnEvdvM2Q9XBLMJW7UsFiieXnRHPj8zhtB23h",
+    "url": "https://www.superfruit.farm/",
+    "explorers": [
+        "https://solscan.io/token/8E5W9PMhnEvdvM2Q9XBLMJW7UsFiieXnRHPj8zhtB23h"
+    ],
+    "twitter": "superfruitnft"
+}

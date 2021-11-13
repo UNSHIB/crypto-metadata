@@ -1,0 +1,22 @@
+{
+    "id": "vikings-inu",
+    "symbol": "vikings",
+    "name": "Vikings Inu",
+    "platforms": {
+        "binance-smart-chain": "0xc3583c8328ecb4dc8751c7e4fe7bcc18e558a4b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VIKINGS INU  a community driven project with 4% redistribution, a curated aggregation platform and Vikings Treasure Hunt Game. Inspired by Elon musk\u2019s post on twitter, Viking inu now seeks to have it\u2019s own metaverse.\r\n\r\nVIKINGS will be integral to a global platform where meme, community, celebrity and other social currencies can be listed, compared and marketed. Leverage $VIKINGS\u2019s utilities to help your coin become more popular.\r\n\r\nVikings share their bounty! Treasures are redistributed to holders in real-time. 4% of every transaction value is distributed to holders of $VIKINGS."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc3583c8328ecb4dc8751c7e4fe7bcc18e558a4b6",
+    "url": "https://vikingsinu.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xc3583c8328ecb4dc8751c7e4fe7bcc18e558a4b6"
+    ],
+    "twitter": "vikingsinu",
+    "telegram": "vikings_inu"
+}

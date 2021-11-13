@@ -1,0 +1,22 @@
+{
+    "id": "ethzilla",
+    "symbol": "ethzilla",
+    "name": "EthZilla",
+    "platforms": {
+        "binance-smart-chain": "0xd7dea3f982f5a3ce155202fe1bee9fe88170de2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hodl $ETHZILLA and Earn $ETH Rewards. No need to farm, stake or claim.\r\nETH Rewards are distributed to all the token holders relative to their holding percentage.\r\n\r\nReward Reflections are completely Automatic and there is no need to manually claim rewards.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd7dea3f982f5a3ce155202fe1bee9fe88170de2c",
+    "url": "https://ethzilla.live/",
+    "explorers": [
+        "https://bscscan.com/token/0xd7dea3f982f5a3ce155202fe1bee9fe88170de2c"
+    ],
+    "twitter": "ethzillabsc",
+    "telegram": "ethzillabsc"
+}

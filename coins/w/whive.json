@@ -1,0 +1,21 @@
+{
+    "id": "whive",
+    "symbol": "whive",
+    "name": "Whive",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Whive, is a peer-to-peer blockchain protocol that extends the Bitcoin Blockchain incentivizing the building of sustainable energy solutions through Trustless Rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.whive.io/",
+    "explorers": [
+        "http://whivepool.cointest.com/",
+        "https://whiveexplorer2.cointest.com/"
+    ],
+    "twitter": "whiveIO",
+    "telegram": "whiveio",
+    "github_org": "whiveio"
+}

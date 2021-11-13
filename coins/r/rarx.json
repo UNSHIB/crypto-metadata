@@ -1,0 +1,22 @@
+{
+    "id": "rarx",
+    "symbol": "rarx",
+    "name": "Rarx",
+    "platforms": {
+        "binance-smart-chain": "0x849cf7b79401a0eb22386fc9613c7addf15522e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RARX project will start soon and will tokens will be issued through Unicrypt; Audit and KYC will be verified by Solidity Finance. The listing will happen on Panckeswap . Right Now All The Community is Organic and comprised of early investors and hodlers. The Main Purpose Behind RARX Token Is To Revolutinize Rare Earth Elements Market with a De-Fi Fund whose Token That Operates On The Binance (BEP20) Services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x849cf7b79401a0eb22386fc9613c7addf15522e3",
+    "url": "https://rarx.io",
+    "explorers": [
+        "https://bscscan.com/token/0x849cf7b79401a0eb22386fc9613c7addf15522e3"
+    ],
+    "twitter": "rarxofficial",
+    "telegram": "rarxnews"
+}

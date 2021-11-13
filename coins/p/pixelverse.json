@@ -1,0 +1,23 @@
+{
+    "id": "pixelverse",
+    "symbol": "pixel",
+    "name": "PixelVerse",
+    "platforms": {
+        "binance-smart-chain": "0x47db24e17c0c4622523449a239b3de746e2b0b23",
+        "ethereum": "0x65e6b60ea01668634d68d0513fe814679f925bad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pixelverse is a virtual world platform and toolset that lets creators and communities create their own NFTs in a next generation metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x47db24e17c0c4622523449a239b3de746e2b0b23",
+    "url": "https://pixelverse.ai/",
+    "explorers": [
+        "https://bscscan.com/token/0x47db24e17c0c4622523449a239b3de746e2b0b23"
+    ],
+    "twitter": "pixelverse1",
+    "telegram": "pixelverseofficial"
+}

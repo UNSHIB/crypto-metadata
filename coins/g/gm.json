@@ -1,0 +1,24 @@
+{
+    "id": "gm",
+    "symbol": "gm",
+    "name": "GM",
+    "platforms": {
+        "ethereum": "0xbc7250c8c3eca1dfc1728620af835fca489bfdf3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "gm is how we greet each other everyday."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc7250c8c3eca1dfc1728620af835fca489bfdf3",
+    "url": "https://gmwagmi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc7250c8c3eca1dfc1728620af835fca489bfdf3",
+        "https://ethplorer.io/address/0xbc7250c8c3eca1dfc1728620af835fca489bfdf3"
+    ],
+    "twitter": "gmwagmieth",
+    "telegram": "gmwagmi",
+    "reddit": "https://www.reddit.com"
+}

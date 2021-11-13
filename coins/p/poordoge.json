@@ -1,0 +1,23 @@
+{
+    "id": "poordoge",
+    "symbol": "poordoge",
+    "name": "PoorDoge",
+    "platforms": {
+        "binance-smart-chain": "0x4a5eb6574fe68c55362fc73b9ea76953d837985b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PoorDoge is a Meme token created by the Anonymous for the poor. PoorDoge has dynamic buying and selling tax rates, dynamic buying rewards, holding PoorDoge to get USDT dividends, the prize pool automatically repurchases and burns tokens, and trading burns tokens (transfer will not burn tokens), these complex mechanisms are designed to protect diamond hands and poor investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a5eb6574fe68c55362fc73b9ea76953d837985b",
+    "url": "https://www.poordoge.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x4a5eb6574Fe68c55362fc73b9EA76953d837985B",
+        "https://bscscan.com/token/0x4a5eb6574fe68c55362fc73b9ea76953d837985b"
+    ],
+    "twitter": "PoorDoge_coin",
+    "telegram": "poordoge_coin"
+}

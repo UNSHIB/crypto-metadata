@@ -1,0 +1,24 @@
+{
+    "id": "babycatgirl",
+    "symbol": "babycatgirl",
+    "name": "BabyCatGirl",
+    "platforms": {
+        "binance-smart-chain": "0x22ee49aa40f33ac7dbc3d67de2eb3c2c40e2c5ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The tokenomics have been carefully thought out and set uo for sustainable growth. You can earn 3% in reflections passively by holding PSZ, 5% is sent to the Liquidity Pool and 4% goes to the Marketing wallet. The tokenomics are designed to sustain a long term project with scope to multiply its market cap. \r\n\r\n$Babycatgirl gives you the chance to mint and own 1/1000 exclusive randomly generated NFTS, which will be released when our minting engine, smart contract and website is ready. The collection has been well detailed and created by the team behind $PSZ. Proceeds from the sales will go to marketing and buy back to support the project and chart. There are a small percentage of specials and rares in this collection, which make certain ones more valuable! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x22ee49aa40f33ac7dbc3d67de2eb3c2c40e2c5ea",
+    "url": "babycatgirl.io",
+    "explorers": [
+        "https://bscscan.com/token/0x22ee49aa40f33ac7dbc3d67de2eb3c2c40e2c5ea"
+    ],
+    "twitter": "babycatgirlcoin",
+    "telegram": "babycatgirlcoin",
+    "reddit": "babycatgirl",
+    "github_org": "MoonShoots"
+}

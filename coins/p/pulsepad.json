@@ -1,0 +1,23 @@
+{
+    "id": "pulsepad",
+    "symbol": "plspad",
+    "name": "PulsePad",
+    "platforms": {
+        "binance-smart-chain": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PulsePad is the premier IDO platform for projects building on PulseChain \u2014 a new Ethereum sister chain designed to provide an idyllic environment for building powerful new applications, while simultaneously reducing the load on the Ethereum network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a",
+    "url": "https://pulsepad.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A",
+        "https://bscscan.com/token/0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a"
+    ],
+    "twitter": "PulsePad_App",
+    "telegram": "pulsepadann"
+}

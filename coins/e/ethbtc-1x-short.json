@@ -1,0 +1,23 @@
+{
+    "id": "ethbtc-1x-short",
+    "symbol": "ratiodoom",
+    "name": "ETHBTC 1x Short",
+    "platforms": {
+        "ethereum": "0x26ab7c9ec873633d03c8f3a828f657878245a2dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beverage Finance is building decentralized leverage tokens. The ETH BTC 1x Short Beverage Token (RATIODOOM) is a type of collateralized loan product that gives you leveraged long exposure to BTC against ETH. RATIODOOM is the cheapest way on Ethereum to bet on BTC outperforming ETH and to execute the \"BTC dominance\" trade. RATIOMOON rebalances using a similar algorithm to Binance Leverage Tokens. This means Beverage tokens do not rebalance daily, are not forced to maintain a constant leverage and rebalance during extreme market movements only."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26ab7c9ec873633d03c8f3a828f657878245a2dd",
+    "url": "https://beverage.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x26ab7c9ec873633d03c8f3a828f657878245a2dd",
+        "https://ethplorer.io/address/0x26ab7c9ec873633d03c8f3a828f657878245a2dd"
+    ],
+    "twitter": "BeverageFinance",
+    "github_org": "Beverage-Finance"
+}

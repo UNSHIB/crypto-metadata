@@ -1,0 +1,22 @@
+{
+    "id": "meta-shiba-bsc",
+    "symbol": "meshi",
+    "name": "Meta Shiba BSC",
+    "platforms": {
+        "binance-smart-chain": "0xe1b0c129d63f6efdecaa2cb1968f5a1fb61f0f30"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "- ($MESHI) is a token launched on Binance Smart Chain with automatic liquidity pool growth and holder rewards through transaction taxation. \r\n- MetaShibaSwap DeFi Platform Beta Launch\r\n- Meta Shiba Social Platform Beta release"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1b0c129d63f6efdecaa2cb1968f5a1fb61f0f30",
+    "url": "https://www.metashibainu.org/official",
+    "explorers": [
+        "https://bscscan.com/token/0xe1b0c129d63f6efdecaa2cb1968f5a1fb61f0f30"
+    ],
+    "twitter": "MetaShiba_Real",
+    "telegram": "MetaShiba_Chat"
+}

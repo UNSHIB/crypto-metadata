@@ -1,0 +1,23 @@
+{
+    "id": "kala-finance",
+    "symbol": "kala",
+    "name": "Kala Finance",
+    "platforms": {
+        "binance-smart-chain": "0x5f7b680de12d3da8eab7c6309b5336ca1ef04172"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kala Coin is a deflationary Altcoin built on the Binance Smart Chain, providing transparency and fair Tokenomics to holders. Kala Coin are created to enhance and promote the Kala Coin ecosystem as well as reward and benefit members of the Kala community"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f7b680de12d3da8eab7c6309b5336ca1ef04172",
+    "url": "https://kala.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5f7b680de12d3da8eab7c6309b5336ca1ef04172"
+    ],
+    "twitter": "kala_coin",
+    "telegram": "kalacoinofficial",
+    "github_org": "kalafinance"
+}

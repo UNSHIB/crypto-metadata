@@ -1,0 +1,23 @@
+{
+    "id": "gorgeous",
+    "symbol": "gorgeous",
+    "name": "Gorgeous",
+    "platforms": {
+        "binance-smart-chain": "0xfe1179267621899d85e6eddc0dc9bf9345fb5e55"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Centered around a simple but ambitious moonshot, to make the world more gorgeous.\r\n\r\nDriven by a desire to make a difference together, Gorgeous is the philanthropic and charitable vehicle that will take us to the moon, develop the foundations to support those that need a little more Gorgeous in their lives, and highlight the ability of human ingenuity to bring about change.\r\n\r\nThe friction-less, yield-generating smart contract allows our community to earn from each transaction whilst refinancing pools for charity and project operations, burning tokens, and adding back to liquidity.\r\n\r\nCreated to facilitate the development of several innovative solutions to real-world problems, the first is a pay-it-forward application that will take fees earned in the charity wallet, making them accessible among coffee shops, restaurants, and accommodation providers. The second, Cloudlabs is set to be the Kubernetes for medical research."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe1179267621899d85e6eddc0dc9bf9345fb5e55",
+    "url": "https://www.higorgeous.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xfe1179267621899d85e6eddc0dc9bf9345fb5e55"
+    ],
+    "twitter": "GorgeousToken",
+    "telegram": "gorgeoustoken",
+    "reddit": "GorgeousToken/"
+}

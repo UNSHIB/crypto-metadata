@@ -1,0 +1,23 @@
+{
+    "id": "aave-interest-bearing-ampl",
+    "symbol": "aampl",
+    "name": "Aave interest bearing AMPL",
+    "platforms": {
+        "ethereum": "0x1e6bb68acec8fefbd87d192be09bb274170a0548"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e6bb68acec8fefbd87d192be09bb274170a0548",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e6bb68acec8fefbd87d192be09bb274170a0548",
+        "https://ethplorer.io/address/0x1e6bb68acec8fefbd87d192be09bb274170a0548"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

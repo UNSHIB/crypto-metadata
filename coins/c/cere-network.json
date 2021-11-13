@@ -1,0 +1,25 @@
+{
+    "id": "cere-network",
+    "symbol": "cere",
+    "name": "Cere Network",
+    "platforms": {
+        "ethereum": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cere Network is the first Decentralized Data Cloud (DDC) platform built on Substrate and Polygon. \r\n\r\nCere is the first Web3 project that facilitates trustless cloud data storage, integration and data collaboration across blockchain networks as well as Web3 NFT, metaverse and gaming content. \r\n\r\nCere is backed by the world\u2019s largest institutions and projects, such as Binance Labs, Republic Labs and Polygon.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+    "url": "https://cere.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+        "https://ethplorer.io/address/0x2da719db753dfa10a62e140f436e1d67f2ddb0d6"
+    ],
+    "twitter": "cerenetwork",
+    "telegram": "cerenetwork_official",
+    "reddit": "https://www.reddit.com",
+    "github_org": "Cerebellum-Network"
+}

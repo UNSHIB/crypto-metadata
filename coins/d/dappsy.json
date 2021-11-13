@@ -1,0 +1,22 @@
+{
+    "id": "dappsy",
+    "symbol": "app",
+    "name": "Dappsy",
+    "platforms": {
+        "binance-smart-chain": "0x81e07cff8a9331ef2a837b15a3560fb186bf5e8d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dappsy is a cryptocurrency social network that aims to bring all crypto communities together.\r\n\r\nThe only platform you\u2019ll ever need to interact with, invest in, and track your favorite projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x81e07cff8a9331ef2a837b15a3560fb186bf5e8d",
+    "url": "https://dappsy.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x81e07cff8a9331ef2a837b15a3560fb186bf5e8d"
+    ],
+    "twitter": "itsdappsy",
+    "telegram": "dappsy_official"
+}

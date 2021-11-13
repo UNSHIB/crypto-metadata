@@ -1,0 +1,23 @@
+{
+    "id": "upper-swiss-franc",
+    "symbol": "chfu",
+    "name": "Upper Swiss Franc",
+    "platforms": {
+        "ethereum": "0x430e705c7a90d380e9c2d9da4f547d221d6e88cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Upper Token paired to the Swiss Franc, one of the most stable currencies in the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x430e705c7a90d380e9c2d9da4f547d221d6e88cb",
+    "url": "https://uppers.io/tokens/franc",
+    "explorers": [
+        "https://etherscan.io/token/0x430e705c7a90d380e9c2d9da4f547d221d6e88cb",
+        "https://ethplorer.io/address/0x430e705c7a90d380e9c2d9da4f547d221d6e88cb"
+    ],
+    "twitter": "UpperSoftware",
+    "telegram": "uppersoftware"
+}

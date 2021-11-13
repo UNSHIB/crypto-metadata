@@ -1,0 +1,24 @@
+{
+    "id": "mashima-inu",
+    "symbol": "mashima",
+    "name": "Mashima Inu",
+    "platforms": {
+        "ethereum": "0xb2f8a70b09db0f7795a5f079b5021eb84aa59e28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hiro Mashima reshaped the world of Manga with his books and he\u2019s here on the Ethereum blockchain to do the same thing with his token. Hiro Mashima is here and expected to takeover the anime manga rave with his unique token innovation on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb2f8a70b09db0f7795a5f079b5021eb84aa59e28",
+    "url": "https://mashimainu.com",
+    "explorers": [
+        "https://etherscan.io/token/0xb2f8a70b09db0f7795a5f079b5021eb84aa59e28",
+        "https://ethplorer.io/address/0xb2f8a70b09db0f7795a5f079b5021eb84aa59e28"
+    ],
+    "twitter": "mashimainu",
+    "telegram": "mashimainu",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "gremlins-finance",
+    "symbol": "grem",
+    "name": "Gremlins Finance",
+    "platforms": {
+        "binance-smart-chain": "0x8c458ee3ebc5dadfe5e0a3daae47e3c2aa62ff1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gremlins Finance is a meme-based reflection token rewarding Bitcoin. \r\nWe have 7-8% rewards depending on buy or sell. \r\nSAS and farming pools. \r\nPartnered with Croxswap. \r\nThe token will implement NFT's, NFT Comic, Burn or Win Game. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c458ee3ebc5dadfe5e0a3daae47e3c2aa62ff1c",
+    "url": "https://gremlins.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8c458ee3ebc5dadfe5e0a3daae47e3c2aa62ff1c"
+    ],
+    "telegram": "GremlinsOfficial"
+}

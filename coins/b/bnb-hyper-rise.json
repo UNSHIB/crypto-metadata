@@ -1,0 +1,24 @@
+{
+    "id": "bnb-hyper-rise",
+    "symbol": "hyperrise",
+    "name": "BNB Hyper Rise",
+    "platforms": {
+        "binance-smart-chain": "0x071df83177519faefb2a8b30e6a10383f83e9cbe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BNB Hyper Rise is a BSC GameFi Project. Our Proprietary idle game, Hyper Rocket, is a gamified staking platform, where users can earn BNB and build a buyback wallet for the project by playing the game.\r\n\r\nFuture plans include the development of a Crypto gaming launchpad & Dashboard on the Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x071df83177519faefb2a8b30e6a10383f83e9cbe",
+    "url": "https://bnbhyperrise.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x071Df83177519fAEFB2A8b30e6a10383F83E9cbe",
+        "https://bscscan.com/token/0x071df83177519faefb2a8b30e6a10383f83e9cbe"
+    ],
+    "twitter": "BnBHyperRise",
+    "telegram": "BNBHyperRise",
+    "reddit": "https://www.reddit.com"
+}

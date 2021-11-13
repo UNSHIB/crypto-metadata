@@ -1,0 +1,25 @@
+{
+    "id": "augmented-finance",
+    "symbol": "agf",
+    "name": "Augmented Finance",
+    "platforms": {
+        "ethereum": "0xb3ed706b564bba9cab64042f4e1b391be7bebce5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Augmented Finance (https://augmented.finance/) is a new DeFi liquidity protocol for high-yield lending and low-interest borrowing of digital assets. It is innovative, easy to use and maximizes the reward for its liquidity providers.\r\n\r\nAugmented Finance focuses on augmentation and intelligence as core capabilities:\r\n\u2013 It learns and evolves its behavior based on market activity by factoring in different parameters. One of the examples is dynamic interest rates.\r\n\u2013 It enables NFTs to be used in DeFi in various use cases, including using NFTs as collateral.\r\n\r\nAugmented Finance is engineered in a smart way to boost adoption:\r\n\u2013 High yields (APY) on major assets (USDC, USDT, DAI, WBTC, ETH) with accelerated yield farming.\r\n\u2013 4x yield boost with automatic maximization for supply, borrow, stake via locking AGF token as per the mechanism proposed by Andre Cronje (similar to Curve\u2019s mechanic of locking CRV for veCRV).\r\n\u2013 Robust tokenomics with powerful governance token. Backed by 200 agent-based simulations. AGF token has high utility and is used for various purposes: stake, boost yields on supplied/borrowed assets, get a share of treasury funds, and vote on DAO proposals and protocol parameters.\r\n\u2013 Fair launch: no pre-mine, no ICO. Almost all AGF tokens will be distributed to liquidity providers to incentivize protocol adoption and decentralize the governance.\r\n\u2013 High security. Non-custodial protocol with Chainlink oracle price feeds, 24/7 dedicated support, and security audit by PeckShield."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb3ed706b564bba9cab64042f4e1b391be7bebce5",
+    "url": "https://augmented.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb3ed706b564bba9cab64042f4e1b391be7bebce5",
+        "https://ethplorer.io/address/0xb3ed706b564bba9cab64042f4e1b391be7bebce5"
+    ],
+    "twitter": "augmentedfin",
+    "telegram": "augmentedfin",
+    "reddit": "augmentedfin/",
+    "github_org": "augmented-finance"
+}

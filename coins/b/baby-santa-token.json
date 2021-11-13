@@ -1,0 +1,22 @@
+{
+    "id": "baby-santa-token",
+    "symbol": "$bst",
+    "name": "Baby Santa Token",
+    "platforms": {
+        "binance-smart-chain": "0xfccf3229063b1aa16af6b9b5de1b7e0c1bfe4046"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Santa Token will be a revolutionary way to engage the block chain.. Through out the BSC space the widely shared norm has held a largely self important view point from person to person. We as a Team and as a community are here to prove, with measurable proof, that investors that win big see value in charity.\r\nForget what you know about meme coins. (except for the fact that they can moon like crazy) Baby Santa Token will offer opportunities and develop massive utility on top of the builtin passive income generation, via rewards in Santa coin. We as a team value the community and will always work towards the betterment of the project.\r\n\r\nSanta is all about giving back. The history and lore of St Nicolas develop because of the value felt by all that promote and share the concept of giving back at its core.\r\nDonation programs will be made available, and will serve as a vehicle for giving back, this is not technically a charity token. You as the investor can choose to participate at your leisure.\r\n\r\nThe nfts minted for the donation programs will serve as a reminder. A reminder that investments that yield gains can impact more then just our wallets. Giving back has massive value, and the degree in which you participate is governed by you."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfccf3229063b1aa16af6b9b5de1b7e0c1bfe4046",
+    "url": "https://www.babysantatoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0xfccf3229063b1aa16af6b9b5de1b7e0c1bfe4046"
+    ],
+    "twitter": "babysantabsc",
+    "telegram": "babysantatoken"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "mochi-inu",
+    "symbol": "mochi",
+    "name": "Mochi Inu",
+    "platforms": {
+        "ethereum": "0x60ef10edff6d600cd91caeca04caed2a2e605fe5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x60ef10edff6d600cd91caeca04caed2a2e605fe5",
+    "url": "https://mochi.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x60ef10edff6d600cd91caeca04caed2a2e605fe5",
+        "https://ethplorer.io/address/0x60ef10edff6d600cd91caeca04caed2a2e605fe5"
+    ],
+    "twitter": "MochiDeFi",
+    "telegram": "MochiDeFi"
+}

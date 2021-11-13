@@ -1,0 +1,24 @@
+{
+    "id": "shibachu",
+    "symbol": "shibchu",
+    "name": "Shibachu",
+    "platforms": {
+        "binance-smart-chain": "0x2ae2bf0555422f3e8f539930679dba368a8c67c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IS A MIXED BETWEEN THE MOST FAVORITE DOG IN THE CRYPTOVERSE SHIBA AND PIKACHU THE MOST ICONIC POKEMON THAT IS ON A MISSION TO PROVE TO HIS PARENTS \u201cSHIBA\u201d & \u201cPIKACHU\u201d THAT HE WILL CARRY ON WITH THEIR LEGACIES AND THAT HIS NAME IS DESTINED FOR GREATNESS AS WELL.\r\n\r\nHOW IS HE PLANNING ON DOING SO? HE BUILT A TEAM AROUND HIM WHICH CONSISTED OF A SOLIDITY DEVELOPER, A HARD WORKING CO-FOUNDER, AND A CREATIVE DESIGNER. THE TEAM PUT A PLAN TO LEAD THE COMMUNITY AND ACHIEVE SHIBACHU\u2019S GOALS."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ae2bf0555422f3e8f539930679dba368a8c67c5",
+    "url": "https://www.shibachu.net",
+    "explorers": [
+        "https://bscscan.com/token/0x2ae2bf0555422F3e8F539930679DBa368A8c67c5",
+        "https://bscscan.com/token/0x2ae2bf0555422f3e8f539930679dba368a8c67c5"
+    ],
+    "twitter": "theShibachu",
+    "telegram": "shibachu_BSC",
+    "reddit": "https://www.reddit.com"
+}

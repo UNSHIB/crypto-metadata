@@ -1,0 +1,23 @@
+{
+    "id": "blizz-finance",
+    "symbol": "blzz",
+    "name": "Blizz Finance",
+    "platforms": {
+        "avalanche": "0x0f34919404a290e71fc6a510cb4a6acb8d764b24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blizz Finance is a decentralized, non-custodial liquidity market protocol operating on the Avalanche blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f34919404a290e71fc6a510cb4a6acb8d764b24",
+    "url": "https://blizz.finance/",
+    "explorers": [
+        "https://snowtrace.io/token/0x0f34919404a290e71fc6a510cb4a6acb8d764b24"
+    ],
+    "twitter": "BlizzFinance",
+    "telegram": "blizz_finance_support",
+    "github_org": "pe1kko"
+}

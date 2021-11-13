@@ -1,0 +1,23 @@
+{
+    "id": "k-9-inu",
+    "symbol": "k9",
+    "name": "K-9 Inu",
+    "platforms": {
+        "ethereum": "0x39682bb3f826e0461632284bc823e7cbd75e273b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This community-driven puppy companion to Marvin INU has origins in both the cartoon and meme world. It is verified safe by the trusted Marvin INU team, with every taxed transaction helping both Marvin and K-9 reach Mars and conquer the Crypto Universe! All taxes will be spent on marketing for BOTH tokens, further improving the entire Marvin ecosystem. We will also be issuing buybacks and LP to Marvin from each Launchpad!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39682bb3f826e0461632284bc823e7cbd75e273b",
+    "url": "https://k9-inu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x39682bb3f826e0461632284bc823e7cbd75e273b",
+        "https://ethplorer.io/address/0x39682bb3f826e0461632284bc823e7cbd75e273b"
+    ],
+    "twitter": "K9InuETH",
+    "telegram": "k9inu"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "dhealth",
+    "symbol": "dhp",
+    "name": "dHealth",
+    "platforms": {
+        "ethereum": "0xc40f23a3e9613e012944f7957edce97899fa920d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "dHealth - The Framework For Health-to-Earn\r\n\r\ndHealth Network offers plug-and-play components and shared blockchain infrastructure to execute global healthcare use-cases and payment systems seamlessly.\r\n\r\nDHP (Digital Health Points) is the native token of the dHealth Network. DHP are cross-chain compatible and power the global dHealth ecosystem. Currently, DHP are available as native DHP on dHealth Network and as ERC20 DHP on Ethereum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc40f23a3e9613e012944f7957edce97899fa920d",
+    "url": "https://dhealth.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xc40f23a3e9613e012944f7957edce97899fa920d",
+        "https://ethplorer.io/address/0xc40f23a3e9613e012944f7957edce97899fa920d"
+    ],
+    "twitter": "dhealth_network",
+    "telegram": "dHealthCommunity",
+    "github_org": "dhealthproject"
+}

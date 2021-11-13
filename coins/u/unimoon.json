@@ -1,0 +1,22 @@
+{
+    "id": "unimoon",
+    "symbol": "unimoon",
+    "name": "Unimoon",
+    "platforms": {
+        "binance-smart-chain": "0x893e14fafa8df32d9be7eab810027eea8828a98c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UNIMOON is a blockchain for social media that's launching on the Binance Smartchain and will post to it's own L1 blockchain which is a fork of Solana with added functionality.\r\n\r\nProtect your data, your freedom and your control with our free-feeling social media application, uMOON and earn fair remuneration while using it! It\u2019ll change the way you look at content forever.\r\n\r\nBe a pioneer, imagine investing in the most popular social media avenues from the start. Help us create a truly privacy centred social media platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x893e14fafa8df32d9be7eab810027eea8828a98c",
+    "url": "https://unimoon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x893e14fafa8df32d9be7eab810027eea8828a98c"
+    ],
+    "twitter": "unimoonnetwork",
+    "telegram": "UNIMOONnetwork"
+}

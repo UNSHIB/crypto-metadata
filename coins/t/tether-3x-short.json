@@ -1,0 +1,23 @@
+{
+    "id": "tether-3x-short",
+    "symbol": "tetherdoom",
+    "name": "Tether 3x Short",
+    "platforms": {
+        "ethereum": "0x0110ad3cf10a6d04993bec37bdccba6ee2c48a27"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beverage Finance is building decentralized leverage tokens. The Tether 3x Short Beverage Token (TETHERDOOM) is a type of collateralized loan product that give you leveraged short exposure to USDT against USDC. TETHERDOOM is the cheapest way on Ethereum to short USDT, while earning high yields on Aave."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0110ad3cf10a6d04993bec37bdccba6ee2c48a27",
+    "url": "https://beverage.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0110ad3cf10a6d04993bec37bdccba6ee2c48a27",
+        "https://ethplorer.io/address/0x0110ad3cf10a6d04993bec37bdccba6ee2c48a27"
+    ],
+    "twitter": "BeverageFinance",
+    "github_org": "Beverage-Finance"
+}

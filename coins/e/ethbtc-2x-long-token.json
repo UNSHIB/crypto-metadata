@@ -1,0 +1,23 @@
+{
+    "id": "ethbtc-2x-long-token",
+    "symbol": "ethbtcmoon",
+    "name": "ETHBTC 2x Long Token",
+    "platforms": {
+        "ethereum": "0xe2d8f9557fd46ad134c8fb5eabf6f4da3e0d3f68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beverage Finance is building decentralized leverage tokens. The ETH BTC 2x Beverage Token (RATIOMOON) is a type of collateralized loan product that gives you leveraged long exposure to ETH against BTC. RATIOMOON rebalances using a similar algorithm to Binance Leverage Tokens. This means Beverage tokens do not rebalance daily, are not forced to maintain a constant leverage and rebalance during extreme market movements only."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2d8f9557fd46ad134c8fb5eabf6f4da3e0d3f68",
+    "url": "https://beverage.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xe2d8f9557fd46ad134c8fb5eabf6f4da3e0d3f68",
+        "https://ethplorer.io/address/0xe2d8f9557fd46ad134c8fb5eabf6f4da3e0d3f68"
+    ],
+    "twitter": "BeverageFinance",
+    "github_org": "Beverage-Finance"
+}

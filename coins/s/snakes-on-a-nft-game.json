@@ -1,0 +1,23 @@
+{
+    "id": "snakes-on-a-nft-game",
+    "symbol": "snakes",
+    "name": "Snakes On A NFT Game",
+    "platforms": {
+        "binance-smart-chain": "0xd26f1d7cf221ed3914626d91c6f51565eee08dd0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Snakes On An NFT Game features 22 action packed levels with increasing degrees of difficulty."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd26f1d7cf221ed3914626d91c6f51565eee08dd0",
+    "url": "https://snakesnft.games/",
+    "explorers": [
+        "https://bscscan.com/token/0xd26f1d7cf221ed3914626d91c6f51565eee08dd0"
+    ],
+    "twitter": "SnakesOnaNFT",
+    "telegram": "SnakesOnaNFT",
+    "github_org": "Snakes-NFT"
+}

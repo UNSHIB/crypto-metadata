@@ -1,0 +1,24 @@
+{
+    "id": "the-philosophers-stone",
+    "symbol": "tpos",
+    "name": "The Philosophers Stone",
+    "platforms": {
+        "binance-smart-chain": "0xdadebb7bc62db8614a59f52f221ce8c226464599"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Magic Academy is a revolutionary game that combines NFT and the new IDLE RPG. With a fascinating plot and diverse characters, Magic Academy will open an interesting magical adventure and battle journey for all players."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdadebb7bc62db8614a59f52f221ce8c226464599",
+    "url": "https://magicacademy.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xDAdeBb7Bc62DB8614a59f52f221Ce8c226464599",
+        "https://bscscan.com/token/0xdadebb7bc62db8614a59f52f221ce8c226464599"
+    ],
+    "twitter": "MagicAcademyNFT",
+    "telegram": "MagicAcademyNFT",
+    "github_org": "MagicAcademydev"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "anji",
+    "symbol": "anji",
+    "name": "Anji",
+    "platforms": {
+        "binance-smart-chain": "0xfc619ffcc0e0f30427bf938f9a1b2bfae15bdf84"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralized ecosystem with a rewards system that keeps giving."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc619ffcc0e0f30427bf938f9a1b2bfae15bdf84",
+    "url": "https://www.anji.eco/",
+    "explorers": [
+        "https://bscscan.com/token/0xfc619ffcc0e0f30427bf938f9a1b2bfae15bdf84"
+    ],
+    "twitter": "anji_eco",
+    "telegram": "anjieco",
+    "github_org": "AnjiLabs"
+}

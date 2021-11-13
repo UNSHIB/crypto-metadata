@@ -1,0 +1,22 @@
+{
+    "id": "pawn-my-nft",
+    "symbol": "pnft",
+    "name": "Pawn My NFT",
+    "platforms": {
+        "binance-smart-chain": "0xec43d3153c1f08946fa71cdd3a14af64fd58f27e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PawnMyNFT is a revolutionary new project launched on Binance Smart Chain. It uses a platform and smart contract to support lending on Non-Fungible Tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec43d3153c1f08946fa71cdd3a14af64fd58f27e",
+    "url": "http://pawnmynft.online/",
+    "explorers": [
+        "https://bscscan.com/token/0xec43d3153c1f08946fa71cdd3a14af64fd58f27e"
+    ],
+    "twitter": "PawnMyNFT",
+    "telegram": "PawnMyNFT"
+}

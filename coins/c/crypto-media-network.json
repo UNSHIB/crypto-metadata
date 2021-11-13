@@ -1,0 +1,23 @@
+{
+    "id": "crypto-media-network",
+    "symbol": "cmn",
+    "name": "Crypto Media Network",
+    "platforms": {
+        "binance-smart-chain": "0x2dfbedc45a8a1fa0a14cacacc0c1cbd88946326c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Media Network is backed by an innate penchant to deliver accurate and unbiased opinions about crypto products and market trends."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2dfbedc45a8a1fa0a14cacacc0c1cbd88946326c",
+    "url": "https://www.cmntoken.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2dFBedC45A8a1FA0A14CAcacC0c1cbd88946326c",
+        "https://bscscan.com/token/0x2dfbedc45a8a1fa0a14cacacc0c1cbd88946326c"
+    ],
+    "twitter": "cmnnewsofficial",
+    "telegram": "cmnnewsofficial"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "idoscan",
+    "symbol": "idoscan",
+    "name": "Idoscan",
+    "platforms": {
+        "binance-smart-chain": "0x1da25d0a242c3b42d6774e0a41d5a142e127f891"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IdoScan is a cross-chain decentralized launchpad with an insurance system, simple and comprehensive Charting tools for analysis on Avalanche and Bsc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1da25d0a242c3b42d6774e0a41d5a142e127f891",
+    "url": "https://idoscan.dev/",
+    "explorers": [
+        "https://bscscan.com/token/0x1Da25D0a242c3B42D6774e0A41d5A142e127f891"
+    ],
+    "twitter": "ido_scan",
+    "telegram": "Idoscan1"
+}

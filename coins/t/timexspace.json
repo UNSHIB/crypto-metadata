@@ -1,0 +1,22 @@
+{
+    "id": "timexspace",
+    "symbol": "txs",
+    "name": "TIMEXSPACE",
+    "platforms": {
+        "binance-smart-chain": "0x8b298c5fbf0a8d4cd65ae524c8792b8cdfd9fbe9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Time x Space main focus is on growing as a solid project and becoming a big name in the crypto space. Our vision is to create a high and steady price floor for our holders and to help the Science in need. Our goal is also Science Charity. Even if we all want to go to the Moon and Space, first we need to take care of the things and problems happening on Earth.We value the safety of our investors funds above everything else. That's why we took the steps to ensure Time x Space is 100% safe and technically unruggable. The initial liquidity is locked away forever. For the auto-added liquidity by our smart contract, we burn the LP Tokens regularly so that it's technically impossible to remove liquidity at any time.\r\naudit report : https://timexspacecrypto.com/assets/txs_audit_inter_fi.pdf \r\nteam KYC : https://timexspacecrypto.com/assets/txs_kyc_audits_finance.pdf"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b298c5fbf0a8d4cd65ae524c8792b8cdfd9fbe9",
+    "url": "https://timexspacecrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8b298c5fbf0a8d4cd65ae524c8792b8cdfd9fbe9"
+    ],
+    "twitter": "TimexSpaceToken",
+    "telegram": "TimexSpace"
+}

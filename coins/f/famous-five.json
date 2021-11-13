@@ -1,0 +1,23 @@
+{
+    "id": "famous-five",
+    "symbol": "fafi",
+    "name": "Famous Five",
+    "platforms": {
+        "binance-smart-chain": "0x3f2a5d9a225655ddccadfda9c5f36f53a8a149a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "5 legendary heroes in the game with income opportunities\r\nPlay or stake your NFT and earn FAFI tokens"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3f2a5d9a225655ddccadfda9c5f36f53a8a149a5",
+    "url": "https://www.fafi.io",
+    "explorers": [
+        "https://bscscan.com/token/0x3f2a5d9a225655ddccadfda9c5f36f53a8a149a5"
+    ],
+    "twitter": "FAFI_IO",
+    "telegram": "FAMOUS_FIVE",
+    "github_org": "fafiio"
+}

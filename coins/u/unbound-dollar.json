@@ -1,0 +1,24 @@
+{
+    "id": "unbound-dollar",
+    "symbol": "und",
+    "name": "Unbound Dollar",
+    "platforms": {
+        "ethereum": "0x0c0f2b41f758d66bb8e694693b0f9e6fae726499"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Debt and Liquidation Free Liquidity | The Defi Treasury For LPTs | A Derivative Layer For AMM | $UNB $UND"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0c0f2b41f758d66bb8e694693b0f9e6fae726499",
+    "url": "https://app.unbound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499",
+        "https://ethplorer.io/address/0x0c0f2b41f758d66bb8e694693b0f9e6fae726499"
+    ],
+    "twitter": "unboundfinance",
+    "telegram": "unboundfinance",
+    "github_org": "unbound-finance"
+}

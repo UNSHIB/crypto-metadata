@@ -1,0 +1,23 @@
+{
+    "id": "follow-friday",
+    "symbol": "ff",
+    "name": "Follow Friday",
+    "platforms": {
+        "ethereum": "0x086c2263e17b06cb5399c997c6aef3c93f789c82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FF is an ERC20 token built on the Ethereum Network. FollowFriday was created to show each other some Crypto Twitter love! Every Friday lets show some Love by recommending to your followers who they should follow!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x086c2263e17b06cb5399c997c6aef3c93f789c82",
+    "url": "https://followfridaytoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x086c2263e17b06cb5399c997c6aef3c93f789c82",
+        "https://ethplorer.io/address/0x086c2263e17b06cb5399c997c6aef3c93f789c82"
+    ],
+    "twitter": "FollowFridayETH",
+    "telegram": "thefollowfridaytoken"
+}

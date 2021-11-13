@@ -1,0 +1,22 @@
+{
+    "id": "yieldblox",
+    "symbol": "ybx",
+    "name": "YBX",
+    "platforms": {
+        "stellar": "GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YieldBlox is the first DeFi protocol built on Stellar. YieldBlox is a decentralized finance (DeFi) protocol for lending and FX forwards built on Stellar using Stellar Turrets. \r\nThe protocol has functions for lending, borrowing, margin accounts, FX forwards, and staking. Users carry out all protocol functions using YieldBlox's smart contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX",
+    "url": "https://www.script3.io",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX"
+    ],
+    "twitter": "script3official",
+    "github_org": "script3"
+}

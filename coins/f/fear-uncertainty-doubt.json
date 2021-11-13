@@ -1,0 +1,23 @@
+{
+    "id": "fear-uncertainty-doubt",
+    "symbol": "fud",
+    "name": "Fear Uncertainty Doubt",
+    "platforms": {
+        "ethereum": "0xe9da9abf3e6fa6a5d3b2bb05a8d17907c1c4a0c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FUD is a new ERC20 token that encourages community to fight against \"Fear, Uncertainty & Doubt\" in the cryptocurrency market by rewarding holders who stake in our upcoming staking platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe9da9abf3e6fa6a5d3b2bb05a8d17907c1c4a0c3",
+    "url": "https://fearuncertaintydoubt.xyz",
+    "explorers": [
+        "https://etherscan.io/token/0xe9da9abf3e6fa6a5d3b2bb05a8d17907c1c4a0c3",
+        "https://ethplorer.io/address/0xe9da9abf3e6fa6a5d3b2bb05a8d17907c1c4a0c3"
+    ],
+    "twitter": "FUD_eth",
+    "telegram": "FUD_eth"
+}

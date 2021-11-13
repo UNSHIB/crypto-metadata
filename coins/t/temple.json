@@ -1,0 +1,27 @@
+{
+    "id": "temple",
+    "symbol": "temple",
+    "name": "Temple",
+    "platforms": {
+        "ethereum": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+    "url": "https://www.templedao.link/rituals",
+    "explorers": [
+        "https://etherscan.io/address/0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+        "https://etherscan.io/token/0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+        "https://ethplorer.io/address/0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7"
+    ],
+    "twitter": "templedao",
+    "telegram": "TempleDAOcommunity"
+}

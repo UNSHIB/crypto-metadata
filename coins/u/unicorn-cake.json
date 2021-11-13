@@ -1,0 +1,22 @@
+{
+    "id": "unicorn-cake",
+    "symbol": "unic",
+    "name": "Unicorn Cake",
+    "platforms": {
+        "binance-smart-chain": "0xd54add3414f57c47cd8103cc588b7c1e36e53eb2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd54add3414f57c47cd8103cc588b7c1e36e53eb2",
+    "url": "https://unicorncake.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd54ADD3414f57c47Cd8103cC588B7c1e36e53eB2"
+    ],
+    "twitter": "unicorncakebsc",
+    "telegram": "unicorncakefinance"
+}

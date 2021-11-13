@@ -1,0 +1,25 @@
+{
+    "id": "stripcoin",
+    "symbol": "strip",
+    "name": "StripCoin",
+    "platforms": {
+        "ethereum": "0xe9cb6838902ccf711f16a9ea5a1170f8e9853c02"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "STRIPCOIN is a digital cryptocurrency designed for all aspects of an elevated lifestyle, as if you\u2019re splurging on the Las Vegas Strip!\r\n\r\nSTRIPCOIN\u2019s main purpose is to provide direct utility and ease of cryptocurrency use towards fashion, luxury goods, nightlife and entertainment. The coin allows currency holders to pay for goods and/or services, while eliminating the high risks that come with carrying large amounts of physical cash, and providing the user with ability to maintain their desired anonymity.\r\n\r\nLead by an influential development team, this new cryptocurrency comes to market with businesses and venues already signed up and activated to accept STRIPCOIN. Refer to the Activations page for a list of venues accepting STRIPCOIN."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe9cb6838902ccf711f16a9ea5a1170f8e9853c02",
+    "url": "https://thestripcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xE9cB6838902CCF711f16a9EA5A1170F8e9853C02",
+        "https://ethplorer.io/address/0xe9cb6838902ccf711f16a9ea5a1170f8e9853c02",
+        "https://etherscan.io/token/0xe9cb6838902ccf711f16a9ea5a1170f8e9853c02"
+    ],
+    "twitter": "TheStripCoin",
+    "telegram": "TheStripCoin",
+    "reddit": "TheStripCoin/"
+}

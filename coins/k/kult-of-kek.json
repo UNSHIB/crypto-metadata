@@ -1,0 +1,24 @@
+{
+    "id": "kult-of-kek",
+    "symbol": "kok",
+    "name": "Kult of Kek",
+    "platforms": {
+        "ethereum": "0x12f197e096801337e29abda4af5351474fe90a41"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Kult of Kek is a token designed by seasoned veterans in the crypto-sphere. It's end-goal is to garner a cult-like foundation of holders through such means as unique content creation, development of professional NFTs by established artists, on-going activities such as quests, contests, and community content creation in tandem with the team's professional content creation.\r\n\r\nThe Kult of Kek has an in-house roadmap regarding their plans to construct it's following which include; Developing an Alternate Reality Game, aggressive social media campaigning, and professional digital media creation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x12f197e096801337e29abda4af5351474fe90a41",
+    "url": "https://www.kultofkek.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x12f197e096801337e29abda4af5351474fe90a41",
+        "https://ethplorer.io/address/0x12f197e096801337e29abda4af5351474fe90a41"
+    ],
+    "twitter": "Kultofkek",
+    "telegram": "KultofKek",
+    "github_org": "KultOfKek"
+}

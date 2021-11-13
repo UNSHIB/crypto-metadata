@@ -1,0 +1,24 @@
+{
+    "id": "cspro-chain",
+    "symbol": "cspro",
+    "name": "CSPro Chain",
+    "platforms": {
+        "binance-smart-chain": "0x77988b96e28512aaa183f0875ede8eba69f19867"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CSPRO is a token of the BEP-20 standard in the Binance Smart Chain network with a unique algorithm and technical functions. It was developed as a fully decentralized application (DApp).\r\nFinally, an important goal of CSPRO is to support the International Fund by supporting developments in the field of digital assets and promoting cooperation between various startups working in the sphere of digital technologies in order to jointly make blockchain technology more in demand and used in various fields.\r\nThe main task that CSPRO sets itself is to make mining accessible for all people on the planet, regardless of their place of residence and access to cheap electricity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77988b96e28512aaa183f0875ede8eba69f19867",
+    "url": "https://csprochain.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x77988B96E28512aaA183F0875EdE8ebA69f19867",
+        "https://bscscan.com/token/0x77988b96e28512aaa183f0875ede8eba69f19867"
+    ],
+    "twitter": "CsProOfficial",
+    "telegram": "CSProChainInfo",
+    "github_org": "CSProChain"
+}

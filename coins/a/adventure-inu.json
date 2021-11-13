@@ -1,0 +1,23 @@
+{
+    "id": "adventure-inu",
+    "symbol": "adinu",
+    "name": "Adventure Inu",
+    "platforms": {
+        "ethereum": "0x2f9f363685ffecc8d7bed0486d8c2b21232bdc5a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Adventure Inu, a community based adventure time meme token. This token was created for crypto enthusiasts to participate in future P2E gaming. The value of the token is currency in the game. The adventurer game is a game that will require community teamwork as there are two factions \"Rooted Evil\" and \"Divine Purity\" the basis of the game is to participate daily and recruit as many adventurers to your faction. We plan to launch a game that will require players to put in hours of work, to gain points for their faction, launch guilds, and complete quests. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f9f363685ffecc8d7bed0486d8c2b21232bdc5a",
+    "url": "https://theadventureinu.com",
+    "explorers": [
+        "https://etherscan.io/token/0x2f9f363685ffecc8d7bed0486d8c2b21232bdc5a",
+        "https://ethplorer.io/address/0x2f9f363685ffecc8d7bed0486d8c2b21232bdc5a"
+    ],
+    "twitter": "AdventureInu",
+    "telegram": "adventureinuchat"
+}

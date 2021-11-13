@@ -1,0 +1,24 @@
+{
+    "id": "x-ae-a-12",
+    "symbol": "xaea12",
+    "name": "X AE A-12",
+    "platforms": {
+        "ethereum": "0x1902882a8f6c7fb1402f83c434ea8e064b35bab3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stealth launched, X \u00c6 A-12 is one of a kind. Representation of a dream, of a vision. Representation of a decentralized society. A \"\"Thank you\"\" to Elon Musk. Our end goal is making the world a better place, which is why charity donations are part of our roadmap.\r\nPronounced as \"\"X-Ash-A-Twelve\"\".\r\nThe smart contracts have been developed and tested thoroughly. There is a strong team of 7 people on board. Our team consists of 7 people. 3 developers, with 1 smart contract developer and 1 web developer. 2 community leads. 2 people in the marketing team. The team is split between EU & the US.\r\nDetailed roadmap can be seen on the website. What the future beholds cannot be more exciting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1902882a8f6c7fb1402f83c434ea8e064b35bab3",
+    "url": "https://xaea-12.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1902882a8f6c7fb1402f83c434ea8e064b35bab3",
+        "https://ethplorer.io/address/0x1902882a8f6c7fb1402f83c434ea8e064b35bab3"
+    ],
+    "twitter": "XAEA12Official",
+    "telegram": "XAEA12Chat",
+    "github_org": "X-AE-A12"
+}

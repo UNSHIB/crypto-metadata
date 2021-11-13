@@ -1,0 +1,23 @@
+{
+    "id": "meong-token",
+    "symbol": "meong",
+    "name": "Meong Token",
+    "platforms": {
+        "binance-smart-chain": "0x464acc420607d818f271875552868ddf8095cafe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MEONG is an animal meme token created by industry professionals committed to creating a dual Asset/Utility token with long-term tangible value and real use cases. Our three pillars ecosystem composed of Art, Social, and Wealth areas."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x464acc420607d818f271875552868ddf8095cafe",
+    "url": "https://meong.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x464acc420607d818f271875552868ddf8095cafe"
+    ],
+    "twitter": "meongtoken",
+    "telegram": "meongchannelofficial",
+    "github_org": "MeongToken"
+}

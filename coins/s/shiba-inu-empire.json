@@ -1,0 +1,24 @@
+{
+    "id": "shiba-inu-empire",
+    "symbol": "shibemp",
+    "name": "Shiba Inu Empire",
+    "platforms": {
+        "binance-smart-chain": "0x14aad57fb5f9a0c9ce136cf93521cbebe14ec2e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x14aad57fb5f9a0c9ce136cf93521cbebe14ec2e6",
+    "url": "https://shibemp.com",
+    "explorers": [
+        "https://bscscan.com/token/0x14AAD57fB5f9A0C9ce136CF93521cBeBE14EC2e6",
+        "https://bscscan.com/token/0x14aad57fb5f9a0c9ce136cf93521cbebe14ec2e6"
+    ],
+    "twitter": "ShibaInuEmpire",
+    "telegram": "shibainuroyal",
+    "reddit": "ShibaInuEmpire/"
+}

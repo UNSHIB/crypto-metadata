@@ -1,0 +1,24 @@
+{
+    "id": "smartlox",
+    "symbol": "smartlox",
+    "name": "SmartLOX",
+    "platforms": {
+        "xrp": "rBdZkMKuPnzYVVkyL2DrQKV3DsYt5PPVRh"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SmartLOX is part of the world's first blockchain mobile security network, LOX Network and brings a revolutionary proof-of-ownership use case to NFTs.\r\n\r\nSmartLOX is an NFT representation of your mobile phone's identifying characteristics and makes up one half of the proof-of-ownership model. The SmartLOX token governs the SmartLOX mobile application where users can register their personal devices and even sell them to each other using a QR coded NFT proving the rightful owner, making it easy to track ownership on the LOX Network mobile or web app"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "rBdZkMKuPnzYVVkyL2DrQKV3DsYt5PPVRh",
+    "url": "https://loxcoin.io",
+    "explorers": [
+        "https://xrpscan.com/account/rBdZkMKuPnzYVVkyL2DrQKV3DsYt5PPVRh"
+    ],
+    "twitter": "LoxNetwork",
+    "telegram": "LoXNetwork",
+    "reddit": "LoxNetworkReddit/",
+    "github_org": "loxcoin"
+}

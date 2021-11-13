@@ -1,0 +1,19 @@
+{
+    "id": "shill-token",
+    "symbol": "shill",
+    "name": "SHILL Token",
+    "platforms": {
+        "solana": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Project SEED is a AAA Game Studio building mobile focused blockchain gaming ecosystem that utilizes Multi Blockchain and integrates Governance, GameFi, and NFT.\r\n\r\nWorking toward a mission of bringing blockchain to mass adoption, Project SEED focuses on making high quality mobile games that easily accessed and loved by both traditional gaming and crypto players.\r\n\r\nSHILL token is the GameFi Engine (Currency) of Project SEED Ecosystem with multiple use case ranging from gaming to blockchain related matters. Players use SHILL token in trading game assets on marketplace, renting items, voting, keeping the dungeon active, minting equipment. Also, players can receive SHILL in various in-game benefits such as random airdrop, P2P Quest board, and many more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://projectseed.io/",
+    "explorers": [],
+    "twitter": "projectseedgame",
+    "telegram": "ProjectSeed"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "metaaxis",
+    "symbol": "mta",
+    "name": "MetaAxis",
+    "platforms": {
+        "binance-smart-chain": "0x19d3a7c26a1271eebb6f04bdb4565b7f2b7efc30"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Welcome on MetaAxis, a revolution BSC project that rewards you to play."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19d3a7c26a1271eebb6f04bdb4565b7f2b7efc30",
+    "url": "https://metaaxiscoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x19d3a7c26a1271eebb6f04bdb4565b7f2b7efc30"
+    ],
+    "twitter": "MetaAxisCoin",
+    "telegram": "MetaAxisToken"
+}

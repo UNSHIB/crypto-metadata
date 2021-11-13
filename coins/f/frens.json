@@ -1,0 +1,23 @@
+{
+    "id": "frens",
+    "symbol": "frens",
+    "name": "Frens",
+    "platforms": {
+        "ethereum": "0xa2667a0fcac45713029a60e4e97104064d9349e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Building the $Frens metaverse, inspired by Pepe the Meme.\r\n\r\nFirst ever $FRENS token to create a Pub community for the NFT space. Free beers for everyone while building the metaverse of Pepe the Meme.\r\n\r\nCreated as a tribute to Pepe the Meme, the real Fren who decided to dedicate his life to becoming the #1 meme."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa2667a0fcac45713029a60e4e97104064d9349e2",
+    "url": "https://frens.pub",
+    "explorers": [
+        "https://etherscan.io/token/0xa2667a0fcac45713029a60e4e97104064d9349e2",
+        "https://ethplorer.io/address/0xa2667a0fcac45713029a60e4e97104064d9349e2"
+    ],
+    "twitter": "FrensPub",
+    "telegram": "frenspub"
+}

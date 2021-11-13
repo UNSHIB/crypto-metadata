@@ -1,0 +1,23 @@
+{
+    "id": "mkreth-1x-short",
+    "symbol": "mkrethdoom",
+    "name": "MKRETH 1x Short",
+    "platforms": {
+        "ethereum": "0x030ed557a0775e110394c1a543f3eb181aeea05f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beverage Finance is building decentralized leverage tokens. The MKR ETH 1x Short Beverage Token (MKRETHDOOM) is a type of collateralized loan product that give you leveraged short exposure to MKR against ETH. MKRETHDOOM is the cheapest way on Ethereum to short the MKR to ETH ratio and bet on MKR underperforming ETH (cc DegenSpartan). MKRETHDOOM rebalances using a similar algorithm to Binance Leverage Tokens. This means Beverage tokens do not rebalance daily, are not forced to maintain a constant leverage and rebalance during extreme market movements only."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x030ed557a0775e110394c1a543f3eb181aeea05f",
+    "url": "https://beverage.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x030ed557a0775e110394c1a543f3eb181aeea05f",
+        "https://ethplorer.io/address/0x030ed557a0775e110394c1a543f3eb181aeea05f"
+    ],
+    "twitter": "BeverageFinance",
+    "github_org": "Beverage-Finance"
+}

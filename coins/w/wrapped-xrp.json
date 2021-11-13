@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-xrp",
+    "symbol": "wxrp",
+    "name": "Wrapped XRP",
+    "platforms": {
+        "ethereum": "0x39fbbabf11738317a448031930706cd3e612e1b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped XRP is a 1:1 equivalent of XRP represented as an ERC-20 on Ethereum.\r\n\r\nWrapped.com lets investors use their digital assets to lend, borrow, and trade on all major DeFi platforms. Each wrapped asset is fully-collateralized and held with a qualified custodian.\r\n\r\nWrapped.com is a collaboration of Tokensoft Inc. with leading custodians and other financial institutions. Tokensoft provides the technology layer via Wrapped.com that allows users to wrap their XRP into wXRP."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39fbbabf11738317a448031930706cd3e612e1b9",
+    "url": "https://wrapped.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x39fBBABf11738317a448031930706cd3e612e1B9",
+        "https://ethplorer.io/address/0x39fbbabf11738317a448031930706cd3e612e1b9"
+    ],
+    "twitter": "wrappedfi",
+    "telegram": "wrappedfi",
+    "github_org": "wrappedfi"
+}

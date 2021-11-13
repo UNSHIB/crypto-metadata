@@ -1,0 +1,23 @@
+{
+    "id": "shibelon-mars",
+    "symbol": "shibelon",
+    "name": "Shibelon Mars",
+    "platforms": {
+        "ethereum": "0xef66f8c4224b423888a64f0157e56756459c2cf8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShibelonMars is a community-driven meme token project with utility. We hope to be the next generation of meme culture. We will kick off a revolution where a small\r\ncommunity can raise funds and partner with top-level artists to deliver a high quality product. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef66f8c4224b423888a64f0157e56756459c2cf8",
+    "url": "https://www.shibelonmars.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xef66f8c4224b423888a64f0157e56756459c2cf8",
+        "https://ethplorer.io/address/0xef66f8c4224b423888a64f0157e56756459c2cf8"
+    ],
+    "twitter": "shibelonmars",
+    "telegram": "ShibelonMARS"
+}

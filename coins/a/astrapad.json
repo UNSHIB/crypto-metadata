@@ -1,0 +1,22 @@
+{
+    "id": "astrapad",
+    "symbol": "astra",
+    "name": "AstraPad",
+    "platforms": {
+        "solana": "AMp8Jo18ZjK2tuQGfjKAkkWnVP4NWX5sav4NJH6pXF2D"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AstraPad is a Solana-based decentralized launchpad platform. We strive to build a community-run IDO launchpad, we want it to be fair and accessible. We put a lot of emphasis into Community Governance, giving our investors a chance to vote on the projects and other major or minor decisions. The AstraPad incubator makes it a lot more accessible for everyone to play a part in the process and get their share of IDO tokens without active involvement or a huge sum of money."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "AMp8Jo18ZjK2tuQGfjKAkkWnVP4NWX5sav4NJH6pXF2D",
+    "url": "https://astrapad.io/",
+    "explorers": [
+        "https://solscan.io/token/AMp8Jo18ZjK2tuQGfjKAkkWnVP4NWX5sav4NJH6pXF2D"
+    ],
+    "twitter": "astrapadio",
+    "telegram": "astrapadio"
+}

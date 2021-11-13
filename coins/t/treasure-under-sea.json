@@ -1,0 +1,25 @@
+{
+    "id": "treasure-under-sea",
+    "symbol": "tus",
+    "name": "Treasure Under Sea",
+    "platforms": {
+        "avalanche": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Gaming"
+    ],
+    "description": {
+        "en": "TUS is the in-game currency earned via playing the game in the form of Mining, Looting and Lending Crabada via the Tavern. TUS can only be obtained exclusively through gameplay."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
+    "url": "https://www.crabada.com/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/address/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/transactions"
+    ],
+    "twitter": "playcrabada",
+    "telegram": "playcrabada"
+}

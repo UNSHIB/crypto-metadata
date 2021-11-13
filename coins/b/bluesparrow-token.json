@@ -1,0 +1,23 @@
+{
+    "id": "bluesparrow-token",
+    "symbol": "bluesparrow",
+    "name": "BlueSparrow Token",
+    "platforms": {
+        "ethereum": "0x4d67edef87a5ff910954899f4e5a0aaf107afd42"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BlueSparrow Is a Revolutionary Token Of Tokenomics,\r\nThis Lucky Bird Is The Next Generation Of Reflection Tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d67edef87a5ff910954899f4e5a0aaf107afd42",
+    "url": "http://bluesparrowtoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4d67edef87a5ff910954899f4e5a0aaf107afd42",
+        "https://ethplorer.io/address/0x4d67edef87a5ff910954899f4e5a0aaf107afd42"
+    ],
+    "twitter": "BlueSparrowETH",
+    "telegram": "BlueSparrowOfficial"
+}

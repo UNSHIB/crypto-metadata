@@ -1,0 +1,23 @@
+{
+    "id": "sonofshib",
+    "symbol": "son",
+    "name": "SONofSHIB",
+    "platforms": {
+        "binance-smart-chain": "0x413eca30181f7ed78de38da95f44fc53f664157a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SONOfSHIB is creating an ecosystem utilizing the $SON token as the backbone. The project intends to branch into the NFT space initially with the goal of creating a additional community driven utility within the BSC space."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x413eca30181f7ed78de38da95f44fc53f664157a",
+    "url": "https://sonofshib.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x413eca30181f7ed78de38da95f44fc53f664157a"
+    ],
+    "twitter": "SONOfSHIB",
+    "telegram": "sonofshib",
+    "reddit": "https://www.reddit.com"
+}

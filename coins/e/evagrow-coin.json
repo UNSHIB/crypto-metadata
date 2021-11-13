@@ -1,0 +1,23 @@
+{
+    "id": "evagrow-coin",
+    "symbol": "eva",
+    "name": "Evagrow Coin",
+    "platforms": {
+        "binance-smart-chain": "0x3ed248db16548cb6e1d625cdba3eac487c1c4a8e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "THE COIN THAT PAYS TO HOLD. EvaGrow is a deflationary token, the longer you hold the more valuable the coin becomes. EvaGrow holders will earn 6% rewards from every transaction in BUSD, which is automatically sent to their wallets. When the price drops our team will use the buy-back wallet to keep the price growing. 2% of every transaction will be allocated to the buy-back wallet. The contract automates liquidity for price stability. 2% of every transaction is contributed liquidity for the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ed248db16548cb6e1d625cdba3eac487c1c4a8e",
+    "url": "https://www.evagrowcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ed248db16548CB6e1d625cdbA3EAc487C1c4a8e"
+    ],
+    "twitter": "EvaGrow_Token",
+    "telegram": "evagrow",
+    "reddit": "EvaGrow/"
+}

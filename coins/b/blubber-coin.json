@@ -1,0 +1,22 @@
+{
+    "id": "blubber-coin",
+    "symbol": "blub",
+    "name": "Blubber Coin",
+    "platforms": {
+        "binance-smart-chain": "0xf188bc2f00dc53f32028778c3829a218a4b010da"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Custom coded contract that delivers reflection tokens to the previous 200 buyers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf188bc2f00dc53f32028778c3829a218a4b010da",
+    "url": "https://blubber.info/",
+    "explorers": [
+        "https://bscscan.com/token/0xf188bc2f00dc53f32028778c3829a218a4b010da"
+    ],
+    "twitter": "BlubberCoin",
+    "telegram": "BlubberCoin"
+}

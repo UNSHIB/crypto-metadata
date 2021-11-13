@@ -1,0 +1,23 @@
+{
+    "id": "shibaduff",
+    "symbol": "shibaduff",
+    "name": "ShibaDuff",
+    "platforms": {
+        "binance-smart-chain": "0x6696623f0122ff144e4e9f2f2315aca142cf4e08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ShibaDuff project was conceived and developed by a group of highly motivated people led by a strong passion and knowledge of cryptographic world.\r\nBeing the international staff and with great passion for the w assion for the world of cryptography and the simpsons it was decided to create SHIBA and Duff (in honor of Homer Simpson).\r\nOur goal is to reach the whole world with the our token and we want to do it thanks to our determination and together with our communities!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6696623f0122ff144e4e9f2f2315aca142cf4e08",
+    "url": "https://www.shibaduff.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6696623f0122Ff144e4E9f2F2315ACA142Cf4e08",
+        "https://bscscan.com/token/0x6696623f0122ff144e4e9f2f2315aca142cf4e08"
+    ],
+    "twitter": "ShibaDuff",
+    "telegram": "shibaduff"
+}

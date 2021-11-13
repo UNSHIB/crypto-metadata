@@ -1,0 +1,24 @@
+{
+    "id": "pidao",
+    "symbol": "pid",
+    "name": "PIDAO",
+    "platforms": {
+        "binance-smart-chain": "0x1215ed20aa507578ca352e195016f289e7a17f3a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PIDAO is a decentralized reserve currency protocol based on the PID token. Each PID token is backed by a basket of assets (e.g. BUSD, USDT) in the PIDAO treasury, giving it an intrinsic value that it cannot fall below. PIDAO also introduces unique economic and game-theoretic dynamics into the market through staking and bonding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1215ed20aa507578ca352e195016f289e7a17f3a",
+    "url": "https://www.pidao.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1215Ed20aa507578ca352E195016F289e7A17f3A",
+        "https://bscscan.com/token/0x1215ed20aa507578ca352e195016f289e7a17f3a"
+    ],
+    "twitter": "PIDAOFinance",
+    "telegram": "PIDAOfinance",
+    "github_org": "PIDAOFinance"
+}

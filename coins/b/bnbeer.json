@@ -1,0 +1,24 @@
+{
+    "id": "bnbeer",
+    "symbol": "bnbeer",
+    "name": "BNBeer",
+    "platforms": {
+        "binance-smart-chain": "0x7fd659e61815a4b6e65bd373183b5146580d17cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BNBeer is built on the binance smart chain and is one of the first crypto project which is in collaboration with a real manufacturer, producing beers. \r\n\r\nBNBeer is looking to fully revolutionize the decentralized world. We are more than just a Defi token, we are the future of Defi and real beer business."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7fd659e61815a4b6e65bd373183b5146580d17cf",
+    "url": "https://bnbeer.io",
+    "explorers": [
+        "https://bscscan.com/token/0x7FD659e61815a4B6E65Bd373183B5146580D17cf",
+        "https://bscscan.com/token/0x7fd659e61815a4b6e65bd373183b5146580d17cf"
+    ],
+    "twitter": "Bnbeer_io",
+    "telegram": "bnbeer",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "bankwupt",
+    "symbol": "bankwupt",
+    "name": "Bankwupt",
+    "platforms": {
+        "binance-smart-chain": "0x218d9d20c503a651946bc64b54559dcef580befd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bankwupt is a reward token on BSC with 5% USDT Rewards and 2% Auto-Buybacks!\r\n\r\n4% of Each Transaction Will be Used for Marketing and 4% Will be Used For Manual Buybacks!\r\n\r\nHold Bankwupt to earn USDT reward\r\n\r\nBankwupt's team is Audited and KYCed, 100% of Team Token Burnt"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x218d9d20c503a651946bc64b54559dcef580befd",
+    "url": "https://www.bankwupt.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x218d9d20c503a651946bc64b54559dcef580befd"
+    ],
+    "twitter": "bankwuptbsc",
+    "telegram": "bankwuptofficial"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "gym-token",
+    "symbol": "gym",
+    "name": "GYM Token",
+    "platforms": {
+        "binance-smart-chain": "0xe98d920370d87617eb11476b41bf4be4c556f3f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Aggregator DeFi Protocol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe98d920370d87617eb11476b41bf4be4c556f3f8",
+    "url": "https://gymdefi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe98d920370d87617eb11476b41bf4be4c556f3f8"
+    ],
+    "twitter": "gymprotocol",
+    "telegram": "gymprotocol"
+}

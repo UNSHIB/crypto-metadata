@@ -1,0 +1,23 @@
+{
+    "id": "baby-shark-inu",
+    "symbol": "dododo",
+    "name": "Baby Shark Inu",
+    "platforms": {
+        "ethereum": "0xf017df6d543904687cc17e7aec043ccbe9d85ba1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Shark is an ERC-20 based meme token. We aim to establish a flappy shark-based game around our token!\r\n\r\nMommy, Daddy and Grandma shark doo doo doo doooo. Then we'll go hunting!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf017df6d543904687cc17e7aec043ccbe9d85ba1",
+    "url": "https://babysharkinu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf017df6d543904687cc17e7aec043ccbe9d85ba1",
+        "https://ethplorer.io/address/0xf017df6d543904687cc17e7aec043ccbe9d85ba1"
+    ],
+    "twitter": "babysharkinuerc",
+    "telegram": "babysharkinuerc"
+}

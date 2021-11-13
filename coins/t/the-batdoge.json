@@ -1,0 +1,22 @@
+{
+    "id": "the-batdoge",
+    "symbol": "batdoge",
+    "name": "The Batdoge",
+    "platforms": {
+        "binance-smart-chain": "0xcf71b92f244e369bae3a35b303aff3d1e848b858"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The BSC network is currently like the streets of GOTHAM. Bat Doge is here to save the day with a safe contract and a fair chance to get in without high taxes!  In addition, we have set up a charity wallet which will be used to donate towards various charity organisations chosen by the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf71b92f244e369bae3a35b303aff3d1e848b858",
+    "url": "https://thebatdoge.com",
+    "explorers": [
+        "https://bscscan.com/token/0xCF71b92f244e369BaE3a35B303aFf3D1E848B858"
+    ],
+    "twitter": "BatDogeOfficial",
+    "telegram": "BatDogeOfficial"
+}

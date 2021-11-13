@@ -1,0 +1,22 @@
+{
+    "id": "megashibazilla",
+    "symbol": "msz",
+    "name": "MegaShibaZilla",
+    "platforms": {
+        "binance-smart-chain": "0xe37f5e9c1e8199bda350243aaa50076959ea13d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe37f5e9c1e8199bda350243aaa50076959ea13d2",
+    "url": "http://www.megashibazilla.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe37f5e9c1e8199bda350243aaa50076959ea13d2"
+    ],
+    "twitter": "megashibazilla",
+    "telegram": "megashibazillaofficial"
+}

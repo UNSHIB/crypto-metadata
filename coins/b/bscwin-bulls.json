@@ -1,0 +1,22 @@
+{
+    "id": "bscwin-bulls",
+    "symbol": "bscwin",
+    "name": "BSCWIN Bulls",
+    "platforms": {
+        "binance-smart-chain": "0x73b01a9c8379a9d3009f2351f22583f8b75cc1ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Creating a Crypto & NFT Community Disrupting Traditional Lotteries"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73b01a9c8379a9d3009f2351f22583f8b75cc1ba",
+    "url": "https://bscwin.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x73b01a9c8379a9d3009f2351f22583f8b75cc1ba"
+    ],
+    "twitter": "BSCWIN_token",
+    "telegram": "BSCWIN_Token"
+}

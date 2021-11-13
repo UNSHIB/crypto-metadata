@@ -1,0 +1,25 @@
+{
+    "id": "probably-nothing",
+    "symbol": "pn",
+    "name": "Probably Nothing",
+    "platforms": {
+        "ethereum": "0x61b5c3aee3a25f6f83531d548a4d2ee58450f5d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Probably Nothing is a brand new crpyo meme token designed to show the naysayers that there really is something brewing in the space, with big marketing, influencer backing on Twitter and a reliable trusted team to take the token to the next level over and over again"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x61b5c3aee3a25f6f83531d548a4d2ee58450f5d9",
+    "url": "https://probablynothing.live/",
+    "explorers": [
+        "https://etherscan.io/token/0x61b5c3aeE3a25f6f83531D548A4d2EE58450f5D9",
+        "https://ethplorer.io/address/0x61b5c3aeE3a25f6f83531D548A4d2EE58450f5D9",
+        "https://etherscan.io/token/0x61b5c3aee3a25f6f83531d548a4d2ee58450f5d9",
+        "https://ethplorer.io/address/0x61b5c3aee3a25f6f83531d548a4d2ee58450f5d9"
+    ],
+    "twitter": "PNtokenETH",
+    "telegram": "ProbablynothingETH"
+}

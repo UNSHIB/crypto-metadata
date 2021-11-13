@@ -1,0 +1,23 @@
+{
+    "id": "bang-decentralized",
+    "symbol": "bang",
+    "name": "BANG Decentralized",
+    "platforms": {
+        "binance-smart-chain": "0x76ba1ce2c05049ee943f7e087128786f4f9eb077"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BANG Decentralized, a very powerful token with multiple use cases.\r\nBringing crypto enthusiasts and gamers together, in a virtual world, where we can invest and play together as a community. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76ba1ce2c05049ee943f7e087128786f4f9eb077",
+    "url": "https://bangcrypto.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x76ba1ce2c05049ee943f7e087128786f4f9eb077"
+    ],
+    "twitter": "BangCrypto_",
+    "telegram": "BANGcrypto_io",
+    "reddit": "BANGcrypto/"
+}

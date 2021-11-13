@@ -1,0 +1,23 @@
+{
+    "id": "king-of-shiba",
+    "symbol": "kingshiba",
+    "name": "King of Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x22918b2b01b1809d95cac26b3861de9dd5ee7806"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A new King has arisen as the one true King of Crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x22918b2b01b1809d95cac26b3861de9dd5ee7806",
+    "url": "https://kingshiba.games/",
+    "explorers": [
+        "https://bscscan.com/token/0x22918b2b01b1809d95cac26b3861de9dd5ee7806"
+    ],
+    "twitter": "kingofshibacoin",
+    "telegram": "kingofshibacoin",
+    "github_org": "KingSHIBA-Foundation"
+}

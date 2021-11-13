@@ -1,0 +1,23 @@
+{
+    "id": "dali",
+    "symbol": "dali",
+    "name": "DALI",
+    "platforms": {
+        "binance-smart-chain": "0x5a119762b09ed0bcb3b16075159ae43a62651383"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DaliNFTs is the NFT marketplace built on Binance Smart Chain focusing\r\nhighly on user experience and ease of use to Create, Buy, Sell and use NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a119762b09ed0bcb3b16075159ae43a62651383",
+    "url": "https://dalitoken.io",
+    "explorers": [
+        "https://bscscan.com/token/0x5a119762B09Ed0bcB3b16075159AE43A62651383",
+        "https://bscscan.com/token/0x5a119762b09ed0bcb3b16075159ae43a62651383"
+    ],
+    "twitter": "dalitoken",
+    "telegram": "dalitoken"
+}

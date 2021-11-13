@@ -1,0 +1,24 @@
+{
+    "id": "falconx",
+    "symbol": "falcx",
+    "name": "FalconX",
+    "platforms": {
+        "binance-smart-chain": "0x2d862c9fc46608d7ff83293ceb83330d6135be5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The FalconX Spaceship is on its third and final mission to conquer the blockchain universe. Captain Falcon and his 50 crew members are about to set in orbit the first non-art, morphing NFT Space Station that will forever change the BSC Galaxy. We need your help Cadet! Join the mission and we\u2019ll together dominate the BSC space & beyond!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2d862c9fc46608d7ff83293ceb83330d6135be5e",
+    "url": "https://projectfalconx.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2d862c9fc46608d7ff83293ceb83330d6135be5e"
+    ],
+    "twitter": "projectfalconx",
+    "telegram": "ProjectFalconX",
+    "reddit": "FalconX/",
+    "github_org": "projectfalconx"
+}

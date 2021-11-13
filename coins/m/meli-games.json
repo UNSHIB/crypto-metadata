@@ -1,0 +1,23 @@
+{
+    "id": "meli-games",
+    "symbol": "meli",
+    "name": "Meli Games",
+    "platforms": {
+        "binance-smart-chain": "0xad04ac36791d923deb082da4f91ab71675dd18fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Build your epic team and play across the meliverse.\r\nPlay-to-earn meli then sell on the in game marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xad04ac36791d923deb082da4f91ab71675dd18fb",
+    "url": "https://meli.games/",
+    "explorers": [
+        "https://bscscan.com/token/0xaD04AC36791d923DeB082dA4f91Ab71675dD18fB",
+        "https://bscscan.com/token/0xad04ac36791d923deb082da4f91ab71675dd18fb"
+    ],
+    "twitter": "0xmeligames",
+    "telegram": "meli_games"
+}

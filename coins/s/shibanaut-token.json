@@ -1,0 +1,24 @@
+{
+    "id": "shibanaut-token",
+    "symbol": "shibanaut",
+    "name": "Shibanaut Token",
+    "platforms": {
+        "binance-smart-chain": "0x1bdfc4b955ab96ab0abf5e76c09ea9ed537055ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shibanaut is aiming to be apart of the family of Shibas in the Meme world through teaching the world to lucid dream."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1bdfc4b955ab96ab0abf5e76c09ea9ed537055ed",
+    "url": "https://shibanaut.org",
+    "explorers": [
+        "https://bscscan.com/token/0x1bdfc4b955ab96ab0abf5e76c09ea9ed537055ed"
+    ],
+    "twitter": "ShibaNautToken",
+    "telegram": "shibanaut",
+    "reddit": "shibanautbsc/",
+    "github_org": "shibanautbsc"
+}

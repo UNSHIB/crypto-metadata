@@ -1,0 +1,23 @@
+{
+    "id": "guccinu",
+    "symbol": "guccinu",
+    "name": "Guccinu",
+    "platforms": {
+        "ethereum": "0x6238f106e2e0b0041747963b693e3a7e5223e764"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Guccinu, is the first luxury utility token on the Cryptoverse, with an entire ecosystem of Gucci NFTs and products, which can be won simply by holding Guccinu."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6238f106e2e0b0041747963b693e3a7e5223e764",
+    "url": "https://www.guccinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6238f106e2e0b0041747963b693e3a7e5223e764",
+        "https://ethplorer.io/address/0x6238f106e2e0b0041747963b693e3a7e5223e764"
+    ],
+    "twitter": "theguccinu",
+    "telegram": "guccinu"
+}

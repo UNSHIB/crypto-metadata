@@ -1,0 +1,27 @@
+{
+    "id": "babelfish",
+    "symbol": "babel",
+    "name": "BabelFish",
+    "platforms": {
+        "ethereum": "0xe9f86c5c87dfa9504c630cba497571dd7d541801"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"The Babelfish project is a brand reboot of the Hitchhiker's Guide to the Galaxy, a once popular SciFi radio series and book anthology originally broadcast and published in the late 1970s. It is a place for lovers of Douglas Adams' masterpiece \"\"trilogy\"\" to hang out and share a joke and a drink in a uniquely thematic environment. It is also the biggest meme token slash NFT project to hit the ERC20. Ever. Welcome.\r\n\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe9f86c5c87dfa9504c630cba497571dd7d541801",
+    "url": "https://babelfish.guide",
+    "explorers": [
+        "https://etherscan.io/token/0xe9F86C5C87DFa9504c630CBA497571DD7d541801",
+        "https://ethplorer.io/address/0xe9F86C5C87DFa9504c630CBA497571DD7d541801",
+        "https://etherscan.io/token/0xe9f86c5c87dfa9504c630cba497571dd7d541801",
+        "https://ethplorer.io/address/0xe9f86c5c87dfa9504c630cba497571dd7d541801"
+    ],
+    "twitter": "BabelFishETH",
+    "telegram": "BabelFish_Official",
+    "reddit": "babelfishtoken/",
+    "github_org": "Babelfishtoken"
+}

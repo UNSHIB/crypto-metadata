@@ -1,0 +1,22 @@
+{
+    "id": "binosaurs",
+    "symbol": "binosaurs",
+    "name": "Binosaurs",
+    "platforms": {
+        "binance-smart-chain": "0x7fdd003d3b61dda10429c1ebb502ec02946219cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Who are the Binosaurs? They're dinosaurs who live and trade on the Binance Smart Chain! As the world's first crypto trading dinosaurs, these crazy creatures are destined to reach the moon! \r\n\r\nBuilt with the community in mind, Binosaurs is a brand-new type of project focused on consistently reinvesting the project yield into marketing, development, and exciting giveaways! Built on the Binance Smart Chain to ensure freedom, speed, and flexibility, all lottery and payment functionality is hard coded into the token contracts. \r\n\r\nBinosaurs is a project built with the community in mind and every step of the journey is executed with full transparency. You won't find any hidden token wallets, shady transfers, excessive taxes, or any other questionable tactics! All payout functionality is controlled entirely by the Solidity Smart Contract. This means that the development team cannot change or influence the outcome of the lottery. With a working beta version already paying out over 10.56 BNB, you can get in early on the ground floor of this revolutionary Reflective NFT technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7fdd003d3b61dda10429c1ebb502ec02946219cc",
+    "url": "https://binosaurs.io",
+    "explorers": [
+        "https://bscscan.com/token/0x7fDd003D3B61dDA10429C1EbB502Ec02946219cc",
+        "https://bscscan.com/token/0x7fdd003d3b61dda10429c1ebb502ec02946219cc"
+    ],
+    "twitter": "binosaursBSC"
+}

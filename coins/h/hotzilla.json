@@ -1,0 +1,23 @@
+{
+    "id": "hotzilla",
+    "symbol": "hotzilla",
+    "name": "HotZilla",
+    "platforms": {
+        "binance-smart-chain": "0x26303d4f293b70529c845a14cc4cdb475bac456a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Welcome to HotZilla! HotZilla is Next Shiba Inu.\r\nHotZilla is a Best token that rewards its holders with reflections every transaction. Which means, just by holding, believing, and supporting the coin, you automatically earn more $SHIB tokens. Our goal is to change people\u2019s lives for the better. It\u2019s a new opportunity for investors.\r\n\r\nHotZilla is next Shiba Inu.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26303d4f293b70529c845a14cc4cdb475bac456a",
+    "url": "https://hotzillabsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x26303d4f293b70529c845a14cc4cdb475bac456a"
+    ],
+    "twitter": "HotZillaChat",
+    "telegram": "HotZillaChat",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "terraland-token",
+    "symbol": "tland",
+    "name": "TerraLand Token",
+    "platforms": {
+        "terra": "terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The TerraLand project is a global transaction platform based on blockchain technology for the sale of entire real estate or its individual parts. In the first stage, these will be commercial real estate intended for investment purposes, those that generate a rate of return for investors without maintenance.\r\n\r\nThe work on the TLAND project began in 2019. In June 2020, the project was favoured by the VC Impera Alfa fund, which resulted in receiving a grant from the National Center for Research and Development for the implementation of the MVP platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc",
+    "url": "https://terraland.io/tland-token",
+    "explorers": [
+        "https://finder.terra.money/columbus-5/address/terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc"
+    ],
+    "twitter": "Terra_Land",
+    "telegram": "terra_land",
+    "github_org": "FCQPlatform-com"
+}

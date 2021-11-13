@@ -1,0 +1,23 @@
+{
+    "id": "farmageddon",
+    "symbol": "fg",
+    "name": "Farmageddon",
+    "platforms": {
+        "binance-smart-chain": "0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Farmageddon and Fertilizer tokens will be used to power a platform bringing the lucrative yet complicated process of yield farming to the masses.\r\nFarmageddon.farm is simplifying the process of staking. After choosing the Farm you want to stake, you only need to enter the quantity of FG tokens you want staked - leave the rest to us. As your harvest starts growing, you will be able to compound your rewards back into the farm with one simple click!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06",
+    "url": "https://farmageddon.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06"
+    ],
+    "twitter": "Farmaggedon_",
+    "telegram": "FARMAGEDDON_TOKEN",
+    "reddit": "FARMAGEDDON_TOKEN"
+}

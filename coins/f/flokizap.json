@@ -1,0 +1,22 @@
+{
+    "id": "flokizap",
+    "symbol": "flokiz",
+    "name": "FlokiZap",
+    "platforms": {
+        "binance-smart-chain": "0xee901a8a13e5b71dd35ad259d87e17a891d1f0f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The FlokiZap Protocol is based on a token with passive yield mechanics that do not stem from transfer taxes.\r\n\r\nInstead, the passive yields come from supply expansion from new buy orders (which represent organic demand for the token). As a FlokiZap holder, you passively earn more tokens for every new buy order placed for $FLOKIZ. Your rewards are instantly \"zapped\" into your wallet after each new buy.\r\n\r\nThere is never any tax when buying or transferring between wallets!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee901a8a13e5b71dd35ad259d87e17a891d1f0f3",
+    "url": "https://flokizap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xee901a8a13e5b71dd35ad259d87e17a891d1f0f3"
+    ],
+    "twitter": "FlokiZap",
+    "telegram": "FlokiZapOfficial"
+}

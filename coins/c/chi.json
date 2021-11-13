@@ -1,0 +1,24 @@
+{
+    "id": "chi",
+    "symbol": "chi",
+    "name": "Chi",
+    "platforms": {
+        "binance-smart-chain": "0x15146b447f72f3733e81fa3e6602b34471c96f64"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A 3rd Generation NFT Game that adopts the three Kingdoms storyline when the land split into Wei, Shu and Wu regions historically.\r\nThe story of TTK is based in the final years of the Eastern Han dynasty 220AD when the Yellow Turban Rebellion broke out with cities and regions forming their own alliance for survival. Warlord Dong Zhuo seized control of the capital under the pretext of protecting the young emperor. Cao Cao, who had gradually taken control of territories in the North, saved the emperor and led the central government, but formed clans are already eager for the chance to rule over China.\r\nThe country broke into civil war and soon, China was divided into three spheres of influences: Cao Cao dominating the North, Sun Quan the South and Liu Bei the west. The three have fought for sixty years to conquer China and this is where the  story begins.\r\nThrough TTK, we want to provide a game platform with multiple ways to earn for players while having an enjoyable gaming experience, in-the-end achieving our goal of long-term player engagement."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x15146b447f72f3733e81fa3e6602b34471c96f64",
+    "url": "https://ttk.gg/",
+    "explorers": [
+        "https://bscscan.com/token/0x15146B447F72F3733E81fa3e6602b34471C96F64",
+        "https://bscscan.com/token/0x15146b447f72f3733e81fa3e6602b34471c96f64"
+    ],
+    "twitter": "PlayTTK",
+    "telegram": "PlayTTK",
+    "reddit": "PlayTTK"
+}

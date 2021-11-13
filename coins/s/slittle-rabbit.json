@@ -1,0 +1,23 @@
+{
+    "id": "slittle-rabbit",
+    "symbol": "sltrbt",
+    "name": "sLittle Rabbit",
+    "platforms": {
+        "binance-smart-chain": "0xea3cc71354d4c6e654ac6b4ee3e6052811a2eec5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "sLittlerabbit is a Decentralized Exchange (DEX) built on top of Binance Smart Chain (BSC).\r\n\r\nNewLittleRabbit DEX - https://newlittlerabbit.net/ Our aim is to maximize your investment with yield farming mechanism that provides sustainable and profitable yields combined with transparent security features.\r\n\r\nBinance Smart Chain has much lower transaction fees than Ethereum. sLTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea3cc71354d4c6e654ac6b4ee3e6052811a2eec5",
+    "url": "https://newlittlerabbit.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xea3cc71354d4c6e654ac6b4ee3e6052811a2eec5",
+        "https://bscscan.com/token/0x22918b2b01b1809d95cac26b3861de9dd5ee7806"
+    ],
+    "twitter": "LTRBTtwt",
+    "telegram": "littlerabbitchat"
+}

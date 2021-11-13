@@ -1,0 +1,22 @@
+{
+    "id": "yaan-launchpad",
+    "symbol": "yaan",
+    "name": "Yaan Launchpad",
+    "platforms": {
+        "polygon-pos": "0xfe0a69a2fdb58e5beeecd07f78806c9dd0a54501"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YAAN is a new token of utility featured in the Polygon ecosystem which aims to bring new, innovative projects safely, equally, and transparently to the investors and the community driving forward the decentralized financial revolution."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe0a69a2fdb58e5beeecd07f78806c9dd0a54501",
+    "url": "https://www.yaanlaunchpad.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0xfe0a69a2fdb58e5beeecd07f78806c9dd0a54501"
+    ],
+    "twitter": "yaanlaunchpad",
+    "telegram": "YaanLaunchpad"
+}

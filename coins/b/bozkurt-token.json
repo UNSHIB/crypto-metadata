@@ -1,0 +1,23 @@
+{
+    "id": "bozkurt-token",
+    "symbol": "bt",
+    "name": "Bozkurt Token",
+    "platforms": {
+        "binance-smart-chain": "0x0e5366c4b3eb849a711932c027fb0d2d2d834846"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What is Bozkurt Token?\r\n\r\nBozkurt Token is a cryptocurrency inspired by mythology. It was created by the Bozkurt Token Team due to the inadequacy of local cryptocurrencies in Turkey. As it is known, we Turks identify ourselves with the Bozkurt. Thus, it will provide the representation of a community with a population of more than 300 million in the cryptocurrency world.\r\n\r\nWhat does Bozkurt Token do?\r\n\r\nIn the first place, we want to create a decentralized exchange with BozziSwap. The working mechanism of this exchange is to exchange the tokens produced by us directly with BT. Also, as stated in the whitepaper, 20 billion BT is reserved for staking here. Another project of ours is PackFund. With this project, we want to create a new understanding by bringing the concept of decentralized finance to the donation sector. At the same time, since these donations will be made with Bozkurt Token, it will help BT in gaining volume.\r\n\r\nOur wallet application PACK is still in the design phase. Therefore, it would not be ethically and morally correct to state this project. To put it briefly, with PACK, you can both store and spend IT and easily generate smart contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e5366c4b3eb849a711932c027fb0d2d2d834846",
+    "url": "https://www.bozkurttoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0e5366c4b3eb849a711932c027fb0d2d2d834846"
+    ],
+    "twitter": "TokenBozkurt",
+    "telegram": "bozkurttoken",
+    "reddit": "https://www.reddit.com"
+}

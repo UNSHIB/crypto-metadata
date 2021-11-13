@@ -1,0 +1,22 @@
+{
+    "id": "draco-force",
+    "symbol": "drc",
+    "name": "Draco Force",
+    "platforms": {
+        "fantom": "0x8d05b42749428c26613deb12f8989cb8d1f5c17f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Draco Force, a new Stable DeFi Token on Fantom Network which helps investors to protect their funds as we provide a transparent environment so that users can use our services worry-free and helps to bring in stable passive income by staking! Our main focus is to deliver a safe, stable farm with a strong and active community!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d05b42749428c26613deb12f8989cb8d1f5c17f",
+    "url": "https://dracoforce.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0x8d05b42749428c26613deb12f8989cb8d1f5c17f"
+    ],
+    "twitter": "DracoForceDeFi",
+    "telegram": "DracoForceDeFi"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "lockness",
+    "symbol": "lkn",
+    "name": "Lockness",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lockness is a protection, a decentralized gateway innovated for crypto payments all around the world. \r\nThe only payment gateway where users can buy and sell goods and services on any platform at any time, under the protection of a P2P escrow system. The PayPal of crypto! \r\nNot only Lockness has its own mobile app and wallet for both iOS and android but also supports NFC payments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://lockness.io/",
+    "explorers": [],
+    "twitter": "LockNess_BSC",
+    "telegram": "LocknessOfficial",
+    "reddit": "Lockness_Payments/"
+}

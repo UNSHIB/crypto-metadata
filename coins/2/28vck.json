@@ -1,0 +1,23 @@
+{
+    "id": "28vck",
+    "symbol": "vck",
+    "name": "28VCK",
+    "platforms": {
+        "ethereum": "0xfa5b75a9e13df9775cf5b996a049d9cc07c15731"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "28 Foundation builds a platform designed precisely based on the 28VC blockchain to solve the problems of the existing medical field so that personal information can be stored in the hospital server and patient\u2019s own device in a state that cannot be forged altered by applying blockchain technology. Also, in the case of information related to distribution such as medical devices, medical products, and medicines, it is automatically transmitted to a mobile device with the user\u2019s consent, so that information on which product was used for treatment, etc. can be easily checked on the mobile device. \r\n\r\nThe 28VC blockchain is a technology that increases security by adding the concept of space-time to the blockchain and increases the throughput to enable faster processing. Mainnet of the 28VC blockchain is currently under development and it is supported in a mobile environment with the objective of integrating blockchain into real life. 28 Foundation\u2019s innovative consensus algorithm called Proof-of-Group-Stake not only enables mining in a mobile environment but also enables the development of safe and practical blockchain-based smartphone applications through various performances. It will be the first company to realize the 28VS blockchain platform by launching a mobile payment solution using cryptocurrency in 2021. The 28VC blockchain platform has stability and excellent security that can be applied to various industries and it can be linked with projects of various fields in various countries around the world such as hospitals, finance, real estate, logistics, etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa5b75a9e13df9775cf5b996a049d9cc07c15731",
+    "url": "https://28vc.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xfa5b75a9e13df9775cf5b996a049d9cc07c15731",
+        "https://ethplorer.io/address/0xfa5b75a9e13df9775cf5b996a049d9cc07c15731"
+    ],
+    "twitter": "28VC_Official",
+    "telegram": "global28vc"
+}

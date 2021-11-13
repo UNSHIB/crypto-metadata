@@ -1,0 +1,23 @@
+{
+    "id": "earthchain",
+    "symbol": "earth",
+    "name": "EarthChain",
+    "platforms": {
+        "binance-smart-chain": "0xc5ededb242e20d3fa5ee0c4cbd4de909f22395e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We use the power of the blockchain to support charities that protect nature and animals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc5ededb242e20d3fa5ee0c4cbd4de909f22395e9",
+    "url": "https://earthchain.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc5EdedB242E20D3Fa5EE0C4Cbd4de909f22395e9",
+        "https://bscscan.com/token/0xc5ededb242e20d3fa5ee0c4cbd4de909f22395e9"
+    ],
+    "twitter": "EarthchainF",
+    "telegram": "EarthChain"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "milky-token",
+    "symbol": "milky",
+    "name": "Milky Token",
+    "platforms": {
+        "binance-smart-chain": "0x19661223c71337121c58363152df8f35ee4be399"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kawaii Islands is a NFT simulation play-to-earn game that creates a fantasy universe on the cloud for multiplayers to experience a whole set of simulation gaming with farming, crafting, home designing, styling and social-networking. \r\n\r\nImagine you are on Kawaii islands, planting and growing magical creatures \u2014 but you also want to transport to another isekai (anime world) to fight monsters, or to play an overlord, or to experience life and death. Kawaii islands has always positioned and targeted itself as an anime metaverse for many kinds of anime-style games and virtual activities. It is a place where reality is mixed and transformed with creativity and magic to provide many layers of engaging experiences.\r\n\r\nKawaii Islands has 2 tokens, KWT is the governance token while MILKY is the gaming token which is used to send out rewards and pay gaming fees. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19661223c71337121c58363152df8f35ee4be399",
+    "url": "https://kawaii.global/",
+    "explorers": [
+        "https://bscscan.com/token/0x19661223c71337121c58363152df8f35ee4be399"
+    ],
+    "twitter": "kawaii_islands",
+    "telegram": "kawaii_islands"
+}

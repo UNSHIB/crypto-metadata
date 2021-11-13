@@ -1,0 +1,22 @@
+{
+    "id": "cabana-token",
+    "symbol": "cba",
+    "name": "Cabana Token",
+    "platforms": {
+        "binance-smart-chain": "0xf82f08200070dcf218769b43ab9bdddc5c29b7f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CABANA is an innovative dual-dividend token that implements dividend distribution in CAKE token and BANANA token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf82f08200070dcf218769b43ab9bdddc5c29b7f7",
+    "url": "https://tokencabana.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf82f08200070DCF218769B43ab9BdDDC5c29b7f7"
+    ],
+    "twitter": "CabanaToken",
+    "telegram": "tokencabana"
+}

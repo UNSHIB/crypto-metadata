@@ -1,0 +1,22 @@
+{
+    "id": "safety",
+    "symbol": "sft",
+    "name": "Safety",
+    "platforms": {
+        "binance-smart-chain": "0x13b6e448eb51fa9289eabeb67c775f755652652a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"## Introduction \r\n* Safety comes from a team with many years of experience in the Crypto industry and developed a centralized exchange that ranks at the top of Coinmarketcap. However, following the extremely strong DeFi flow and untapped potential, we decided to research and develop a completely new ecosystem in the direction of multi-network decentralization. Today, when many Blockchain networks are recognized and widely used, finding a network that can ensure stability and scalability is a dilemma. Experiencing surveys and evaluations from the community's experience, Safety decided to choose Binance Smart Chain to build its ecosystem, which focused on deploying the entire Dapp on the Safepal cryptocurrency wallet platform invested by Binance. Safepal is an e-wallet platform that allows blockchain multi-network operations, which is also an advantage for Safety and the long-term orientation of the development team. Safety was born to solve the obstacles when participating in transactions in the current market by easily circulating book assets across different Blockchains, promising to open a new direction for protocols in this billion dollar market\r\n## Ecosystem\r\n* Token SFT:\r\n+ SFT, can be used to incentivize traders, We do not sell it in the initial stage, it is distributed by the market traders themselves and it will be distributed in the staking and referral stage.\r\n+ SFT is also a proof of stake token in trading\r\n+ SFT is also a reward for the prize value and rewards for community developers.\r\n+ SFT works on the growth of the community and is the medium for all transactions.\r\n* Safetyswap: Safetyswap is a protocol for multi-token automated marketplace creation. It allows portfolio owners to create Safety Pools and traders can trade with them. Safety Pools contain two or more tokens, each with an independent weight representing its share of the total pool value. Pools provide liquidity to the Safety Pools Protocol and charge traders a fee to access it. Pools can be considered an automatic market makers, as anyone can swap any two tokens in any pool.\r\n* Farming: Farms allow users to earn SFT while supporting SFT Swap by staking LP Tokens.\r\n* Staking: POSL: A Staking Mechanism weight and balance function - This allows you to receive SFT tokens. We adopt a Proof of Stake method so that staking participants will deposit SFT Tokens and get real value from the new SFT based on the price of the SFT Token.\r\n* NFT game: SFT Infinity is structured as an Open Digital Pet Ocean. The SFT core team will build functionality for game assets linked to the SFT brand by community consensus. Ocean SFT must be fun above all else; only by having a rich gaming experience can the ecosystem attract enough participants to accumulate value for the network. At the same time, it helps users to increase the community's income.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x13b6e448eb51fa9289eabeb67c775f755652652a",
+    "url": "https://sftdefi.info/",
+    "explorers": [
+        "https://bscscan.com/token/0x13b6e448eb51fa9289eabeb67c775f755652652a"
+    ],
+    "twitter": "SafetyDEFi",
+    "telegram": "Safetyinternationalchannel"
+}

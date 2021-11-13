@@ -1,0 +1,23 @@
+{
+    "id": "ftm-pup-token",
+    "symbol": "fpup",
+    "name": "FTM PUP Token",
+    "platforms": {
+        "fantom": "0x900825ea297c7c5d1f6fa54146849bc41eddaf29"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "fPUP is a deflationary cryptocurrency featuring a maximum supply of 75,000 tokens. Unlike most yield farms, fPUP does not require more buyers to continue to purchase the token in order for the price to appreciate. Our yield farming utility dAPP generates revenue through advertising, referrals, auto-compounding vaults, and auto-harvesting smart contracts that will buyback and burn the fPUP token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x900825ea297c7c5d1f6fa54146849bc41eddaf29",
+    "url": "https://fantompup.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x900825ea297c7c5d1f6fa54146849bc41eddaf29"
+    ],
+    "twitter": "PolyPup1",
+    "telegram": "PolyPupFarm",
+    "github_org": "PolyPup-Farm"
+}

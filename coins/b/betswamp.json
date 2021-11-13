@@ -1,0 +1,24 @@
+{
+    "id": "betswamp",
+    "symbol": "bets",
+    "name": "Betswamp",
+    "platforms": {
+        "binance-smart-chain": "0x749f031fda3a4904b026f2275a697096492a129d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Betswamp is a decentralized peer-to-peer iGaming platform built on Binance smart chain. The platform completely takes out the traditional odds and booking system found in conventional centralized platforms and provide gamers the flexibility to create betting events on any category and terms of choice that other players can wager on, hence offering no limitation on the types of event created nor the size of the reward pool attached to the event."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x749f031fda3a4904b026f2275a697096492a129d",
+    "url": "https://www.betswamp.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x749f031FDa3a4904b026f2275A697096492a129d",
+        "https://bscscan.com/token/0x749f031fda3a4904b026f2275a697096492a129d"
+    ],
+    "twitter": "betswamp",
+    "telegram": "betswamp_official",
+    "github_org": "Betswamp"
+}

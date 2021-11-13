@@ -1,0 +1,23 @@
+{
+    "id": "zodiacs",
+    "symbol": "zdc",
+    "name": "Zodiacs",
+    "platforms": {
+        "binance-smart-chain": "0x5649e392a1bac3e21672203589adf8f6c99f8db3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zodiacs is an NFT game on blockchain for players who are passionate about racing. In the game, The players collect Zodiacs cars designed with the 12 zodiac signs images, drivers ,and components that exist as NFTs in the game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5649e392a1bac3e21672203589adf8f6c99f8db3",
+    "url": "https://www.zodiacs.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3"
+    ],
+    "twitter": "Zodiacs_token",
+    "telegram": "Zodiacs_token",
+    "reddit": "Zodiacs/"
+}

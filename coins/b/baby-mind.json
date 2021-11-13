@@ -1,0 +1,23 @@
+{
+    "id": "baby-mind",
+    "symbol": "bmnd",
+    "name": "Baby Mind",
+    "platforms": {
+        "binance-smart-chain": "0x350c8a09ccf7f862f0d835b0aff85898c22d2840"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Mind is the baby reward coin of Mind Music ($MND). It has been set up to raise awareness for mental health by rewarding holders with its parent coin.  Through the power of memes and rewards, Baby Mind hopes to capture the imagination of the masses.\r\n\r\nWhat is Mind Music?\r\nMind Music is a long-term secure project with a doxed team. Mind Music is starting its own independent record label collaborating with musicians around the world.  80% of the profits raised from the record sales of every release will be donated to mental health and suicide prevention charities, while the remaining 20% will be used to Buy & Burn Mind Music Coin and increase its value for holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x350c8a09ccf7f862f0d835b0aff85898c22d2840",
+    "url": "https://baby.mindmusic.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x350c8a09ccf7f862f0d835b0aff85898c22d2840"
+    ],
+    "twitter": "mindmusic_bsc",
+    "telegram": "babymindbsc",
+    "github_org": "D-B-S-G"
+}

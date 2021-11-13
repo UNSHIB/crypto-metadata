@@ -1,0 +1,22 @@
+{
+    "id": "hero-essence",
+    "symbol": "hes",
+    "name": "Hero Essence",
+    "platforms": {
+        "binance-smart-chain": "0x215fab3842bfa19dc0dd7248746c0ab72a8fe813"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x215fab3842bfa19dc0dd7248746c0ab72a8fe813",
+    "url": "https://heroverse.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x215fab3842bfa19dc0dd7248746c0ab72a8fe813"
+    ],
+    "twitter": "heroverse_game",
+    "telegram": "heroverse_game"
+}

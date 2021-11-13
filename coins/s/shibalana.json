@@ -1,0 +1,23 @@
+{
+    "id": "shibalana",
+    "symbol": "shiba",
+    "name": "Shibalana",
+    "platforms": {
+        "solana": "Dhg9XnzJWzSQqH2aAnhPTEJHGQAkALDfD98MA499A7pa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shibalana is a Solana Meme Token. We are aiming to be one of Solana's top Dog Tokens. Shibalana is full of memes, competitions, rains and giveaways."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "Dhg9XnzJWzSQqH2aAnhPTEJHGQAkALDfD98MA499A7pa",
+    "url": "https://shibalana.com",
+    "explorers": [
+        "https://solscan.io/token/Dhg9XnzJWzSQqH2aAnhPTEJHGQAkALDfD98MA499A7pa"
+    ],
+    "twitter": "shibalana",
+    "telegram": "shibalana",
+    "github_org": "shibalana"
+}

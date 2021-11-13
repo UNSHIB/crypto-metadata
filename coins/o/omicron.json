@@ -1,0 +1,22 @@
+{
+    "id": "omicron",
+    "symbol": "omic",
+    "name": "Omicron",
+    "platforms": {
+        "arbitrum-one": "0x86b3353387f560295a8fa7902679735e5f076bd5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Omicron is a decentralized reserve currency protocol available on the Arbitrum Network based on the OMIC token. Each OMIC token is backed by a basket of assets (e.g. USDC, OMIC-MIM LP) in the OMIC treasury, giving it an intrinsic value that it cannot fall below. OMIC also introduces unique economic and game-theoretic dynamics into the market through staking and bonding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86b3353387f560295a8fa7902679735e5f076bd5",
+    "url": "https://omic.finance/",
+    "explorers": [
+        "https://arbiscan.io/token/0x86b3353387F560295a8Fa7902679735E5f076Bd5"
+    ],
+    "twitter": "OmicDAO",
+    "github_org": "omic-finance"
+}

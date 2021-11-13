@@ -1,0 +1,22 @@
+{
+    "id": "contracto",
+    "symbol": "lock",
+    "name": "Contracto",
+    "platforms": {
+        "binance-smart-chain": "0x559100c4c697ad514340943625bceeff8605cdc3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Smart Contract Audits using Human & Artificial Intelligence.\r\n\r\nYour smart contract\u2019s security will be tested by a group of independent specialists."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x559100c4c697ad514340943625bceeff8605cdc3",
+    "url": "https://contracto.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x559100c4c697ad514340943625bceeff8605cdc3"
+    ],
+    "twitter": "contractolock",
+    "telegram": "contracto_official"
+}

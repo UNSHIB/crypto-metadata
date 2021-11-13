@@ -1,0 +1,25 @@
+{
+    "id": "stronghands-finance",
+    "symbol": "ishnd",
+    "name": "StrongHands Finance",
+    "platforms": {
+        "binance-smart-chain": "0x72cfd829bbda21f812f57c7012a5bf434cb6e7b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StrongHands is a large community of financial activists, investors and enthusiasts engaged to set people free from state control of your money."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72cfd829bbda21f812f57c7012a5bf434cb6e7b3",
+    "url": "https://stronghands.info/",
+    "explorers": [
+        "https://bscscan.com/token/0x72Cfd829BbdA21F812f57C7012A5bF434CB6E7b3",
+        "https://bscscan.com/token/0x72cfd829bbda21f812f57c7012a5bf434cb6e7b3"
+    ],
+    "twitter": "shndofficial",
+    "telegram": "StrongHands",
+    "reddit": "stronghands/",
+    "github_org": "stronghands-official"
+}

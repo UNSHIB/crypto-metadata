@@ -1,0 +1,22 @@
+{
+    "id": "skywalker",
+    "symbol": "sky",
+    "name": "Skywalker",
+    "platforms": {
+        "ethereum": "0xd4ff0c24285c48f748fcfff926f52a824f1df834"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sky is the first piece of a revolutionary, digital ecosystem which represents the culmination of blockchain technology, game development, and the concept of immutable truth. by breaking down complex technological barriers, sky allows players to have unprecedented access to interactive digital entertainment while seamlessly reaping financial rewards through a fully-integrated, intuitive gaming economy.\r\n\r\nskywalker is the foundational company which powers each project within the respective skywalker ecosystem. the overall result of this business structure allows $sky the skill and flexibility to create and implement new technology and best practices in numerous fields connected to gaming, blockchain, and cryptocurrency. combining digital interactive entertainment and decentralized finance to introduce the concept of gamefi (decentralised game-based finance) makes $sky more than an update to mainstream gaming; it\u2019s an evolution of the definition and utilization of gaming currencies as we know it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd4ff0c24285c48f748fcfff926f52a824f1df834",
+    "url": "https://www.skywalkererc20.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd4ff0c24285c48f748fcfff926f52a824f1df834",
+        "https://ethplorer.io/address/0xd4ff0c24285c48f748fcfff926f52a824f1df834"
+    ],
+    "twitter": "Skywalkererc20"
+}

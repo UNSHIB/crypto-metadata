@@ -1,0 +1,23 @@
+{
+    "id": "d-skyscraper",
+    "symbol": "dsg",
+    "name": "D-Skyscraper",
+    "platforms": {
+        "binance-smart-chain": "0x26646b7c71f19bc9440612caaab465c26f4e8f7c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Real Estate NFT Game P2E"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26646b7c71f19bc9440612caaab465c26f4e8f7c",
+    "url": "https://d-skyscraper.games/",
+    "explorers": [
+        "https://bscscan.com/token/0x26646b7C71f19BC9440612CaAaB465c26f4E8F7c",
+        "https://bscscan.com/token/0x26646b7c71f19bc9440612caaab465c26f4e8f7c"
+    ],
+    "twitter": "d_skyscraper",
+    "telegram": "dskyscraperEnglish"
+}

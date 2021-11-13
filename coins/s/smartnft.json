@@ -1,0 +1,24 @@
+{
+    "id": "smartnft",
+    "symbol": "smartnft",
+    "name": "SmartNFT",
+    "platforms": {
+        "xrp": "rf8dxyFrYWEcUQAM7QXdbbtcRPzjvoQybK"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SmartNFT is part of the world's first blockchain mobile security network, used by LOX Network and brings a revolutionary proof-of-ownership use case to NFTs.\r\n\r\nSmartNFT is an NFT representation of the user and records this data to the XRP ledger; it also powers the SmartNFT marketplace to buy, sell and trade the artwork that is paired to the user profile NFT QR code and displayed on your device lock screen, making it easy to track ownership on the LOX Network mobile or web app"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "rf8dxyFrYWEcUQAM7QXdbbtcRPzjvoQybK",
+    "url": "https://loxcoin.io",
+    "explorers": [
+        "https://xrpscan.com/account/rf8dxyFrYWEcUQAM7QXdbbtcRPzjvoQybK"
+    ],
+    "twitter": "LoxNetwork",
+    "telegram": "LoXNetwork",
+    "reddit": "LoxNetworkReddit/",
+    "github_org": "loxcoin"
+}

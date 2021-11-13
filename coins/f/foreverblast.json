@@ -1,0 +1,23 @@
+{
+    "id": "foreverblast",
+    "symbol": "feb",
+    "name": "ForeverBlast",
+    "platforms": {
+        "binance-smart-chain": "0xebca5a64432660dc7aac05d52315b0583734151b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ForeverBlast (FEB) is a Utility token with deflationary functions. It is used for discounted ad payments on our crypto news website (www.ForeverBlast.News). Advertisers can save up to 50% on banners and other advertising services just by using FEB token as their payment method. \r\n\r\nThis use case will create external demand for FEB, far into the future. FEB token also has deflationary functions, which allows for automatic liquidity generation. Rewards redistribution is in BNB to all wallet holders on the Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xebca5a64432660dc7aac05d52315b0583734151b",
+    "url": "https://foreverblast.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xebca5a64432660dc7aac05d52315b0583734151b"
+    ],
+    "twitter": "ForeverBlastFEB",
+    "telegram": "ForeverBlastFEB",
+    "reddit": "https://www.reddit.com"
+}

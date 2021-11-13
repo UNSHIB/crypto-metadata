@@ -1,0 +1,21 @@
+{
+    "id": "bork",
+    "symbol": "bork",
+    "name": "Bork",
+    "platforms": {
+        "solana": "2LxZrcJJhzcAju1FBHuGvw929EVkX7R7Q8yA2cdp8q7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bork aims to be the #1 memecoin on Solana with its own easy to use Decentralised Exchange"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "2LxZrcJJhzcAju1FBHuGvw929EVkX7R7Q8yA2cdp8q7b",
+    "url": "https://borksolana.club/",
+    "explorers": [
+        "https://solscan.io/token/2LxZrcJJhzcAju1FBHuGvw929EVkX7R7Q8yA2cdp8q7b"
+    ],
+    "twitter": "borksolana"
+}

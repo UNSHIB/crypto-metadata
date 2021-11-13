@@ -1,0 +1,23 @@
+{
+    "id": "kimetsu-inu",
+    "symbol": "kimetsu",
+    "name": "Kimetsu Inu",
+    "platforms": {
+        "ethereum": "0x91e8d1b5f386204a82e6de32d4bae11d0b042f0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Little Tanjiro Kamado is struggling to become a demon slayer after his family was slaughtered and his younger sister Nezuko turned into a demon. Kimetsu Inu is the total of the Kimetsu NFTs and NFT marketplace, Kimetsu anime, Kimetsu P2E game, Kimetsu comic book and more following this series."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x91e8d1b5f386204a82e6de32d4bae11d0b042f0f",
+    "url": "https://kimetsuinu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x91e8d1b5f386204a82e6de32d4bae11d0b042f0f",
+        "https://ethplorer.io/address/0x91e8d1b5f386204a82e6de32d4bae11d0b042f0f"
+    ],
+    "twitter": "KimetsuInuToken",
+    "telegram": "kimetsuinuofficial"
+}

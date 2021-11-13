@@ -1,0 +1,23 @@
+{
+    "id": "magicbox",
+    "symbol": "mbt",
+    "name": "MagicBox",
+    "platforms": {
+        "binance-smart-chain": "0x4ce2db133035519f538b7849201d6d541972164c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MagicBox is committed to the ecological exploration of the metaverse and building an independent frictionless production liquidity survival agreement"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ce2db133035519f538b7849201d6d541972164c",
+    "url": "https://magicbox.game/",
+    "explorers": [
+        "https://bscscan.com/token/0x4ce2db133035519f538b7849201d6d541972164c"
+    ],
+    "twitter": "MagicBoxGame",
+    "telegram": "MagicBox_Game",
+    "github_org": "MagicBox-Lab"
+}

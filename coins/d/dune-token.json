@@ -1,0 +1,22 @@
+{
+    "id": "dune-token",
+    "symbol": "dune",
+    "name": "Dune Token",
+    "platforms": {
+        "avalanche": "0xdd57fa6a38326b5c040a6bfce7a0a7c65588175a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$DUNE Is a Token used to purchase our In-game Mintable Nft Sprites. Dune will be used for the Villain side of our whole ecosystem farm from Frost Finance and will be implemented with $TUNDRA, which has already been listed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdd57fa6a38326b5c040a6bfce7a0a7c65588175a",
+    "url": "https://dune.frostfinance.farm",
+    "explorers": [
+        "https://snowtrace.io/token/0xDd57fA6A38326b5c040a6bFce7A0a7C65588175A"
+    ],
+    "twitter": "Frost_FI",
+    "telegram": "frostfinance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "windfall-token",
+    "symbol": "wft",
+    "name": "Windfall Token",
+    "platforms": {
+        "tron": "TC5KNBDax7xiCmgED1vmdcn1pQbjTRdVSA"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Windfall aspires to become one of the leading virtual real estate medium to provide exposure to the burgeoning virtual real estate industry through virtual real estate portal."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TC5KNBDax7xiCmgED1vmdcn1pQbjTRdVSA",
+    "url": "https://windfalltoken.io/",
+    "explorers": [
+        "https://tronscan.io/#/token20/TC5KNBDax7xiCmgED1vmdcn1pQbjTRdVSA"
+    ],
+    "twitter": "windfalltoken",
+    "telegram": "incwindfall"
+}

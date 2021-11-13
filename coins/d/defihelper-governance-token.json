@@ -1,0 +1,25 @@
+{
+    "id": "defihelper-governance-token",
+    "symbol": "dfh",
+    "name": "DeFiHelper Governance Token",
+    "platforms": {
+        "ethereum": "0x5f2080542ab6ae7e0b06778f0b2d263006297840"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFiHelper is the most advanced non-custodial tool that allows the average user to deal with the complicated DeFi strategies and to program their crypto investments. It helps users earn up to 1.5-2.5 more on staking by automatically adding their profits to the deposit, effectively auto-compounding their interest. Its mathematical model makes decisions by taking into account current and historical fees, the prices of tokens, and other factors. \r\n\r\nIn the near future, users will also be able to find investment strategies on the DeFiHelper marketplace or create their own and earn a percentage of the profits received from the users who apply them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f2080542ab6ae7e0b06778f0b2d263006297840",
+    "url": "https://defihelper.io",
+    "explorers": [
+        "https://etherscan.io/token/0x5F2080542ab6ae7e0b06778F0B2d263006297840",
+        "https://ethplorer.io/address/0x5f2080542ab6ae7e0b06778f0b2d263006297840",
+        "https://etherscan.io/token/0x5f2080542ab6ae7e0b06778f0b2d263006297840"
+    ],
+    "twitter": "defihelper",
+    "telegram": "defihelper_chat",
+    "github_org": "defi-helper"
+}

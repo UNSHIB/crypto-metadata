@@ -1,0 +1,24 @@
+{
+    "id": "sherlock-wallet",
+    "symbol": "sher",
+    "name": "Sherlock Wallet",
+    "platforms": {
+        "binance-smart-chain": "0xab896775c35ff4522fd285f7a7acbdaaca1fadd9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sherlock Wallet is a real-life stalker community built on fictional digital cryptocurrency intelligence.\r\nA fictional real-time Wallet capture contest developed in the Smart Contract BEP20 cryptocurrency digital world,  enabling you to earn by keeping many emotions and feelings together such as puzzle solving ability, curiosity, stalking, using mind power, brain storming in detail.\r\n \r\nCompetitors or investors who are passionate about fictional intelligence and solving clues try to get the password of this wallet. Sherlock Wallet enables you to earn by keeping many emotions and feelings together such as puzzle solving ability, curiosity, stalking, using mind power , brain storming in detail."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xab896775c35ff4522fd285f7a7acbdaaca1fadd9",
+    "url": "https://sherlockwallet.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xab896775c35ff4522fD285F7A7aCBDAACa1FaDd9",
+        "https://bscscan.com/token/0xab896775c35ff4522fd285f7a7acbdaaca1fadd9"
+    ],
+    "twitter": "SherlockWallet",
+    "telegram": "sherlockwallet",
+    "github_org": "sherlockwallet"
+}

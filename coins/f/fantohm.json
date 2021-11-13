@@ -1,0 +1,26 @@
+{
+    "id": "fantohm",
+    "symbol": "fhm",
+    "name": "Fantohm",
+    "platforms": {
+        "fantom": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem",
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "FantOHM (FHM) is a market making token backed by other cryptocurrency assets. With mechanisms to ensure the price is always greater than or equal to 1 Magical Internet Money (MIM), the protocol provides heavy incentives for passive and active investors through staking and bonding respectively. As bonds are created the liquidity backing of FHM is distributed into newly minted FHM tokens with the goal being 1 FHM >/= 1 MIM. These new tokens are largely distributed to stakers while investors who have purchased bonds may access a discounted price point for FHM after their vesting period."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
+    "url": "https://www.fantohm.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286"
+    ],
+    "twitter": "FantohmDAO",
+    "telegram": "fantohm",
+    "github_org": "fantohm-dev"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "degem",
+    "symbol": "dgm",
+    "name": "Degem",
+    "platforms": {
+        "binance-smart-chain": "0x7301d90c8b778e37124c9ae0cf1cd1e6f7b58a06"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Degem is a decentralized products and services platform that empowers the investor, simplifies the trading experience, and gives YOU the edge needed to be successful\r\n\r\nDegem empowers the investor by bringing simplicity to the trading experience, the knowledge to make more informed decisions, and increased profit potential.  Our trading tools give YOU the edge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7301d90c8b778e37124c9ae0cf1cd1e6f7b58a06",
+    "url": "https://degem.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7301d90c8b778e37124c9ae0cf1cd1e6f7b58a06"
+    ],
+    "twitter": "degemofficial",
+    "telegram": "degemofficial",
+    "github_org": "DegemFinance"
+}

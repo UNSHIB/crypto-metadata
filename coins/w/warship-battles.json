@@ -1,0 +1,22 @@
+{
+    "id": "warship-battles",
+    "symbol": "$oil",
+    "name": "Warship Battles",
+    "platforms": {
+        "binance-smart-chain": "0x66f0095a54b16980617af51cfef87d3f95cf0257"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Play-To-Earn NFT Game based on the #BSC focused on awesome PVP Battles, with our first season taking place in the Caribbean islands."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x66f0095a54b16980617af51cfef87d3f95cf0257",
+    "url": "https://warshipbattles.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x66f0095a54b16980617af51cfef87d3f95cf0257"
+    ],
+    "twitter": "BattlesWarship",
+    "telegram": "WarshipBattlesGlobal"
+}

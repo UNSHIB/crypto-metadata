@@ -1,0 +1,22 @@
+{
+    "id": "babyflokizilla",
+    "symbol": "babyflokizilla",
+    "name": "BabyFlokiZilla",
+    "platforms": {
+        "binance-smart-chain": "0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyFlokiZilla is a community-driven project. BabyFlokiZilla rewards all his holders $BUSD! As soon as he heard that his friend BabyDogeZilla joins BSC, his thoughts were the same and wanted to join the hype! BabyFlokiZilla is not your ordinary MEME token! The team has plans of having NFTs for the project and potentially getting into a Play-To-Earn model!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6",
+    "url": "https://babyflokizilla.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6"
+    ],
+    "twitter": "BFZillaBSC",
+    "telegram": "BabyFlokiZillaBSC"
+}

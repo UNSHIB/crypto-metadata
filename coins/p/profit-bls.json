@@ -1,0 +1,23 @@
+{
+    "id": "profit-bls",
+    "symbol": "profit",
+    "name": "Profit Bls",
+    "platforms": {
+        "binance-smart-chain": "0x902c1101a66e697fa776b0b1c2d0d8ffdf866ed6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Profit Bls (PROFIT) is a token that is geared towards the exchange development on the blockchain which brings in its contract reflection functions that allows your users to be rewarded through the Holding.\r\n\r\nProfit Bls' mission is to create the best environment economic in a virtualized world, optimizing community-owned assets for use maximum and sharing these profits with the holders of our token.\r\n\r\nDecentralized financing, which uses technologies for removing intermediaries, banks from financial markets and intermediary institutions, is a complicated and bureaucratic system to enter.\r\n\r\nThe purpose of Profit Bls is to make it simple enough so that even the one with the least knowledge can start earning passive income without having to understand this complicated world of DeFi.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x902c1101a66e697fa776b0b1c2d0d8ffdf866ed6",
+    "url": "https://www.profitbls.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x902c1101a66e697fa776b0b1c2d0d8ffdf866ed6"
+    ],
+    "twitter": "ProfitBls",
+    "telegram": "profitbls",
+    "reddit": "https://www.reddit.com"
+}

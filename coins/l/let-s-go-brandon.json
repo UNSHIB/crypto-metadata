@@ -1,0 +1,23 @@
+{
+    "id": "let-s-go-brandon",
+    "symbol": "lgb",
+    "name": "Let's Go Brandon",
+    "platforms": {
+        "ethereum": "0x21e783bcf445b515957a10e992ad3c8e9ff51288"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LGBC is an ERC-20 community token on Ethereum network with 0% taxes built to bring the people together."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21e783bcf445b515957a10e992ad3c8e9ff51288",
+    "url": "https://www.lgbcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x21e783bcf445b515957a10e992ad3c8e9ff51288",
+        "https://ethplorer.io/address/0x21e783bcf445b515957a10e992ad3c8e9ff51288"
+    ],
+    "twitter": "LGBcoin_io",
+    "telegram": "lgbcoin_chat"
+}

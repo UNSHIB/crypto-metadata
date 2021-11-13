@@ -1,0 +1,24 @@
+{
+    "id": "martiandoge",
+    "symbol": "martiandoge",
+    "name": "MartianDoge",
+    "platforms": {
+        "binance-smart-chain": "0x738b9658f84b009f5dd6ca2a5846422edfa7d562"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Martian Doge is one of the Metaverse projects in BSC, building a groundbreaking AR NFT Marketplace. The AR NFT's launched in the marketplace can be viewed as an Augmented Reality model in the real world through the lens of the camera. Trade, and Explore the virtual land of Mars. Earn NFTs and exciting items as you explore the ends of Mars through MartianDoge Virtual Space."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x738b9658f84b009f5dd6ca2a5846422edfa7d562",
+    "url": "https://www.martiandoge.io",
+    "explorers": [
+        "https://bscscan.com/token/0x738B9658f84b009F5Dd6ca2A5846422edFa7D562",
+        "https://bscscan.com/token/0x738b9658f84b009f5dd6ca2a5846422edfa7d562"
+    ],
+    "twitter": "MartianDoge1",
+    "telegram": "MartianDoge",
+    "reddit": "https://www.reddit.com"
+}

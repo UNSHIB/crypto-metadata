@@ -1,0 +1,24 @@
+{
+    "id": "garfield-token",
+    "symbol": "garfield",
+    "name": "Garfield Token",
+    "platforms": {
+        "ethereum": "0x7b392dd9bdef6e17c3d1ba62d1a6c7dcc99d839b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Garfield is a community-driven token running on the Ethereum Network. Garfield Ecosystem will have a P2E (Play-to-Earn) game, NFTs and much more to ensure a world domination."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7b392dd9bdef6e17c3d1ba62d1a6c7dcc99d839b",
+    "url": "https://thegarfieldtoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7b392dd9bdef6e17c3d1ba62d1a6c7dcc99d839b",
+        "https://ethplorer.io/address/0x7b392dd9bdef6e17c3d1ba62d1a6c7dcc99d839b"
+    ],
+    "twitter": "GarfieldETH",
+    "telegram": "garfieldtokeneth",
+    "github_org": "GarfieldToken"
+}

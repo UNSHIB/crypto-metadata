@@ -1,0 +1,21 @@
+{
+    "id": "invictus",
+    "symbol": "in",
+    "name": "Invictus",
+    "platforms": {
+        "solana": "inL8PMVd6iiW3RCBJnr5AsrRN6nqr4BTrcNuQWQSkvY"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IN is a decentralized reserve currency built on Solana, similar to Olympus (OHM)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "inL8PMVd6iiW3RCBJnr5AsrRN6nqr4BTrcNuQWQSkvY",
+    "url": "https://invictusdao.fi/",
+    "explorers": [
+        "https://solscan.io/token/inL8PMVd6iiW3RCBJnr5AsrRN6nqr4BTrcNuQWQSkvY"
+    ],
+    "twitter": "InvictusDAO"
+}

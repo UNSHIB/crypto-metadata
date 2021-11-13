@@ -1,0 +1,23 @@
+{
+    "id": "super-saiyan-blue",
+    "symbol": "ssb",
+    "name": "Super Saiyan Blue",
+    "platforms": {
+        "ethereum": "0x0c9ef4d58b12041779b8d2165f42a00cb362db81"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SSB is a token by and for fans of DBZ. We don't cater toward your average fan. We are for the super fans who actually know what Super Saiyan Blue means.\r\n\r\nBy a team of experienced devs with multiple existing successful projects, we seek to create a new mid cap token that will dominate its peers.\r\n\r\nIn the future we plan to implement gameplay, swaps, and some other fun ideas."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0c9ef4d58b12041779b8d2165f42a00cb362db81",
+    "url": "https://supersaiyanblue.net",
+    "explorers": [
+        "https://etherscan.io/token/0x0c9ef4d58b12041779b8d2165f42a00cb362db81",
+        "https://ethplorer.io/address/0x0c9ef4d58b12041779b8d2165f42a00cb362db81"
+    ],
+    "twitter": "SSB_ERC20",
+    "telegram": "SuperSaiyanBlueETH"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "himalayan-cat-coin",
+    "symbol": "hima",
+    "name": "Himalayan Cat Coin",
+    "platforms": {
+        "solana": "72hgmvS5zFxaFJfMizq6Gp4gjBqXjTPyX9GDP38krorQ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Himalayan Cat Coin is a memecoin aimed to be owned and driven by the community. \r\n\r\nInspired by our canine counterpart on the Solana blockchain, Samoyedcoin, we hope to shed light on and be an introduction for many to the Solana ecosystem.\r\n\r\nHIMA has caught on like wildfire thanks in part to the speed, efficiency, and scalability of the Solana blockchain and the powerful community behind it that is growing larger by the day."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "72hgmvS5zFxaFJfMizq6Gp4gjBqXjTPyX9GDP38krorQ",
+    "url": "https://www.himalayancatcoin.com/",
+    "explorers": [
+        "https://solscan.io/token/72hgmvS5zFxaFJfMizq6Gp4gjBqXjTPyX9GDP38krorQ"
+    ],
+    "twitter": "himacoin"
+}

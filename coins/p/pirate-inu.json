@@ -1,0 +1,23 @@
+{
+    "id": "pirate-inu",
+    "symbol": "pinu",
+    "name": "Pirate Inu",
+    "platforms": {
+        "ethereum": "0xef5b32486ed432b804a51d129f4d2fbdf18057ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PINU is for communities\r\nPINU is a global platform where meme, community, celebrity and other social currencies can be listed, compared and marketed. Leverage $PINU\u2019s utilities to help your coin become more popular.\r\n\r\nPINU is for investors\r\nOur AI-driven analytics will help you find essential information and make evidence-based investment decisions. We do all the scouring through smart contracts and tokenomics for you, so you don\u2019t have to. Find the next gem that with lower risks and higher potential gains.\r\n\r\nPINU is for community creators\r\nWhether you are creators, artists, musicians, entrepreneurs, influencers, community organisers, charity fundraisers and social business owners, let the Pirate Inu help you create your own token and market it to the right audience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef5b32486ed432b804a51d129f4d2fbdf18057ec",
+    "url": "https://pinu.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xef5b32486ed432b804a51d129f4d2fbdf18057ec",
+        "https://ethplorer.io/address/0xef5b32486ed432b804a51d129f4d2fbdf18057ec"
+    ],
+    "twitter": "InuPirate",
+    "telegram": "pirateinu"
+}

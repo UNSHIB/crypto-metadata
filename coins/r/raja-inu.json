@@ -1,0 +1,23 @@
+{
+    "id": "raja-inu",
+    "symbol": "rajainu",
+    "name": "Raja Inu",
+    "platforms": {
+        "ethereum": "0x77d64cb9b19228157a7628ca0d26f5d9656b3d03"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RajaInu: A new way to monetize your work and ensure that only your members can access it.\r\n\r\nThe web is going full force toward memberships as a way for creators to charge for access to their community and the content they provide. Premium content business represents billions of revenue. \r\n\r\nRajaInu is a decentralized solution for content creators to get paid without the need of a third party.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77d64cb9b19228157a7628ca0d26f5d9656b3d03",
+    "url": "https://rajainu.com",
+    "explorers": [
+        "https://etherscan.io/token/0x77d64cb9b19228157a7628ca0d26f5d9656b3d03",
+        "https://ethplorer.io/address/0x77d64cb9b19228157a7628ca0d26f5d9656b3d03"
+    ],
+    "twitter": "rajainu",
+    "telegram": "rajainu"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "shirainu",
+    "symbol": "shr",
+    "name": "ShiraINU",
+    "platforms": {
+        "ethereum": "0x04a5198063e45d84b1999516d3228167146417a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShiraINU $SHR is a new meme token with the following two usecases that are still under production:\r\n\r\n1) ShiraSwap - ShiraSwap is a decentralized exchange (DEX) that will allow users to quickly and easily obtain $SHR, Shira metaverse tokens, and any token we are partnered with.  Shiraswap will work with a multitude of wallets, and be a fully customizable DEX experience.  We will also be partnering with other tokens manga/meme related in the community to provide easy access for users. \r\n\r\n2) Bazaar of Shira - Bazaar of Shira is an NFT auction that will serve as the first opportunity to purchase characters and items.  Each NFT will hold metadata based on a variety of qualities and characteristics, and each will have their own aesthetic appeal"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x04a5198063e45d84b1999516d3228167146417a6",
+    "url": "http://shirainu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x04a5198063e45d84b1999516d3228167146417a6",
+        "https://ethplorer.io/address/0x04a5198063e45d84b1999516d3228167146417a6"
+    ],
+    "twitter": "shira__inu",
+    "telegram": "shirainu"
+}

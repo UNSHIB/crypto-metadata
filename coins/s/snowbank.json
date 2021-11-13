@@ -1,0 +1,23 @@
+{
+    "id": "snowbank",
+    "symbol": "sb",
+    "name": "Snowbank",
+    "platforms": {
+        "avalanche": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Snowbank DAO is the decentralized reserve currency protocol available on the Avalanche Network based on the SB token. Each SB token is backed by a basket of assets (e.g., MIM, SB-AVAX LP Tokens etc etc) in the Snowbank DAO treasury, giving it an intrinsic value that it cannot fall below. Snowbank DAO also introduces economic and game-theoretic dynamics into the market through staking and minting. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
+    "url": "https://www.snowbank.finance/",
+    "explorers": [
+        "https://snowtrace.io/token/0x7d1232b90d3f809a54eeaeebc639c62df8a8942f"
+    ],
+    "twitter": "SnowbankDAO"
+}

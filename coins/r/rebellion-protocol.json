@@ -1,0 +1,23 @@
+{
+    "id": "rebellion-protocol",
+    "symbol": "rebl",
+    "name": "Rebellion Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xbb8b7e9a870fbc22ce4b543fc3a43445fbf9097f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Rebellion Protocol is a community focused project, which aims to bring value to its token holders over the long-term. The project's token is the REBL token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb8b7e9a870fbc22ce4b543fc3a43445fbf9097f",
+    "url": "https://rebellionprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbb8b7e9a870fbc22ce4b543fc3a43445fbf9097f"
+    ],
+    "twitter": "RebellionToken",
+    "telegram": "RebellionProtocol",
+    "reddit": "REBLProtocol/"
+}

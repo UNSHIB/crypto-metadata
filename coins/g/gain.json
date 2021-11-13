@@ -1,0 +1,23 @@
+{
+    "id": "gain",
+    "symbol": "gain",
+    "name": "GainPool",
+    "platforms": {
+        "binance-smart-chain": "0xaac073847e989c6d9d2f115a69e57a024415c684"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GainPool Aims to Provide Fair Access to early on projects for the community through In-house Mechanisms. We aim to achieve this by Reinventing the Modus Operandi for Decentralized Investing"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaac073847e989c6d9d2f115a69e57a024415c684",
+    "url": "https://gainpool.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xaac073847e989c6d9d2f115a69e57a024415c684"
+    ],
+    "twitter": "GainPool",
+    "telegram": "GainPoolcommunity",
+    "github_org": "GainPool"
+}

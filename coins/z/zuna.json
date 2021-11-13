@@ -1,0 +1,23 @@
+{
+    "id": "zuna",
+    "symbol": "zuna",
+    "name": "Zuna",
+    "platforms": {
+        "binance-smart-chain": "0x5d07edaba2151a3c6802b28636ecc23082398edb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5d07edaba2151a3c6802b28636ecc23082398edb",
+    "url": "https://www.zunacoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5d07edaba2151a3c6802b28636ecc23082398edb"
+    ],
+    "twitter": "zunacoin",
+    "telegram": "zunacoin",
+    "reddit": "ZunaCoin/"
+}

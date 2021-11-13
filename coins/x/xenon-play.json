@@ -1,0 +1,24 @@
+{
+    "id": "xenon-play",
+    "symbol": "xplay",
+    "name": "Xenon Play",
+    "platforms": {
+        "binance-smart-chain": "0xb7feeab5ea787e83a40f185237c717597363e0d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Xenon Play functions as the official Xenon Reward that can be generated from the Xenon Machine after activating the reward mechanism by inserting Xenon Liquidity Tokens or Xenon Pay Tokens.\r\n\r\nYou can also use Xenon Play in the upcoming Xenon Pay Gaming Series such as Xenon Kart: Crypto Edition or Xenon Play: Minigames.\r\n\r\nBoth games will have a Play To Earn game mode. It\u2019s up to each individual whether they keep their Xenon Play (rewards) to use them in the upcoming games or if they treat it like a trading crypto asset.\r\n\r\nThe fact that it can be treated like a trading crypto asset also gives each individual the chance to sell their Xenon Play (rewards) whenever they want, or give other people the chance to buy Xenon Play if they would like to do so."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb7feeab5ea787e83a40f185237c717597363e0d6",
+    "url": "https://www.xenonpay.org/token/xenonplay",
+    "explorers": [
+        "https://bscscan.com/token/0xb7feeab5ea787e83a40f185237c717597363e0d6"
+    ],
+    "twitter": "PayX2P",
+    "telegram": "xenonpaycommunity",
+    "reddit": "X2P",
+    "github_org": "keesx2pofficial"
+}

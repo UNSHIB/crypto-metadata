@@ -1,0 +1,17 @@
+{
+    "id": "vvs-finance",
+    "symbol": "vvs",
+    "name": "VVS Finance",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Very, Very Simple DeFi Trading for All.\r\n\r\nYour gateway to the decentralized finance movement. Take control of your finances and earn sparkly VVS rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://vvs.finance/",
+    "explorers": [],
+    "twitter": "VVS_finance",
+    "telegram": "VVSFinance"
+}

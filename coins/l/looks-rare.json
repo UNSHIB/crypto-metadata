@@ -1,0 +1,24 @@
+{
+    "id": "looks-rare",
+    "symbol": "lr",
+    "name": "Looks Rare",
+    "platforms": {
+        "ethereum": "0x30abb1a1e2913d0991bbf06dd79dfcc224361de9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Looks Rare is community based meme token that is developing a DAO & NFT platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x30abb1a1e2913d0991bbf06dd79dfcc224361de9",
+    "url": "https://looksrare.tech",
+    "explorers": [
+        "https://etherscan.io/token/0x30abb1a1e2913d0991bbf06dd79dfcc224361de9",
+        "https://ethplorer.io/address/0x30abb1a1e2913d0991bbf06dd79dfcc224361de9"
+    ],
+    "twitter": "looksrareToken",
+    "telegram": "LooksRareToken",
+    "github_org": "LooksRareToken"
+}

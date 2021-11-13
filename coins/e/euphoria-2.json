@@ -1,0 +1,25 @@
+{
+    "id": "euphoria-2",
+    "symbol": "wagmi",
+    "name": "Euphoria",
+    "platforms": {
+        "harmony-shard-0": "0x0dc78c79b4eb080ead5c1d16559225a46b580694"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Euphoria is a new DeFi 2.0 primitive on Harmony that is largely inspired by OlympusDAO and Wonderland. The project was launched by VenomDAO - creators of Harmony's longest running DEX ViperSwap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0dc78c79b4eb080ead5c1d16559225a46b580694",
+    "url": "https://euphoria.money",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x0dc78c79b4eb080ead5c1d16559225a46b580694"
+    ],
+    "twitter": "VenomDao",
+    "telegram": "EuphoriaWAGMI",
+    "github_org": "VenomProtocol"
+}

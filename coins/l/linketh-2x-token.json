@@ -1,0 +1,23 @@
+{
+    "id": "linketh-2x-token",
+    "symbol": "linkethmoon",
+    "name": "LINKETH 2x Token",
+    "platforms": {
+        "ethereum": "0x70cdd88638cb569f1ae1d4bd3529cc7fb331cbab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beverage Finance is building decentralized leverage tokens on top of Set Protocol. The LINK ETH 2x Beverage Token (LINKETHMOON) is a type of collateralized loan product that give you leveraged exposure to the underlying asset, LINK while shorting ETH as a hedge. Like other tokens, leveraged tokens can be traded on the spot market. Each leveraged token represents one Aave collateral and one variable debt position. The price of a leveraged token moves along with price changes in the underlying collateral, and the leverage level moves up and down accordingly."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70cdd88638cb569f1ae1d4bd3529cc7fb331cbab",
+    "url": "https://beverage.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x70cdd88638cb569f1ae1d4bd3529cc7fb331cbab",
+        "https://ethplorer.io/address/0x70cdd88638cb569f1ae1d4bd3529cc7fb331cbab"
+    ],
+    "twitter": "BeverageFinance",
+    "github_org": "Beverage-Finance"
+}

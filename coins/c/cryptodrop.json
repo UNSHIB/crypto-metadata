@@ -1,0 +1,22 @@
+{
+    "id": "cryptodrop",
+    "symbol": "cdrop",
+    "name": "CryptoDrop",
+    "platforms": {
+        "binance-smart-chain": "0xec6ca5a04b08e382d218de9cb30c9d8176406d34"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoDrop is a gaming platform of which provides a user experience of providing a minimal risk with a high reward. CryptoDrop has a unique gaming staking mechanism where the native token is utilized for users to receive passive income."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec6ca5a04b08e382d218de9cb30c9d8176406d34",
+    "url": "https://cryptodrop.gg/",
+    "explorers": [
+        "https://bscscan.com/token/0xec6ca5a04b08e382d218de9cb30c9d8176406d34"
+    ],
+    "twitter": "cryptodropgg",
+    "telegram": "CryptoDropGG"
+}

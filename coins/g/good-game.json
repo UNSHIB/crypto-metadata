@@ -1,0 +1,23 @@
+{
+    "id": "good-game",
+    "symbol": "gg",
+    "name": "Good Game",
+    "platforms": {
+        "ethereum": "0xcea8a10df595a20fceca4f6f2c23384eec1e4073"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GG stands for \u201cgood game,\u201d and is meant to be a sign of good sportsmanship in online games. By saying \u201cGG\u201d at the end of a match, you\u2019re signaling both that you enjoyed the game and that your opponent put up a good fight."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcea8a10df595a20fceca4f6f2c23384eec1e4073",
+    "url": "https://goodgametoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xcea8a10df595a20fceca4f6f2c23384eec1e4073",
+        "https://ethplorer.io/address/0xcea8a10df595a20fceca4f6f2c23384eec1e4073"
+    ],
+    "twitter": "GoodGameETH",
+    "telegram": "GoodGameETH"
+}

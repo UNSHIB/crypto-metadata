@@ -1,0 +1,23 @@
+{
+    "id": "husky-inu",
+    "symbol": "hdog",
+    "name": "Husky Inu",
+    "platforms": {
+        "binance-smart-chain": "0xefbe4aa6e7369556ed7741c57b7c92b7adb8a81a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Husky Inu is cryptocurrency fully owned by community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xefbe4aa6e7369556ed7741c57b7c92b7adb8a81a",
+    "url": "http://huskyinu.dog",
+    "explorers": [
+        "https://bscscan.com/token/0xefbe4aa6e7369556ed7741c57b7c92b7adb8a81a"
+    ],
+    "twitter": "HuskyInuDog",
+    "telegram": "huskyinu_community",
+    "reddit": "https://www.reddit.com"
+}

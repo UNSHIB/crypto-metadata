@@ -1,0 +1,22 @@
+{
+    "id": "rivrfloki",
+    "symbol": "rivrfloki",
+    "name": "RivrFloki",
+    "platforms": {
+        "moonriver": "0xae762762d5e40669af789c8c996451449ef40c71"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RivrFloki is a meme coin on the Moonriver blockchain. The only Floki on Moonriver."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xae762762d5e40669af789c8c996451449ef40c71",
+    "url": "https://rivrfloki.com/",
+    "explorers": [
+        "https://moonriver.moonscan.io/token/0xAe762762D5e40669AF789C8c996451449eF40C71"
+    ],
+    "twitter": "RivrFloki",
+    "telegram": "RivrFloki"
+}

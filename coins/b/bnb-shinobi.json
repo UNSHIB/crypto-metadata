@@ -1,0 +1,24 @@
+{
+    "id": "bnb-shinobi",
+    "symbol": "chakra",
+    "name": "BNB Shinobi",
+    "platforms": {
+        "binance-smart-chain": "0xeff13653eeb698ba291b8bff7aaaab648132c2d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BNB Shinobi is the all encompassing BSC reflection coin, blockchain arcade, & blockchain metaverse. CHAKRA is the native token that fuels the BNB Shinobi ecosystem. Holding CHAKRA tokens allow you to receive up to 7% rewards in whatever token of your choosing. BNB is the standard reward token paid out but you can use your CHAKRA tokens to change to whatever reward token(bep20) you want to be rewarded with. CHAKRA is also used as the native token for the BNB Shinobi pay to play blockchain arcade and metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeff13653eeb698ba291b8bff7aaaab648132c2d7",
+    "url": "https://bnbshinobi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xEFf13653EEb698Ba291B8BfF7AAaaB648132c2D7",
+        "https://bscscan.com/token/0xeff13653eeb698ba291b8bff7aaaab648132c2d7"
+    ],
+    "twitter": "BnbShinobi",
+    "telegram": "bnbshinobi",
+    "github_org": "Bnbshinobi"
+}

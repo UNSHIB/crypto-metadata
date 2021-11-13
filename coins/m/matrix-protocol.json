@@ -1,0 +1,23 @@
+{
+    "id": "matrix-protocol",
+    "symbol": "mtx",
+    "name": "Matrix Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xe28832f94aa99d3ed4c61ef805330168556b4179"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe28832f94aa99d3ed4c61ef805330168556b4179",
+    "url": "https://www.matrixprotocol.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe28832f94aa99d3ed4c61ef805330168556b4179"
+    ],
+    "twitter": "matrix_protocol",
+    "telegram": "matrix_protocol",
+    "reddit": "https://www.reddit.com"
+}

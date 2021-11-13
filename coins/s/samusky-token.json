@@ -1,0 +1,22 @@
+{
+    "id": "samusky-token",
+    "symbol": "samu",
+    "name": "Samusky Token",
+    "platforms": {
+        "solana": "SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solana's First Staking Available Meme Token\r\n\r\nWe believe meme tokens are the future. Samusky will be an extensible project, not just a meme. Staking Soon!\r\n\r\nThe first step is staking, then an easy-to-use DEX and then AMM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM",
+    "url": "https://samusky.io/",
+    "explorers": [
+        "https://solscan.io/token/SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM"
+    ],
+    "twitter": "samuskyio",
+    "telegram": "samuskyio"
+}

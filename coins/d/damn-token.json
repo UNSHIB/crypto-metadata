@@ -1,0 +1,25 @@
+{
+    "id": "damn-token",
+    "symbol": "damn",
+    "name": "DAMN Token",
+    "platforms": {
+        "binance-smart-chain": "0xb4aa0cd9faceb466db69b825dc666edaf3293d28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi+AI+Mobile+NFT (DAMN) is an evolution of blockchain products in the mobile era. With keen insight gained from years of industry experience and AI algorithms, DAMN is able to identify and help users to choose high quality blockchain projects, maximizing users' DeFi+NFT portfolio returns through an AI-based investing strategies, and minimizing losses in the process."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4aa0cd9faceb466db69b825dc666edaf3293d28",
+    "url": "https://damncool.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xB4AA0CD9FACeB466DB69b825DC666EdAF3293d28",
+        "https://bscscan.com/token/0xb4aa0cd9faceb466db69b825dc666edaf3293d28"
+    ],
+    "twitter": "_DAMNCool_",
+    "telegram": "DAMN_Community",
+    "reddit": "DAMNCoolOfficial/",
+    "github_org": "damncoolFrank"
+}

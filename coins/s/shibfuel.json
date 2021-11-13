@@ -1,0 +1,24 @@
+{
+    "id": "shibfuel",
+    "symbol": "shibfuel",
+    "name": "ShibFueL",
+    "platforms": {
+        "binance-smart-chain": "0x36c77700eff806bae46548da06b442cb37698c6a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The bridge between DeFi and real life. Designed to put DeFi in your hands. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x36c77700eff806bae46548da06b442cb37698c6a",
+    "url": "https://www.shibfuel.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x36c77700eff806BaE46548DA06B442cB37698c6A",
+        "https://bscscan.com/token/0x36c77700eff806bae46548da06b442cb37698c6a"
+    ],
+    "twitter": "ShibFueL",
+    "telegram": "ShibFuel_Official",
+    "reddit": "ShibFueLV2/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "guitarswap",
+    "symbol": "gut",
+    "name": "GuitarSwap",
+    "platforms": {
+        "binance-smart-chain": "0xb6ba8c98021c31a02dd65e9be97729eba859d4e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GuitarSwap - The AMM DEX on Binance Smart Chain (BSC)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb6ba8c98021c31a02dd65e9be97729eba859d4e2",
+    "url": "https://guitarswap.exchange/",
+    "explorers": [
+        "https://bscscan.com/token/0xb6ba8c98021c31a02dd65e9be97729eba859d4e2"
+    ],
+    "twitter": "Guitar_swap",
+    "telegram": "Guitar_Swap",
+    "github_org": "guitarswap"
+}

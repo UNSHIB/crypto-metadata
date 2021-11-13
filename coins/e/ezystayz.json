@@ -1,0 +1,27 @@
+{
+    "id": "ezystayz",
+    "symbol": "ezy",
+    "name": "Ezystayz",
+    "platforms": {
+        "ethereum": "0xa6d5c720a9af5a405dfb6b9f44fc44fab5d4a58d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "We change the way the world stays, opening up the holiday rental market to individuals across the globe and providing travelers with unique, one-of-a-kind places to call \u2018home\u2019."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xa6d5c720a9af5a405dfb6b9f44fc44fab5d4a58d",
+    "url": "https://ezystayz.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D",
+        "https://ethplorer.io/address/0xa6d5c720a9af5a405dfb6b9f44fc44fab5d4a58d",
+        "https://etherscan.io/token/0xa6d5c720a9af5a405dfb6b9f44fc44fab5d4a58d"
+    ],
+    "twitter": "ezystayz2014",
+    "facebook": "ezystayzofficial",
+    "telegram": "ezystayzcom"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "tezilla",
+    "symbol": "tezilla",
+    "name": "Tezilla",
+    "platforms": {
+        "binance-smart-chain": "0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tezilla, this is the action game you have been waiting for!\r\nTezilla Dev Team aims to develop a game on the Binance Smart Chain.\r\n\r\n- Earn Tezilla while playing (Completing 3 levels without the destruction of your vessel)\r\n- NFT is going to be implemented within the game.\r\n- NFT Tezilla Diamond Box that included Random weaponry, vessels, Tezilla (web based)\r\n- User to be able to play must purchase a Fuel pass Big Reward Levels\r\n\r\nWhat can you do with Tezilla?\r\n\r\n- Sell it on DEX.\r\n- Buy Tezilla Diamond Box.\r\n- Upgrade your Spaceship.\r\n- Buy Spaceship."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a",
+    "url": "https://tezilla.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a"
+    ],
+    "twitter": "TezillaFinance",
+    "telegram": "tezillafinance"
+}

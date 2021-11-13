@@ -1,0 +1,24 @@
+{
+    "id": "shiba-maki",
+    "symbol": "shibamaki",
+    "name": "Shiba Maki",
+    "platforms": {
+        "binance-smart-chain": "0x40d6f307cd6869262caa82907a80bda3317b9501"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiba Maki is an example of quality work.\r\nDesign, preparation, execution - you'll find it all here.\r\nShiba Maki was created to glorify the legendary Shiba Inu token, which has been breaking all records for the past weeks.\r\nWe, Shiba Maki team, as fans and connoisseurs of Japanese culture and Japanese art, decided to create something unusual - something that will benefit both long-term holders and speculators who want to earn big profit in a short time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x40d6f307cd6869262caa82907a80bda3317b9501",
+    "url": "https://shibamaki.club/",
+    "explorers": [
+        "https://bscscan.com/token/0x40d6F307cd6869262cAA82907a80bDA3317B9501",
+        "https://bscscan.com/token/0x40d6f307cd6869262caa82907a80bda3317b9501"
+    ],
+    "twitter": "shiba_maki",
+    "telegram": "shibamaki",
+    "github_org": "ShibaMaki"
+}

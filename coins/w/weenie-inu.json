@@ -1,0 +1,23 @@
+{
+    "id": "weenie-inu",
+    "symbol": "weenie",
+    "name": "Weenie Inu",
+    "platforms": {
+        "binance-smart-chain": "0xe51140053511c247dac9cd0867f4ab0805cdeeb9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Weenie Inu is a Meme token inspired by Shiba and Floki Inu.\r\nAdopting simple tokenomics, Weenie's main purpose is to mint NFTs on the upcoming WeenieNFT Platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe51140053511c247dac9cd0867f4ab0805cdeeb9",
+    "url": "https://weenieinu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xE51140053511c247daC9CD0867f4aB0805CdEEb9",
+        "https://bscscan.com/token/0xe51140053511c247dac9cd0867f4ab0805cdeeb9"
+    ],
+    "twitter": "weenieinu",
+    "telegram": "weenieinu"
+}

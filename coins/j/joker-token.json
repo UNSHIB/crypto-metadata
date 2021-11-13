@@ -1,0 +1,23 @@
+{
+    "id": "joker-token",
+    "symbol": "joker",
+    "name": "Joker Token",
+    "platforms": {
+        "ethereum": "0xb1f5d869323e50d1981c88e3e5a2b720a0e4bc02"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "JokerToken aspires to establish a decentralized project where the investor is an active contributor to the project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb1f5d869323e50d1981c88e3e5a2b720a0e4bc02",
+    "url": "https://jokertoken.us/",
+    "explorers": [
+        "https://etherscan.io/token/0xb1f5d869323e50d1981c88e3e5a2b720a0e4bc02",
+        "https://ethplorer.io/address/0xb1f5d869323e50d1981c88e3e5a2b720a0e4bc02"
+    ],
+    "twitter": "JokerTokenERC20",
+    "telegram": "jokertokenerc"
+}

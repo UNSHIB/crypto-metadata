@@ -1,0 +1,22 @@
+{
+    "id": "ninneko",
+    "symbol": "nino",
+    "name": "Ninneko",
+    "platforms": {
+        "binance-smart-chain": "0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ninneko is the leading edge of NFT game that combines Idle RPG gameplay and Breeding system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90",
+    "url": "https://ninneko.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90"
+    ],
+    "twitter": "ninnekogame",
+    "telegram": "ninnekogame"
+}

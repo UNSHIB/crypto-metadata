@@ -1,0 +1,20 @@
+{
+    "id": "glass-chain",
+    "symbol": "gls",
+    "name": "Glass Chain",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The sharing economy promotes economic efficiency. We want to build a shared, fearless world that is undergoing tremendous innovation. The mission of Glass Chain is to empower the optometry industry and open a shared world under smart contracts.\r\n\r\nGlass Chain has created a commercial application smart contract collection system known as Decom, which extends the application scenarios of blockchain technology to real world entities, the Internet, and virtual spaces (such as Metaverse)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.glasschain.tech/",
+    "explorers": [
+        "http://gls.glsscan.co/"
+    ],
+    "twitter": "Glass_chain",
+    "telegram": "glasschain",
+    "github_org": "GLASS-CHAIN-ORGANIZATION"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "saitama-kitty",
+    "symbol": "saikitty",
+    "name": "Saitama Kitty",
+    "platforms": {
+        "binance-smart-chain": "0x8ad579a3258ffd4235e619d0001cb6ad7d9a25cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Saitama Kitty is a community-driven meme token on the Binance Smart Chain Network that drives to provides utility to its users via SAIBRIDGE.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ad579a3258ffd4235e619d0001cb6ad7d9a25cf",
+    "url": "https://www.saitamakitty.com",
+    "explorers": [
+        "https://bscscan.com/token/0x8ad579A3258Ffd4235e619d0001cb6Ad7D9a25CF",
+        "https://bscscan.com/token/0x8ad579a3258ffd4235e619d0001cb6ad7d9a25cf"
+    ],
+    "twitter": "saitamakittybsc",
+    "telegram": "saitamakittybsc"
+}

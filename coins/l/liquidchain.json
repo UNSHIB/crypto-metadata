@@ -1,0 +1,23 @@
+{
+    "id": "liquidchain",
+    "symbol": "xlc",
+    "name": "Liquidchain",
+    "platforms": {
+        "binance-smart-chain": "0x92333a0ad6930ddd73fb310bac648ed1f451907e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First L1 Blockchain Enabling On-chain Liquidity Mining"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x92333a0ad6930ddd73fb310bac648ed1f451907e",
+    "url": "https://liquidchain.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x92333a0ad6930ddd73fb310bac648ed1f451907e"
+    ],
+    "twitter": "LiquidChainXLC",
+    "telegram": "Liquidchain",
+    "github_org": "Liquidchain"
+}

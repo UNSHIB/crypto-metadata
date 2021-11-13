@@ -1,0 +1,24 @@
+{
+    "id": "nftascii",
+    "symbol": "nftascii",
+    "name": "NFTASCII",
+    "platforms": {
+        "binance-smart-chain": "0xab2392379c1c8876690aebbae735ecc2b465825c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xab2392379c1c8876690aebbae735ecc2b465825c",
+    "url": "https://www.nft-ascii.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xab2392379c1c8876690aebbae735ecc2b465825c"
+    ],
+    "twitter": "NFT_ASCII",
+    "telegram": "NFTASCIIGLOBAL",
+    "reddit": "NFTASCII/",
+    "github_org": "DevASCII"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "golden-ball",
+    "symbol": "gb",
+    "name": "Golden Ball",
+    "platforms": {
+        "binance-smart-chain": "0x52eb6c887a4691f10bee396778603927c23be1fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Golden Ball is the next generation BSC token aiming to improve and bring the online betting & gambling transaction system to a decentralized level. Through the GLB token, users will be able to complete faster transactions on betting platforms with lower fees!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x52eb6c887a4691f10bee396778603927c23be1fc",
+    "url": "https://www.goldenball.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x52eb6c887a4691f10bee396778603927c23be1fc"
+    ],
+    "twitter": "GoldenBallToken",
+    "telegram": "goldenball_official",
+    "reddit": "goldenballfinance/",
+    "github_org": "Goldenballtoken"
+}

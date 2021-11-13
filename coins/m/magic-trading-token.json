@@ -1,0 +1,22 @@
+{
+    "id": "magic-trading-token",
+    "symbol": "mtk",
+    "name": "Magic Trading Token",
+    "platforms": {
+        "tron": "TFqLMR99DB4uWCoWD3t7gtzMSNjtbXFQQw"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "International investment platform Magic Trading, is entering a crucial phase of asset digitalization. Following a detailed scaling plan, the company will go through a step-by-step process of creating a global society. From now on, every partner of the company will be able to become a full owner of MTK Token. Assets of this direction have already managed to recommend themselves as an effective investment solution. Each partner of the company will be able to purchase a digital asset both on exchanges and on the Magic Trading platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TFqLMR99DB4uWCoWD3t7gtzMSNjtbXFQQw",
+    "url": "https://magic-token.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TFqLMR99DB4uWCoWD3t7gtzMSNjtbXFQQw"
+    ],
+    "twitter": "magictoken4",
+    "telegram": "MagicTradingMT"
+}

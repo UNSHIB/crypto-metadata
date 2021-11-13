@@ -1,0 +1,22 @@
+{
+    "id": "xrdoge",
+    "symbol": "xrdoge",
+    "name": "XRdoge",
+    "platforms": {
+        "xrp": "rLqUC2eCPohYvJCEBJ77eCCqVL2uEiczjA"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XRdoge is built on the ultimate utility network of XRPL, and the ultimate utility coin XRP. With the utility taken care of, and with lighting fast transactions and super cheap fees, XRdoge is taken off the leash of utility concerns. Using the XRPL powered Xumm wallet, XRdoge already has access to a DEX. No need to wait!! XRdoge is the ultimate meme token: built on the fast, staggeringly cheap, decentralized XRP ledger. XRdoge brings together the utility of XRP with the memetic power of the Doge, without confusion."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "rLqUC2eCPohYvJCEBJ77eCCqVL2uEiczjA",
+    "url": "https://www.xrdoge.com/",
+    "explorers": [
+        "https://xrpscan.com/account/rLqUC2eCPohYvJCEBJ77eCCqVL2uEiczjA"
+    ],
+    "twitter": "xrdoge",
+    "reddit": "TheXRDoge/"
+}

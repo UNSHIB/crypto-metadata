@@ -1,0 +1,22 @@
+{
+    "id": "meta-inu",
+    "symbol": "metainu",
+    "name": "Meta Inu",
+    "platforms": {
+        "binance-smart-chain": "0xe66a2b4b2b592a986cf65d8377aa77b045f0be96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaInu is the Ultimate Meta Token. Also known as the ShibaInu Killer. Meta is the future. And in the future, Meta Inu reigns supreme! In the World of Meta Inu, habitats more creatures ready to start together aa long adventure. Farming will be added."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe66a2b4b2b592a986cf65d8377aa77b045f0be96",
+    "url": "https://www.metainucoin.com",
+    "explorers": [
+        "https://bscscan.com/token/0xe66a2b4b2b592a986cf65d8377aa77b045f0be96"
+    ],
+    "twitter": "metainucoin",
+    "telegram": "MetaInuCoin"
+}

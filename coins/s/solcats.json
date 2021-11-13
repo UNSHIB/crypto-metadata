@@ -1,0 +1,22 @@
+{
+    "id": "solcats",
+    "symbol": "meow",
+    "name": "Solcats",
+    "platforms": {
+        "solana": "HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meme + NFT token for coolest cat community built on Solana."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8",
+    "url": "https://solcats.xyz/",
+    "explorers": [
+        "https://solscan.io/token/HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8"
+    ],
+    "twitter": "solcat777",
+    "github_org": "SOLCATS"
+}

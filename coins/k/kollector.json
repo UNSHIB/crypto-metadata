@@ -1,0 +1,23 @@
+{
+    "id": "kollector",
+    "symbol": "kltr",
+    "name": "Kollector",
+    "platforms": {
+        "ethereum": "0xa92c49c403386111c1629aee00936eed2a9e74a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The KBASE is the NFTs Boutique Marketplace. Its team collaborates with artists to add new art categories that bring more users. Also, the Kbase monitors what exactly collectors are looking for: specific kinds of artworks, collectibles, music, and other digital assets. Therefore, counter-parties make a preliminary selection of the type of the artwork, before costly creating and minting. \r\nMoreover, the marketplace has sophisticated searching mechanics that allows artists and collectors to match each other in 2 seconds. Also, artists can create NFTs and mint them quickly. \r\nApart above, the KOLLECTOR (KLTR) token allows users to buy and sell all artworks presented on the KBASE NFTs Marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa92c49c403386111c1629aee00936eed2a9e74a6",
+    "url": "https://kbasemarket.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa92c49c403386111c1629aee00936eed2a9e74a6",
+        "https://ethplorer.io/address/0xa92c49c403386111c1629aee00936eed2a9e74a6"
+    ],
+    "twitter": "Kollector_token",
+    "telegram": "kltrtoken"
+}

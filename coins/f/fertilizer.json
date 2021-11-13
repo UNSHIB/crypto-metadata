@@ -1,0 +1,23 @@
+{
+    "id": "fertilizer",
+    "symbol": "frt",
+    "name": "Fertilizer",
+    "platforms": {
+        "binance-smart-chain": "0xd51237a6f3219d186f0c8d8dd957b1bcb3ce5d48"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fertilizer tokens will be used to power a platform bringing the lucrative yet complicated process of yield farming to the masses.\r\nFarmageddon.farm is simplifying the process of staking. After choosing the Farm you want to stake, you only need to enter the quantity of FG tokens you want staked - leave the rest to us. As your harvest starts growing, you will be able to compound your rewards back into the farm with one simple click!\r\nNot only are we simplifying the process, but bringing all yeild farms to one site! Pancakeswap farms, Olivecash Farms, and more will all be available on our platform accessible with one simple transaction!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd51237a6f3219d186f0c8d8dd957b1bcb3ce5d48",
+    "url": "https://farmageddon.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0xd51237a6f3219d186f0c8d8dd957b1bcb3ce5d48"
+    ],
+    "twitter": "Farmaggedon_",
+    "telegram": "FARMAGEDDON_TOKEN",
+    "reddit": "FARMAGEDDON_TOKEN"
+}

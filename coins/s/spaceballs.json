@@ -1,0 +1,23 @@
+{
+    "id": "spaceballs",
+    "symbol": "balls",
+    "name": "SpaceBalls",
+    "platforms": {
+        "ethereum": "0x174ed6e64a5903b59ca7910081e1e3a2c551afc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SpaceBalls is a decentralised cryptocurrency built securely on the Ethereum blockchain and created for those with some BALLS! \r\n\r\nOur mission is to create amazing cyber space exploration experiences through cutting-edge additions in the metaverse. SpaceBalls rewards its holders with passive income through native token reflections"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x174ed6e64a5903b59ca7910081e1e3a2c551afc6",
+    "url": "https://spaceballs.club",
+    "explorers": [
+        "https://etherscan.io/token/0x174ed6e64a5903b59ca7910081e1e3a2c551afc6",
+        "https://ethplorer.io/address/0x174ed6e64a5903b59ca7910081e1e3a2c551afc6"
+    ],
+    "twitter": "spaceballset",
+    "telegram": "SpaceBallsETH"
+}

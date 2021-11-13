@@ -1,0 +1,24 @@
+{
+    "id": "flipper-token",
+    "symbol": "flip",
+    "name": "Flipper Token",
+    "platforms": {
+        "binance-smart-chain": "0x0561c0e5354588312c93ca6e4fa5676219b22a97"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flipper token is a cute buyback based crypto game. Where you can bet bnb against tokens for the chance to win an instant 2x! All BNB is accumulated in the buyback wallet and used to support the chart when needed! Players of the game not only avoid buyside fees, but they also are entered into a competition where the top 3 on the leaderboard split  an accumulating prize pool"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0561c0e5354588312c93ca6e4fa5676219b22a97",
+    "url": "https://flipperstoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0561c0e5354588312c93ca6e4fa5676219b22a97"
+    ],
+    "twitter": "FlipperTokenbsc",
+    "telegram": "FlipperToken",
+    "reddit": "FlipperToken/",
+    "github_org": "FlipperTokenBsc"
+}

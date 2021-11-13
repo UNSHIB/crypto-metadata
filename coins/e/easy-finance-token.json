@@ -1,0 +1,22 @@
+{
+    "id": "easy-finance-token",
+    "symbol": "eft",
+    "name": "Easy Finance Token",
+    "platforms": {
+        "binance-smart-chain": "0x2eb198ab1a678f3a67f55219e8b408c9b713e825"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2eb198ab1a678f3a67f55219e8b408c9b713e825",
+    "url": "https://easyfinancetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2eb198ab1a678f3a67f55219e8b408c9b713e825"
+    ],
+    "twitter": "EasyFinanceCorp",
+    "telegram": "EasyFinanceToken_Official"
+}

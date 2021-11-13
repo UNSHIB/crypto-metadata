@@ -1,0 +1,24 @@
+{
+    "id": "dracarys",
+    "symbol": "drac",
+    "name": "DRACARYS",
+    "platforms": {
+        "ethereum": "0xbcb5ec5a7a05946c3e85fd3b835fee271390866e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralized token based on the popular entertainment series applying the themes in crypto while providing benefits with charity wallet that will be given to the heros and warriors in fire and combat occupation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbcb5ec5a7a05946c3e85fd3b835fee271390866e",
+    "url": "https://dracarystoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbcb5ec5a7a05946c3e85fd3b835fee271390866e",
+        "https://ethplorer.io/address/0xbcb5ec5a7a05946c3e85fd3b835fee271390866e"
+    ],
+    "twitter": "dracarys_token",
+    "telegram": "DracarysDragon",
+    "github_org": "dracarys-token"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "cashio-token",
+    "symbol": "cashio",
+    "name": "Cashio Token",
+    "platforms": {
+        "binance-smart-chain": "0x88424c56dfaecb972c3163248928d00942191a92"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cashio token is a new Revolutionary Token on the Binance smart chain ecosystem with a unique Use-case and Tokenomics that has never been seen before in the Crypto-World.\r\n\r\nCashio is a deflationary Buy-back token with Auto LP Acquisition Token Reflections and\r\nBNB distributions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88424c56dfaecb972c3163248928d00942191a92",
+    "url": "https://cashio.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x88424c56dfaecb972c3163248928d00942191a92"
+    ],
+    "twitter": "CashioGames",
+    "telegram": "CashioToken",
+    "github_org": "Cashio-Token"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "buymainstreet",
+    "symbol": "$mainst",
+    "name": "BuyMainStreet",
+    "platforms": {
+        "binance-smart-chain": "0x8fc1a944c149762b6b578a06c0de2abd6b7d2b89"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community oriented, news/media outlet that connects real investors with real projects.\r\n\u200d\r\nOur goal is to assist holders with discovering quality projects and opportunities across the crypto space. Alongside helping crypto projects get the exposure they need and deserve.\r\n\r\nVisit our Neighborhood or Shops for trusted token projects, or our Alley for unvetted tokens with unique concepts and utility. Together we plan to create an ecosystem that brings trust, fun, and reason to trading."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8fc1a944c149762b6b578a06c0de2abd6b7d2b89",
+    "url": "https://www.buymainstreet.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8fc1a944c149762b6b578a06c0de2abd6b7d2b89"
+    ],
+    "twitter": "buymainstreet",
+    "telegram": "buymainstreet",
+    "reddit": "https://www.reddit.com"
+}

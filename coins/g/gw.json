@@ -1,0 +1,23 @@
+{
+    "id": "gw",
+    "symbol": "gw",
+    "name": "GW",
+    "platforms": {
+        "ethereum": "0x4be9fc99bd4102c6ddc68a1002af21852761b298"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GW (Generational Wealth) token has been created for all the people who have come to accept crypto and WEB3 developments in society. Those who understand the capabilities of the market and the increasing interoperability crypto provides. GW aims to provide the community with a GW based game which will be available on our website to encompass the goals of our token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4be9fc99bd4102c6ddc68a1002af21852761b298",
+    "url": "https://generationalwealth.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4be9fc99bd4102c6ddc68a1002af21852761b298",
+        "https://ethplorer.io/address/0x4be9fc99bd4102c6ddc68a1002af21852761b298"
+    ],
+    "twitter": "GWealthtoken",
+    "telegram": "Generationalwealtherc"
+}

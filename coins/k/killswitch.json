@@ -1,0 +1,23 @@
+{
+    "id": "killswitch",
+    "symbol": "ksw",
+    "name": "KillSwitch",
+    "platforms": {
+        "binance-smart-chain": "0x270178366a592ba598c2e9d2971da65f7baa7c86"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KillSwitch is a smart yield farming aggregator targeting to increase convenience and security for Binance Smart Chain yield farmers. Users are free to unstake, withdraw Liquidity Position from their funds and sell their high risk coins instantly in one click."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x270178366a592ba598c2e9d2971da65f7baa7c86",
+    "url": "https://killswitch.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x270178366a592bA598C2e9d2971DA65f7bAa7C86",
+        "https://bscscan.com/token/0x270178366a592ba598c2e9d2971da65f7baa7c86"
+    ],
+    "twitter": "KillSwitch_Defi",
+    "telegram": "killswitch_global"
+}

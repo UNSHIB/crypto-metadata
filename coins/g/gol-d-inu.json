@@ -1,0 +1,23 @@
+{
+    "id": "gol-d-inu",
+    "symbol": "ginu",
+    "name": "Gol D Inu",
+    "platforms": {
+        "ethereum": "0xb2ed199b46630e789e8740fb83b1611acf018516"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gol D. Roger, more commonly known as Gold Roger, was a legendary pirate who, as captain of the Roger Pirates, held the title of Pirate King and owned the legendary treasure known as One Piece. He was also the biological father of Portgas D. Ace. Inspired by this, GOL D INU is the very first treasure hunting on a blockchain migrated with NFTs to provide tools (maps, \"poneglyphs\", etc). GINUSWAP will be available soon! featuring OnePiece-inspired Tokens which we see such potential. Mechanics of the gameplay will be continuously updated on the official site as well as on the official TG group. Features also include staking and tool/NFT marketplace which then be integrated to the Pirate Battle. And finally, Play-to-Earn battle royale on Phase 4 is underway. Stay Tuned!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb2ed199b46630e789e8740fb83b1611acf018516",
+    "url": "https://www.goldinu.space/",
+    "explorers": [
+        "https://etherscan.io/token/0xb2ed199b46630e789e8740fb83b1611acf018516",
+        "https://ethplorer.io/address/0xb2ed199b46630e789e8740fb83b1611acf018516"
+    ],
+    "twitter": "goldinueth",
+    "telegram": "goldinueth"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "olympia",
+    "symbol": "olp",
+    "name": "Olympia",
+    "platforms": {
+        "binance-smart-chain": "0x79395a77c8ddbefb74f242242960cac7368fd64e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Play to Earn NFT adventure game built on the Binance Smart Chain blockchain. \r\n\r\nThe game revolves around the acquisition of legendary characters from Greek Mythology : journey across a vast and devastated world on your quest to battle the Olympians and the Mutants depending on your choice. \r\n\r\nDiscover all the secret behind the Chaos and make the game storyline while playing.\r\n\r\nthis will be one of the first MMORPG on BSC, all the NFTs created before the game goes into production will be usable in this one !\r\n\r\nThe marketplace will allow the use of NFTs between blockchain chains (ADA / AVAX / ETH)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x79395a77c8ddbefb74f242242960cac7368fd64e",
+    "url": "https://sphereofolympia.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x79395a77c8ddbefb74f242242960cac7368fd64e"
+    ],
+    "twitter": "SphereOfOlympia",
+    "telegram": "sphereofolympiaUS"
+}

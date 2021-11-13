@@ -1,0 +1,22 @@
+{
+    "id": "algogems",
+    "symbol": "gems",
+    "name": "AlgoGems",
+    "platforms": {
+        "algorand": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AlgoGems is a next-gen NFT platform offering a modern, seamless, ecological, and simple NFT experience. AlgoGems is a fee-less platform, made on Algorand, one of the most eco-friendly & efficient blockchains! AlgoGems will reach the masses by providing a community-based, user-friendly, and fully-fledged NFT platform!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.algogems.io/",
+    "explorers": [
+        "https://algoexplorer.io/asset/230946361"
+    ],
+    "twitter": "AlgogemsNFT",
+    "telegram": "AlgogemsLounge",
+    "reddit": "Algogems/"
+}

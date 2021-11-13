@@ -1,0 +1,22 @@
+{
+    "id": "starlaunch",
+    "symbol": "stars",
+    "name": "StarLaunch",
+    "platforms": {
+        "solana": "HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW",
+    "url": "https://www.starlaunch.com/",
+    "explorers": [
+        "https://solscan.io/token/HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW"
+    ],
+    "twitter": "StarLaunchSOL",
+    "telegram": "StarLaunchANN"
+}

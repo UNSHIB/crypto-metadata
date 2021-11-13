@@ -1,0 +1,23 @@
+{
+    "id": "binance-peg-firo",
+    "symbol": "firo",
+    "name": "Binance-Peg Firo",
+    "platforms": {
+        "binance-smart-chain": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Binance-Peg FIRO is a wrapped version of FIRO that is issued by Binance for use on BSC. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed",
+    "url": "https://firo.org",
+    "explorers": [
+        "https://bscscan.com/token/0xd5d0322b6bab6a762c79f8c81a0b674778e13aed"
+    ],
+    "twitter": "firoorg",
+    "telegram": "firoorg",
+    "reddit": "FiroProject/"
+}

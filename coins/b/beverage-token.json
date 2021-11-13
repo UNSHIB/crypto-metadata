@@ -1,0 +1,24 @@
+{
+    "id": "beverage-token",
+    "symbol": "drink",
+    "name": "Beverage Token",
+    "platforms": {
+        "ethereum": "0x9257fb8fab616867cee67c3289547403617b1938"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beverage Finance is a decentralized asset manager for structured products. Similar to Sushi and Yearn, Beverage is a fair launch, no premine project that is governed by the vote of the community. 80% of fees are sold to $DRINK and distributed to $xDRINK stakers. Beverage is developer first, anyone can create a strategy and launch it on Beverage with minimal governance and receive 20% of fees.\r\n\r\n$DRINK is an ERC-20 token deployed on the Ethereum blockchain. No max cap for now (same as PancakeSwap), but can be voted by community and changed by governance in the MasterChef contract. $DRINK can be staked in $xDRINK to earn 80% of fees generated from Beverage products (other 20% go to the developer of the strategy). 10% of the emissions accrue to the community treasury which can be voted on by the community on how to spend it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9257fb8fab616867cee67c3289547403617b1938",
+    "url": "https://beverage.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9257fb8fab616867cEe67C3289547403617B1938",
+        "https://ethplorer.io/address/0x9257fb8fab616867cee67c3289547403617b1938",
+        "https://etherscan.io/token/0x9257fb8fab616867cee67c3289547403617b1938"
+    ],
+    "twitter": "BeverageFinance",
+    "github_org": "Beverage-Finance"
+}

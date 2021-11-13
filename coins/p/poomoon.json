@@ -1,0 +1,22 @@
+{
+    "id": "poomoon",
+    "symbol": "poo",
+    "name": "POOMOON",
+    "platforms": {
+        "binance-smart-chain": "0xfc20a257786f2d8a038caca312be0f10e206d15f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Poomoon is the first game with mining concept that using blockchain technology. It is an easy and unspending time gameplay, by only using the selective land strategy or upgrading your heroes and tools so that you can get your precious treasures."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc20a257786f2d8a038caca312be0f10e206d15f",
+    "url": "https://www.poomoon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xfc20a257786f2d8a038caca312be0f10e206d15f"
+    ],
+    "twitter": "Poomoon_io",
+    "telegram": "PoomoonGlobal"
+}

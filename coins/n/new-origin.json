@@ -1,0 +1,23 @@
+{
+    "id": "new-origin",
+    "symbol": "noc",
+    "name": "New Origin",
+    "platforms": {
+        "binance-smart-chain": "0x0e6457233baa6477f660666624dc29d8e88d9fdf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "New Origin combining the two major blockchain categories of NFT and Metaverse, aims to build a decentralized online virtual reality game platform, integrating characters, props and life storylines into virtual social networking, and players can buy weapons, war armor and prop gems in the virtual world. Participate in different collections, cultivation, virtual life, action and other games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e6457233baa6477f660666624dc29d8e88d9fdf",
+    "url": "https://noctoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0e6457233baA6477F660666624Dc29d8e88d9fdf",
+        "https://bscscan.com/token/0x0e6457233baa6477f660666624dc29d8e88d9fdf"
+    ],
+    "twitter": "NewOriginNOC",
+    "telegram": "NewOriginNOC_EN"
+}

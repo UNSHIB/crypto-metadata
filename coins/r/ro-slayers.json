@@ -1,0 +1,24 @@
+{
+    "id": "ro-slayers",
+    "symbol": "slyr",
+    "name": "RO Slayers",
+    "platforms": {
+        "binance-smart-chain": "0x2988810a56edcf3840871695d587a5aff280d37b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RO Slayers is a decentralized game and it\u2019s the newest entry in blockchain technology that aims to integrate cryptocurrency with the classic and most nostalgic massively multiplayer online role-playing game. Through this new system, not only does it indulge players in the fun and competitiveness of online gaming; but also gives them the opportunity to able to earn and meet new acquaintances. The cryptocurrency mechanisms used are mainly influenced by Non-Fungible Token (NFT) games currently available in the market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2988810a56edcf3840871695d587a5aff280d37b",
+    "url": "https://roslayers.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2988810A56eDCf3840871695D587A5AFF280D37b",
+        "https://bscscan.com/token/0x2988810a56edcf3840871695d587a5aff280d37b"
+    ],
+    "twitter": "ROSlayers",
+    "telegram": "roslayers",
+    "reddit": "ROSlayersOfficial/"
+}

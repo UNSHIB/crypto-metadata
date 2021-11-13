@@ -1,0 +1,23 @@
+{
+    "id": "1nft",
+    "symbol": "1nft",
+    "name": "1NFT",
+    "platforms": {
+        "binance-smart-chain": "0x24e211001794e1d8fa9da70babf6f6c0c9d3879a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1stnft.io is a community driven NFT Project that has a marketplace, minting function and exclusive rights to some of the most creative NFT artists around. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x24e211001794e1d8fa9da70babf6f6c0c9d3879a",
+    "url": "https://1stnft.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x24e211001794e1d8fa9da70babf6f6c0c9d3879a"
+    ],
+    "twitter": "1st_NFT",
+    "telegram": "Group_1stNFT",
+    "github_org": "1stNFT"
+}

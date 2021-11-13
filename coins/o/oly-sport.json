@@ -1,0 +1,22 @@
+{
+    "id": "oly-sport",
+    "symbol": "oly",
+    "name": "Oly Sport",
+    "platforms": {
+        "binance-smart-chain": "0x74c1815474a75dcb366223107cde1bba4a1a7296"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Oly Sport is a NFT horse racing blockchain-based game that lets you raise, sell, breed, race and especially, hire digital racehorses."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x74c1815474a75dcb366223107cde1bba4a1a7296",
+    "url": "https://www.olysport.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x74c1815474a75dcb366223107cde1bba4a1a7296"
+    ],
+    "twitter": "oly_sport",
+    "telegram": "OlysportOfficialGroup"
+}

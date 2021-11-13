@@ -1,0 +1,22 @@
+{
+    "id": "onebit",
+    "symbol": "1bit",
+    "name": "OneBit",
+    "platforms": {
+        "binance-smart-chain": "0x97a266490efa4fb564ad625accabe5641de2f805"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OneBit $1bit is a cross-chain non-tax token with manual burns, launching on BSC followed by Etherum, Polygon, Fantom, and more. Payment use-case reveals after CEX listing. We will NOT be following the Gamefi and NFT trend and waste our time/funds on ANYTHING other than HARDCORE MARKETING. For every 5000 holders reached, we will buy back and burn 20% of the remaining total supply. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97a266490efa4fb564ad625accabe5641de2f805",
+    "url": "https://www.1onebitcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x97A266490eFA4Fb564aD625AcCabE5641de2f805",
+        "https://bscscan.com/token/0x97a266490efa4fb564ad625accabe5641de2f805"
+    ],
+    "twitter": "OneBitCoin1bit"
+}

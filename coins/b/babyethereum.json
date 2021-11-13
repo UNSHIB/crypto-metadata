@@ -1,0 +1,22 @@
+{
+    "id": "babyethereum",
+    "symbol": "bbeth",
+    "name": "BabyEthereum",
+    "platforms": {
+        "binance-smart-chain": "0xa9a86dc63be528f4c5d3ab28941a4a7120806d5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyETHEREUM is the next token that is going to break the crypto landscape.\r\n\r\nUp to 8% of every buy / sell is taken and redistributed to all Holders to get one of the most valuable coins on the market: Ethereum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9a86dc63be528f4c5d3ab28941a4a7120806d5e",
+    "url": "https://babyethproject.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa9a86dc63be528f4c5d3ab28941a4a7120806d5e"
+    ],
+    "twitter": "BabyEthProject",
+    "telegram": "babyethproject"
+}

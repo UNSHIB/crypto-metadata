@@ -1,0 +1,22 @@
+{
+    "id": "militia-games",
+    "symbol": "milit",
+    "name": "Militia Games",
+    "platforms": {
+        "binance-smart-chain": "0xeea7c025b1eee9527d631094d45ff9ce5d830b6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MILIT is a P2P (Play-to-Earn) game platform built on the BSC network, connect with Metamask to play. Players can enjoy many types of games for entertainment in their spare time and, more importantly, be able to earn extra income through the Militia Games ecosystem. Using the NFT Hero Training feature, players will earn passive income from their NFTs without having to sell them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeea7c025b1eee9527d631094d45ff9ce5d830b6f",
+    "url": "https://militia.games/",
+    "explorers": [
+        "https://bscscan.com/token/0xeea7c025b1eee9527d631094d45ff9ce5d830b6f"
+    ],
+    "twitter": "Militia_Game",
+    "telegram": "MilitiaGame"
+}

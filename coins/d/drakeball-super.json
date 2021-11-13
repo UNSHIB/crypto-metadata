@@ -1,0 +1,22 @@
+{
+    "id": "drakeball-super",
+    "symbol": "dbs",
+    "name": "Drakeball Super",
+    "platforms": {
+        "binance-smart-chain": "0xfe006dc583ab09b0b67a69cbc398b45f04815566"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DrakeBall New World is a #PlaytoEarn #NFT RPG developed on the #BSC, with #zerofee to join the journey to new planets and earn other tokens xBALL"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe006dc583ab09b0b67a69cbc398b45f04815566",
+    "url": "https://cryptodball.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xfe006dc583ab09b0b67a69cbc398b45f04815566"
+    ],
+    "twitter": "DrakeballSuper",
+    "telegram": "CryptoDrakeBall"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "gengar-token",
+    "symbol": "gengar",
+    "name": "Gengar Token",
+    "platforms": {
+        "ethereum": "0x48b2dd9cefba73c60882478a16bc3428aceed2b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gengar Token ($GENGAR) is a Reflective ERC20 token. \r\n\r\nGENGAR is a cryptocurrency that merges the worlds of crypto and art. Created by a dedicated team of developers and art enthusiasts, Our mission is to produce a Gengar ecosystem with utility and NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48b2dd9cefba73c60882478a16bc3428aceed2b9",
+    "url": "https://gengartoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x48b2dd9cefba73c60882478a16bc3428aceed2b9",
+        "https://ethplorer.io/address/0x48b2dd9cefba73c60882478a16bc3428aceed2b9"
+    ],
+    "twitter": "GengarTokenEth",
+    "telegram": "GengarToken",
+    "reddit": "https://www.reddit.com"
+}

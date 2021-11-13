@@ -1,0 +1,23 @@
+{
+    "id": "tokenoid",
+    "symbol": "noid",
+    "name": "Tokenoid",
+    "platforms": {
+        "binance-smart-chain": "0xb068bd15aedf75be6c2c6d0be10b286a32087120"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokenoid - NOID, is developing games using the blockchain technology for their transactions. More game, more utility for NOID.\r\n\r\nThere's no other way to Earn, than Playing Games. We are focussing on developing some games based on blockchain technology, the first is NLand.\r\n\r\nGrow the best farm ever and challenge your friends! Oour Project & Ecosystem;\r\n* Amazing Farming Game Ever - NLand Farm & Earn.\r\n* Amazing RPG Game Ever - NCastle Castle Game.\r\n* Amazing Battle Royale Game - NRoyale Battle Game"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb068bd15aedf75be6c2c6d0be10b286a32087120",
+    "url": "https://tokenoid.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xB068bD15AEDf75Be6c2c6d0Be10b286a32087120"
+    ],
+    "twitter": "NoidToken",
+    "telegram": "TokeNOIDOfficial_Chat",
+    "github_org": "TokeNOID"
+}

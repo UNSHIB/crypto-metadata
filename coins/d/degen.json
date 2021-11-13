@@ -1,0 +1,22 @@
+{
+    "id": "degen",
+    "symbol": "degn",
+    "name": "Degen",
+    "platforms": {
+        "solana": "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Degen Dex is an exchange platform created by the Degen Dex Development Team that looks to revolutionalize the trading on the solana ecosystem"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT",
+    "url": "https://www.degendex.me/",
+    "explorers": [
+        "https://solscan.io/token/A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT"
+    ],
+    "twitter": "degencoinsol",
+    "github_org": "degendex"
+}

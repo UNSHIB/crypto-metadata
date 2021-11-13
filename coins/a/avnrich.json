@@ -1,0 +1,24 @@
+{
+    "id": "avnrich",
+    "symbol": "avn",
+    "name": "AVNRich",
+    "platforms": {
+        "binance-smart-chain": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AVNRich is an e-commerce, Indian company based in Kolkata that focuses on developing India\u2019s largest online marketplace. AVNRich platform is created to be the first One-Stop Online Shopping platform where all kinds of goods and services are available. The system of payment will be used through FIAT and cryptocurrency to ensure all users are safe and secured."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb",
+    "url": "http://avnrich.shop/",
+    "explorers": [
+        "https://bscscan.com/token/0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb"
+    ],
+    "twitter": "avnrich",
+    "facebook": "avnrich",
+    "telegram": "AVNRich_Chat",
+    "github_org": "AvnrichDefi"
+}

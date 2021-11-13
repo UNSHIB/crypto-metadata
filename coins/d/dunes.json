@@ -1,0 +1,23 @@
+{
+    "id": "dunes",
+    "symbol": "dunes",
+    "name": "Dunes",
+    "platforms": {
+        "ethereum": "0xcbfd3340a21694ecd3812ff6affc4dec9dc2c6dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dunes is a Esports based cryptocurrency token that is the native token of the Dunes platform. Consisting of multiple game series revolving around the main character \u201cDunes Kitty\u201d, Dunes token is used as the in-game currency for upgrades and assets as well as access token for exclusive events inside the platform. Being a play to win platform, Dunes will have exclusive prizes that could be won by completing certain milestones. Being developed by a team of developers who are experienced in both palm top gaming and desktop gaming as well as cryptocurrency, Dunes aims to bridge the gap between the two sectors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcbfd3340a21694ecd3812ff6affc4dec9dc2c6dc",
+    "url": "https://dunestoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0xcbfd3340a21694ecd3812ff6affc4dec9dc2c6dc",
+        "https://ethplorer.io/address/0xcbfd3340a21694ecd3812ff6affc4dec9dc2c6dc"
+    ],
+    "twitter": "DunesToken",
+    "telegram": "DunesToken"
+}

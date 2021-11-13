@@ -1,0 +1,23 @@
+{
+    "id": "binancedog",
+    "symbol": "bidog",
+    "name": "Binancedog",
+    "platforms": {
+        "binance-smart-chain": "0x265f638eab14dd43d80bb71aae3289b1c6d46a3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x265f638eab14dd43d80bb71aae3289b1c6d46a3f",
+    "url": "https://www.binancedog.net",
+    "explorers": [
+        "https://bscscan.com/token/0x265f638eab14dd43d80bb71aae3289b1c6d46a3f"
+    ],
+    "twitter": "BidogCoin",
+    "telegram": "BidogCoin",
+    "reddit": "https://www.reddit.com"
+}

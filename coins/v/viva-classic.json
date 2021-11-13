@@ -1,0 +1,22 @@
+{
+    "id": "viva-classic",
+    "symbol": "viva",
+    "name": "Viva Classic",
+    "platforms": {
+        "binance-smart-chain": "0xc18083cc09da5fb3e29ae39e186a817efce6cb3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Viva Classic are tokens, based on the Bnb blockchain technology. It is the core asset of the new Viva Classic Marketplace. Users possessing Viva Classic can exchange them for buying digital goods on the marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc18083cc09da5fb3e29ae39e186a817efce6cb3f",
+    "url": "http://vivaclassic.org",
+    "explorers": [
+        "https://bscscan.com/token/0xc18083cc09da5fb3e29ae39e186a817efce6cb3f"
+    ],
+    "twitter": "myvivaclassic",
+    "telegram": "vivaofficialgroup"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "meta-floki-inu",
+    "symbol": "metaflokinu",
+    "name": "Meta Floki Inu",
+    "platforms": {
+        "binance-smart-chain": "0xd173dc497eeeb009b673acff9ad69d840ccdd218"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meta Floki Inu is a meme coin that comes with real utility in the NFT ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd173dc497eeeb009b673acff9ad69d840ccdd218",
+    "url": "https://metafloki.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd173dc497eeeb009b673acff9ad69d840ccdd218"
+    ],
+    "twitter": "metaflokinu",
+    "telegram": "metaflokinu",
+    "reddit": "https://www.reddit.com"
+}

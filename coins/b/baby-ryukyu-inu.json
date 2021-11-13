@@ -1,0 +1,23 @@
+{
+    "id": "baby-ryukyu-inu",
+    "symbol": "brki",
+    "name": "Baby Ryukyu Inu",
+    "platforms": {
+        "ethereum": "0x635d80dc8e04e1ee3a35a6570aef672c16f1f3b0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Ryukyu Inu $BRKI\r\nA new Baby Ryukyu Inu has just been born on ERC-20, and it is extremely rare! There are only 400 left in the whole of Japan! Did you know, they have climbing abilities like a cat, and Baby Ryukyu Inu will be climbing all the way to the top!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x635d80dc8e04e1ee3a35a6570aef672c16f1f3b0",
+    "url": "https://babyryukyu.com",
+    "explorers": [
+        "https://etherscan.io/token/0x635d80dc8e04e1ee3a35a6570aef672c16f1f3b0",
+        "https://ethplorer.io/address/0x635d80dc8e04e1ee3a35a6570aef672c16f1f3b0"
+    ],
+    "twitter": "babyryukyu",
+    "telegram": "BabyRyukyu"
+}

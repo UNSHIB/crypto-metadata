@@ -1,0 +1,22 @@
+{
+    "id": "crypto-fantasy-league",
+    "symbol": "cfl",
+    "name": "Crypto Fantasy League",
+    "platforms": {
+        "binance-smart-chain": "0x78ebc325641c9db284fc0e69305afbc0c92ab475"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fantasy Sport with the power of Block chain and Crypto"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78ebc325641c9db284fc0e69305afbc0c92ab475",
+    "url": "https://cryptofantasyleague.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x78ebc325641c9db284fc0e69305afbc0c92ab475"
+    ],
+    "twitter": "CFLToken",
+    "telegram": "cryptofantasyleagueofficial"
+}

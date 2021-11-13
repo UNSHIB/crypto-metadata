@@ -1,0 +1,22 @@
+{
+    "id": "nftstyle",
+    "symbol": "nftstyle",
+    "name": "NFTStyle",
+    "platforms": {
+        "binance-smart-chain": "0x5d33e26336c445c71f206dd18b64ce11c2eee3f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Turn your fashion ideas into NFTs with Nft-Style. Blow the new wind in the fashion world with blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5d33e26336c445c71f206dd18b64ce11c2eee3f0",
+    "url": "https://www.nft-style.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5d33e26336c445c71f206dd18b64ce11c2eee3f0"
+    ],
+    "twitter": "NFTStyleToken",
+    "telegram": "nftstyletoken"
+}

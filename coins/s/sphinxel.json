@@ -1,0 +1,22 @@
+{
+    "id": "sphinxel",
+    "symbol": "spx",
+    "name": "Sphinxel",
+    "platforms": {
+        "solana": "H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sphinxel is the fastest meme-token and built on Solana."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp",
+    "url": "https://sphinxel.com/",
+    "explorers": [
+        "https://solscan.io/token/H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp"
+    ],
+    "twitter": "SphinxelSPX",
+    "github_org": "Sphinxel11"
+}

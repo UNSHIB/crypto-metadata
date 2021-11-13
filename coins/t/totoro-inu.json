@@ -1,0 +1,25 @@
+{
+    "id": "totoro-inu",
+    "symbol": "totoro",
+    "name": "Totoro Inu",
+    "platforms": {
+        "ethereum": "0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TotoroInu is a utility token which will be used on the upcoming launchpad, TotoroPad, a multi-chain, anime themed launchpad with a refund system to ensure your security and satisfaction. As a coin that stealth launched on 28/10/21 with a starting market cap of $4000 and reaching $5.3 million in 12 days, we have a strong community behind us. \r\nTotoroInu has a 11% tax which is split into 4% LP 7% Marketing and Development. This is a community-powered coin, with most of our moves & progress is being made from the decisions the community makes as a whole."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12",
+    "url": "https://totoroinu.co",
+    "explorers": [
+        "https://etherscan.io/token/0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12",
+        "https://ethplorer.io/address/0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12"
+    ],
+    "twitter": "TotoroInu",
+    "telegram": "TotoroInu",
+    "reddit": "TotoroInu/",
+    "github_org": "Totoroinu"
+}

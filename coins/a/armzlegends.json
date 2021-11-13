@@ -1,0 +1,23 @@
+{
+    "id": "armzlegends",
+    "symbol": "prot",
+    "name": "ArmzLegends",
+    "platforms": {
+        "binance-smart-chain": "0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d",
+    "url": "https://armzlegends.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d"
+    ],
+    "twitter": "ArmzLegends",
+    "telegram": "ArmzLegends",
+    "reddit": "Armz_Legends/"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "meta-spatial",
+    "symbol": "spat",
+    "name": "Meta Spatial",
+    "platforms": {
+        "binance-smart-chain": "0x62cd26cb698fa8067d9c76f8ccb26922f6a86909"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meta Spatial - An Innovative #Metaverse Gaming Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x62cd26cb698fa8067d9c76f8ccb26922f6a86909",
+    "url": "https://metaspatial.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x62cd26cb698FA8067D9c76f8ccb26922F6a86909"
+    ],
+    "twitter": "MetaSpatial_io",
+    "telegram": "metaspatialgroup"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "fantomgo",
+    "symbol": "ftg",
+    "name": "fantomGO",
+    "platforms": {
+        "ethereum": "0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "fantomGO is a protocol designed to help innovators raise capital in a decentralized environment."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659",
+    "url": "https://fantomgo.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659",
+        "https://ethplorer.io/address/0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659"
+    ],
+    "twitter": "fantomgo_io",
+    "reddit": "fantomGo/"
+}

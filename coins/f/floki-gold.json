@@ -1,0 +1,23 @@
+{
+    "id": "floki-gold",
+    "symbol": "flokigold",
+    "name": "Floki Gold",
+    "platforms": {
+        "ethereum": "0x9f9fd5872beb21392f286afc6eb3a0f8154384fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Floki Gold is the People\u2019s Metaverse that bridges the gap between gamers and the masses. Bid on live events and get the rarest NFT cards to power up your gameplay. The Floki Gold token is also the future of P2E gaming. This will give its users the opportunity to not only enjoy the game recreationally, but also generate income simply by playing on the Floki Gold application.\r\n\r\nFloki Gold will host NFTs and other assets to be used directly in our gaming platform. Users will also be able to buy, sell and trade these assets in the game. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f9fd5872beb21392f286afc6eb3a0f8154384fc",
+    "url": "https://www.flokigold.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f9fd5872beb21392f286afc6eb3a0f8154384fc",
+        "https://ethplorer.io/address/0x9f9fd5872beb21392f286afc6eb3a0f8154384fc"
+    ],
+    "twitter": "flokigoldtoken",
+    "telegram": "flokigold"
+}

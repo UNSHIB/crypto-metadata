@@ -1,0 +1,23 @@
+{
+    "id": "caietf-finance",
+    "symbol": "cai",
+    "name": "CAIETF.Finance",
+    "platforms": {
+        "binance-smart-chain": "0x93d04d21fcb5545330817c9c0e54a61c9e14d662"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CAI is a tokenized hedge fund ETF that seek a balance between risks and rewards by investing in assets at both ends of the risk spectrum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x93d04d21fcb5545330817c9c0e54a61c9e14d662",
+    "url": "https://www.cai-invest.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x93d04D21fcb5545330817c9c0e54A61C9e14D662",
+        "https://bscscan.com/token/0x93d04d21fcb5545330817c9c0e54a61c9e14d662"
+    ],
+    "twitter": "caietf",
+    "telegram": "CaiInvest"
+}

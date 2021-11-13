@@ -1,0 +1,23 @@
+{
+    "id": "animeinu",
+    "symbol": "aime",
+    "name": "AnimeInu",
+    "platforms": {
+        "binance-smart-chain": "0x3024b8c63e5cb9ce99a9609c2df87cd5c1be21a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We have decided to find a way to help our crypto community to avoid scams projects and honeypot smart contracts. Therefore, we are working on developing an awareness program where you can get yourself informed about the new Crypto Projects if they are secure for future investment. There will be a subscribe option, if you wish to get updates every time when our platform will detect a fraud scheme project. \r\nAlso, we have in mind to implement a feature where you can place your wallet address to check all the tokens that have been  airdropped without your approval, if they are a scam or real airdrop.\r\n "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3024b8c63e5cb9ce99a9609c2df87cd5c1be21a9",
+    "url": "https://animeinu.cc/",
+    "explorers": [
+        "https://bscscan.com/token/0x3024b8c63e5cb9ce99a9609c2df87cd5c1be21a9"
+    ],
+    "twitter": "AnimeinuPage",
+    "telegram": "animeinuaime",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "playpad",
+    "symbol": "ppad",
+    "name": "PlayPad",
+    "platforms": {
+        "binance-smart-chain": "0x93bb13e90678ccd8bbab07d1daef15086746dc9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PlayPad is first IDO platform for VR, Gaming & Play2Earn projects in metaverse , multi chain supported and fully decentralized."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x93bb13e90678ccd8bbab07d1daef15086746dc9b",
+    "url": "https://playpad.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x93Bb13E90678cCd8BBab07D1dAEF15086746dc9B",
+        "https://bscscan.com/token/0x93bb13e90678ccd8bbab07d1daef15086746dc9b"
+    ],
+    "twitter": "AppPlayPad",
+    "telegram": "playpadcommunity",
+    "github_org": "PlayPad0"
+}

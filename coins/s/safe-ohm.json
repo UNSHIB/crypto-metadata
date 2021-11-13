@@ -1,0 +1,23 @@
+{
+    "id": "safe-ohm",
+    "symbol": "sohm",
+    "name": "SafeOHM",
+    "platforms": {
+        "binance-smart-chain": "0xbdaa094a95e452c6ba175ce9edfefba04e6a51ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SOHM is a hybrid of SafeMoon and OHM,  a decentralized financial reserve protocol that provides compounding interest through its community-owned and protected treasury. $SOHM is backed by BNB in the treasury, giving it an intrinsic value.\r\n$SOHM also introduces a better (3,3) game-theory through staking ,bonding and selling penalty."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbdaa094a95e452c6ba175ce9edfefba04e6a51ac",
+    "url": "https://www.sohm.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xBDaa094a95e452c6bA175cE9EdfeFBa04e6a51Ac",
+        "https://bscscan.com/token/0xbdaa094a95e452c6ba175ce9edfefba04e6a51ac"
+    ],
+    "twitter": "Son_OHM",
+    "telegram": "sohm_official"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "lorde-edge",
+    "symbol": "edgelon",
+    "name": "Lorde Edge",
+    "platforms": {
+        "ethereum": "0xcf58b4e4863c0d085bd1c65b3f2932e261547fab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Directly following Elon Musk's twitter name change, this token pays tribute to our one and only leader in mooning multiple projects such as DOGE, SHIB, and of course, DOGELON "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf58b4e4863c0d085bd1c65b3f2932e261547fab",
+    "url": "https://edgelon.online",
+    "explorers": [
+        "https://etherscan.io/token/0xcf58b4e4863c0d085bd1c65b3f2932e261547fab",
+        "https://ethplorer.io/address/0xcf58b4e4863c0d085bd1c65b3f2932e261547fab"
+    ],
+    "twitter": "EDGELONtoken",
+    "telegram": "EdgeElon"
+}

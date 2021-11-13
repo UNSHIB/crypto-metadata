@@ -1,0 +1,23 @@
+{
+    "id": "libre-defi",
+    "symbol": "libre",
+    "name": "Libre DeFi",
+    "platforms": {
+        "binance-smart-chain": "0x63db060697b01c6f4a26561b1494685dcbbd998c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$LIBRE is DeFi made easily accessible for everyone. Cross-Chain, One-Click Farms, Single Asset Staking, AMM and more!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x63db060697b01c6f4a26561b1494685dcbbd998c",
+    "url": "https://app.libredefi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x63db060697b01c6f4a26561b1494685DcbBd998c",
+        "https://bscscan.com/token/0x63db060697b01c6f4a26561b1494685dcbbd998c"
+    ],
+    "twitter": "libredefi",
+    "telegram": "Libredefiofficial"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "luxfi",
+    "symbol": "lxf",
+    "name": "LuxFi",
+    "platforms": {
+        "ethereum": "0xa799c4adcf62e025ce4d8abe6a77cebc487d772a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bridging the gap between real-world luxury assets and NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa799c4adcf62e025ce4d8abe6a77cebc487d772a",
+    "url": "https://www.luxfi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa799c4adcf62e025ce4d8abe6a77cebc487d772a",
+        "https://ethplorer.io/address/0xa799c4adcf62e025ce4d8abe6a77cebc487d772a"
+    ],
+    "twitter": "luxfiofficial",
+    "telegram": "Luxfiofficial",
+    "reddit": "LuxFiOfficial/"
+}

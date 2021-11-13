@@ -1,0 +1,23 @@
+{
+    "id": "spidey-inu",
+    "symbol": "spidey inu",
+    "name": "Spidey Inu",
+    "platforms": {
+        "ethereum": "0x6ff952aef0c0f7c7e20cc396b798daddf6561f18"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SpideyInu is an ERC-20 token named in homage to the world\u2019s most popular superhero doge.\r\n\r\nThe token features a variable reflection mechanic that provides a standard 2% returns on transactions for traders.\r\n\r\nTotal token supply is 10 Trillion, total standard tax per transaction (buy & sell) is 10% (variable for community incentives/promotions).\r\n\r\nThe project team intends SpideyInu to be the principal token in a significant, extended ecosystem including NFTs, a P2E game, and eventual print and animation media releases, working in partnership with key industry leaders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6ff952aef0c0f7c7e20cc396b798daddf6561f18",
+    "url": "https://spideyinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6ff952aef0c0f7c7e20cc396b798daddf6561f18",
+        "https://ethplorer.io/address/0x6ff952aef0c0f7c7e20cc396b798daddf6561f18"
+    ],
+    "twitter": "SpideyInu",
+    "telegram": "SpideyINU"
+}

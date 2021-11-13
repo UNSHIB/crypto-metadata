@@ -1,0 +1,24 @@
+{
+    "id": "artonline",
+    "symbol": "art",
+    "name": "ArtOnline",
+    "platforms": {
+        "binance-smart-chain": "0x535e67270f4feb15bffbfe86fee308b81799a7a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFT Graphics cards which Mine tokens 24/7 without difficulty setting up or cost of electricity, with future of competing against Opensea as an NFT Marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x535e67270f4feb15bffbfe86fee308b81799a7a5",
+    "url": "https://artonline.site",
+    "explorers": [
+        "https://bscscan.com/token/0x535e67270f4feb15bffbfe86fee308b81799a7a5"
+    ],
+    "twitter": "ArtonlineToken",
+    "telegram": "ARTEONDEFI",
+    "reddit": "ARTonlineToken/",
+    "github_org": "ArteonToken"
+}
