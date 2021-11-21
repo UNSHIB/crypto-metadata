@@ -1,0 +1,24 @@
+{
+    "id": "uxd-protocol-token",
+    "symbol": "uxp",
+    "name": "UXD Protocol Token",
+    "platforms": {
+        "solana": "UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "UXD is an algorithmic stablecoin, backed 100% by delta neutral position.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M",
+    "url": "https://uxd.fi/",
+    "explorers": [
+        "https://explorer.solana.com/address/UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M"
+    ],
+    "twitter": "UXDProtocol",
+    "github_org": "uxdprotocol"
+}

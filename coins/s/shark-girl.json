@@ -1,0 +1,22 @@
+{
+    "id": "shark-girl",
+    "symbol": "sgirl",
+    "name": "Shark Girl",
+    "platforms": {
+        "binance-smart-chain": "0x2f2b08d78cdec1d610f1356175ff14e0cbc4d269"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The token made for the people! SharkGirl benefits every investor! Simply hold SharkGirl tokens in your wallet and Shill! Anti-Whale mechanisms in place to allow organic growth!, No pump and dumps over here! Auto-LP staking feature steadily increases the price floor! SharkGirl  is the place to be if you want to bump your investment!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f2b08d78cdec1d610f1356175ff14e0cbc4d269",
+    "url": "https://www.sharkgirltoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2f2b08d78cdec1d610f1356175ff14e0cbc4d269"
+    ],
+    "twitter": "sharkgirltoken",
+    "telegram": "sharkgirltoken"
+}

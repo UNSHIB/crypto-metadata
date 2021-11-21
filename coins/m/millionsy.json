@@ -1,0 +1,22 @@
+{
+    "id": "millionsy",
+    "symbol": "milli",
+    "name": "MILLIONSY",
+    "platforms": {
+        "solana": "HDLRMKW1FDz2q5Zg778CZx26UgrtnqpUDkNNJHhmVUFr"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MILLIONSY is the first Lottery platform and Game Launchpad on Solana. In the near future, crosschain is the main key that will be applied to MILLIONSY, It means you can buy tickets and join launching platform from any different blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "HDLRMKW1FDz2q5Zg778CZx26UgrtnqpUDkNNJHhmVUFr",
+    "url": "https://www.millionsy.io",
+    "explorers": [
+        "https://solscan.io/token/HDLRMKW1FDz2q5Zg778CZx26UgrtnqpUDkNNJHhmVUFr"
+    ],
+    "twitter": "MILLIONSYio",
+    "telegram": "MILLIONSYio"
+}

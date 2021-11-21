@@ -1,0 +1,23 @@
+{
+    "id": "ic-defi",
+    "symbol": "icd",
+    "name": "IC DeFi",
+    "platforms": {
+        "binance-smart-chain": "0x0667427e71d38bb32f4e1226c41aa42ac50953c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ICD Token is a groundbreaking DeFi project aiming to radically disrupt the current NFT ecosystem by applying the power of artificial intelligence (AI)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0667427e71d38bb32f4e1226c41aa42ac50953c7",
+    "url": "https://icdefi.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x0667427e71d38bb32f4e1226c41aa42ac50953c7"
+    ],
+    "twitter": "ic_defi",
+    "telegram": "icdefi",
+    "github_org": "ICDeFi"
+}

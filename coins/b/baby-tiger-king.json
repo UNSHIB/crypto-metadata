@@ -1,0 +1,23 @@
+{
+    "id": "baby-tiger-king",
+    "symbol": "babytk",
+    "name": "Baby Tiger King",
+    "platforms": {
+        "binance-smart-chain": "0xb539242985ac83737aadee909f486d46178587c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Tiger King has set out to transform the cryptocurrency industry by giving back while creating a coin that benefits tiger conservation and its holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb539242985ac83737aadee909f486d46178587c4",
+    "url": "https://babytigerking.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb539242985ac83737aadee909f486d46178587c4"
+    ],
+    "twitter": "BabyTKing",
+    "telegram": "thebabytigerking",
+    "reddit": "BabyTigerKing/"
+}

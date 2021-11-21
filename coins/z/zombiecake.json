@@ -1,0 +1,23 @@
+{
+    "id": "zombiecake",
+    "symbol": "zc",
+    "name": "ZombieCake",
+    "platforms": {
+        "binance-smart-chain": "0xda2db94ff2df63d7c2fae24ee7931498f6622ed7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZombieCake will be one of the most fearless and fast-spreading reflection-based projects on the Binance Smart Chain. $ZC holders will receive $Cake on an hourly basis and will also have access to our unique manual lottery system whereby holders who purchase a certain number of tokens in a fixed period will be added to the next scheduled lottery draw. Nothing will stop our endeavor to conquer and dominate the network. With a pure desire to spread the contagion, our zombie horde will relentlessly infect non-$ZC holders. And, as our horde grows in size and strength, so will our dominance of the Crypto world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xda2db94ff2df63d7c2fae24ee7931498f6622ed7",
+    "url": "https://www.zombiecake.xyz",
+    "explorers": [
+        "https://bscscan.com/token/0xda2dB94fF2df63d7C2Fae24Ee7931498f6622ed7",
+        "https://bscscan.com/token/0xda2db94ff2df63d7c2fae24ee7931498f6622ed7"
+    ],
+    "twitter": "ZombieCake_BSC",
+    "telegram": "ZombieCake_BSC"
+}

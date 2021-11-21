@@ -1,0 +1,23 @@
+{
+    "id": "wagmi",
+    "symbol": "wagmi",
+    "name": "WAGMI",
+    "platforms": {
+        "ethereum": "0x9724f51e3afb6b2ae0a5d86fd3b88c73283bc38f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"We all gonna make it\u201d\r\n\r\n$WAGMI embodies the heart and soul of diamond handed apes. \r\n\r\nWAGMI is more than a token, it\u2019s a mantra uttered by frens, apes, and degenerates worldwide. It\u2019s about manifesting your wildest crypto gains into reality.\r\n\r\nFrens..,WAGMI is everlasting. WAGMI is here to shake up the meme-coin space, combining viral trends with rock solid project development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9724f51e3afb6b2ae0a5d86fd3b88c73283bc38f",
+    "url": "https://www.tradewagmi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9724f51e3afb6b2ae0a5d86fd3b88c73283bc38f",
+        "https://ethplorer.io/address/0x9724f51e3afb6b2ae0a5d86fd3b88c73283bc38f"
+    ],
+    "twitter": "wagmierc",
+    "telegram": "Wagmiofficial"
+}

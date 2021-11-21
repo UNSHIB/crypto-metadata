@@ -1,0 +1,23 @@
+{
+    "id": "stadium-ape",
+    "symbol": "SAPE",
+    "name": "Stadium Ape",
+    "platforms": {
+        "binance-smart-chain": "0x8185a85946bbd6dc8db94d1967e89271ebbae8ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stadium Finance is a first-of-its-kind blockchain game, in which tokens battle for financial supremacy using the mechanics of decentralized exchange liquidity pools as a battleground. Players can earn value by holding the token of the winning team, or strategically switching teams.\r\n\r\nStadium is at the forefront of blockchain gaming innovation, with functionality which could not have been possible before the existence and popularization of decentralized exchanges and automated market making (AMM). We are proud to be pioneering this concept of \u201cliquidity battles\u201d, and plan to continue to develop and innovate Stadium through enhancements and improvements. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8185a85946bbd6dc8db94d1967e89271ebbae8ac",
+    "url": "https://www.stadium.finance/",
+    "explorers": [
+        "https://bscscan.com/address/0x8185a85946bBD6Dc8dB94d1967e89271EbBAE8aC",
+        "https://bscscan.com/token/0x8185a85946bBD6Dc8dB94d1967e89271EbBAE8aC"
+    ],
+    "twitter": "ApeBattleToken",
+    "telegram": "ApeBarracks"
+}

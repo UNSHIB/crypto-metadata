@@ -1,0 +1,23 @@
+{
+    "id": "titano",
+    "symbol": "titano",
+    "name": "Titano",
+    "platforms": {
+        "binance-smart-chain": "0xba96731324de188ebc1ed87ca74544ddebc07d7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Titano is launching the new frontier of staking tokens which will literally change the way token holders become Stakeholders. By releasing an innovative holding system which includes a positive rebase formula, Titano is creating a new type of elastic Token, named AutoStake Token. \r\n\r\nThe AutoStake Token is an elastic token which, through a positive rebase formula, allows $TITANO holders earn staking rewards just by holding the token.\r\n\r\nThe AutoStake feature is bringing the highest APY in the market 102,483.58% which is worth a daily ROI (Daily Return On Investment) of 1.8999%. This elevated gain is sustained by the RFV (Risk Free Value) which receives a percentage dedicated to create a collateral value for the generated APY from the token trading volume."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba96731324de188ebc1ed87ca74544ddebc07d7f",
+    "url": "https://titano.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f"
+    ],
+    "twitter": "TitanoFinance",
+    "telegram": "titano_finance",
+    "github_org": "titanofinance"
+}

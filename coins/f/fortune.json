@@ -1,0 +1,24 @@
+{
+    "id": "fortune",
+    "symbol": "fortune",
+    "name": "Fortune",
+    "platforms": {
+        "ethereum": "0x9f009d03e1b7f02065017c90e8e0d5cb378eb015"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fortune is the ingame currency as well as the reward token of the Mononoke-Inu ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f009d03e1b7f02065017c90e8e0d5cb378eb015",
+    "url": "https://www.mononoke-i.nu/fortune",
+    "explorers": [
+        "https://etherscan.io/token/0x9f009d03e1b7f02065017c90e8e0d5cb378eb015",
+        "https://ethplorer.io/address/0x9f009d03e1b7f02065017c90e8e0d5cb378eb015"
+    ],
+    "twitter": "Mononoke_Inu",
+    "telegram": "fortune_erc20",
+    "reddit": "mononoke_inu"
+}

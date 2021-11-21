@@ -1,0 +1,24 @@
+{
+    "id": "project-one-whale",
+    "symbol": "pow",
+    "name": "Project: One Whale",
+    "platforms": {
+        "binance-smart-chain": "0x0196d4d37990ab2e1f7bc8607c7b4198a360c48f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A token that rewards BUSD to its holders. It's use-case is like a hedge fund wherein we take a portion of the tax to invest on other ventures such as forex, memecoins, altcoins (futures trading), and use portion of the profits to buyback POW tokens, creating a sustainable passive income for everyone"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0196d4d37990ab2e1f7bc8607c7b4198a360c48f",
+    "url": "https://www.onewhale.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x0196D4D37990aB2e1f7BC8607C7b4198A360c48f"
+    ],
+    "twitter": "ProjectOneWhale",
+    "telegram": "ProjectOneWhale",
+    "reddit": "ProjectOneWhale/",
+    "github_org": "ProjectOneWhale"
+}

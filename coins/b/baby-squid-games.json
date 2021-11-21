@@ -1,0 +1,24 @@
+{
+    "id": "baby-squid-games",
+    "symbol": "squids",
+    "name": "Baby Squid Games",
+    "platforms": {
+        "binance-smart-chain": "0xea88d713af5d742dbcafc4b0360b59a8b3e34d6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dividends token paying holders 7% rewards in Axie Infinity Shards on every buy and sell.\r\n\r\nTeam based mainly in the UK and USA.\r\n\r\nBaby Squid Games is building an NFT game where you can mint a variety of our Baby Squids. They will be randomly assigned different stats according to the rarity of their variable body parts.\r\n\r\nThere are 12 different status types of our Squids; Sun, Sea, Sky, Dream, Cursed, Volt, Nature, Earth, Metal, Dark, Light + Snow.\r\n\r\nEach type is more or less effective versus certain types with a complex effectiveness graph to add an in-depth tactical element to the gameplay.\r\n\r\nA city hub is being built which will function as a place where players can meet up with other players to trade, battle or even visit the shops to purchase upgrades for their Squids."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea88d713af5d742dbcafc4b0360b59a8b3e34d6b",
+    "url": "https://babysquidgames.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xea88d713af5d742dbcafc4b0360b59a8b3e34d6b"
+    ],
+    "twitter": "babysquidgames",
+    "telegram": "babysquidgames",
+    "reddit": "BabySquidGame/",
+    "github_org": "BabySquidGame"
+}

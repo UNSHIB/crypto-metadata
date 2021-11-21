@@ -1,0 +1,23 @@
+{
+    "id": "vita-inu",
+    "symbol": "vinu",
+    "name": "Vita Inu",
+    "platforms": {
+        "vite": "tti_541b25bd5e5db35166864096"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vita Inu (VINU) is the governance token of the VINU Ecosystem, and is native to the Vite DAG chain. Created in 2021, VINU is the world\u2019s first fast, feeless (and cheeky) dog-themed coin with high TPS and smart contracts.\r\n\r\nVita Inu's philosophy to have fun, make new friends, and learn all about the greatest technological revolution of our lifetimes \u2013 cryptocurrency - within an engaging, sometimes viral, ecosystem. \r\n\r\nThe VINU Ecosystem is under development, and will comprise of the VinuSwap Dapp, NFTs, and Merch, amongst other things."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "tti_541b25bd5e5db35166864096",
+    "url": "https://vitainu.org",
+    "explorers": [
+        "https://vitescan.io/token/tti_541b25bd5e5db35166864096"
+    ],
+    "twitter": "VitaInuCoin",
+    "telegram": "VitaInu",
+    "reddit": "Vitainu"
+}

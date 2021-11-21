@@ -1,0 +1,24 @@
+{
+    "id": "metazuckzilla",
+    "symbol": "meta",
+    "name": "MetaZuckZilla",
+    "platforms": {
+        "binance-smart-chain": "0xbe5e820ed156a345191dcc976ad3752075ebcb79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaZuckZilla is born and is about to launch on November 18, 2021 at 4pm UTC. It is a decentralized token created on the Binance Smart Chain to maniximize returns to investors by rewarding its holders with DOT. With a team of crypto experts leading the cause, MetaZuckZilla strives to be the next revolution in the realm of blockchain technology by providing services to it's investors. Beyond the meme, $META Utilities like staking, its very own utility dashboard and an NFT Market place providing the richest ecosystem to support the adoption of NFTs through a multi-chain platform. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe5e820ed156a345191dcc976ad3752075ebcb79",
+    "url": "https://metazuckzilla.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbe5e820ed156a345191dcc976ad3752075ebcb79"
+    ],
+    "twitter": "MetaZuckZilla",
+    "telegram": "Metazuckzilla",
+    "reddit": "metazuckzilla/",
+    "github_org": "metazuckzilla"
+}

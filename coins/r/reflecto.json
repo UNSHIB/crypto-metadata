@@ -1,0 +1,21 @@
+{
+    "id": "reflecto",
+    "symbol": "reflecto",
+    "name": "Reflecto",
+    "platforms": {
+        "binance-smart-chain": "0xea3c823176d2f6fedc682d3cd9c30115448767b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Reflecto works on an autonomous frictionless yield farming and liquidity generation protocol.\r\n\r\nHolding $REFLECTO rewards investors earn passive income in EVERGROW, CRYPTER, and BUSD.\r\n\r\nReflecto is built with utilities in mind; it has an integrated meta transaction feature that will allow performing gasless transactions, which means users will not need to spend BNB to execute transactions on the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea3c823176d2f6fedc682d3cd9c30115448767b3",
+    "url": "https://reflectocoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xea3c823176d2f6fedc682d3cd9c30115448767b3"
+    ],
+    "twitter": "RReflecto"
+}

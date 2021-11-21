@@ -1,0 +1,23 @@
+{
+    "id": "fantom-of-the-opera-apes",
+    "symbol": "fantomapes",
+    "name": "Fantom of the Opera Apes",
+    "platforms": {
+        "binance-smart-chain": "0x836bffc28f13ff46bf4870056c2b45dc998ee50e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fantom of the Opera Apes The World's Most Exclusive Collection Of Ape Tokens & NFTs based on famous Opera and Musical characters.\r\n\r\nCollect rare and unique $FANTOMAPES today and also earn passive income in $FTM\r\n\r\nEach Ape is unique and hand drawn and generated from many possible traits."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x836bffc28f13ff46bf4870056c2b45dc998ee50e",
+    "url": "https://fantomoftheoperaapes.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x836bffc28f13ff46bf4870056c2b45dc998ee50e"
+    ],
+    "twitter": "FantomOperaApes",
+    "telegram": "FantomOperaApes",
+    "github_org": "Fantom-apes"
+}

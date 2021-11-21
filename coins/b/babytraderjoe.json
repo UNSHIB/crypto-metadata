@@ -1,0 +1,20 @@
+{
+    "id": "babytraderjoe",
+    "symbol": "bjoe",
+    "name": "BabyTraderJoe",
+    "platforms": {
+        "avalanche": "0xe703214808c3603a9da2609d52bdcf920e0a0edf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$BJOE is a first meme-token on Avalanche, 100% community - driven token with large reflections. Our goal is to create a strong community of Avalanche enthusiasts.\r\n11% of every transaction redistributed among all $BJOE holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe703214808c3603a9da2609d52bdcf920e0a0edf",
+    "url": "https://traderjoebaby.com/",
+    "explorers": [],
+    "twitter": "BabyTraderJoe",
+    "telegram": "TraderJoebaby_Chat"
+}

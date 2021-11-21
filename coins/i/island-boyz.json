@@ -1,0 +1,24 @@
+{
+    "id": "island-boyz",
+    "symbol": "$islbyz",
+    "name": "Island Boyz",
+    "platforms": {
+        "binance-smart-chain": "0x4cf7ea6cb0af1b157b59372780c9b68147ed0608"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Island Boyz is a peer-to-peer decentralized transaction network that promotes a fun environment along with responsible investing. Island Boyz wil also have NFT staking and yield farming as part of  our implementation of Decentralised Finance. Our aim is to provide the community with a more relaxed and easy-going introduction to cryptocurrency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4cf7ea6cb0af1b157b59372780c9b68147ed0608",
+    "url": "https://www.islandboyztoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4cf7ea6cb0af1b157b59372780c9b68147ed0608"
+    ],
+    "twitter": "IslandBoyZ42069",
+    "telegram": "IslandBoyZOfficial",
+    "reddit": "IslandboyZtoken/",
+    "github_org": "Islbyztoken"
+}

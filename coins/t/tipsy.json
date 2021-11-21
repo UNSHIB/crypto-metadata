@@ -1,0 +1,25 @@
+{
+    "id": "tipsy",
+    "symbol": "TIPSY",
+    "name": "Tipsy",
+    "platforms": {
+        "binance-smart-chain": "0xf380334b9a181f54bf2f32fdd3e153d259472ebb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Tipsy is an app store - and a place where adults have fun!\"\r\n\r\nIt's an open-source marketplace for adult entertainment. It's a platform where developers can create and deploy apps and games, merchants can sell goods and models can upload and share media or offer services such as video chat.\r\n\r\n\"Tipsy is an ecosystem - with interoperability between apps and games\"\r\n\r\nThe Tipsy ecosystem links native apps like TipsyCam or TipsyMarket with other apps deployed by developers, but also with external businesses where needed. It will sustain itself through very small fees, fueling the adult businesses of tomorrow. TipsyXchange will be the core payment system of the ecosystem for incoming and outgoing transactions. Industry stakeholders will enjoy the power of blockchain, and profit from the safety and transparency that comes with it.\r\n\r\n\"Tipsy is a payment system - based on multiple blockchains\"\r\n\r\nTipsy delivers a whole new payment system that will serve merchants, service providers and customers around the world, while helping them earn more, work in a safer environment, and deliver a higher-quality experience by using blockchain technology and newest innovations in the world of tech. It will improve existing payment systems, disrupting the \u201ehigh fees for great content\u201c strategy used by third-party payment providers. Countless businesses will be able to profit from our Tipsy payment system, from sports betting , casinos and gaming, to video chatting, marketplaces for media and goods and many other forms of adult entertainment."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf380334b9a181f54bf2f32fdd3e153d259472ebb",
+    "url": "https://www.tipsyonline.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xf380334b9a181f54bf2f32fdd3e153d259472ebb"
+    ],
+    "twitter": "tipsylabs",
+    "facebook": "TipsyLabs",
+    "telegram": "Tipsyonline",
+    "reddit": "TipsyOnline/",
+    "github_org": "tipsylabs"
+}

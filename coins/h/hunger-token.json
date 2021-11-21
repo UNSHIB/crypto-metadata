@@ -1,0 +1,22 @@
+{
+    "id": "hunger-token",
+    "symbol": "hunger",
+    "name": "Hunger Token",
+    "platforms": {
+        "binance-smart-chain": "0x02052b756bf368efb177b6ec7f960ef8f67f7e1d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hunger Token - Multi ways of Earning Money by Fighting Hunger"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x02052b756bf368efb177b6ec7f960ef8f67f7e1d",
+    "url": "https://www.thehungertoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x02052b756bf368efb177b6ec7f960ef8f67f7e1d"
+    ],
+    "twitter": "TheHungerToken",
+    "telegram": "TheHungerToken"
+}

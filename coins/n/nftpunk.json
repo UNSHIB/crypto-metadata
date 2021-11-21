@@ -1,0 +1,23 @@
+{
+    "id": "nftpunk",
+    "symbol": "nftpunk2.0",
+    "name": "NFTPunk",
+    "platforms": {
+        "binance-smart-chain": "0x8d947e7c2ce0ed24a801b2d23bff72d933c842a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFTPUNK is a NFT platform that is powered by our deflationary utility-token NFTPUNK2.0 where users of our platform will be able to stake our token to claim or issue NFT\u2019s. We are setting out to become the easiest NFT platform to use by amongst other things implementing simple drag & drop solutions. First, we are releasing a web version and later apps for both Android & IOS. Our apps will enable the creation of NFT\u2019s from phones. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d947e7c2ce0ed24a801b2d23bff72d933c842a5",
+    "url": "https://nft-punk.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8d947e7c2ce0ed24a801b2d23bff72d933c842a5"
+    ],
+    "twitter": "NFTPunk_Finance",
+    "telegram": "NFTPUNK_Official",
+    "github_org": "tetsuyasaito80"
+}

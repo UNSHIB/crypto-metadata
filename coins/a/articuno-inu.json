@@ -1,0 +1,23 @@
+{
+    "id": "articuno-inu",
+    "symbol": "articuno",
+    "name": "Articuno Inu",
+    "platforms": {
+        "ethereum": "0xa2595371844223a8b521d7a892ab939f3d41dba6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The legendary bird is coming to freeze the ETH world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa2595371844223a8b521d7a892ab939f3d41dba6",
+    "url": "https://articunoinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa2595371844223a8b521d7a892ab939f3d41dba6",
+        "https://ethplorer.io/address/0xa2595371844223a8b521d7a892ab939f3d41dba6"
+    ],
+    "twitter": "articunoinu",
+    "telegram": "ArticunoInu"
+}

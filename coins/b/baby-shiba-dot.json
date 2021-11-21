@@ -1,0 +1,23 @@
+{
+    "id": "baby-shiba-dot",
+    "symbol": "bsd",
+    "name": "Baby Shiba Dot",
+    "platforms": {
+        "binance-smart-chain": "0x5517f1515dc48fe10c0af3730c6a64dfcf4df6c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Buy and Hold BabyShibaDot and you will automatically get more in your wallet. No need to farm, stake or claim.\r\nEach trade also automatically adds liquidity on Pancakeswap leading to an ever-increasing price floor of BabyShiba. This means that even if every single BabyShiba holder sells, the price will not go to zero.\r\n01 Community driven project\r\nThough the core development team is always working on BabyShiba it is the community who can guarantee its success. On Telegram, Facebook, Instagram, TikTok, Reddit and other social media channels, our awesome community is spreading the word about us.\r\n02 Rewards holders through static reflection\r\nOur tokenomics incentivize holding. We like to say \"\"we pay you to hold\"\". 5% of each transaction goes instantly and gaslessly to the BabyShiba holders, proportional to their holdings.\r\n03 Deflationary Black Hole. Forever!\r\nImmediately after launch we burned more than 14% of the total supply of BabyShibaDot and sent it to a dead wallet. Because the dead wallet is also a holder, it also gets proportional transaction rewards. But since nobody has access to that wallet, those BabyShiba tokens are retired from circulation (effectively burned). The burn happens on every transaction and accelerates as the black hole gets bigger...forever!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5517f1515dc48fe10c0af3730c6a64dfcf4df6c6",
+    "url": "https://www.babyshibadot.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5517F1515DC48Fe10C0aF3730C6A64DfCF4dF6c6",
+        "https://bscscan.com/token/0x5517f1515dc48fe10c0af3730c6a64dfcf4df6c6"
+    ],
+    "twitter": "DotShiba",
+    "telegram": "BabyShibaDotOfficial"
+}

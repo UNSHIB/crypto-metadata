@@ -1,0 +1,22 @@
+{
+    "id": "sponsee",
+    "symbol": "spon",
+    "name": "Sponsee",
+    "platforms": {
+        "binance-smart-chain": "0xe41d9e1311209f2e05850f9de6201ab4b930bfc2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Social Media is the world\u2019s greatest equalizer. With an internet connection, creators can form meaningful connections with a diverse population around the world, and make money doing so. But the connection with commercial entities still retains a high barrier of entry.\r\nThis is where $SPON makes a difference.\r\n\u200d\r\nBased on the Sponsee platform, $SPON is the bridge that connects influencers with businesses in a fast, efficient and safe manner. Through the use of smart contracts, processes like peer reviews, dispute resolution, digital contracture are integrated into one seamless workflow. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe41d9e1311209f2e05850f9de6201ab4b930bfc2",
+    "url": "https://www.sponsee.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe41d9e1311209f2e05850f9de6201ab4b930bfc2"
+    ],
+    "twitter": "SponseeApp",
+    "telegram": "sponsee"
+}

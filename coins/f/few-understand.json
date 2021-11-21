@@ -1,0 +1,25 @@
+{
+    "id": "few-understand",
+    "symbol": "few",
+    "name": "Few Understand",
+    "platforms": {
+        "ethereum": "0x744242734fb54aa4824e061c09335cee712b6da3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We're all here because we understand what other's do not. Cryptocurrencies are the future. Web 3.0 enables individuals to connect to an internet where they can own and be properly compensated for their time and data, eclipsing an exploitative and unjust web, where giant, centralized repositories are the only ones that own and profit from it. Few understand today, but, if we do our job, soon everyone will understand. FEW is a representation of the family that will make this happen."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x744242734fb54aa4824e061c09335cee712b6da3",
+    "url": "https://www.fewunderstand.club/",
+    "explorers": [
+        "https://etherscan.io/token/0x744242734FB54Aa4824e061C09335cee712b6DA3",
+        "https://ethplorer.io/address/0x744242734FB54Aa4824e061C09335cee712b6DA3",
+        "https://etherscan.io/token/0x744242734fb54aa4824e061c09335cee712b6da3",
+        "https://ethplorer.io/address/0x744242734fb54aa4824e061c09335cee712b6da3"
+    ],
+    "twitter": "few__understand",
+    "telegram": "fewunderstand_eth"
+}

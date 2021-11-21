@@ -1,0 +1,22 @@
+{
+    "id": "dog-club-token",
+    "symbol": "dclub",
+    "name": "Dog Club Token",
+    "platforms": {
+        "binance-smart-chain": "0x6cb79297d338e10930d1953f65153bf0b4e14894"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dog Club is here to bring back fun and trust to the Binance Smart Chain again. We do this by doing simple tokenomics and not adjusting taxes on launch or down the road. We also plan on building trust by allowing community governance. The Community will vote on changes to the project and if things are not possible, we will explain why. We aim to be always transparent and honest. We are building an awesome Play to Earn gaming system where the more you play the more you make. We will release an exclusive set of NFT's that will not be available anywhere else."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6cb79297d338e10930d1953f65153bf0b4e14894",
+    "url": "https://dogclub.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x6cb79297d338e10930d1953f65153bf0b4e14894"
+    ],
+    "twitter": "DogClubToken",
+    "telegram": "DogClubOfficial"
+}

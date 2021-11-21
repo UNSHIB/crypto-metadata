@@ -1,0 +1,23 @@
+{
+    "id": "unicat-token",
+    "symbol": "unicat",
+    "name": "Unicat Token",
+    "platforms": {
+        "ethereum": "0x87c0192b1b81b9550d495558aac9753972f6db0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UniCat is all about the community built around its token.\r\nWe are a 100% community driven Cat meme coin, creating transparent and fun environment. Cat season is here to stay and we are going to be the first cat token to take our rightful place in top 100."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87c0192b1b81b9550d495558aac9753972f6db0d",
+    "url": "https://unicattoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x87c0192b1b81b9550d495558aac9753972f6db0d",
+        "https://ethplorer.io/address/0x87c0192b1b81b9550d495558aac9753972f6db0d"
+    ],
+    "twitter": "unicat_token",
+    "telegram": "unicattoken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "mastiff-inu",
+    "symbol": "minu",
+    "name": "Mastiff Inu",
+    "platforms": {
+        "binance-smart-chain": "0x91d0d7349e98b52edb8628645b8e1bb5f290a4c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Welcome to $MINU, your newest friend on the Binance Smart Chain! Mastiff Inu Token is a BEP-20 token issued on the Binance Smart Chain (BSC) that focuses on the investor\u2019s needs and wishes. With buying Mastiff Inu investors get the possibility of a high impact product with sustainability. Certainly, the self-evident need of honesty, sustainability, transparency, and openness is a core value and should be placed above everything else. This gives Mastiff Inu the direction needed to be successful on a highly capable network.\r\n\r\nProjects built on the foundation of community involvement are the untamed wilderness of the future of this pack. As we move further away from rigid socialist structures and traditional mindsets, we come to discover new ways to solve problems and relate to one another.\r\n\r\nA community is held together by hundreds, if not thousands, of interconnected moments. By studying those drawn to our project, we realized that true power doesn\u2019t come from a single perspective, but from working together in together in harmony. With that thought fresh in our minds, we became Mastiff Inu"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x91d0d7349e98b52edb8628645b8e1bb5f290a4c9",
+    "url": "https://mastiffinu.org",
+    "explorers": [
+        "https://bscscan.com/token/0x91d0d7349e98b52edb8628645b8e1bb5f290a4c9"
+    ],
+    "twitter": "MastiffInu",
+    "telegram": "mastiffinuofficial"
+}

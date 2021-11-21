@@ -1,0 +1,22 @@
+{
+    "id": "caketools",
+    "symbol": "ckt",
+    "name": "Caketools",
+    "platforms": {
+        "binance-smart-chain": "0x3837e18b901629fcb200e0ad9c2f2441804bd6c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BSC DeFi Charting Hub:Fetch Real-Time Charts to analyze market movements, track the growth of BSC projects, and develop profitable"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3837e18b901629fcb200e0ad9c2f2441804bd6c8",
+    "url": "https://caketools.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x3837e18b901629fcb200e0ad9c2f2441804bd6c8"
+    ],
+    "twitter": "cake_tools",
+    "telegram": "caketoolsio"
+}

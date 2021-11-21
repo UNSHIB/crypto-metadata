@@ -1,0 +1,22 @@
+{
+    "id": "banana-bucks",
+    "symbol": "bab",
+    "name": "Banana Bucks",
+    "platforms": {
+        "solana": "2Dzzc14S1D7cEFGJyMZMACuoQRHVUYFhVE74C5o8Fwau"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The idea is simple, create a community coin for new and aspiring projects, anything from NFTs to games developers. Distribute it fairly with an emphasis on projects that encourage well-being, mental health and supporting the environment, then see what happens.\r\n\r\nBy the people behind millionpoundape BananaBucks are free to upcoming projects on Solana."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "2Dzzc14S1D7cEFGJyMZMACuoQRHVUYFhVE74C5o8Fwau",
+    "url": "https://bananabucks.io/",
+    "explorers": [
+        "https://solscan.io/token/2Dzzc14S1D7cEFGJyMZMACuoQRHVUYFhVE74C5o8Fwau"
+    ],
+    "twitter": "millionpoundape",
+    "telegram": "millionpoundape"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "day-of-defeat",
+    "symbol": "dod",
+    "name": "Day Of Defeat",
+    "platforms": {
+        "binance-smart-chain": "0xc709878167ed069aea15fd0bd4e9758ceb4da193"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DOD (Day of Defeat) is a token issued on the Binance Smart Chain. It is first and exciting social experiment on this planet, with a radical deflationary mathematical model which will keep the price of DOD token rising continuously. The team of DOD has fixed the first and final price in the smart contract mathematically."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc709878167ed069aea15fd0bd4e9758ceb4da193",
+    "url": "https://www.dayofdefeat.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xc709878167ed069aea15fd0bd4e9758ceb4da193"
+    ],
+    "twitter": "dayofdefeatBSC",
+    "telegram": "DayOfDefeatBSC"
+}

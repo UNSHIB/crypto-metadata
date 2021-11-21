@@ -1,0 +1,23 @@
+{
+    "id": "snowdog",
+    "symbol": "sdog",
+    "name": "Snowdog",
+    "platforms": {
+        "avalanche": "0xde9e52f1838951e4d2bb6c59723b003c353979b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde9e52f1838951e4d2bb6c59723b003c353979b6",
+    "url": "https://www.snowdogdao.com/",
+    "explorers": [
+        "https://snowtrace.io/token/0xdE9E52F1838951e4d2bb6C59723B003c353979b6"
+    ],
+    "twitter": "snowdogdao"
+}

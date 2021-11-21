@@ -1,0 +1,22 @@
+{
+    "id": "la-doge-de-papel",
+    "symbol": "lddp",
+    "name": "La Doge de Papel",
+    "platforms": {
+        "binance-smart-chain": "0x2ca70261dfbb019dcbb6e22c9c114cf8827ce2ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "La Doge de Papel aims to create funding for a new Netflix original anime series with doge dogs as the main characters. The project also aims to create high-value NFTs based upon characters on La Doge de Papel original series. Investors will be able to take part in mystery boxes that\u2019ll reward with unique items."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ca70261dfbb019dcbb6e22c9c114cf8827ce2ef",
+    "url": "https://ladogedepapel.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2ca70261dfbB019DCBb6e22c9C114cf8827CE2Ef"
+    ],
+    "twitter": "ladogedepapel",
+    "telegram": "Ladogedepapelofficial"
+}

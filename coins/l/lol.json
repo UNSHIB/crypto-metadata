@@ -1,0 +1,23 @@
+{
+    "id": "lol",
+    "symbol": "lol",
+    "name": "LOL",
+    "platforms": {
+        "ethereum": "0xf91ac30e9b517f6d57e99446ee44894e6c22c032"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LOL is here to create some moments of happiness in our life to make us laugh, have fun, and to enjoy life. LOL is a DAO, where the LOL treasury will be used by the community for the betterment of the project. Together we will build a LOL DAO metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf91ac30e9b517f6d57e99446ee44894e6c22c032",
+    "url": "https://lol.one/",
+    "explorers": [
+        "https://etherscan.io/token/0xf91ac30e9b517f6d57e99446ee44894e6c22c032",
+        "https://ethplorer.io/address/0xf91ac30e9b517f6d57e99446ee44894e6c22c032"
+    ],
+    "twitter": "Erc20Lol",
+    "telegram": "Lolerc20"
+}

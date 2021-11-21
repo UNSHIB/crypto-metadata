@@ -1,0 +1,24 @@
+{
+    "id": "buu-inu",
+    "symbol": "buu",
+    "name": "Buu Inu",
+    "platforms": {
+        "ethereum": "0xa700f2b3d8ebe35cef86fcc3c2105daff41617be"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Buu Inu is a ERC20 token on the Ethereum blockchain. It entails an initial buy and sell tax of seven percent, one percent of which is redistributed to the token holders and six percent is reserved for buy backs and marketing. There is no tax for liquidity in order to avoid high fees for holders. Outside of the tokenomics, Buu Inu has NFTs lined up that will be available for trading on OpenSea. A decentralized exchange (DEX) named Buu Inu will also be launched. It will support the token's liquidity, uphold the project, and sustain the entire ecosystem. The project will also feature a gaming aspect with a play-to-earn function entitled Buu Rush."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa700f2b3d8ebe35cef86fcc3c2105daff41617be",
+    "url": "https://buu-inu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa700f2b3d8ebe35cef86fcc3c2105daff41617be",
+        "https://ethplorer.io/address/0xa700f2b3d8ebe35cef86fcc3c2105daff41617be"
+    ],
+    "twitter": "thebuu_inu",
+    "telegram": "buuinu",
+    "github_org": "buuinu"
+}

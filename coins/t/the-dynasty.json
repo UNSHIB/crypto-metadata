@@ -1,0 +1,23 @@
+{
+    "id": "the-dynasty",
+    "symbol": "dyt",
+    "name": "The Dynasty",
+    "platforms": {
+        "binance-smart-chain": "0x1802a63efe3255abc3004f8e63047db96300bd1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1802a63efe3255abc3004f8e63047db96300bd1c",
+    "url": "https://thedynasty.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x1802a63EFe3255aBC3004F8e63047dB96300bd1c",
+        "https://bscscan.com/token/0x1802a63efe3255abc3004f8e63047db96300bd1c"
+    ],
+    "twitter": "Thedynasty_app",
+    "telegram": "thedynastybsc"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "dexsport",
+    "symbol": "desu",
+    "name": "Dexsport",
+    "platforms": {
+        "binance-smart-chain": "0x32f1518baace69e85b9e5ff844ebd617c52573ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dexsport is an innovative project that changes the way users think about betting. The platform is a DeFi prediction platform that includes: sports betting, prediction market, P2P prediction on cryptocurrency rates, and NFT collecting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32f1518baace69e85b9e5ff844ebd617c52573ac",
+    "url": "https://dexsport.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x32f1518baace69e85b9e5ff844ebd617c52573ac"
+    ],
+    "twitter": "dexsport_io",
+    "telegram": "DexSport_io"
+}

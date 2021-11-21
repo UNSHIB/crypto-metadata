@@ -1,0 +1,23 @@
+{
+    "id": "mad-rabbit",
+    "symbol": "madr",
+    "name": "Mad Rabbit",
+    "platforms": {
+        "binance-smart-chain": "0x09b3e8b4871f977921981ef2c2ee655ac7f076b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x09b3e8b4871f977921981ef2c2ee655ac7f076b1",
+    "url": "https://www.madrabbit.info/",
+    "explorers": [
+        "https://bscscan.com/token/0x09b3e8b4871f977921981ef2c2ee655ac7f076b1"
+    ],
+    "twitter": "BSCMADRABBIT",
+    "telegram": "MADRABBITBSC",
+    "github_org": "BSCMADRABBIT"
+}

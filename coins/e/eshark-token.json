@@ -1,0 +1,21 @@
+{
+    "id": "eshark-token",
+    "symbol": "eshk",
+    "name": "eShark Token",
+    "platforms": {
+        "binance-smart-chain": "0xbca671410bcffd9e63f73e1e8640f6c7c388a3c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "eShark Token is the future of Gamers & Traders for transaction management market, built with secure blockchain technology and safe smart contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbca671410bcffd9e63f73e1e8640f6c7c388a3c9",
+    "url": "https://www.esharktoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbca671410bcffd9e63f73e1e8640f6c7c388a3c9"
+    ],
+    "twitter": "EsharkToken"
+}

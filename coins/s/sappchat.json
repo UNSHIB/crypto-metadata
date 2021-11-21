@@ -1,0 +1,23 @@
+{
+    "id": "sappchat",
+    "symbol": "app",
+    "name": "SappChat",
+    "platforms": {
+        "binance-smart-chain": "0x097f8ae21e81d4f248a2e2d18543c6b3cc0d8e59"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Messaging App with integrated Decentralized Banking powered by Blockchain and Artificial Intelligence Technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x097f8ae21e81d4f248a2e2d18543c6b3cc0d8e59",
+    "url": "https://sappchat.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x097f8ae21e81d4f248a2e2d18543c6b3cc0d8e59"
+    ],
+    "twitter": "SappChatApp",
+    "telegram": "sappchat",
+    "github_org": "SappchatApp"
+}

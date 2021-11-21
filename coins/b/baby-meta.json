@@ -1,0 +1,22 @@
+{
+    "id": "baby-meta",
+    "symbol": "babymeta",
+    "name": "Baby Meta",
+    "platforms": {
+        "binance-smart-chain": "0x4cc3c88dac183f7a1d082f895bdfaf2284253394"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Memecoin in the process of building an NFT VR platform where you can view your NFTs in different rooms of the Metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4cc3c88dac183f7a1d082f895bdfaf2284253394",
+    "url": "https://www.babymetacoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4cc3c88dac183f7a1d082f895bdfaf2284253394"
+    ],
+    "twitter": "babymetacoin",
+    "telegram": "thebabymetacoin"
+}

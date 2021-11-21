@@ -1,0 +1,22 @@
+{
+    "id": "angrybakery",
+    "symbol": "abake",
+    "name": "AngryBakery",
+    "platforms": {
+        "binance-smart-chain": "0xf5217081f9c50017bfe64d188166b77754612227"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AngryBakery is a community driven token that provides rewards in $BAKE for just holding it. Bake is the native token of BakerySwap launched on September 20, 2020. BAKERYSWAP is not only an Exchange but also one of the main platforms for buying and selling NFT\u2019s that every day is gaining relevance and increasing its market value.\r\n\r\n10% of every purchase/sale is distributed to all holders, 1% is added to the liquidity pool to keep it healthy, 5% is for our aggressive marketing campaigns and 3% additional fee is added to sells operations to promote holding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf5217081f9c50017bfe64d188166b77754612227",
+    "url": "https://angrybakery.site/",
+    "explorers": [
+        "https://bscscan.com/token/0xf5217081f9c50017bfe64d188166b77754612227"
+    ],
+    "twitter": "AngryBakerybsc",
+    "telegram": "AngryBakeryToken"
+}

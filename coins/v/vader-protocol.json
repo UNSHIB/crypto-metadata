@@ -1,0 +1,17 @@
+{
+    "id": "vader-protocol",
+    "symbol": "vader",
+    "name": "Vader Protocol",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.vaderprotocol.org/",
+    "explorers": [],
+    "twitter": "VaderProtocol",
+    "telegram": "vaderprotocol"
+}

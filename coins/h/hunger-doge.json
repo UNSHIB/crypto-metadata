@@ -1,0 +1,24 @@
+{
+    "id": "hunger-doge",
+    "symbol": "hungrydoge",
+    "name": "Hunger Doge",
+    "platforms": {
+        "binance-smart-chain": "0x3257e4a23ede8bd1d73cf55b5b7b40df7ac76f53"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3257e4a23ede8bd1d73cf55b5b7b40df7ac76f53",
+    "url": "https://hungerdoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3257E4a23ede8Bd1D73Cf55b5b7b40df7AC76F53",
+        "https://bscscan.com/token/0x3257e4a23ede8bd1d73cf55b5b7b40df7ac76f53"
+    ],
+    "twitter": "HungerDoge",
+    "telegram": "hungerdoge",
+    "github_org": "HungerDoge-Foundation"
+}

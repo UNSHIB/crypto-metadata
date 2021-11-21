@@ -1,0 +1,22 @@
+{
+    "id": "takeda-shin",
+    "symbol": "takeda",
+    "name": "Takeda Shin",
+    "platforms": {
+        "binance-smart-chain": "0xd77cc5edfe2f7db9a7383251b7fcdc1579b367bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Takeda shin is a decentralized community-driven token for all heroes across the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd77cc5edfe2f7db9a7383251b7fcdc1579b367bb",
+    "url": "https://takedashin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xd77cc5edfe2f7db9a7383251b7fcdc1579b367bb"
+    ],
+    "twitter": "takedatoken",
+    "telegram": "takedashinofficial"
+}

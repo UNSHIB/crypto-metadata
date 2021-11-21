@@ -1,0 +1,22 @@
+{
+    "id": "myra-ai",
+    "symbol": "myra",
+    "name": "Myra AI",
+    "platforms": {
+        "binance-smart-chain": "0x5cd7d317d9cb4d46ff0b4f6a20d9547069fe0f27"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MYRA AI guarantees a minimum 40% APY using years of accumulated data science and perpetually collected data within its deep learning proprietary technology. Using its NFT protocol, investors are able to mint an NFT at time of staking to the value of their investment +40%, they hold their profits from day 1. With the use of the MYRA AI Sharding protocol, users of the platform are able to sell all or part (shard the NFT) of their position to other investors within the NFT marketplace looking to take advantage of lower wait times for access to apy yields. At the maturity of every Myra Ai NFT, a bonus NFT is minted to the holder, allowing them to boost apy in their next staked position, these can be on sold in the marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5cd7d317d9cb4d46ff0b4f6a20d9547069fe0f27",
+    "url": "https://www.myra-ai.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0x5cd7d317d9cb4d46ff0b4f6a20d9547069fe0f27"
+    ],
+    "twitter": "myratechai",
+    "telegram": "MyraAI"
+}

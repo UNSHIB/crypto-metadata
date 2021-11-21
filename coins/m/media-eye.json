@@ -1,0 +1,25 @@
+{
+    "id": "media-eye",
+    "symbol": "eye",
+    "name": "MeDIA eYe",
+    "platforms": {
+        "binance-smart-chain": "0x9a257c90fa239fba07771ef7da2d554d148c2e89",
+        "ethereum": "0x9a257c90fa239fba07771ef7da2d554d148c2e89"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"MeDIA eYe NFT Portal is a \u201cBaas\u201d - Blockchain-as-a-Service platform built to enhance and simplify the process involved in buying, selling, minting, collecting, promoting and creating value with NFTs. The MeDIA eYe platform is designed to be user friendly, offering a \u201cfrictionless\u201d experience for its users. MeDIA eYe is a multi-chain platform that offers a broad array of functionality designed to support a wide range of use cases for NFTs. MeDIA eYe is designed to be fully interoperable with EVM-compatible blockchains, with launch of its platform scheduled for November 2021 on both Ethereum and Binance Smart Chain. Further expansion of its platform services on other blockchains to follow, such as: Avalance, Solana, and more in the first half of 2022. \r\n\r\nMeDIA eYe is community centric and highly focused on helping its users create value with NFTs across a broad range of market segments. The platform also focuses on reducing costs for its users by offering the first cross-chain subscription service in the NFT sector. MeDIA eYe removes the technical experience barrier for inexperienced blockchain users, through it\u2019s easy to use, fun and stress-free platform.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a257c90fa239fba07771ef7da2d554d148c2e89",
+    "url": "https://mediaeyenft.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9a257c90fa239fba07771ef7da2d554d148c2e89",
+        "https://etherscan.io/token/0x9a257c90fa239fba07771ef7da2d554d148c2e89",
+        "https://ethplorer.io/address/0x9a257c90fa239fba07771ef7da2d554d148c2e89"
+    ],
+    "twitter": "MeDIAeYeNFT",
+    "telegram": "MeDIAeYeNFTofficial"
+}

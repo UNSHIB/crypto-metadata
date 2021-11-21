@@ -1,0 +1,24 @@
+{
+    "id": "fabwelt",
+    "symbol": "welt",
+    "name": "Fabwelt",
+    "platforms": {
+        "polygon-pos": "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fabwelt is a a revolutionary concept that brings blockchain technology into the core of high-quality games of all types or genres."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+    "url": "https://www.fabwelt.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x23e8b6a3f6891254988b84da3738d2bfe5e703b9"
+    ],
+    "twitter": "fabwelttoken",
+    "telegram": "FabweltToken",
+    "reddit": "Fabwelt/",
+    "github_org": "Fabwelt"
+}

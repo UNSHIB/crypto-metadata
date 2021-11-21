@@ -1,0 +1,24 @@
+{
+    "id": "no-face-inu",
+    "symbol": "NOFACE",
+    "name": "No Face Inu",
+    "platforms": {
+        "ethereum": "0x3093003005fd7c9c077e85c15ff47bcfcf0397e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "No Face Inu aims to improve user experience for cryptocurrency investors on mobile devices. We'll start with launching a Dex that includes vetted projects. This allows safer investing. Then we'll develop our wallet app, for every transaction it takes a negligible amount of gas fees and feeds it to our charts, this app will be tightly integrated with our Dex. All of the tax money goes back to the community in forms of buybacks and investing like an ETF, where the tax money is also used for investing in top coins, and all of the profit is goes back to the community. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3093003005fd7c9c077e85c15ff47bcfcf0397e0",
+    "url": "https://www.officialnfi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3093003005fd7c9c077e85c15ff47bcfcf0397e0",
+        "https://ethplorer.io/address/0x3093003005fd7c9c077e85c15ff47bcfcf0397e0"
+    ],
+    "twitter": "official_nfi",
+    "telegram": "NoFaceInu",
+    "github_org": "OfficialNFI"
+}

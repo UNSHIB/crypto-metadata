@@ -1,0 +1,22 @@
+{
+    "id": "jk-coin",
+    "symbol": "jk",
+    "name": "JK Coin",
+    "platforms": {
+        "binance-smart-chain": "0x1ec58fe5e681e35e490b5d4cbecdf42b29c1b063"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "JAKA Corporation Company Limited or A.JAKA will be issuing \u201cJK Coin\u201d (JK) as a ready-to-use Utility token, for redeeming products and services from JAKA, which comprise of online games, and also used in privileges on products and services in our ecosystem. The company hopes that this issuance will energize and develop the gaming industry.\r\nOur first Project (Dragon JAKA) is an online strategy role playing game (SRPG) combined with Blockchain Technology to become a leader in the game market in SEA region."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ec58fe5e681e35e490b5d4cbecdf42b29c1b063",
+    "url": "https://www.jkcoin.info/",
+    "explorers": [
+        "https://bscscan.com/token/0x1ec58fe5e681e35e490b5d4cbecdf42b29c1b063"
+    ],
+    "twitter": "JKCoin_Official",
+    "telegram": "jkcoin"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "transhuman-coin",
+    "symbol": "thc",
+    "name": "Transhuman Coin",
+    "platforms": {
+        "binance-smart-chain": "0x56083560594e314b5cdd1680ec6a493bb851bbd8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Research & charity token dedicated to the transhumanism movement, investing in the future of humanity through science & technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56083560594e314b5cdd1680ec6a493bb851bbd8",
+    "url": "https://transhumancoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x56083560594E314b5cDd1680eC6a493bb851BBd8",
+        "https://bscscan.com/token/0x56083560594e314b5cdd1680ec6a493bb851bbd8"
+    ],
+    "twitter": "transhumancoin",
+    "reddit": "transhumancoin4u/"
+}

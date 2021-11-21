@@ -1,0 +1,23 @@
+{
+    "id": "circlepod",
+    "symbol": "cpx",
+    "name": "Circlepod",
+    "platforms": {
+        "solana": "CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qA"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Next generation media protocol #solana, #nfts, #metaverse ecosystem, special media protocol guide players to experience the new world. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qA",
+    "url": "https://circlepod.app/",
+    "explorers": [
+        "https://solscan.io/token/CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qA"
+    ],
+    "twitter": "CirclepodP",
+    "telegram": "circlepod",
+    "github_org": "Circelpod"
+}

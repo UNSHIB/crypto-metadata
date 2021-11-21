@@ -1,0 +1,22 @@
+{
+    "id": "the-moon-shiba",
+    "symbol": "MOONSHIB",
+    "name": "The Moon Shiba",
+    "platforms": {
+        "binance-smart-chain": "0xf751f649d08ddb5ea383487b33653bb26eebbb43"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We aim to be a community and utility oriented project. We want holdes to have unique and exciting benefits and that's why we've created a unique model with a sharing economy for all our collectible owner.\r\n\r\nShiba Farmily is a collection of 3,000 unique and randonly generated Shiba Inu divided into 3 unique drops: Shiba Moon, Shiba Mars, and Shiba Earth on the Binance Smart Chain.\r\n\r\nEach Shiba Family Collectible us 100% unique programmatically and randomly generated from over 550+ possible traits ands attributes, some are rarer than others!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf751f649d08ddb5ea383487b33653bb26eebbb43",
+    "url": "https://themoonshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf751f649d08ddb5ea383487b33653bb26eebbb43"
+    ],
+    "twitter": "TheMoon_Shiba",
+    "telegram": "TheMoonShiba"
+}

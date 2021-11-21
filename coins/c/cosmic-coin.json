@@ -1,0 +1,26 @@
+{
+    "id": "cosmic-coin",
+    "symbol": "cosmic",
+    "name": "Cosmic Coin",
+    "platforms": {
+        "harmony-shard-0": "0x6008c8769bfacd92251ba838382e7e5637c7e74d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Harmony Ecosystem"
+    ],
+    "description": {
+        "en": "COSMIC is the utility token for Cosmic Universe, a play-to-earn adventure MMORPG being developed on the Harmony blockchain. Cosmic Universe gives players full ownership of their NFT characters and land, and integrates the play-to-earn model into its ecosystem. Create, trade, and monetize NFTs and other gaming experiences.\r\n\r\nCOSMIC is to be used to rewarded to players through daily check-in rewards, and is used for buying in-game items or paying for in-game magical abilities. The token is also used to reach certain thresholds and levels that will allow for more opportunities within Cosmic Universe, such as having enough COSMIC to unlock advanced artifacts, structures, and magic abilities. The required COSMIC to unlock these elements within the game will then be burned, while the rest can be kept by the player. COSMIC can be earned through various in-game sidequests, promotions or tournaments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6008c8769bfacd92251ba838382e7e5637c7e74d",
+    "url": "https://cosmicguild.one/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x6008c8769bfacd92251ba838382e7e5637c7e74d"
+    ],
+    "twitter": "thecosmicguild",
+    "telegram": "cosmicguild",
+    "reddit": "cosmic/",
+    "github_org": "thecosmicuniverse"
+}

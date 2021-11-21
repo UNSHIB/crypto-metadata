@@ -1,0 +1,22 @@
+{
+    "id": "elpis-battle",
+    "symbol": "EBA",
+    "name": "Elpis Battle",
+    "platforms": {
+        "binance-smart-chain": "0x3944ac66b9b9b40a6474022d6962b6caa001b5e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Elpis Team aims at not only creating an attractive game but:\r\n\r\n- Building the Elpis game in which Elpis Battle is the first and foremost cornerstone. The Elpis Team will develop many new games to satisfy the different needs and desires of the other target groups. Still, the gameplay, NFT assets, and in-game currency of Elpis Battle are applicable.\r\n\r\n- Applying the first DAO governance model for the game industry to strictly bind stakeholders' benefits: the development team, the investors, the players, and the community. Any important decision will be voted to come up with the best option for the community's interest. Simultaneously, the accumulated value of the ecosystem will be redistributed to all stakeholders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3944ac66b9b9b40a6474022d6962b6caa001b5e3",
+    "url": "https://elpis.game/",
+    "explorers": [
+        "https://bscscan.com/token/0x3944ac66b9b9b40a6474022d6962b6caa001b5e3"
+    ],
+    "twitter": "ElpisBattle",
+    "telegram": "elpisbattle_official"
+}

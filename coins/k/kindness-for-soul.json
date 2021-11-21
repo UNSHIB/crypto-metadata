@@ -1,0 +1,22 @@
+{
+    "id": "kindness-for-soul",
+    "symbol": "kfs",
+    "name": "Kindness For Soul",
+    "platforms": {
+        "binance-smart-chain": "0xaf8e5a9a2601e5e0610e73f031eec8270805f2a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kindness for Soul was developed for two reasons; to help people who are genuinely in need, and to tokenize a highly lucrative industry. Real Estate has never been considered the most accessible market and creating the right posture has at times been complex and riddled with nuances.\r\n\r\nKindness for Soul is now leveraging the fluidity of blockchain technology and removing modernized hurdles to expand access to Real Estate in a meaningful way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf8e5a9a2601e5e0610e73f031eec8270805f2a4",
+    "url": "http://kindnessforsoul.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xaf8e5a9a2601e5e0610e73f031eec8270805f2a4"
+    ],
+    "twitter": "KindnessForSoul",
+    "telegram": "KindnessForSoul"
+}

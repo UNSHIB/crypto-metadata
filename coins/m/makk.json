@@ -1,0 +1,23 @@
+{
+    "id": "makk",
+    "symbol": "makk",
+    "name": "Makk",
+    "platforms": {
+        "binance-smart-chain": "0x4ce3dbf21f46febe307be777d9bb5638d6b0a8d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Makk is a deflationary DeFi token that operates on the Binance Smart Chain. The fundamental principles of Makk are Deflation, Reflection and Automated Liquidity Acquisition to ensure a fair treatment for all investors and holders\r\n\r\nMakk operates on a 9% transactional fee from each trade. This fee is distributed in the following way:\r\n\r\nReflection - 3% to proportionally reward existing Makk token holders and incentivise further acquisition of tokens and overall growth. A portion of the reflection also goes permanently to an inaccessible burn wallet, to decrease permanent supply and increase scarcity\r\n\r\nLiquidity Pool - 3% this acts to stabilise the value of Makk and prevent whales from selling out crashing the price\r\n\r\nDevelopment and Marketing - 3% goes to funding ongoing Makk projects and community engagement and enhancements\r\n\r\nThe tokenomics of Makk purposefully act to benefit Makk holders and the project as a whole by locking 3% in the liquidity pool to ensure a stable price and prevent large sell-offs that impact the overall price, yet still rewarding existing token holders for their loyalty and incentivising future growth. Reflection also includes the burn of Makk tokens to a dead wallet as a proportional part of the Reflection to ensure the volumes of Makk in circulation are deflationary, increasing the scarcity and value of Makk."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ce3dbf21f46febe307be777d9bb5638d6b0a8d4",
+    "url": "https://www.makkcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4cE3dBF21F46FEbE307BE777d9BB5638D6B0A8d4",
+        "https://bscscan.com/token/0x4ce3dbf21f46febe307be777d9bb5638d6b0a8d4"
+    ],
+    "twitter": "Makkcoin",
+    "telegram": "makkofficial"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "sabac-warrior",
+    "symbol": "sw",
+    "name": "Sabac Warrior",
+    "platforms": {
+        "binance-smart-chain": "0xe80115dfc5e0f292113331e791e71c488e6de9b0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sabac warrior is a legendary game integrating blockchain. The developer aims to recreate the classic legend and arouse the youth memory of a generation. Similarly, in the game, you will get token rewards by playing monsters. It is a legendary chain game that makes money while playing. Project token SW, you can buy weapons and equipment, game props and character upgrades in the game.At the same time, you can get rich token rewards by playing monsters and PK in the game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe80115dfc5e0f292113331e791e71c488e6de9b0",
+    "url": "http://www.sabacwarrior.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe80115dfc5e0f292113331e791e71c488e6de9b0"
+    ],
+    "twitter": "sabacwarrior",
+    "telegram": "SabacWarrior"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "cointribe",
+    "symbol": "ctribe",
+    "name": "CoinTribe",
+    "platforms": {
+        "binance-smart-chain": "0x52f50e3da8f09c31858c243bc6a98a398752dadc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cointribe is a fully decentralized community project, aiming to create a tribal connection by working together to achieve a common goal through voting rights.\r\n\r\nAll decisions will be made BY THE TRIBE to curate the best possible utilities and wealth opportunities FOR THE TRIBE. We welcome diverse perspectives to build our tribe into the strongest community in crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x52f50e3da8f09c31858c243bc6a98a398752dadc",
+    "url": "https://cointribe.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x52f50e3da8f09c31858c243bc6a98a398752dadc"
+    ],
+    "twitter": "cointribeio",
+    "telegram": "CointribeOfficial"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ser",
+    "symbol": "ser",
+    "name": "SER",
+    "platforms": {
+        "ethereum": "0x8b7f304dcd5aa864e63994f4171bd0a151f0bfcf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ser ; noun\r\n\r\n1. What one is called when they are held in high esteem by another."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b7f304dcd5aa864e63994f4171bd0a151f0bfcf",
+    "url": "https://yesser.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8b7f304dcd5aa864e63994f4171bd0a151f0bfcf",
+        "https://ethplorer.io/address/0x8b7f304dcd5aa864e63994f4171bd0a151f0bfcf"
+    ],
+    "twitter": "thewordser",
+    "telegram": "thewordser",
+    "github_org": "sertoken"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dittoinu",
+    "symbol": "dittoinu",
+    "name": "DittoInu",
+    "platforms": {
+        "binance-smart-chain": "0x02e81cc68c8528b380dc722b98c02ee642d6ab5b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ditto Inu is the ultimate fanbased Pokemon token, combining all characters in one.\r\n\r\nDitto Inu can evolve into a new pokemon, whereby NFTs will be available for  investors both for  minting and as  airdropped rewards.\r\n\r\nThe protocol aims to combine  reflection tokenomics with the power of  NFTs,  offering various staking pools at later development stages for investors to benefit from.\r\n\r\nUltimately, this will open up  doors for Ditto Inu Tools  and Ditto Inu Swap.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x02e81cc68c8528b380dc722b98c02ee642d6ab5b",
+    "url": "https://www.dittoinu.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x02e81cc68c8528b380dc722b98c02ee642d6ab5b"
+    ],
+    "twitter": "dittotoken",
+    "telegram": "dittobsc",
+    "reddit": "https://www.reddit.com"
+}

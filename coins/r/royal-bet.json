@@ -1,0 +1,22 @@
+{
+    "id": "royal-bet",
+    "symbol": "rbet",
+    "name": "Royal BET",
+    "platforms": {
+        "binance-smart-chain": "0x3753301611c7d2f352d28151d14d915492c6940f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3753301611c7d2f352d28151d14d915492c6940f",
+    "url": "https://royalbetbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3753301611c7D2f352d28151D14d915492C6940F"
+    ],
+    "twitter": "royalbnb",
+    "telegram": "RoyalBET_BSC"
+}

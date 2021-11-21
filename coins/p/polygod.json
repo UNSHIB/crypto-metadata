@@ -1,0 +1,24 @@
+{
+    "id": "polygod",
+    "symbol": "gull",
+    "name": "PolyGod",
+    "platforms": {
+        "binance-smart-chain": "0xca830317146bfdde71e7c0b880e2ec1f66e273ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyGod is a virtual game based on the blockchain allowing players to battle each other in an epic PVP conquest fight to triumph over the land riches."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca830317146bfdde71e7c0b880e2ec1f66e273ee",
+    "url": "https://polygod.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xca830317146BfdDE71e7C0B880e2ec1f66E273EE"
+    ],
+    "twitter": "polygodio",
+    "telegram": "PolyGod",
+    "reddit": "PolyGodio/",
+    "github_org": "georges98"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "salary",
+    "symbol": "slr",
+    "name": "Salary",
+    "platforms": {
+        "binance-smart-chain": "0xc24796458fbea043780eea59ebba4ad40e87c29b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SALARY is a project designed to be the path to the financial freedom \r\nSALARY was built with purpose to build the best-dcentralized technology available to the world while building mass adoption of cryptocurrency and making an equal impact on humanity at the same time.\r\nSALARY is a deflationary project designed with a goal to give investors holders Passive Income every day \r\nHolders of SLR will earn \r\n 7% reward of every buy/sell transaction in USDT \r\n7% reward of every buy/sell transaction in BNB\r\n7 % reward of every buy/sell transaction in ETH\r\nWhich makes it 21% in rewards for SLR holders of every transaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc24796458fbea043780eea59ebba4ad40e87c29b",
+    "url": "https://cryptosalary.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xc24796458fbea043780eea59ebba4ad40e87c29b"
+    ],
+    "twitter": "crypto_salary",
+    "telegram": "SalaryEN",
+    "reddit": "CryptoSalary/",
+    "github_org": "SalaryOfficial"
+}

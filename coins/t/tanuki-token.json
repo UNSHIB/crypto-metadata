@@ -1,0 +1,22 @@
+{
+    "id": "tanuki-token",
+    "symbol": "tanuki",
+    "name": "Tanuki Token",
+    "platforms": {
+        "binance-smart-chain": "0x9958e4c4def1c596e5d9ace46f1bb9828768c32c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tanuki aims to bring 8% BUSD to all our holders based on volume. The tanuki is \"mischievous and jolly, masters of disguise and shapeshifting but somewhat gullible and absentminded.\" We love the Tanuki, as it perfectly represents not just our community, but the wider crypto community in general. We look at the tanuki for guidance at the beginning, as being a cute dog token with a unique animal is great, but we have further ambitions. We want to create an ecosystem of AI-based smart contracts, focusing on \"Auto-tainment\" or AI-generated entertainment along with AI-generated assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9958e4c4def1c596e5d9ace46f1bb9828768c32c",
+    "url": "https://tanukitoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9958e4c4def1c596e5d9ace46f1bb9828768c32c"
+    ],
+    "twitter": "TanukiTokenBSC",
+    "telegram": "TeamTanukiToken"
+}

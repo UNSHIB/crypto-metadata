@@ -1,0 +1,23 @@
+{
+    "id": "dogevillage",
+    "symbol": "dogev",
+    "name": "DogeVillage",
+    "platforms": {
+        "binance-smart-chain": "0x52ad40132cbdb1446b66b1198fcf68d602127114"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogeVillage (DogeV) is 100% community driven token where the community holds the power to decide everything via polls. Holders earn passive DOGE income. The coin was launched on 12 November 14:15 UTC. Total of 100 Billion tokens in suppy. On every buy/sell, there's 14% tax. 2% goes to Liquidity, 6% to Marketing/Buyback, 3% Rewards to holders, 1% to Village Healthcare and 2% to Game Development/Dev team. Three phase extensive roadmap with exclusive marketing and hype to reach a goal of100m in marketcap. Our LP is locked for a minimum of 3 months and would be extended at a milestone voted by the community/DogeVillage tourists. Building a Village definitely requires a solid team. DogeVillage has very active team members with a caring dev who only puts the community first. They have been KYC verified with Pinksale And Contract has been audited by InterFi. Mr Dave is video doxxed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x52ad40132cbdb1446b66b1198fcf68d602127114",
+    "url": "https://dogevillage.live/",
+    "explorers": [
+        "https://bscscan.com/token/0x52aD40132cBdB1446b66b1198fcf68D602127114",
+        "https://bscscan.com/token/0x52ad40132cbdb1446b66b1198fcf68d602127114"
+    ],
+    "twitter": "dogevillage_bsc",
+    "telegram": "DogeVillage"
+}

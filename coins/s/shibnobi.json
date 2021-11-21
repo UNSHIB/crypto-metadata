@@ -1,0 +1,24 @@
+{
+    "id": "shibnobi",
+    "symbol": "shinja",
+    "name": "Shibnobi",
+    "platforms": {
+        "ethereum": "0xab167e816e4d76089119900e941befdfa37d6b32"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHIBNOBI is a community-driven token / platform that wants to develop a cross-chain token swap for the next generation of investors and make crypto simple and safe for everyone. As stated in our whitepaper, we are developing a token swap that will work between ETH, BSC, and the Polygon networks. SHIBNOBI\u2019s vision is to trading easy for everyone, thus creating opportunities for wealth for everyone. To achieve this, SHIBNOBI plans to develop its own ecosystem, including a token swap and smart wallet. SHIBNOBI is currently in phase 1 of 4 in its roadmap. It further plans to launch a marketing campaign on Telegram and Twitter to raise awareness and reach 100,000 holders. That will go hand in hand with launching parts of our ecosystem. In our final stage, SHIBNOBI has something special planned for our next phase of development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xab167e816e4d76089119900e941befdfa37d6b32",
+    "url": "https://shibnobi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xab167e816e4d76089119900e941befdfa37d6b32",
+        "https://ethplorer.io/address/0xab167e816e4d76089119900e941befdfa37d6b32"
+    ],
+    "twitter": "Shib_nobi",
+    "telegram": "ShibnobiCommunity",
+    "reddit": "Shibnobi/"
+}

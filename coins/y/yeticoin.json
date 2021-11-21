@@ -1,0 +1,23 @@
+{
+    "id": "yeticoin",
+    "symbol": "yetic",
+    "name": "YetiCoin",
+    "platforms": {
+        "ethereum": "0xdf96bde075d59e9143b325c75af38e208c986e6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are a coin that is passionate about Crypto and Fitness. We are looking to promote and sponsor youth sports and activities and then be able to host our very own Youth Sports camps for kids to attend free."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf96bde075d59e9143b325c75af38e208c986e6f",
+    "url": "https://yeticoineth.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdf96bde075d59e9143b325c75af38e208c986e6f",
+        "https://ethplorer.io/address/0xdf96bde075d59e9143b325c75af38e208c986e6f"
+    ],
+    "twitter": "YetiCoinEth",
+    "telegram": "yeticoineth"
+}

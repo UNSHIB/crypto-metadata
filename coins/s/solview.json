@@ -1,0 +1,22 @@
+{
+    "id": "solview",
+    "symbol": "solv",
+    "name": "Solview",
+    "platforms": {
+        "solana": "7q3AdgKuMeDRnjaMQs7ppXjaw4HUxjsdyMrrfiSZraiN"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solview is a platform with its very own token (SOLV) that enables you to monitor trading Solana tokens in real-time and analyze a project during and after its launch."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "7q3AdgKuMeDRnjaMQs7ppXjaw4HUxjsdyMrrfiSZraiN",
+    "url": "https://solview.app/",
+    "explorers": [
+        "https://solscan.io/token/7q3AdgKuMeDRnjaMQs7ppXjaw4HUxjsdyMrrfiSZraiN"
+    ],
+    "twitter": "Solviewapp",
+    "telegram": "solviewofficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ecomverse-finance",
+    "symbol": "ecov",
+    "name": "EcomVerse Finance",
+    "platforms": {
+        "binance-smart-chain": "0x2c002a7058053bd0eebc82b43c531e23e2ad9bef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ecomverse Finance is aims to built a secured & freed marketplace from tyrant's monopoly. Where users can sell or purchase with cryptocurrencies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2c002a7058053bd0eebc82b43c531e23e2ad9bef",
+    "url": "https://ecomverse.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x2C002A7058053bD0eEBC82B43C531E23E2aD9bEF",
+        "https://bscscan.com/token/0x2c002a7058053bd0eebc82b43c531e23e2ad9bef"
+    ],
+    "twitter": "ecomverse",
+    "telegram": "ecomversefinance"
+}

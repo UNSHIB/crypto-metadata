@@ -1,0 +1,24 @@
+{
+    "id": "firebird-finance",
+    "symbol": "hope",
+    "name": "Firebird.Finance",
+    "platforms": {
+        "polygon-pos": "0xd78c475133731cd54dadcb430f7aae4f03c1e660"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Firebird Finance is a cutting edge new DeFi platform built on the Polygon and BSC and KCC blockchains, designed to help traders and yield farmers maximize their earnings and optimize the DeFi user experience. An exchange, yield aggregator, and vault platform all rolled into one."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd78c475133731cd54dadcb430f7aae4f03c1e660",
+    "url": "https://firebird.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xd78C475133731CD54daDCb430F7aAE4F03C1E660",
+        "https://polygonscan.com/token/0xd78c475133731cd54dadcb430f7aae4f03c1e660"
+    ],
+    "twitter": "FinanceFirebird",
+    "telegram": "firebirdfinance",
+    "github_org": "firebird-finance"
+}

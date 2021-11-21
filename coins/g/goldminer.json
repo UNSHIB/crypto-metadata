@@ -1,0 +1,24 @@
+{
+    "id": "goldminer",
+    "symbol": "gm",
+    "name": "GoldMiner",
+    "platforms": {
+        "binance-smart-chain": "0xe2604c9561d490624aa35e156e65e590eb749519"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GoldMiner is a play-to-earn Third-person shooter gold-playing game. The user's goal is to increase the mining hit rate and equip the character with a unique NFTs to help the character increase the game output. Combine DeFi, collectibles and your own personality."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2604c9561d490624aa35e156e65e590eb749519",
+    "url": "https://goldminer.games/",
+    "explorers": [
+        "https://bscscan.com/token/0xe2604C9561D490624AA35e156e65e590eB749519",
+        "https://bscscan.com/token/0xe2604c9561d490624aa35e156e65e590eb749519"
+    ],
+    "twitter": "DeFiGoldMiner",
+    "telegram": "GoldMiner_Game",
+    "github_org": "GoldMinerGames"
+}

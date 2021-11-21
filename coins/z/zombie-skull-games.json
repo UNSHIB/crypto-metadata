@@ -1,0 +1,22 @@
+{
+    "id": "zombie-skull-games",
+    "symbol": "zskull",
+    "name": "Zombie Skull Games",
+    "platforms": {
+        "binance-smart-chain": "0x59604e3c66c3cf25c4e51d4e84631abf41900762"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The PlayToEarn trends is an emerging phenomenon in the gaming and crypto industry where players of NFT games get to collect several mouthwatering rewards while playing the game. ZombieSkull is an absolutely strategic game where each player can enjoy not only a realistic game, but also earn $ZSKULL tokens and collect unique NFTs, which they can later sell on marketplaces."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x59604e3c66c3cf25c4e51d4e84631abf41900762",
+    "url": "https://zombieskull.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x59604e3C66C3cF25C4e51D4E84631abF41900762"
+    ],
+    "twitter": "ZombieSkullBSC",
+    "telegram": "zombieskullGames"
+}

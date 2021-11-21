@@ -1,0 +1,24 @@
+{
+    "id": "scientia",
+    "symbol": "scie",
+    "name": "Scientia",
+    "platforms": {
+        "binance-smart-chain": "0x6af2f57f61cec0883c71f3175774ebeb290a10e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SCIENTIA is a token that aims to support Science and return the rewards to the SCIENTIA Community.  The ultimate goal is to establish a trust owned by the SCIENTIA Community that will revolutionize Science, its funding and the way the economy interacts with it.\r\n\r\nIt will support basic research in academia as well as new research-oriented companies. Uniquely, it will participate in research it funded through licence returns and by investing in Science and Technology Start-Ups and companies. These returns will be enjoyed by the SCIENTIA Community long-term. SCIENTIA will democratize Science and spread the returns to the SCIENTIA Community using blockchain technology.\r\n\r\nTo attract as much funding as possible for its endeavours, SCIENTIA has a unique feature: Within 314 days it will rise to 314,159 $. Guaranteed due to negative rebasing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6af2f57f61cec0883c71f3175774ebeb290a10e6",
+    "url": "https://www.scientiatoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6AF2f57f61Cec0883C71F3175774EBeb290a10e6",
+        "https://bscscan.com/token/0x6af2f57f61cec0883c71f3175774ebeb290a10e6"
+    ],
+    "twitter": "ScientiaToken",
+    "telegram": "SCIENTIAGROUP",
+    "reddit": "SCIENTIA_/"
+}

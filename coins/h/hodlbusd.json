@@ -1,0 +1,24 @@
+{
+    "id": "hodlbusd",
+    "symbol": "hbusd",
+    "name": "HodlBUSD",
+    "platforms": {
+        "binance-smart-chain": "0x1b5787c6074daea9c7eb4e76f9d9e9d376e1988a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HodlBUSD is the ultimate busd rewards coin. It comes with a ready made beautiful dapp that has never before seen on BSC network. The rewards are sent automatically to your wallet so there is no need to connect to unnecessary websites. HodlBUSD is one of many coins brought to you by HodlGroup. The coin was launched on November 12 and has a total supply of 1 quadrillion. There was 60% to presale and lp, 30% private sale, 5% marketing and 5% to airdrops. The tokenomics are as followed: On buys there is 6% rewards, 4.5% marketing and 1.5$ LP. On sells there is 8% rewards, 6% marketing and 2% LP. The team is located in Canada, Germany and Vietnam. Gill is co-owner of HodlBUSD and is responsible for the marketing and promotions. Alexi is the lead graphics designer and is in charge of all multimedia including posters and videos while Ryu is the dev in charge of the contract. \r\n\r\nThe system is fully automated and doesn't add minimal gas fees proportional to value transferred. The number of holders processed through each transaction is dynamic and based on transaction size. Holders will receive dividends from the queue based on their position in the array. It's a fair system, fully automated. The more you hold the more you will receive. \r\n\r\nAnti-Dump Logic Price protection features such as max tx on sells are included. Any transaction selling more than 0.1% of total supply will be rejected. This prevents massive one time sells that drastically alter the token price. This is to protect the investor.\r\n\r\nDecentralized finance is a game changing technology that is poised to bring about a financial revolution. HodlBUSD helps its investors with complete passive income. The coin will also include a staking vault that further helps with passive income."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1b5787c6074daea9c7eb4e76f9d9e9d376e1988a",
+    "url": "https://hodlbusd.one/",
+    "explorers": [
+        "https://bscscan.com/token/0x1b5787c6074daea9c7eb4e76f9d9e9d376e1988a"
+    ],
+    "twitter": "HodlCompanies",
+    "telegram": "HodlBUSD",
+    "reddit": "HodlBUSD/",
+    "github_org": "hbusdtoken"
+}

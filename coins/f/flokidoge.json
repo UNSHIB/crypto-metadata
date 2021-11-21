@@ -1,0 +1,24 @@
+{
+    "id": "flokidoge",
+    "symbol": "$floge",
+    "name": "Flokidoge",
+    "platforms": {
+        "binance-smart-chain": "0x46667033e3e705430965d692038d884ff5f58c46"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Welcome to FlokiDoge! The cutest meme token to launch in 2021 which is inspired by Elon Musk\u2019s dog named Floki and his favorite meme coin of all time, Doge. Early in November Elon Musk suggested Floki  become the CEO of Doge! Floki is so young and we are excited to see him grow up, and one day become the CEO. FlokiDoge \u2013 the two are meant to be!\r\nOne thing the crypto space is currently missing is an online marketplace for freelance services. Similar to Fiverr, but payments in crypto and better. We are going to develop this marketplace and name it Floge. We plan to use proceeds from transactions to buyback on the FlokiDoge chart, and further develop this marketplace. We will increase exposure of those account owners who are able to get good ratings, and those with bad ratings will have their accounts disabled. This is to ensure safety in our eco-system.\r\nServices to be provided on Floge:\r\n\r\n-  Graphic Designers, Shillers, Voice/Text chat moderators in various languages, Translators, Social Media Managers, Smart Contract Developers, Youtubers, Audit Services, Website Developers, and much more! You name the service, you will be able to find it on Floge.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x46667033e3e705430965d692038d884ff5f58c46",
+    "url": "https://flokidoge.live/",
+    "explorers": [
+        "https://bscscan.com/token/0x46667033E3e705430965D692038d884Ff5f58c46",
+        "https://bscscan.com/token/0x46667033e3e705430965d692038d884ff5f58c46"
+    ],
+    "twitter": "FlokiDoge_ ",
+    "telegram": "FlokiDogeChat ",
+    "reddit": "https://www.reddit.com"
+}

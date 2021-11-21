@@ -1,0 +1,23 @@
+{
+    "id": "quid-token",
+    "symbol": "quid",
+    "name": "Quid Token",
+    "platforms": {
+        "solana": "5xnRrqoyoLBixNwjVet6Xb2ZTyBSXhENyUWj4sqzRGrv"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QUID is an SPL token, Solana's equivalent of ERC-20. Its raison d'\u00eatre is to be the most liquid digital asset on the Solana blockchain second only to SOL itself.\r\n\r\nTo achieve this end, all initial liquidity provided by the Quid Token Foundation (the \"\"Foundation\"\") in any of QUID's liquidity pools will be locked in perpetuity. In addition, all subsequent liquidity fees earned by the Foundation in USDC, SOL and any other non-QUID asset will continually be funnelled back into QUID's liquidity pools. In essence, QUID's liquidity will increase with every trade, whether QUID trades up, down, or sideways.\r\n\r\nQUID\u2019s perpetually increasing liquidity makes QUID an ideal store of value for hodlers and the ultimate utility and social token for devs looking to adopt a native currency for their DeFi and other decentralised projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "5xnRrqoyoLBixNwjVet6Xb2ZTyBSXhENyUWj4sqzRGrv",
+    "url": "https://quidtoken.com",
+    "explorers": [
+        "https://solscan.io/token/5xnRrqoyoLBixNwjVet6Xb2ZTyBSXhENyUWj4sqzRGrv"
+    ],
+    "twitter": "quidtoken",
+    "telegram": "quidtoken",
+    "reddit": "quidtoken/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "flokibro",
+    "symbol": "fbro",
+    "name": "FlokiBro",
+    "platforms": {
+        "binance-smart-chain": "0x32aff736f1e855f0dde6872a3f072b85315ff431"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FlokiBro \u2013 The redemption spaceship In a world full of anxiety, I was born to create a bridge for the people who missed Floki at early, to make them achieve redemption and get financial freedom. Can I make it happen? Yes, because I am a FlokiBro."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32aff736f1e855f0dde6872a3f072b85315ff431",
+    "url": "https://flokibro.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x32AFf736F1E855f0ddE6872A3F072B85315Ff431",
+        "https://bscscan.com/token/0x32aff736f1e855f0dde6872a3f072b85315ff431"
+    ],
+    "twitter": "FlokiBro",
+    "telegram": "flokibro"
+}

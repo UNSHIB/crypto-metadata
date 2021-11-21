@@ -1,0 +1,22 @@
+{
+    "id": "selfbar",
+    "symbol": "sbar",
+    "name": "Selfbar",
+    "platforms": {
+        "polygon-pos": "0x6c526368e1185e4cd8a50468eb3429c5aeb674f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SelfBar supervise the manufacturing and distribution of  cashless and selfservice drink dispensers.  \r\nThose machines are placed in retail spaces, events, stadiums, etc....  Any place where high drink volumes must be served quickly.\r\n\r\nTo operate the machines, consumers charge drink credits on a card.   Cards can be either charged using Fiat currencies or using our SBAR utility token.  \r\n\r\nThe Sbar token serves several purpose :\r\n(1) as a utility token it can be exchanged for drink credits.\r\n(2) as a payment token, it can be used to pay the drink industry actors for their services.\r\n(3) as an audit trail, to guarantee security and transparency on SelfBar machines operations."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c526368e1185e4cd8a50468eb3429c5aeb674f3",
+    "url": "https://selfbar.be/",
+    "explorers": [
+        "https://polygonscan.com/token/0x6c526368e1185e4cd8a50468eb3429c5aeb674f3"
+    ],
+    "twitter": "SelfbarBelgium",
+    "telegram": "SBAR_Token"
+}

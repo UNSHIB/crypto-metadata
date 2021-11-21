@@ -1,0 +1,25 @@
+{
+    "id": "hyperjump",
+    "symbol": "jump",
+    "name": "HyperJump",
+    "platforms": {
+        "fantom": "0x78de9326792ce1d6eca0c978753c6953cdeedd73",
+        "binance-smart-chain": "0x130025ee738a66e691e6a7a62381cb33c6d9ae83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HyperJump is a project on the Binance Smart Chain and Fantom / Opera Chain dedicated to eGaming and making DeFi fun and easy to use. The HyperJump family of dApps include our alpha game release, a yield farm, single asset staking pools with dual staking rewards, vaults, a contract revoke tool and an AMM (Automated Market Maker)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78de9326792ce1d6eca0c978753c6953cdeedd73",
+    "url": "https://hyperjump.fi",
+    "explorers": [
+        "https://ftmscan.com/token/0x78DE9326792ce1d6eCA0c978753c6953Cdeedd73",
+        "https://bscscan.com/token/0x130025ee738a66e691e6a7a62381cb33c6d9ae83"
+    ],
+    "twitter": "Hyperjump_fi",
+    "telegram": "hyperjump_fi",
+    "github_org": "HyperJump-DeFi"
+}

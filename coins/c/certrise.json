@@ -1,0 +1,22 @@
+{
+    "id": "certrise",
+    "symbol": "cert",
+    "name": "CertRise",
+    "platforms": {
+        "binance-smart-chain": "0xdf4cf10f245b3442098e6ce7a5b800f030897ffa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CertRise is formally known as Dogs United Token is in the process of its full rebrand after further discussions between both internal teams and community. By combining our passions in art, utility and safety we are launching safe projects for our partners in the BSC space, with security and joined utility. CertRise will also bring fun to the Defi space through NFT Lottery on a weekly or monthly basis. Depending on the scale of the prize."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf4cf10f245b3442098e6ce7a5b800f030897ffa",
+    "url": "https://certrise.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xdf4cf10f245b3442098e6ce7a5b800f030897ffa"
+    ],
+    "twitter": "CertRiseToken",
+    "telegram": "CertRise"
+}

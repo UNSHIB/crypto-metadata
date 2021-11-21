@@ -1,0 +1,25 @@
+{
+    "id": "keys-token",
+    "symbol": "keys",
+    "name": "Keys Token",
+    "platforms": {
+        "ethereum": "0xe0a189c975e4928222978a74517442239a0b86ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Imagine a world where buying real estate (and countless other luxury assets) is as easy as receiving a key. KEYS will transform the way real estate and luxury assets are exchanged by increasing speed and transparency while reducing costs and friction through the revolutionary product ecosystem that will be built around the token.\r\n\r\nOur mission is to create revolutionary blockchain products built around the exchange of luxury assets in both the metaverse and physical world exclusive to KEYS Token holders. By holding KEYS you will be able to: buy and sell real estate and luxury assets in both the\r\nmetaverse and physical world, gain access to exclusive investment opportunities and events, and become part of a powerful network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0a189c975e4928222978a74517442239a0b86ff",
+    "url": "https://www.keystoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe0a189C975e4928222978A74517442239a0b86ff",
+        "https://ethplorer.io/address/0xe0a189c975e4928222978a74517442239a0b86ff"
+    ],
+    "twitter": "keys_token",
+    "telegram": "OfficialKeysToken",
+    "reddit": "keystokenofficial/",
+    "github_org": "official-keys-token"
+}

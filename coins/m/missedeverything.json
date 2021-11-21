@@ -1,0 +1,25 @@
+{
+    "id": "missedeverything",
+    "symbol": "ME",
+    "name": "MissedEverything",
+    "platforms": {
+        "ethereum": "0xb51feac0cd237084760c24e78aaba5233ce09491"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Missed Everything was created to give people who missed on the big gainers, a \"second chance\"."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb51feac0cd237084760c24e78aaba5233ce09491",
+    "url": "http://missedeverything.com",
+    "explorers": [
+        "https://etherscan.io/token/0xb51feac0cd237084760c24e78aaba5233ce09491",
+        "https://ethplorer.io/address/0xb51feac0cd237084760c24e78aaba5233ce09491"
+    ],
+    "twitter": "MEtokenETH",
+    "telegram": "MissedEverythingETH",
+    "reddit": "missedeverything/",
+    "github_org": "missedeverythingtoken"
+}

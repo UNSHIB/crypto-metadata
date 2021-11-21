@@ -1,0 +1,23 @@
+{
+    "id": "degen-ape-club",
+    "symbol": "dac",
+    "name": "Degen Ape Club",
+    "platforms": {
+        "ethereum": "0xf85f1872d4f6002e721a835d3c3aeec194db2089"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Degen Ape Club (DAC) is an ERC20 token with many extras. Think of super rare NFTs ready to be minted and traded. But DAC is also committed to animal welfare and tries to support endangered animals as well as animals that have been mistreated and to enable them to live a life worth living. Degen Ape Clubs are strongly rewarded for long- term gains with 1% redistribution on every transaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf85f1872d4f6002e721a835d3c3aeec194db2089",
+    "url": "https://degenapeclub.world",
+    "explorers": [
+        "https://etherscan.io/token/0xf85f1872d4f6002e721a835d3c3aeec194db2089",
+        "https://ethplorer.io/address/0xf85f1872d4f6002e721a835d3c3aeec194db2089"
+    ],
+    "twitter": "degen_ape_club",
+    "telegram": "DACETH"
+}

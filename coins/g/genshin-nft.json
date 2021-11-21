@@ -1,0 +1,22 @@
+{
+    "id": "genshin-nft",
+    "symbol": "genshin",
+    "name": "Genshin NFT",
+    "platforms": {
+        "binance-smart-chain": "0xe512a26cccf868ccc6d4f8e9a8729a365c695462"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GENSHIN is not a meme coin. IT\u2019S the Metaverse. A new cryptocurrency birthed by fans & members of the Shiba Inu community. Genshin NFT is named after Elon Musk\u2019s very own Shiba Inu. GENSHIN is working on three flagship utility projects: an NFT gaming metaverse known as GENSHIN, an NFT and merchandise marketplace known as GenshinSWAP, an NFT IDO marketplace known as GenshinIDO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe512a26cccf868ccc6d4f8e9a8729a365c695462",
+    "url": "https://www.genshinnft.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe512a26cccf868ccc6d4f8e9a8729a365c695462"
+    ],
+    "twitter": "GenshinNFT",
+    "telegram": "GENSHIN_OFFICIAL"
+}

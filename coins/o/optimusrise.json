@@ -1,0 +1,22 @@
+{
+    "id": "optimusrise",
+    "symbol": "ore",
+    "name": "OptimusRise",
+    "platforms": {
+        "binance-smart-chain": "0x8c7f66522f413e7589f566c8e0dd2eac274ccae4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OptimusRise was made with the best tokenomics to ensure a nice price increase overtime on the binance smart chain with its unique auto liquidity burn and auto buybacks. It also features unruggable manual burns and manual buy backs hard coded in the smart contract. Hidden gaming utility will be announced after a few weeks when live trading begins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c7f66522f413e7589f566c8e0dd2eac274ccae4",
+    "url": "https://optimusrise.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8c7F66522f413e7589F566C8E0Dd2EAc274cCae4"
+    ],
+    "twitter": "OptimusRise",
+    "telegram": "optimusrise"
+}

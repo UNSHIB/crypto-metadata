@@ -1,0 +1,22 @@
+{
+    "id": "greyhound",
+    "symbol": "greyhound",
+    "name": "Greyhound",
+    "platforms": {
+        "xrp": "rJWBaKCpQw47vF4rr7XUNqr34i4CoXqhKJ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Greyhound is a community-driven project using a deflationary token operating on the low-cost, high-speed XRPL. Challenging riddles, contests, and other events drive social engagement while rewarding the community with tokens and token burn events. The supply shrinks, and the community grows. Greyhound has an eye on changing the focus of the burgeoning NFT realm with exciting new innovations that promise to expand the paradigm of the XRPL."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "rJWBaKCpQw47vF4rr7XUNqr34i4CoXqhKJ",
+    "url": "https://greyhoundcoin.net/",
+    "explorers": [
+        "https://xrpscan.com/account/rJWBaKCpQw47vF4rr7XUNqr34i4CoXqhKJ"
+    ],
+    "twitter": "XrpGreyhound",
+    "telegram": "GreyhoundCoinXRPL"
+}

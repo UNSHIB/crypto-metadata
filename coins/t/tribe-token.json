@@ -1,0 +1,23 @@
+{
+    "id": "tribe-token",
+    "symbol": "tribex",
+    "name": "Tribe Token",
+    "platforms": {
+        "binance-smart-chain": "0xc34c85a3d7a84212b6234146773f7939a931a8af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first launchpad of Non-Fungible Tokens (NFTs) validated by celebrities on the Binance Smart Chain (BSC)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc34c85a3d7a84212b6234146773f7939a931a8af",
+    "url": "https://tribetoken.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xc34c85a3d7a84212b6234146773f7939a931a8af"
+    ],
+    "twitter": "tribebsc",
+    "telegram": "tribebsc",
+    "github_org": "TribeBSC"
+}

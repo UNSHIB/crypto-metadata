@@ -1,0 +1,23 @@
+{
+    "id": "have-fun",
+    "symbol": "hf",
+    "name": "Have Fun",
+    "platforms": {
+        "ethereum": "0x2681576aee6486e2f891763a960b71c89bd2806d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Have Fun will be a defi ecosystem with different things to offer. By recording feedback on the platform, users will be able to collaborate on tasks that have been verified to yield fun.  PoF (proof of fun) will be tied into everything from the $HF Dex, which will reward users for making fun trades to the $HF NFT VR gallery and Marketplace where users will be able to, through the $HF Dao and by the power of PoF, decide which artwork causes a verifiable fun feedback."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2681576aee6486e2f891763a960b71c89bd2806d",
+    "url": "https://havefuntoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2681576aee6486e2f891763a960b71c89bd2806d",
+        "https://ethplorer.io/address/0x2681576aee6486e2f891763a960b71c89bd2806d"
+    ],
+    "twitter": "HaveFunETH",
+    "telegram": "havefuntoken"
+}

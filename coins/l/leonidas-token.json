@@ -1,0 +1,21 @@
+{
+    "id": "leonidas-token",
+    "symbol": "leonidas",
+    "name": "Leonidas Token",
+    "platforms": {
+        "solana": "7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aim to build a strong, and engaged online community. Our vision is to have a platform people use to send NFT greeting cards to their loved ones. This is our shot at getting the dinosaurs onboard. We need our community\u2019s support to get there."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ",
+    "url": "https://www.leonidastoken.com/",
+    "explorers": [
+        "https://solscan.io/token/7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ"
+    ],
+    "twitter": "leonidas_token"
+}

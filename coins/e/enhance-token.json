@@ -1,0 +1,23 @@
+{
+    "id": "enhance-token",
+    "symbol": "enhance",
+    "name": "Enhance Token",
+    "platforms": {
+        "binance-smart-chain": "0xfa136f0d0b4685f2dd3b93566bd8a2e0d1b4d6e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Enhance Token is a Dual Tokenomics BEP-20 automatic deployment token that rewards holders with 11% Safemoon. Enhance Token's tokenomics earn our holders maximum Safemoon rewards. Reward system is triggered if there is sufficient volume (buy + sell activity) to cover gas fees and allow the swap and airdrop of the rewards. In short, Enhance is the perfect companion to SafeMoon. Buy and hold Enhance to earn SafeMoon, automatically into your wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa136f0d0b4685f2dd3b93566bd8a2e0d1b4d6e7",
+    "url": "https://enhancetoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xfa136f0d0b4685f2dd3b93566bd8a2e0d1b4d6e7"
+    ],
+    "twitter": "EnhanceToken",
+    "telegram": "enhanceofficial",
+    "reddit": "EnhanceToken/"
+}

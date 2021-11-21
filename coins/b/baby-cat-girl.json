@@ -1,0 +1,25 @@
+{
+    "id": "baby-cat-girl",
+    "symbol": "bbycat",
+    "name": "Baby Cat Girl",
+    "platforms": {
+        "ethereum": "0x06e04bbfa6a53c57ebfc17e1aeed8e2686640ecd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$BBYCAT is here to present the perfect mix of Play 2 Earn Gaming, and high-quality storytelling through collectible NFT\u2019s.\r\nWe\u2019ll match each and every NFT to actual characters both from our anime, and video games. Starting with our beta launch and pilot episode, ending with an NFT collection of in-game playable characters!\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x06e04bbfa6a53c57ebfc17e1aeed8e2686640ecd",
+    "url": "https://babycatgirl.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x06E04bBfA6a53c57EbfC17e1AEed8E2686640eCd",
+        "https://ethplorer.io/address/0x06E04bBfA6a53c57EbfC17e1AEed8E2686640eCd",
+        "https://etherscan.io/token/0x06e04bbfa6a53c57ebfc17e1aeed8e2686640ecd",
+        "https://ethplorer.io/address/0x06e04bbfa6a53c57ebfc17e1aeed8e2686640ecd"
+    ],
+    "twitter": "BabyCatGirlETH",
+    "telegram": "BabycatgirlMETAVERSE"
+}

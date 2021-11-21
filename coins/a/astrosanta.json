@@ -1,0 +1,22 @@
+{
+    "id": "astrosanta",
+    "symbol": "asa",
+    "name": "AstroSanta",
+    "platforms": {
+        "binance-smart-chain": "0xf008b870e673a14564cfcc2aeaa4ed3cf132b9f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AstroSanta - Auto-generating liquidity protocol / Static farming - Play2earn - NFT\r\n\r\nAstroSanta combines the power of reasonable buy and sell taxes for the BSC space! \r\nHaving portions of each transaction added to liquidity ensures less price volatility whereas the manual buyback is used to create bullish momentum or defend key support areas.\r\n\r\nHolders earn passive rewards through static reflection as they watch their balance of AstroSanta grow indefinitely. Our tokenomics incentivize holding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf008b870e673a14564cfcc2aeaa4ed3cf132b9f4",
+    "url": "https://astrosanta.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf008b870e673a14564cfcc2aeaa4ed3cf132b9f4"
+    ],
+    "twitter": "AstroSantaBsc",
+    "telegram": "astrosanta"
+}

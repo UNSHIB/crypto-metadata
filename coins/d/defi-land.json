@@ -1,0 +1,17 @@
+{
+    "id": "defi-land",
+    "symbol": "dfl",
+    "name": "DeFi Land",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi Land is a multi-chain agriculture-simulation web-game created to gamify decentralized finance. The game will have all the features that traditional platforms have, but it will be gathered all in one place. DeFi Land gamifies decentralized finance by turning investment activities into games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://defiland.app/",
+    "explorers": [],
+    "twitter": "DeFi_Land",
+    "telegram": "defiland_official"
+}

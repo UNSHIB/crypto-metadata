@@ -1,0 +1,22 @@
+{
+    "id": "zoints",
+    "symbol": "zee",
+    "name": "Zoints",
+    "platforms": {
+        "solana": "ZEExktbqMM5ZMS569pCNbzky92KeEmiFeVwR3exfBNn"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zoints is a social and community network that utilizes the Solana blockchain to enable \u201cPatronage 2.0\u201d where Creators, Communities, AND Fans can earn recurring subscription rewards via a novel split staking mechanism."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "ZEExktbqMM5ZMS569pCNbzky92KeEmiFeVwR3exfBNn",
+    "url": "https://zoints.com",
+    "explorers": [
+        "https://solscan.io/token/ZEExktbqMM5ZMS569pCNbzky92KeEmiFeVwR3exfBNn"
+    ],
+    "twitter": "zoints2",
+    "github_org": "Zoints"
+}

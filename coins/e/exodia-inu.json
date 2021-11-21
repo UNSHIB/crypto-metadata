@@ -1,0 +1,23 @@
+{
+    "id": "exodia-inu",
+    "symbol": "exodia",
+    "name": "Exodia Inu",
+    "platforms": {
+        "ethereum": "0x5645a66aa7594e0b5ca69c37323f1aa8a1baf37c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Exodia (\u30a8\u30af\u30be\u30c7\u30a3\u30a2) \u2013 Trade, earn, stake, borrow, leverage on Exodia\u2019s Spot Trading Decentralised Exchange (ExoDEX). An anime-themed DEX that is cooler and first of its kind. Exodia welcomes you to his \u201cForbidden\u201d Dex \u2013 ExoDex, with trading mechanisms that allow limit orders and stop orders turning the impossible to possible. Exodia allows users to obtain the \u201cWin Condition\u201d in DeFi \u2013 by using ExoDex, it allows users to get into any token project with insane speed and precision through smart auto slippage and gwei settings."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5645a66aa7594e0b5ca69c37323f1aa8a1baf37c",
+    "url": "https://exodiainu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5645A66AA7594E0b5ca69c37323f1Aa8a1BaF37c",
+        "https://ethplorer.io/address/0x5645A66AA7594E0b5ca69c37323f1Aa8a1BaF37c"
+    ],
+    "twitter": "ExodiaInuEth",
+    "telegram": "ExodiaInu"
+}

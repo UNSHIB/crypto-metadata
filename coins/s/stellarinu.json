@@ -1,0 +1,25 @@
+{
+    "id": "stellarinu",
+    "symbol": "stellarinu",
+    "name": "StellarInu",
+    "platforms": {
+        "ethereum": "0xfde57fee4bcca80485714bd640d6e5afe8ac4d66"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stellar Inu ($STELLARINU) is an utility Ethereum Mainnet token that triggers a tax rate of 10%, this tax will be used to do buybacks and burns, marketing, developing, and community giveaways. Measures have been integrated to the smart contract, ensuring a fair and safe token for the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfde57fee4bcca80485714bd640d6e5afe8ac4d66",
+    "url": "http://www.stellarinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfde57fee4bcca80485714bd640d6e5afe8ac4d66",
+        "https://ethplorer.io/address/0xfde57fee4bcca80485714bd640d6e5afe8ac4d66"
+    ],
+    "twitter": "StellarInuEth",
+    "telegram": "stellarinueth",
+    "reddit": "stellarinu/",
+    "github_org": "stellarinu"
+}

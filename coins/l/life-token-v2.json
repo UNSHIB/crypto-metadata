@@ -1,0 +1,22 @@
+{
+    "id": "life-token-v2",
+    "symbol": "ltnv2",
+    "name": "Life Token v2",
+    "platforms": {
+        "binance-smart-chain": "0x167e5455e4c978883b414e7f02c0147eec9a18e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Life Token is a charity-orientated token on the Binance Smart Chain. Our goal is to aid Suicide Prevention charities all over the world, to help save lives. We are a BNB-redistribution deflationary token, empowering the long term holders with a 18% BNB reward on each transaction.\r\n\r\nWe have clear goals: make sure that everyone in the world can afford mental health care, and health-care in general. We are pursuing those goals by establishing the world-first, free and completely online, mental healthcare platform, with real doctors and experts. In addition, we aim to take-over the health insurance and life insurance world in general, with our upcoming decentralized healthcare plan.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x167e5455e4c978883b414e7f02c0147eec9a18e9",
+    "url": "https://www.thelifetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x167e5455e4c978883b414e7f02c0147eec9a18e9"
+    ],
+    "twitter": "the_life_token",
+    "telegram": "LifeTokenTG"
+}

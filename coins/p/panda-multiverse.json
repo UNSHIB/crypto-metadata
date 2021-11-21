@@ -1,0 +1,22 @@
+{
+    "id": "panda-multiverse",
+    "symbol": "pndmlv",
+    "name": "Panda Multiverse",
+    "platforms": {
+        "binance-smart-chain": "0x9917d59e5ecd4bdeeda59f4ae16f9c43f4ede4bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The PandaMultiverse Token is our way of saying thank you to our amazing community, as well as to the most adorable creatures, the Pandas!\r\n\r\nOur token will reward NFT holders, and a portion of our taxes will be donated to a Panda charity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9917d59e5ecd4bdeeda59f4ae16f9c43f4ede4bf",
+    "url": "https://www.pandamultiversenft.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9917d59e5ecd4bdeeda59f4ae16f9c43f4ede4bf"
+    ],
+    "twitter": "MultiversePanda",
+    "telegram": "PandaMultiverse"
+}

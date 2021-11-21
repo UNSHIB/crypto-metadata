@@ -1,0 +1,22 @@
+{
+    "id": "centcex",
+    "symbol": "cenx",
+    "name": "Centcex",
+    "platforms": {
+        "binance-smart-chain": "0x739e81bcd49854d7bdf526302989f14a2e7994b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Centcex is designed to build advanced & user-friendly applications based on cryptocurrencies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x739e81bcd49854d7bdf526302989f14a2e7994b2",
+    "url": "https://centcex.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x739e81bcd49854d7bdf526302989f14a2e7994b2"
+    ],
+    "twitter": "centcex",
+    "telegram": "centcex"
+}

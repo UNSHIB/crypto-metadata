@@ -1,0 +1,25 @@
+{
+    "id": "axedao",
+    "symbol": "axe",
+    "name": "AxeDAO",
+    "platforms": {
+        "ethereum": "0x30ac8317dfb0ab4263cd8db1c4f10749911b126c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AxeDAO is a fork of OlympusDAO. When the great OHM has successfully helped its investors made profit, and become more stable, the opportunities for new investors are significantly low. AxeDAO understands the market trends, therefore can offers the new opportunity for new investors into this protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x30ac8317dfb0ab4263cd8db1c4f10749911b126c",
+    "url": "https://axedao.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x30AC8317DfB0ab4263CD8dB1C4F10749911B126C",
+        "https://ethplorer.io/address/0x30ac8317dfb0ab4263cd8db1c4f10749911b126c",
+        "https://etherscan.io/token/0x30ac8317dfb0ab4263cd8db1c4f10749911b126c"
+    ],
+    "twitter": "AxeDao",
+    "telegram": "Axe_Dao",
+    "github_org": "axedao"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "pokemonspace",
+    "symbol": "POS",
+    "name": "PokemonSpace",
+    "platforms": {
+        "ethereum": "0x8d77b51f3026f8e3eae5c352f8ae810c9e2a0923"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Pokemon Space is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain. POS is our main utility token that allows you to buy and sell NFTs and ASSETS in the Pokemon Space Metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d77b51f3026f8e3eae5c352f8ae810c9e2a0923",
+    "url": "https://www.pokemonspace.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8d77b51f3026f8e3eae5c352f8ae810c9e2a0923",
+        "https://ethplorer.io/address/0x8d77b51f3026f8e3eae5c352f8ae810c9e2a0923"
+    ],
+    "twitter": "PokemonSpaceOrg",
+    "telegram": "pokemonspace_official"
+}

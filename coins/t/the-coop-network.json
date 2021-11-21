@@ -1,0 +1,20 @@
+{
+    "id": "the-coop-network",
+    "symbol": "gmd",
+    "name": "The Coop Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "One Member, One V.\r\nThe beauty of a COOP as an enterprise is the real democratic governance model. Decision making within a COOP works through \u201cone member, one vote.\u201d This was, until now, rather difficult. Members had to assemble in person, after being notified by mail. A voting process could take months to reach its goal. In the economic environment of the 21st century such delays are counterproductive.\r\n\r\nThat\u2019s why our COOP uses Blockchain Technology for the governance process, adding real value to our enterprises."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://thecoopnetwork.io/",
+    "explorers": [
+        "https://explorer.thecoopnetwork.io/#/"
+    ],
+    "twitter": "thegeomadao",
+    "telegram": "geomachat",
+    "github_org": "CoopNetwork"
+}

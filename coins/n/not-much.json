@@ -1,0 +1,23 @@
+{
+    "id": "not-much",
+    "symbol": "nm",
+    "name": "Not Much",
+    "platforms": {
+        "ethereum": "0x822d139b661ea5613f46f6f309b6b7a5517c60a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What do you have to lose? Not much. What do you have to gain? A whole lot. NM is a memecoin that sits at the intersection of social media and blockchain technologies. The general idea is that the price of the token will reflect the organic propagation of the \"NM\" meme on social platforms. #NM"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x822d139b661ea5613f46f6f309b6b7a5517c60a7",
+    "url": "https://www.notmuch.tech",
+    "explorers": [
+        "https://etherscan.io/token/0x822d139b661ea5613f46f6f309b6b7a5517c60a7",
+        "https://ethplorer.io/address/0x822d139b661ea5613f46f6f309b6b7a5517c60a7"
+    ],
+    "twitter": "notmuchToken",
+    "telegram": "NotMuchToken"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "acala-token",
+    "symbol": "aca",
+    "name": "Acala Token",
+    "platforms": {
+        "polkadot": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ACA is the utility token that powers the DeFi hub of Polkadot."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://acala.network/",
+    "explorers": [],
+    "twitter": "AcalaNetwork",
+    "telegram": "acalaofficial",
+    "reddit": "AcalaNetwork/",
+    "github_org": "AcalaNetwork"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "kromatika",
+    "symbol": "krom",
+    "name": "Kromatika",
+    "platforms": {
+        "ethereum": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Next generation Trading on Decentralized Exchange.\r\n\r\nZERO Swap fees when trading.\r\nNO Front-Running Bots.\r\nNO Price Slipage.\r\nWhen placing trades on KROMatika, the user does not pay swap fee as on other DEXes, but pays service fee instead.\r\nThe service fee on Kromatika is FIXED, regardless of the amount swapped.\r\nThe service fee is paid in KROM tokens.\r\nKROM token allows for huge savings on the service fee, close to having a ZERO service fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+    "url": "https://kromatika.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+        "https://ethplorer.io/address/0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789"
+    ],
+    "twitter": "KromatikaFi",
+    "telegram": "kromatika_finance",
+    "reddit": "kromatika/",
+    "github_org": "Kromatika-Finance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "etherconnect",
+    "symbol": "ecc",
+    "name": "Etherconnect",
+    "platforms": {
+        "binance-smart-chain": "0x8d047f4f57a190c96c8b9704b39a1379e999d82b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Etherconnect is an open-source decentralized finance platform for a stable coin, staking, yield farming, and Defi Banking protocol. It is an algorithmic, autonomous interest rate protocol built for investors to unlock a universe of open futures of financial earnings. Etherconnect> is based in United Kingdom Registered Company and also registered in Estonia. The Etherconnect Ecosystem is designed to provide multiple opportunities & benefits for its investors, traders, and users to earn profit daily.\r\n\r\nThe The Etherconnect Community enhanced the crypto finance platform & merged the Defi protocol with the governance protocol. This will help us to find the independence of all desires, Etherconnect community of like-minded, freedom-loving individuals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d047f4f57a190c96c8b9704b39a1379e999d82b",
+    "url": "https://etherconnect.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x8d047f4f57a190c96c8b9704b39a1379e999d82b"
+    ],
+    "twitter": "Etherconnt",
+    "telegram": "etherconnectcommunity"
+}

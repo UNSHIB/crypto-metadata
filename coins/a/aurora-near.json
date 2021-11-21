@@ -1,0 +1,24 @@
+{
+    "id": "aurora-near",
+    "symbol": "aurora",
+    "name": "Aurora",
+    "platforms": {
+        "ethereum": "0xaaaaaa20d9e0e2461697782ef11675f668207961"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aurora is an EVM built on the NEAR Protocol, delivering a turn-key solution for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable and future-safe platform, with low transaction costs for their users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+    "url": "https://aurora.dev/",
+    "explorers": [
+        "https://etherscan.io/token/0xaaaaaa20d9e0e2461697782ef11675f668207961",
+        "https://ethplorer.io/address/0xaaaaaa20d9e0e2461697782ef11675f668207961"
+    ],
+    "twitter": "auroraisnear",
+    "telegram": "auroraisnear",
+    "github_org": "aurora-is-near"
+}

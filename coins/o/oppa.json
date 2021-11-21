@@ -1,0 +1,21 @@
+{
+    "id": "oppa",
+    "symbol": "oppa",
+    "name": "OPPA",
+    "platforms": {
+        "solana": "9K4uNquZjVSBBN6fBsp62gtYLropyAxAbdZC7D9XErih"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Oppa is a community token running on Solana which makes it less expensive to transact with. Oppa token will be served to reward the community and swap for the language exchange app"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "9K4uNquZjVSBBN6fBsp62gtYLropyAxAbdZC7D9XErih",
+    "url": "https://token.heyoppa.com/",
+    "explorers": [
+        "https://explorer.solana.com/address/9K4uNquZjVSBBN6fBsp62gtYLropyAxAbdZC7D9XErih"
+    ],
+    "twitter": "OppaNFT"
+}

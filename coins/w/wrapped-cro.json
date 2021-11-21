@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-cro",
+    "symbol": "wcro",
+    "name": "Wrapped CRO",
+    "platforms": {
+        "cronos": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens"
+    ],
+    "description": {
+        "en": "Wrapped ERC-20 version of CRO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+    "url": "https://crypto.com/",
+    "explorers": [
+        "https://cronos.crypto.org/explorer/tokens/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/token-transfers",
+        "https://cronos-explorer.crypto.org/token/0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"
+    ],
+    "twitter": "cryptocom",
+    "telegram": "CryptoComOfficial"
+}

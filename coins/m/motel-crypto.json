@@ -1,0 +1,22 @@
+{
+    "id": "motel-crypto",
+    "symbol": "motel",
+    "name": "Motel Crypto",
+    "platforms": {
+        "binance-smart-chain": "0x438baeb5fce83a4d96e6d3d8ea00726f04b426b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Payment and luxury access to Extraordinary Hotels And Hostels Across The Globe."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x438baeb5fce83a4d96e6d3d8ea00726f04b426b4",
+    "url": "https://motel-crypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x438BAeB5fce83a4D96e6D3d8eA00726f04B426B4"
+    ],
+    "twitter": "motelcrypto",
+    "telegram": "motelcrypto"
+}

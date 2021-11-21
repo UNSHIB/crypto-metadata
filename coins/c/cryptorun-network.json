@@ -1,0 +1,22 @@
+{
+    "id": "cryptorun-network",
+    "symbol": "crn",
+    "name": "Cryptorun Network",
+    "platforms": {
+        "binance-smart-chain": "0xbd16c4343fb5769a71983f3e131df9b1491c2314"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptorun Network is an IDO launchpad that allows its holders to participate in upcoming IDOs and also holders can stake their tokens and buy NFTs from our partner's NFT marketplace. \r\nCryptorun Network is also building it's own DeFi wallet with some additional features like Auto BUY/SELL, Price updates, Inbuilt swap features, etc"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd16c4343fb5769a71983f3e131df9b1491c2314",
+    "url": "https://www.cryptorun.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xbd16c4343fb5769a71983f3e131df9b1491c2314"
+    ],
+    "twitter": "NetworkCRN",
+    "telegram": "CryptoRunNetwork"
+}

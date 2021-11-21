@@ -1,0 +1,22 @@
+{
+    "id": "farmyield",
+    "symbol": "famy",
+    "name": "FarmYield",
+    "platforms": {
+        "binance-smart-chain": "0xa6ea1ae470ed931a7359cecfe50840458e310dd4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Farm Yield is a digital farming platform on blockchain that gives people all over the world the opportunity to rent farming land, machinery and labour to farm and earn profit."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa6ea1ae470ed931a7359cecfe50840458e310dd4",
+    "url": "https://farmyield.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0xa6ea1ae470ed931a7359cecfe50840458e310dd4"
+    ],
+    "twitter": "farmYield_DeFi",
+    "telegram": "farmyieldofficial"
+}

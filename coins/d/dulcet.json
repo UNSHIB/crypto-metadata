@@ -1,0 +1,22 @@
+{
+    "id": "dulcet",
+    "symbol": "dlc",
+    "name": "Dulcet",
+    "platforms": {
+        "binance-smart-chain": "0xaf706d0d35c18fc5653acc161df14783a986a8fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What is Dulcet Garden?\r\n\r\nDulcet Garden is a company that uses containers to grow healthy fruits and vegetables, without pesticides, without GMOs and by using renewable energy\r\n\r\nWhy containers ?\r\n\r\nIt is a closed environment, so it protects the plantations from unexpected events like insect infestations, hurricanes, tornadoes, farm invasion by humans/animals, massive flooding, and so on.\r\n\r\nMoreover, it is possible to control each parameter in order to reproduce the perfect climatic conditions of spring to grow healthy fruits and vegetables all year round.\r\nIn this way, we are able to produce 120 times more than open-field agriculture. Without pesticides or GMOs. What\u2019s more, the whole system can run on renewable energy.\r\n\r\nWe produce more, of better quality, at lower cost and without danger for our planet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf706d0d35c18fc5653acc161df14783a986a8fc",
+    "url": "https://dulcetgarden.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xaF706D0D35c18fc5653acc161DF14783a986A8Fc"
+    ],
+    "twitter": "dulcetgarden",
+    "telegram": "dulcetgarden"
+}

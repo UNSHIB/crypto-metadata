@@ -1,0 +1,22 @@
+{
+    "id": "we-love-gm",
+    "symbol": "gm",
+    "name": "we love gm",
+    "platforms": {
+        "ethereum": "0x7f0693074f8064cfbcf9fa6e5a3fa0e4f58ccccf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f0693074f8064cfbcf9fa6e5a3fa0e4f58ccccf",
+    "url": "https://www.welovegm.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f0693074f8064cfbcf9fa6e5a3fa0e4f58ccccf",
+        "https://ethplorer.io/address/0x7f0693074f8064cfbcf9fa6e5a3fa0e4f58ccccf"
+    ],
+    "twitter": "welovegm"
+}

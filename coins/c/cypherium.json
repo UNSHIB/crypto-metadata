@@ -1,0 +1,24 @@
+{
+    "id": "cypherium",
+    "symbol": "cph",
+    "name": "Cypherium",
+    "platforms": {
+        "ethereum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "By providing a truly decentralized and scalable framework, combined with an accessible and intuitive user interface, Cypherium lays a comprehensive foundation for developers to create groundbreaking apps capable of transforming the future of business, law, and enterprise solutions.\r\n\r\nUsing a hybrid consensus mechanism that utilizes both Proof-of-Work and HotStuff, our blockchain is designed to achieve commercialization viability by maximizing both decentralization and scalability without sacrificing one for the other. Unlike many second- and third-generation blockchains that abandon Satoshi Nakamoto\u2019s original permissionless, trustless consensus mechanism, Cypherium is built on the valuable innovations of previous blockchains.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.cypherium.io/",
+    "explorers": [],
+    "twitter": "CypheriumChain",
+    "facebook": "CypheriumChain",
+    "telegram": "cypherium",
+    "reddit": "Cypherium/",
+    "github_org": "cypherium"
+}

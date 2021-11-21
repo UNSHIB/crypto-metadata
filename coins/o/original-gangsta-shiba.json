@@ -1,0 +1,23 @@
+{
+    "id": "original-gangsta-shiba",
+    "symbol": "ogshib",
+    "name": "Original Gangsta Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x0b64f5e1a23cb5c9494b17bfa654f5b19126f04b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tired of rug pulls, unfair launches with private investors, whales and bots? So are we. We decided to create OG (Original Gangsta) Shiba on the basis of fair launch principles as a tribute to the old crypto tradition, when Doge was a puppy, honesty and fair play were more important than a cash grab and scam."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0b64f5e1a23cb5c9494b17bfa654f5b19126f04b",
+    "url": "https://ogshiba.club/",
+    "explorers": [
+        "https://bscscan.com/token/0x0B64F5E1A23Cb5c9494B17bFa654F5b19126F04b"
+    ],
+    "twitter": "OGShibaofficial",
+    "telegram": "ogshiba_official",
+    "github_org": "ogshiba"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "sao-paulo-fc-fan-token",
+    "symbol": "spfc",
+    "name": "Sao Paulo FC Fan Token",
+    "platforms": {
+        "chiliz": "0x9e8c72a057c8f785a206506e27ee9af0d8f81a28"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token"
+    ],
+    "description": {
+        "en": "Fan Tokens allow fans across multiple sports verticals to exercise their share of influence within their favourite teams/leagues/clubs. Through [Socios.com](http://socios.com/), fans are empowered to participate in certain club decisions, for example, choosing a goal celebration song in a football stadium, choosing which fighters should go head to head in MMA, and more. Thanks to Fan Tokens, holders receive access to once-in-a-lifetime experiences such as player meet and greets, training day events & much much more.\r\n\r\nThe growing list of partnerships launching their Fan Tokens on the [Socios.com](http://socios.com/) platform includes some of the biggest sporting organizations in the world such as FC Barcelona, Inter Milan, AC Milan, Manchester City, UFC, ROUSH Fenway Racing, Aston Martin, just to name a few."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e8c72a057c8f785a206506e27ee9af0d8f81a28",
+    "url": "https://socios.com",
+    "explorers": [
+        "https://explorer.chiliz.com/tokens/0x9e8c72A057C8F785A206506E27ee9Af0d8f81a28/token-transfers"
+    ],
+    "twitter": "chiliz",
+    "telegram": "chiliztrade"
+}

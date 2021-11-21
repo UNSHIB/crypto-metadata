@@ -1,0 +1,23 @@
+{
+    "id": "yearrise",
+    "symbol": "yrt",
+    "name": "YearRise",
+    "platforms": {
+        "binance-smart-chain": "0x7ed31e24c67971647168502cc7bbb3d4983ee7ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YearRise is a hyper deflationary token created and thought by holders, it works as an independent liquidity generation protocol and frictionless autonomous yield\r\nfarming together with manual burn and buyback features.YRT Holders benefit through static rewards and also through the Buy-Back/Burn strategy built into the contract. All you need to do is hold $YRT and earn USDT rewards HOURLY. First token to have USDT rewards with strategic buyback/burn function.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ed31e24c67971647168502cc7bbb3d4983ee7ea",
+    "url": "https://www.yearrise.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ed31E24C67971647168502cC7bBb3D4983EE7eA",
+        "https://bscscan.com/token/0x7ed31e24c67971647168502cc7bbb3d4983ee7ea"
+    ],
+    "twitter": "YearRise",
+    "telegram": "yearrise"
+}

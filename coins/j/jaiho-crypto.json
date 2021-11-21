@@ -1,0 +1,22 @@
+{
+    "id": "jaiho-crypto",
+    "symbol": "jaiho",
+    "name": "Jaiho Crypto",
+    "platforms": {
+        "binance-smart-chain": "0x2fd2799e83a723b19026a979899dfb70bbf6bf6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "JaiHo is India\u2019s first community-based crypto project with low supply, which is deflationary over time. JaiHo\u2019s unique revenue-sharing model includes a charity mission. We have built a community before releasing a token\u2014No Big Promises, just a loyal Community to grow over time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2fd2799e83a723b19026a979899dfb70bbf6bf6b",
+    "url": "https://www.jaihocrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2fd2799e83a723b19026a979899dfb70bbf6bf6b"
+    ],
+    "twitter": "JaiHoCrypto",
+    "telegram": "JaiHoOfficial"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ok-lets-go",
+    "symbol": "oklg",
+    "name": "ok.lets.go.",
+    "platforms": {
+        "binance-smart-chain": "0x55e8b37a3c43b049dedf56c77f462db095108651"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "culture, meme, community, utility"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x55e8b37a3c43b049dedf56c77f462db095108651",
+    "url": "https://oklg.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x55e8b37a3c43b049dedf56c77f462db095108651"
+    ],
+    "twitter": "oklgio",
+    "telegram": "ok_lg",
+    "reddit": "okletsgotokens/",
+    "github_org": "okletsgotokens"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "checkdot",
+    "symbol": "cdt",
+    "name": "CheckDot",
+    "platforms": {
+        "binance-smart-chain": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The CheckDot platform is a essential checkpoint for the verification for any cryptocurrency project and more.\r\n\r\nWe have been confronted with the lack of transparency of some projects for many years. CheckDot has the ambition to be the first decentralized platform of opinions in various fields: Projects, companies, forms, code and more. Furthermore, CheckDot makes it possible to create requests for advice or audits involving one or two layers of advisors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "url": "https://checkdot.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+        "https://bscscan.com/token/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece"
+    ],
+    "twitter": "checkdot_proto",
+    "telegram": "checkdot",
+    "github_org": "checkdot"
+}

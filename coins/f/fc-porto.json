@@ -1,0 +1,24 @@
+{
+    "id": "fc-porto",
+    "symbol": "porto",
+    "name": "FC Porto",
+    "platforms": {
+        "binance-smart-chain": "0x49f2145d6366099e13b10fbf80646c0f377ee7f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": "FC Porto Fan Token is built on the Binance Smart Chain empowering FC Porto fans with broader accessibility, more functionalities and lower fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49f2145d6366099e13b10fbf80646c0f377ee7f6",
+    "url": "https://www.fcporto.pt/pt",
+    "explorers": [
+        "https://bscscan.com/token/0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+        "https://bscscan.com/token/0x49f2145d6366099e13b10fbf80646c0f377ee7f6"
+    ]
+}

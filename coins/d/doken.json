@@ -1,0 +1,22 @@
+{
+    "id": "doken",
+    "symbol": "doken",
+    "name": "DoKEN",
+    "platforms": {
+        "binance-smart-chain": "0xf9a2d40589271be17612a3f57a9028a568f56e3d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"D\u014dKEN is a revolutionary meme token. Combining Memes Concept with A Utilitiy, and aims to integrate amazing utility with a meme coin. It also reward holder with 8% of BUSD Reflection.\r\n\r\nSwap Page & Reward Dashboard has been live on website. And more features will coming soon, such as Doken Order Limit Swap, Doken Dividend Hub, Doken Launchpad, Doken API\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9a2d40589271be17612a3f57a9028a568f56e3d",
+    "url": "https://doken.exchange",
+    "explorers": [
+        "https://bscscan.com/token/0xf9a2d40589271be17612a3f57a9028a568f56e3d"
+    ],
+    "twitter": "dokentoken",
+    "telegram": "dokentoken"
+}

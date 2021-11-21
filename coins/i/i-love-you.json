@@ -1,0 +1,24 @@
+{
+    "id": "i-love-you",
+    "symbol": "ily",
+    "name": "I Love You",
+    "platforms": {
+        "ethereum": "0x4adfb23d482afb610871e92b8793828b2105028d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ILY is a fair-launch project with anti-bot protection, a fixed supply of 1 billion tokens, and locked liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4adfb23d482afb610871e92b8793828b2105028d",
+    "url": "https://i-love-you.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4adfb23d482afb610871e92b8793828b2105028d",
+        "https://ethplorer.io/address/0x4adfb23d482afb610871e92b8793828b2105028d"
+    ],
+    "twitter": "ilyethily",
+    "telegram": "ILYETHILY",
+    "github_org": "ILYTEAM"
+}

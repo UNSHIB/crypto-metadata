@@ -1,0 +1,22 @@
+{
+    "id": "mars-space-x",
+    "symbol": "MPX",
+    "name": "Mars Space X",
+    "platforms": {
+        "binance-smart-chain": "0xd4ebabd6e70bf0a16e8ccdbc6b00fe7817390f47"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mars Space X is a deflationary cryptocurrency, but also modern high-end finance. It was born to provide stable and continuous capital output to the Mars Project.At the same time, participants will also receive high dividend rewards. Musk said: I hope to use the benefits of Mars Space X to ensure the smooth login plan."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd4ebabd6e70bf0a16e8ccdbc6b00fe7817390f47",
+    "url": "https://marsspacextoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd4ebabd6e70bf0a16e8ccdbc6b00fe7817390f47"
+    ],
+    "twitter": "MarsSpaceX_",
+    "telegram": "MarsSpaceXofficial"
+}

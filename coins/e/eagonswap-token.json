@@ -1,0 +1,25 @@
+{
+    "id": "eagonswap-token",
+    "symbol": "eagon",
+    "name": "EagonSwap Token",
+    "platforms": {
+        "binance-smart-chain": "0x2f25d402829ca4085b8ea4d3bc68bf203f5a9fab",
+        "polygon-pos": "0x2f25d402829ca4085b8ea4d3bc68bf203f5a9fab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Eagonswap is a community driven decentralized exchange platform built on the polygon network, bringing the state of the art polygon blockchain defi innovative  technology to the crypto ecosystem, by implementing a harmony of trilogy on cross-linkage interoperability across the polygon, ethereum and binance smart chain networks. \r\nThe EagonSwap token, Eagon is the native token with utility values acting as the EagonSwap Exchange Token, staking/yield farming protocols token, NFT and gaming token, and as well the governance token for the Eagon pad IDO platform, which is already operational. \r\n\r\nThe EagonSwap ecosystem has put in place a robust network to integrate and harness the resourceful NFT market, staking/yield farming protocols and gaming world into the EagonSwap niche.\r\nEquipped with a dedicated team of professionals across diverse field and spheres of life, we hope to stand out in the coming months as one of the legendary projects to positively shape the crypto ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f25d402829ca4085b8ea4d3bc68bf203f5a9fab",
+    "url": "http://info.eagonswap.exchange",
+    "explorers": [
+        "https://bscscan.com/token/0x2F25d402829cA4085B8Ea4D3BC68Bf203F5a9faB",
+        "https://bscscan.com/token/0x2f25d402829ca4085b8ea4d3bc68bf203f5a9fab",
+        "https://polygonscan.com/token/0x2f25d402829ca4085b8ea4d3bc68bf203f5a9fab"
+    ],
+    "twitter": "eagonswap",
+    "telegram": "EagonSwapOfficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sl3-token",
+    "symbol": "sl3",
+    "name": "Mammoth",
+    "platforms": {
+        "avalanche": "0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ice Age Finance houses 2 tokens in the Avalanche ecosystem, SFI and SL3. Both tokens are used as yield tokens in our deflationary yield farm, utilizing RFI style deflationary tokenomics. The impressive deflationary tokenomics help protect investors from the typical selling pressures of inflationary yield farms. This project is also developing a Frozen Mammoth NFT collection."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb",
+    "url": "https://iceagefinance.io/",
+    "explorers": [
+        "https://snowtrace.io/token/0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb"
+    ],
+    "twitter": "IceAgeFinance",
+    "telegram": "sled_finance",
+    "github_org": "MountainMan47"
+}

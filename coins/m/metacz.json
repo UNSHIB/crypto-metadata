@@ -1,0 +1,22 @@
+{
+    "id": "metacz",
+    "symbol": "metacz",
+    "name": "MetaCZ",
+    "platforms": {
+        "binance-smart-chain": "0xff6d3c79eca72f3fa74e78ded0c317505028ca56"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaCZ is a BEP-20 token aiming to conquer and rule across the vast Metaverse of the digital world. Holding $METACZ rewards in BNB, coupled with an experienced team and established marketing & community management, MetaCZ will evolve into something unprecedented on the Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xff6d3c79eca72f3fa74e78ded0c317505028ca56",
+    "url": "https://metacz.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xff6d3c79eca72f3fa74e78ded0c317505028ca56"
+    ],
+    "twitter": "metaczbsc",
+    "telegram": "MetaCZ"
+}

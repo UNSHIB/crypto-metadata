@@ -1,0 +1,24 @@
+{
+    "id": "infinitydot",
+    "symbol": "idot",
+    "name": "InfinityDOT",
+    "platforms": {
+        "binance-smart-chain": "0x73b96ac0814eaff828779de589840d1172aaaa70"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "InfinityDOT is the first Polkadot reflection token running on Binance Smart Chain. Simply hold tokens and get rewarded automatically in Polkadot on every transaction.\r\n\r\nWith the auto-claim feature, you will receive DOT automatically in your wallet.\u200b\r\n\r\nTax distribution: 8% Holders, 5% BuyBack, 2% Liquidity"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73b96ac0814eaff828779de589840d1172aaaa70",
+    "url": "https://www.infinitydot.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x73b96Ac0814EAfF828779De589840d1172aaAa70",
+        "https://bscscan.com/token/0x73b96ac0814eaff828779de589840d1172aaaa70"
+    ],
+    "twitter": "_InfinityDOT",
+    "telegram": "infinitydotcommunity",
+    "reddit": "infinitydot/"
+}

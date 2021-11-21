@@ -1,0 +1,24 @@
+{
+    "id": "oolongswap",
+    "symbol": "olo",
+    "name": "OolongSwap",
+    "platforms": {
+        "boba": "0x5008f837883ea9a07271a1b5eb0658404f5a9610"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"As Boba\u2019s first native AMM, it is Oolong\u2019s mission to create the best exchange, best users experience and deepest liquidity in here for Boba users. As our our motto is \u201cmore to earn, less to spend\u201d. We have introduced features such as dynamic pair fees to offer users lower trading slippage and\u00a0PCV and bonding to offer a sustainable future for Oolong.\r\n\r\nBut that\u2019s not it. our vision is to become the gateway between Boba and the rest of DeFi world. We want to help expand the Boba ecosystem by building a DEX that is suitable for all, even those that are newest to DeFi. We want to create a healthy environment for all- help growing other Boba projects while educating users on new DeFi knowledge. More to come! \r\n\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5008f837883ea9a07271a1b5eb0658404f5a9610",
+    "url": "https://oolongswap.com/#/",
+    "explorers": [
+        "https://blockexplorer.boba.network/tokens/0x5008F837883EA9a07271a1b5eB0658404F5a9610/token-transfers",
+        "https://blockexplorer.boba.network/"
+    ],
+    "twitter": "oolongswap",
+    "telegram": "oolongswap",
+    "github_org": "OolongSwap"
+}

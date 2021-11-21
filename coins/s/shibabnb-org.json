@@ -1,0 +1,23 @@
+{
+    "id": "shibabnb-org",
+    "symbol": "shibabnb",
+    "name": "ShibaBNB.org",
+    "platforms": {
+        "binance-smart-chain": "0x71fac45700585555c936c2061fc1fd42b86f4d91"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShibaBNB.org is not just another meme token. This project has a mission of connecting communities from around the world, to serve a common purpose - bringing simplicity and ease to the decentralized finance sector. \r\n\r\nShibaBNB aims to offer a decentralized payment option that will remove the need for third-parties such as as processors or exchanges, who function to collect and verify information. The ShibaBNB wallet will allow for these seamless transactions on the Binance Smart Chain network.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x71fac45700585555c936c2061fc1fd42b86f4d91",
+    "url": "https://ShibaBNB.org",
+    "explorers": [
+        "https://bscscan.com/token/0x71faC45700585555c936C2061fC1Fd42B86F4d91",
+        "https://bscscan.com/token/0x71fac45700585555c936c2061fc1fd42b86f4d91"
+    ],
+    "twitter": "ShibaBNB_org",
+    "telegram": "officialshibabnb"
+}

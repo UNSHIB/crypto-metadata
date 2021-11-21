@@ -1,0 +1,22 @@
+{
+    "id": "retire-token",
+    "symbol": "retire",
+    "name": "Retire Token",
+    "platforms": {
+        "binance-smart-chain": "0x90800e102a243d17e8d8e0f0e52284751bcac8fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Retire Token is a low supply and high reward token. The total supply is only 401K and the auto rewards are 15% in USDT for holders with 100 tokens every 60 seconds. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x90800e102a243d17e8d8e0f0e52284751bcac8fe",
+    "url": "https://www.retiretoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x90800e102a243d17e8d8e0f0e52284751bcac8fe"
+    ],
+    "twitter": "Retire_finance",
+    "telegram": "retire_token"
+}

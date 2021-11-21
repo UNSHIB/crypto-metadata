@@ -1,0 +1,24 @@
+{
+    "id": "green-life-energy",
+    "symbol": "gnl",
+    "name": "Green Life Energy",
+    "platforms": {
+        "binance-smart-chain": "0x128699dbeafd83ad25d16d394b7849e27a7c4607"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Green Life Energy Global (GNL) is a\r\ncommunity token that allows users to make\r\npayments based on renewable energy and\r\nrecycling products and services, share\r\nassets, and send money between friends\r\nand family.\r\n \r\nA crypto-based token on renewable energy and recycling, GNL is about bringing the blockchain a bit further not just only creating the next big crypto asset, but also changing the whole financial sector on energy and recycling payments. Imagine a world where everything is powered by renewable energy? This is what we are building. \r\n \r\nUse Cases: Crypto Miners and Household\u2019s renewable energy power supply (Bill payments in GNL), GNL Wallet, Payments of Renewable Energy and Recycling Products and Services. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x128699dbeafd83ad25d16d394b7849e27a7c4607",
+    "url": "https://www.greenlifeenergyglobal.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x128699dBEaFd83Ad25D16D394b7849e27A7C4607",
+        "https://bscscan.com/token/0x128699dbeafd83ad25d16d394b7849e27a7c4607"
+    ],
+    "twitter": "gnlenergy",
+    "telegram": "GreenLifeEnergy",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "trusted-node",
+    "symbol": "tnode",
+    "name": "Trusted Node",
+    "platforms": {
+        "binance-smart-chain": "0x7f12a37b6921ffac11fab16338b3ae67ee0c462b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The new era of Proof-of-Stake is here. Get instant access to PoS rewards, DeFi yield, and multichain governance. All through a network of Trusted Nodes.\r\n\r\nBy holding TNODE tokens, you are able to:\r\n- Participate in the governance of Trusted Node DAO\r\n- Participate in the governance of the PoS networks through the aggregate voting weight of Trusted Node\r\n- Stake them and boost your delegation rewards\r\n- Benefit from the liquid staking functionality, allowing you to do yield stacking\r\n- Participate in yield generating vaults and liquidity pools"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f12a37b6921ffac11fab16338b3ae67ee0c462b",
+    "url": "https://trustednode.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7f12a37b6921ffac11fab16338b3ae67ee0c462b"
+    ],
+    "twitter": "trustednode",
+    "telegram": "trustednode_io"
+}

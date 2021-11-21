@@ -1,0 +1,23 @@
+{
+    "id": "red-shiba-token",
+    "symbol": "rst",
+    "name": "Red Shiba Token",
+    "platforms": {
+        "binance-smart-chain": "0x714a128bda7cfba28f212a9dc052467b560ab14b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RED SHIBA is a collection of Dogs Non Fungible Tokens (NFTS). In the world of Red Shiba, you can easily build your own unique and creative NFT Dog collections and only you can own these collections.. where each individual's interesting collections will be exchanged back and forth, promising to create a very vibrant market. Each NFT Dog will be equipped with different characteristics that will make each dog very unique and unique. For dog lovers, there will be many opportunities for them to collect dogs of different natures. We have a great love for our community, Red Shiba will help bring exclusivity and make historic turning points in the crypto space.\r\n\r\nThe project possesses important features such as Shiba Meme, Marketplace NFT, Farming, promising to bring great benefits as well as the most realistic experiences in the world of digital currency. The project promises to make big dreams come true such as saving the world's poor dogs and making the use of cryptocurrency an inevitable trend in the modern world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x714a128bda7cfba28f212a9dc052467b560ab14b",
+    "url": "https://redshibatoken.dog/",
+    "explorers": [
+        "https://bscscan.com/token/0x714a128bda7CfBA28F212a9Dc052467b560AB14b"
+    ],
+    "twitter": "RedshibaToken",
+    "telegram": "RedshibaTokenChat",
+    "reddit": "RedShiba_Official123/"
+}

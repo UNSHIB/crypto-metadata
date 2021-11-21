@@ -1,0 +1,22 @@
+{
+    "id": "fans-of-doge",
+    "symbol": "DogeFans",
+    "name": "Fans of Doge",
+    "platforms": {
+        "binance-smart-chain": "0x33a32efe8464bc9a03e2e06ce8cb129d4af49445"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$DogeFans is a $DOGE fan token, Holders of $DogeFans will receive incentives such as massive rewards in Dogecoins, have access to rare Dogecoin NFTs, access to #Dogecoin Yearly Dinner Party & Awards, get their name written at the Dogecoin Book of Fans, Votings and lots more"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33a32efe8464bc9a03e2e06ce8cb129d4af49445",
+    "url": "https://dogefans.world/",
+    "explorers": [
+        "https://bscscan.com/token/0x33a32efe8464bc9a03e2e06ce8cb129d4af49445"
+    ],
+    "twitter": "fansofdoge",
+    "telegram": "fansofdoge"
+}

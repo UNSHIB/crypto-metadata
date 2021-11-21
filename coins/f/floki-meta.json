@@ -1,0 +1,23 @@
+{
+    "id": "floki-meta",
+    "symbol": "mfloki",
+    "name": "Floki Meta",
+    "platforms": {
+        "binance-smart-chain": "0xd4b2a634391f07ca38066fd5e8798f214cc2ec8f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The people\u2019s cryptocurrency\r\nMetaFloki At its core, MFLOKI is truly the people\u2019s cryptocurrency and aims to become the biggest force in the cryptocurrency world by disrupting the industry and changing lives while doing so."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd4b2a634391f07ca38066fd5e8798f214cc2ec8f",
+    "url": "https://metafloki.site/",
+    "explorers": [
+        "https://bscscan.com/token/0xd4b2A634391F07Ca38066fD5e8798f214cC2eC8f",
+        "https://bscscan.com/token/0xd4b2a634391f07ca38066fd5e8798f214cc2ec8f"
+    ],
+    "twitter": "Floki_Meta",
+    "telegram": "Flokimeta"
+}

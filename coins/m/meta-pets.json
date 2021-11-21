@@ -1,0 +1,23 @@
+{
+    "id": "meta-pets",
+    "symbol": "mp",
+    "name": "Meta Pets",
+    "platforms": {
+        "ethereum": "0x17cd80aa8f4aed7c403e4c6b9c2cd3fabef09d99"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meta Pets is a decentralized P2E game that allows users to incorporate day to day gaming into the future of the metaverse. Meta pets consists of a fantasy realm in which players are able to battle different types of mythical creatures using their own weapons."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17cd80aa8f4aed7c403e4c6b9c2cd3fabef09d99",
+    "url": "https://metapetsgame.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x17cd80aa8f4aed7c403e4c6b9c2cd3fabef09d99",
+        "https://ethplorer.io/address/0x17cd80aa8f4aed7c403e4c6b9c2cd3fabef09d99"
+    ],
+    "twitter": "MetaPetsETH",
+    "telegram": "Metapetsofficial"
+}

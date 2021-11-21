@@ -1,0 +1,23 @@
+{
+    "id": "yokai-network",
+    "symbol": "yokai",
+    "name": "Yokai Network",
+    "platforms": {
+        "ethereum": "0xb499b5a97bdbc3e117d15b448daacc9305025689"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yokai Network is a layer 1 blockchain with a unique Tri-Chain architecture (three chains on one network). These are the Water Chain (responsible for privacy), the Earth Chain (responsible for security), and the Star Chain (responsible for smart-contract interactions). Together, they enable the first feeless, near-instant, and private blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb499b5a97bdbc3e117d15b448daacc9305025689",
+    "url": "https://www.yokainetwork.io",
+    "explorers": [
+        "https://etherscan.io/token/0xb499B5A97bDbC3E117d15B448DAACc9305025689",
+        "https://ethplorer.io/address/0xb499b5a97bdbc3e117d15b448daacc9305025689",
+        "https://etherscan.io/token/0xb499b5a97bdbc3e117d15b448daacc9305025689"
+    ],
+    "twitter": "yokainetwork"
+}

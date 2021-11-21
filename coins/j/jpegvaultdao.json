@@ -1,0 +1,24 @@
+{
+    "id": "jpegvaultdao",
+    "symbol": "jpeg",
+    "name": "JPEGvaultDAO",
+    "platforms": {
+        "ethereum": "0xf4d294931b7f22ba5a9f3ed932e6cafc21805e48"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "JPEGvault is a DAO. A community of people who own and run it as one. Everyone benefits from its success and participates in the decision making.\r\n\r\nOwning JPEG token provides the right to own a part of the NFT vault we are building. When we sell NFT and make benefits we redistribute them to holder according to their share of the JPEG token. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf4d294931b7f22ba5a9f3ed932e6cafc21805e48",
+    "url": "https://jpegvault.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf4d294931B7F22Ba5A9f3Ed932E6CAfc21805E48",
+        "https://ethplorer.io/address/0xf4d294931b7f22ba5a9f3ed932e6cafc21805e48"
+    ],
+    "twitter": "JPEGvaultDAO",
+    "telegram": "jpegvault",
+    "github_org": "CosmosPls"
+}

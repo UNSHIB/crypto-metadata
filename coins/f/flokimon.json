@@ -1,0 +1,23 @@
+{
+    "id": "flokimon",
+    "symbol": "fmon",
+    "name": "FlokiMON",
+    "platforms": {
+        "binance-smart-chain": "0x03d1581c2198185b630eb27ffaf27a615dfc4815"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FLOKIMON\r\nOur beloved Floki has now entered the pokemon dimension, ready to take over the wild world of creatures with it's charm and fierceness. \r\n\r\nBSC is about to witness the next big gem.\r\nFeaturing 100% safe tokenomics, zero tax and unique design.\r\nJoin FlokiMon on the ride to adventure."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x03d1581c2198185b630eb27ffaf27a615dfc4815",
+    "url": "https://flokimon.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x03D1581c2198185B630eB27FFAF27A615dFc4815",
+        "https://bscscan.com/token/0x03d1581c2198185b630eb27ffaf27a615dfc4815"
+    ],
+    "twitter": "FlokimonBSC",
+    "telegram": "FlokimonOfficial"
+}

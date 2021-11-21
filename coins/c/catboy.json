@@ -1,0 +1,21 @@
+{
+    "id": "catboy",
+    "symbol": "ctb",
+    "name": "CatBoy",
+    "platforms": {
+        "binance-smart-chain": "0xa0e7566d693d015b59f2fd0e7fd26a8ac5ca03de"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Catboy is a reflection-based token but we are unlike any other similar project you have come across.\r\n\r\nFounded and built by a community that loves comics, manga, anime and pets, CatBoy is not just a parallel version of CatGirl but our ambition is much more. This token is a symbol of the spirit, cohesion and sharing of the meme, manga and cat loving communities around the world.\r\n\r\nCatBoy is a more complete, more powerful version and will be the mainstay of CatGirl, just like their love.\r\n\r\nBesides building a strong community, we care about the real values   that the project brings. We are building the Catboy Merchandise, the Catboy NFT Marketplace and building a worldwide network to donate to feral cats and support struggling cat owners.\r\n\r\nWith a further vision in 2021, a play-to-earn game is also being planned with an online pet model, connecting the community and sharing fun experiences."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa0e7566d693d015b59f2fd0e7fd26a8ac5ca03de",
+    "url": "https://catboy.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa0e7566d693d015b59f2fd0e7fd26a8ac5ca03de"
+    ],
+    "twitter": "bsccatboy"
+}

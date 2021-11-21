@@ -1,0 +1,23 @@
+{
+    "id": "taco-dao",
+    "symbol": "tdao",
+    "name": "Taco DAO",
+    "platforms": {
+        "tezos": "KT1Cjx8hYwzaCAke6rLWoZBLp8w89VeAduAR"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Taco DAO is the Governance Token for the Tezonians NFT Collection and DeFi Ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1Cjx8hYwzaCAke6rLWoZBLp8w89VeAduAR",
+    "url": "https://tezonians.space/",
+    "explorers": [
+        "https://tzkt.io/KT1Cjx8hYwzaCAke6rLWoZBLp8w89VeAduAR/operations/"
+    ],
+    "twitter": "tezonians",
+    "telegram": "TezoniansNFT",
+    "github_org": "Tezonians"
+}

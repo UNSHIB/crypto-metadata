@@ -1,0 +1,23 @@
+{
+    "id": "red-kishu",
+    "symbol": "redkishu",
+    "name": "Red Kishu",
+    "platforms": {
+        "binance-smart-chain": "0xe7301e73543c3149f1dae09f6a7b0f737301a64e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$REDKISHU is a community-driven, MEME cryptocurrency with instant reward system!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe7301e73543c3149f1dae09f6a7b0f737301a64e",
+    "url": "https://redkishu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe7301e73543c3149f1dae09f6a7b0f737301a64e"
+    ],
+    "twitter": "RedKishu",
+    "telegram": "RedKishu",
+    "github_org": "RedKishu"
+}

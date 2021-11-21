@@ -1,0 +1,22 @@
+{
+    "id": "landi-token",
+    "symbol": "landi",
+    "name": "LANDI Token",
+    "platforms": {
+        "binance-smart-chain": "0x7c9afc6af5d6cb6ee1bd8a78c8e5d4fcebacb633"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FARMLAND is an NFT game where you can earn LANDI tokens through daily missions growing vegetables on a farm."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c9afc6af5d6cb6ee1bd8a78c8e5d4fcebacb633",
+    "url": "https://playfarmland.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7c9afc6af5d6cb6ee1bd8a78c8e5d4fcebacb633"
+    ],
+    "twitter": "FarmlandPlay",
+    "telegram": "PlayFarmLandSpa"
+}

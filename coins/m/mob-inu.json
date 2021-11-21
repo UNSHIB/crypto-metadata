@@ -1,0 +1,23 @@
+{
+    "id": "mob-inu",
+    "symbol": "mob",
+    "name": "Mob Inu",
+    "platforms": {
+        "ethereum": "0xb120a1766e065b1964568fb1dd28e1090e6b17a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Unlike many newly launched \"P2E\" coins, Mob Inu has launched game ready. You can play our first entrant into the greater Mobiverse, Psycho Loon, directly on mobinutoken.com! The team will soon be integrating wallet connect so that holders and players can track their high scores and earn prizes in community tournaments; full P2E will arrive in Phase 2! Additionally, Mob Inu allows holders to earn passive income through staking! Buy, hold, stake, play & earn!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb120a1766e065b1964568fb1dd28e1090e6b17a5",
+    "url": "https://mobinutoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb120a1766e065b1964568fb1dd28e1090e6b17a5",
+        "https://ethplorer.io/address/0xb120a1766e065b1964568fb1dd28e1090e6b17a5"
+    ],
+    "twitter": "MobInuToken",
+    "telegram": "MobInuOfficial"
+}

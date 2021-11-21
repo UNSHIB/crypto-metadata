@@ -1,0 +1,22 @@
+{
+    "id": "thropic",
+    "symbol": "thropic",
+    "name": "Thropic",
+    "platforms": {
+        "binance-smart-chain": "0x77f1b27bd8151172ffb279211889f2e3c7640c14"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A trusted service provider to non-profits since 2018, Thropic offers a suite of digital products in the crypto-philanthropy space. Our mission is to leverage blockchain technology to help nonprofits broaden their engagement with modern philanthropists. We are a movement of younger donors who value inclusivity, transparency and community-based change. Since incorporation, Thropic has participated in over 35 fundraising campaigns and helped raise over $500,000 for our charity partners. \r\n\r\nIn particular, the Thropic token has been a critical instrument in helping our charity partners bridge over to Web 3.0. Since we launched the token in June, we have raised over $200,000 for charity through our 5% transaction fee model alone. At the end of each month, we ask our stakeholders to vote upon a list of vetted charities to determine where the funds generated that month get disbursed.  \r\nBeyond the deflationary and governance aspect of our native coin, the true utility is the community engagement piece. Future Thropic Coin holders will receive discounted rates and exclusive access to custom drops on our NFT platform. Our NFT platform connects creators, collectors and social impact causes in one decentralized ecosystem for charity. By holding Thropic, you can be part of the next generation of giving."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77f1b27bd8151172ffb279211889f2e3c7640c14",
+    "url": "https://www.thropictoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x77f1b27bd8151172ffb279211889f2e3c7640c14"
+    ],
+    "twitter": "thropic_brand",
+    "telegram": "thropic_coin"
+}

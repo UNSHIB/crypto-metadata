@@ -1,0 +1,25 @@
+{
+    "id": "xmooney",
+    "symbol": "xM",
+    "name": "xMooney",
+    "platforms": {
+        "binance-smart-chain": "0x98631c69602083d04f83934576a53e2a133d482f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "xMooney is a decentralized mining network that brings together a community of amateurs, hobbyists, and professionals. The goal is to educate, train, and guide them to become better miners and build a strong mining community. The journey begins with building a decentralized network of miners of all backgrounds, growing a shared value and market liquidity - eventually transferring power back to the people through a governance system that leads xMooney into the future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98631c69602083d04f83934576a53e2a133d482f",
+    "url": "https://www.xMooneyToken.com",
+    "explorers": [
+        "https://bscscan.com/token/0x98631c69602083d04f83934576a53e2a133d482f"
+    ],
+    "twitter": "xMooneyToken",
+    "facebook": "xMooneyToken",
+    "telegram": "xMooneyToken",
+    "reddit": "xMooney/",
+    "github_org": "techoshi"
+}

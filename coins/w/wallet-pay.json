@@ -1,0 +1,23 @@
+{
+    "id": "wallet-pay",
+    "symbol": "xpay",
+    "name": "Wallet Pay",
+    "platforms": {
+        "binance-smart-chain": "0x43b72f3b99564257671d5c47df663585344c1459"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wallet pay is a decentralized wallet on the smart chain binance blockchain, offering debit card payments using crypto, support for e-commerce payments,"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43b72f3b99564257671d5c47df663585344c1459",
+    "url": "https://walletpay.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x43b72f3b99564257671d5c47df663585344c1459"
+    ],
+    "twitter": "walletpay_app",
+    "telegram": "Walletpayofficial",
+    "reddit": "walletpay/"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "zillamatrix",
+    "symbol": "zmax",
+    "name": "ZillaMatrix",
+    "platforms": {
+        "binance-smart-chain": "0xd05a0c5c68acba9aa9952fa65189038840752977"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd05a0c5c68acba9aa9952fa65189038840752977",
+    "url": "https://www.zillamatrix.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd05a0c5c68acba9aa9952fa65189038840752977"
+    ],
+    "twitter": "ZillaMatrix",
+    "telegram": "zillamatrix",
+    "reddit": "Zillamatrix/",
+    "github_org": "zillamatrix"
+}

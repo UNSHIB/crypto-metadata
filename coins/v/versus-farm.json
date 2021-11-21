@@ -1,0 +1,22 @@
+{
+    "id": "versus-farm",
+    "symbol": "versus",
+    "name": "Versus Farm",
+    "platforms": {
+        "binance-smart-chain": "0xc3e49c20c841d6e0b2a1ccbbc5f29a64e068b25f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Highly lucrative play2earn platform powered by #BSC"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc3e49c20c841d6e0b2a1ccbbc5f29a64e068b25f",
+    "url": "https://versus.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0xc3E49c20C841d6e0B2a1CCBBc5F29A64e068B25f"
+    ],
+    "twitter": "VersusFarm",
+    "telegram": "versusfarm_eng"
+}

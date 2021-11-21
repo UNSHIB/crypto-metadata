@@ -1,0 +1,23 @@
+{
+    "id": "velhalla",
+    "symbol": "scar",
+    "name": "Velhalla",
+    "platforms": {
+        "binance-smart-chain": "0x8d9fb713587174ee97e91866050c383b5cee6209"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Velhalla is a crypto-metaverse experience in a new way, an NFT world you can control, influence, earn, and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d9fb713587174ee97e91866050c383b5cee6209",
+    "url": "https://velhalla.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8d9fB713587174Ee97e91866050c383b5cEE6209",
+        "https://bscscan.com/token/0x8d9fb713587174ee97e91866050c383b5cee6209"
+    ],
+    "twitter": "velhallaproject",
+    "telegram": "Velhallaofficial"
+}

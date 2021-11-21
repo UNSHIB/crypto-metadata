@@ -1,0 +1,23 @@
+{
+    "id": "heliumx",
+    "symbol": "hex",
+    "name": "Heliumx",
+    "platforms": {
+        "binance-smart-chain": "0x4397a8a8394213cea52b063b7f96808613012deb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HELIUMX will build a strong foundation in crypto, and be building a successful Food processing business in Africa.  Profit will be shared to the Holders.  A mobile application will also be developed to connect Farmers, customers and buyers from all over the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4397a8a8394213cea52b063b7f96808613012deb",
+    "url": "https://www.heliumx.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x4397a8a8394213Cea52B063B7f96808613012deB",
+        "https://bscscan.com/token/0x4397a8a8394213cea52b063b7f96808613012deb"
+    ],
+    "twitter": "HeliumxHEX",
+    "telegram": "hexheliumx24"
+}

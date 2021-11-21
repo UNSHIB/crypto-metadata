@@ -1,0 +1,23 @@
+{
+    "id": "dry-doge-metaverse",
+    "symbol": "drydoge",
+    "name": "Dry Doge Metaverse",
+    "platforms": {
+        "ethereum": "0x39eafea0e07cb14ca17b088f301c1f29b409176b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dry Doge is a revolutionary new token on the Ethereum Mainnet. Building out a complete metaverse, the team behind the token will launch a proprietary range of NFTs and a Blockchain racing game, where players can compete against each other for prizes, using $DRYDOGE as its native currency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39eafea0e07cb14ca17b088f301c1f29b409176b",
+    "url": "https://www.drydoge.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x39eafea0e07cb14ca17b088f301c1f29b409176b",
+        "https://ethplorer.io/address/0x39eafea0e07cb14ca17b088f301c1f29b409176b"
+    ],
+    "twitter": "drydoge",
+    "telegram": "drydoge"
+}

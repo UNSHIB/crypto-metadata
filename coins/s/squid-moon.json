@@ -1,0 +1,23 @@
+{
+    "id": "squid-moon",
+    "symbol": "sqm",
+    "name": "Squid Moon",
+    "platforms": {
+        "binance-smart-chain": "0x2766cc2537538ac68816b6b5a393fa978a4a8931"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$SQM is the utility token of the Squid Moon platform. It will play an integral part in all Squid Moon games. Squid Moon's mission is to become the first legitimate Squid Game token that does it the right way. \r\n\r\nEach new game that is launched greatly stimulates the $SQM economy by adding liquidity, burning $SQM tokens, and applying buying pressure to the token. As players deposit BNB to participate in games, their bet is utilized in 3 unique ways to support a strong tokenomics model for $SQM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2766cc2537538ac68816b6b5a393fa978a4a8931",
+    "url": "https://squidmoon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2766cc2537538ac68816b6b5a393fa978a4a8931"
+    ],
+    "twitter": "SquidMoonCoin",
+    "telegram": "squidmooncoin",
+    "github_org": "SquidMoonToken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "metarcade",
+    "symbol": "meta",
+    "name": "Metarcade",
+    "platforms": {
+        "ethereum": "0xb120b0b309f6ee56b67a7a6af216ab2fe56c3ed2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Metarcade is a platform focused on building launch pads to be used by the everyday person to empower them to build on the blockchain. Our NFT Launchpad will allow you to generate, create, and then deploy your NFT project from start to finish, just bring the artwork."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb120b0b309f6ee56b67a7a6af216ab2fe56c3ed2",
+    "url": "https://www.metarcade.io",
+    "explorers": [
+        "https://etherscan.io/token/0xb120b0b309f6ee56b67a7a6af216ab2fe56c3ed2",
+        "https://ethplorer.io/address/0xb120b0b309f6ee56b67a7a6af216ab2fe56c3ed2"
+    ],
+    "twitter": "metarcade",
+    "telegram": "metarcadeofficial",
+    "github_org": "MetarcadeToken"
+}

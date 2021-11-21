@@ -1,0 +1,23 @@
+{
+    "id": "harmomized-app",
+    "symbol": "hmz",
+    "name": "Harmonized App",
+    "platforms": {
+        "binance-smart-chain": "0xe0f9052f7db1868acbb692f4f00c586acd57b227"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$HMZ is the utility/native token of the Harmonized App. The Harmonized App allows investors to save more money trading, and make more money farming through their LP aggregator and Yield Optimizer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0f9052f7db1868acbb692f4f00c586acd57b227",
+    "url": "https://harmonized.org",
+    "explorers": [
+        "https://bscscan.com/token/0xe0f9052f7db1868acbb692f4f00c586acd57b227"
+    ],
+    "twitter": "harmonizedapp",
+    "telegram": "HarmonizedApp",
+    "github_org": "iulianivg"
+}

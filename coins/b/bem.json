@@ -1,0 +1,23 @@
+{
+    "id": "bem",
+    "symbol": "bemt",
+    "name": "BEM",
+    "platforms": {
+        "tron": "TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BEMT stands for \u2018Best Economic Money Token. BEMT is a token that was launched on the Tron Blockchain. BEMT is a token. BEMT has inherited all features of TRX, its most remarkable ones being high transaction speed and low transaction costs. Goals of BEM Foundation:\r\n\u2022Preparation suitable and safe occupational grounds in blockchain systems.\r\n\u2022Creation of various platforms by smart contracts technology with the purpose of enabling participants and fans to make money in systems by BEMT.\r\n\u2022Workspace stability, sound job types, project safety in terms of preventing changes in work policies, safety in payments and deposit of commissions, protection of participants\u2019 investments and value and assets of holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW",
+    "url": "https://beminfo.io",
+    "explorers": [
+        "https://tronscan.org/#/token20/TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW"
+    ],
+    "twitter": "beminfos",
+    "telegram": "bemtokeninfo",
+    "github_org": "BemFoundation"
+}

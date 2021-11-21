@@ -1,0 +1,23 @@
+{
+    "id": "infinity-rocket-token",
+    "symbol": "irt",
+    "name": "Infinity Rocket Token",
+    "platforms": {
+        "binance-smart-chain": "0xcbe5bca571628894a38836b0bae833ff012f71d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Multi-purpose Launchpad Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcbe5bca571628894a38836b0bae833ff012f71d8",
+    "url": "https://irocket.pro/",
+    "explorers": [
+        "https://bscscan.com/token/0xcbe5bca571628894a38836b0bae833ff012f71d8"
+    ],
+    "twitter": "iRocketToken",
+    "telegram": "irocketeng",
+    "github_org": "InfinityRocket"
+}

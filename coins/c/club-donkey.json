@@ -1,0 +1,23 @@
+{
+    "id": "club-donkey",
+    "symbol": "cdonk",
+    "name": "Club Donkey",
+    "platforms": {
+        "binance-smart-chain": "0x11414dfe93d9a8907937ba296e850447d9fc4423"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11414dfe93d9a8907937ba296e850447d9fc4423",
+    "url": "https://donkey.club/",
+    "explorers": [
+        "https://bscscan.com/token/0x11414dfe93d9a8907937ba296e850447d9fc4423"
+    ],
+    "twitter": "projectdonk",
+    "telegram": "projectdonkeychat",
+    "reddit": "Projectdonkey/"
+}

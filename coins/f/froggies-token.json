@@ -1,0 +1,23 @@
+{
+    "id": "froggies-token",
+    "symbol": "FROGGIES",
+    "name": "Froggies Token",
+    "platforms": {
+        "ethereum": "0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are the Collective Finance Community who have created a financial Ecosystem around our crypto currency Froggies Token. Our Vision is to harvest the numbers and strength of the Meme Communities and connect them through serious Partnerships with REAL Use Cases, where the Froggies Token will be used as a REAL Utility Token. The Froggies Token, will initially be integrated in two already established Communities within the world of arts and social sustainability"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61",
+    "url": "https://www.froggiestoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61",
+        "https://ethplorer.io/address/0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61"
+    ],
+    "twitter": "FroggiesToken",
+    "telegram": "officialfroggiestoken"
+}

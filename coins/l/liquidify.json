@@ -1,0 +1,22 @@
+{
+    "id": "liquidify",
+    "symbol": "lat",
+    "name": "Liquidify",
+    "platforms": {
+        "binance-smart-chain": "0xfdce4b11d6ddc902244726b93e71e2874c7b6af0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Liquidify is a decentralized protocol aiming to improve the liquidity and growth potential of long-tail crypto assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdce4b11d6ddc902244726b93e71e2874c7b6af0",
+    "url": "https://liquidify.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xfdce4b11d6ddc902244726b93e71e2874c7b6af0"
+    ],
+    "twitter": "Liquidifyio",
+    "telegram": "liquidifyio"
+}

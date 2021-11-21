@@ -1,0 +1,20 @@
+{
+    "id": "g2-crypto-gaming-lottery",
+    "symbol": "g2",
+    "name": "G2 Crypto Gaming & Lottery",
+    "platforms": {
+        "binance-smart-chain": "0x3c7eeddcff188a8c36f1cac1b62958c6e0c27dea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Play crypto arcade games directly on Telegram and earn long term passive income through G\u00b2 token reflections! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c7eeddcff188a8c36f1cac1b62958c6e0c27dea",
+    "url": "https://g2gaming.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0x3c7eeddcff188a8c36f1cac1b62958c6e0c27dea"
+    ]
+}

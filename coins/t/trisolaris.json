@@ -1,0 +1,21 @@
+{
+    "id": "trisolaris",
+    "symbol": "tri",
+    "name": "Trisolaris",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TriSolaris is a decentralized exchange (DEX) on the Near blockchain, running on NEAR\u2019s Aurora engine. TriSolaris delivers high-speed trading to users at less than a fraction of the cost of Ethereum or any Ethereum L2"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa94348467f64d5a457f75f8bc40495d33c65abb",
+    "url": "https://www.trisolaris.io/",
+    "explorers": [
+        "https://explorer.mainnet.aurora.dev/token/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/token-transfers"
+    ],
+    "twitter": "trisolarislabs",
+    "telegram": "TrisolarisLabs",
+    "github_org": "trisolaris-labs"
+}

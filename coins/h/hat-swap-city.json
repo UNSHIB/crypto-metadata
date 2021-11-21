@@ -1,0 +1,22 @@
+{
+    "id": "hat-swap-city",
+    "symbol": "htc",
+    "name": "Hat Swap City",
+    "platforms": {
+        "binance-smart-chain": "0xf7ceb6394c9c96ca2ce9afbe2fac4783f4cecd78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hat Swap City is an upcoming social metaverse game featuring wearable NFTs, and a suite of P2E arcade games. Hatcoin ($HTC) is the main currency of Hat Swap City and is used in our P2E game HATMAN.\r\n\r\nHat Swap City is a blend of social gaming MMOs with cryptocurrency culture. Players will be able to hang out with friends in our virtual city, wear NFT hats, sell them in an open-air marketplace, and trade cryptocurrency through exchanges in-game. Players will also be able to challenge their friends in P2E arcade games in the city or form \"\"gangs\"\" with their friends. \r\n\r\nOur NFTs are central to the Hat Swap City experience and provide multiple use cases for collectors, P2E gamers, and NFT flippers. \r\n\r\nHats will also serve as a governance token allowing users to vote on upcoming game development projects and city initiatives. $HTC can also be earned through reflections, which are exclusive to NFT hat holders. You'll also use your hat as your in-game character in our P2E games such as HATMAN, and receive bonuses in-game based on your hat's rarity and attributes. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf7ceb6394c9c96ca2ce9afbe2fac4783f4cecd78",
+    "url": "https://www.hatswapcity.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf7ceb6394c9c96ca2ce9afbe2fac4783f4cecd78"
+    ],
+    "twitter": "hatswapcity",
+    "telegram": "hatswapcity"
+}

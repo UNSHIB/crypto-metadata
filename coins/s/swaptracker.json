@@ -1,0 +1,23 @@
+{
+    "id": "swaptracker",
+    "symbol": "swpt",
+    "name": "SwapTracker",
+    "platforms": {
+        "binance-smart-chain": "0x01832e3346fd3a0d38ca589d836bd78d1de7030c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SwapTracker provides you a simple and fast overview of your trades and de-fi wallets providing simple, effective and user-friendly tools for your everyday de-fi activities, all in a single place."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01832e3346fd3a0d38ca589d836bd78d1de7030c",
+    "url": "https://www.swaptracker.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x01832e3346fd3a0d38ca589d836bd78d1de7030c"
+    ],
+    "twitter": "SwapTracker",
+    "telegram": "swaptracker",
+    "github_org": "swaptrackerdefi"
+}

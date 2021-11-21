@@ -1,0 +1,23 @@
+{
+    "id": "daddy-ethereum",
+    "symbol": "DDETH",
+    "name": "Daddy Ethereum",
+    "platforms": {
+        "binance-smart-chain": "0x9b4a1b2b87f86111fb0371244d605fe7a70890cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": " Taxa de Compra = 13%  (10% Holder ETH, 2% Marketing, 1% Liquidez);Taxa de Venda = 15%  (10% Holder ETH, 4% Marketing, 1% Liquidez);"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b4a1b2b87f86111fb0371244d605fe7a70890cc",
+    "url": "https://daddyethproject.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9B4a1b2B87F86111FB0371244d605fe7A70890Cc#balances",
+        "https://bscscan.com/token/0x9B4a1b2B87F86111FB0371244d605fe7A70890Cc"
+    ],
+    "twitter": "daddy_ethereum",
+    "telegram": "daddyethereum"
+}

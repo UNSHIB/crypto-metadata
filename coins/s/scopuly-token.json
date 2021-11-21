@@ -1,0 +1,22 @@
+{
+    "id": "scopuly-token",
+    "symbol": "scop",
+    "name": "Scopuly Token",
+    "platforms": {
+        "stellar": "GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Scopuly is an easy-to-use and safe Stellar wallet. Through Scopuly, crypto hold- ers can access all the features of Stellar securely and on all platforms.\r\n\r\nWith Scopuly, you can make payments across the globe in any digital or fiat currency, trade digital assets on the SDEX exchange, issue new tokens, and manage your Stellar account.\r\nScopuly is a new DeFi-like digital banking ecosystem, launched to promote the digital lifestyle and allow people to manage their money online \u2013 quickly and with minimal fees. \r\n\r\nScopuly\u2019s secure, multifaceted ecosystem based on the Stel- lar blockchain enables instant, virtually free online payments anywhere in the world. Scopuly is a blockchain wallet that brings people and businesses closer to a true decentralized digital economy."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ",
+    "url": "https://scopuly.com/",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/SCOP-GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ"
+    ],
+    "twitter": "scopuly",
+    "github_org": "Scopuly"
+}

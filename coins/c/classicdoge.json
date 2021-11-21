@@ -1,0 +1,22 @@
+{
+    "id": "classicdoge",
+    "symbol": "xdoge",
+    "name": "ClassicDoge",
+    "platforms": {
+        "binance-smart-chain": "0xb68a34756d8a92ccc821effa03d802846594b64e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The First Decentralized Pet Ecosystem\r\nShare Pet NFTs, Meet Friends, Join Pet Groups, & Find Local Pet Peers & Services. Even create a Digital PawPrint of Your Pet's Records."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb68a34756d8a92ccc821effa03d802846594b64e",
+    "url": "https://classicdoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xB68A34756D8A92CCc821EFfA03d802846594b64E"
+    ],
+    "twitter": "TheClassicDoge",
+    "telegram": "classicdogeofficial"
+}

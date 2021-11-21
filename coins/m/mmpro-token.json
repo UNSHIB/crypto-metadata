@@ -1,0 +1,22 @@
+{
+    "id": "mmpro-token",
+    "symbol": "mmpro",
+    "name": "MMPRO Token",
+    "platforms": {
+        "binance-smart-chain": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MMPRO Token is a part of our whole ecosystem. The Marketmaking.pro is an agency who provides marketmaking and liquidity services to the exchanges and projects. Besides that we are building a cross chain multi-farming ecosystem. That's what we need MMPRO for. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
+    "url": "https://tokensale.marketmaking.pro/",
+    "explorers": [
+        "https://bscscan.com/token/0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70"
+    ],
+    "twitter": "MarketmakingPro",
+    "telegram": "market_making_pro_eng"
+}

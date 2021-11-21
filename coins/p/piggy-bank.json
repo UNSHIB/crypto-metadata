@@ -1,0 +1,23 @@
+{
+    "id": "piggy-bank",
+    "symbol": "pb",
+    "name": "Piggy Bank",
+    "platforms": {
+        "avalanche": "0x0e75cdb914ddcca683357dd94d26caa39bc14b16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Financial tools to grow your wealth - stake and earn compounding interest"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e75cdb914ddcca683357dd94d26caa39bc14b16",
+    "url": "https://www.piggybankdao.finance/",
+    "explorers": [
+        "https://snowtrace.io/token/0x0e75cdb914ddcca683357dd94d26caa39bc14b16"
+    ],
+    "twitter": "PiggyBankDAO",
+    "telegram": "PiggyBankDAO",
+    "github_org": "PiggyBankDAO"
+}

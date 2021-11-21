@@ -1,0 +1,23 @@
+{
+    "id": "star-ship-royal",
+    "symbol": "SSR",
+    "name": "Star Ship Royal",
+    "platforms": {
+        "binance-smart-chain": "0x29d266b5d6cdc0cd0a775f18fff0176842d4b1d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Star Ship Royal is a browser online game in the setting of a space odyssey. The game will feature both a story line (PVE) and a PVP arena. \r\nThe economic component of the game is based on Blockchain. In the game itself, the unique entities (bases, items, ships) are tied to the NFT on Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x29d266b5d6cdc0cd0a775f18fff0176842d4b1d2",
+    "url": "https://starshiproyal.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x29d266b5d6cdc0cd0a775f18fff0176842d4b1d2"
+    ],
+    "twitter": "starshiproyal",
+    "telegram": "StarshipRoyalCommunity",
+    "reddit": "StarshipRoyalNFT/"
+}

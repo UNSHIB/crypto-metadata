@@ -1,0 +1,23 @@
+{
+    "id": "capital-dao-starter-token",
+    "symbol": "cds",
+    "name": "Capital DAO Starter Token",
+    "platforms": {
+        "ethereum": "0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Web 3.0 begins to permeate every field, many VCs remain in their traditional style.\r\nDisrupt Venture 2.0 and move to Venture 3.0."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e",
+    "url": "https://capital-dao.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e",
+        "https://ethplorer.io/address/0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e"
+    ],
+    "twitter": "Capital_DAO_P",
+    "telegram": "CapitalDAOProtocol"
+}

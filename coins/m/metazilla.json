@@ -1,0 +1,22 @@
+{
+    "id": "metazilla",
+    "symbol": "mz",
+    "name": "MetaZilla",
+    "platforms": {
+        "binance-smart-chain": "0x0d4992e48278aa7f7c915f820743d9fab7fea713"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaZilla is a token designed and created for the new world of the Metaverse.\r\nMetaZilla gaming is coming soon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d4992e48278aa7f7c915f820743d9fab7fea713",
+    "url": "https://metazillabsc.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x0d4992e48278aa7f7c915f820743d9fab7fea713"
+    ],
+    "twitter": "themetazilla",
+    "telegram": "MetaZillaChineseCommunity"
+}

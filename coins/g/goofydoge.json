@@ -1,0 +1,23 @@
+{
+    "id": "goofydoge",
+    "symbol": "GoofyDoge",
+    "name": "GoofyDoge",
+    "platforms": {
+        "binance-smart-chain": "0xea7de2a4973f3b3fc1591972a30781899a0961cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GoofyDoge is a community-based project, aiming to connect the digital and real-world in every way and build a bridge between cartoon universe and crypto world.\r\n\r\nAlbeit the image that Goofy gives us is clumsy and dim-witted, he is a kind dog as Doge's new friend, and always treats others sincerely and does not ask for anything in return. So we hope to to build a friendly and kind-hearted community together, just like Goofy, expressing friendships with the community in a unique and sincere way.\r\n\r\nWhen Doge enters the cartoon universe and starts their new story... together with his new friends, he will bring a fairytale-like world, where dreams come true, to the moon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea7de2a4973f3b3fc1591972a30781899a0961cf",
+    "url": "https://www.goofydoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xea7de2a4973f3b3fc1591972a30781899a0961cf"
+    ],
+    "twitter": "Goofydogecoin",
+    "facebook": "GoofyDogeCoin",
+    "telegram": "GoofyDoge"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "elemon",
+    "symbol": "elmon",
+    "name": "Elemon",
+    "platforms": {
+        "binance-smart-chain": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
+    "url": "https://elemon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xE3233fdb23F1c27aB37Bd66A19a1f1762fCf5f3F",
+        "https://bscscan.com/token/0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f"
+    ],
+    "twitter": "ElemonGame",
+    "telegram": "ElemonOfficial"
+}

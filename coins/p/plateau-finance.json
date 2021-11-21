@@ -1,0 +1,23 @@
+{
+    "id": "plateau-finance",
+    "symbol": "plt",
+    "name": "Plateau Finance",
+    "platforms": {
+        "avalanche": "0xecfe536a209e405db19887830b366e397f5b917a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Compounding Yield Optimizer\r\nBuilt on Avalanche.\r\nAllowing users to reap more crypto with crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xecfe536a209e405db19887830b366e397f5b917a",
+    "url": "https://plateau.finance/",
+    "explorers": [
+        "https://snowtrace.io/token/0xecfe536a209e405db19887830b366e397f5b917a"
+    ],
+    "twitter": "plateau_finance",
+    "telegram": "plateau_fin",
+    "github_org": "Plateau-Finance"
+}

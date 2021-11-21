@@ -1,0 +1,20 @@
+{
+    "id": "social-capitalism",
+    "symbol": "socap",
+    "name": "Social Capitalism",
+    "platforms": {
+        "binance-smart-chain": "0x6fabd3aec027ab898f72e5f9a855a5d740c22cd1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SoCap is based on social capitalism, which explicitly values all forms of capital, including social capital, human capital and natural capital. SoCap combines a business approach, concern for the environment, and attention to fundamental human values. The SoCap ecosystem is a place where respect for privacy, individual freedom and economic freedom are paramount. All cryptocurrencies are based on technology - ours is based on real business products and values, and it uses technology as a tool to achieve overarching goals. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6fabd3aec027ab898f72e5f9a855a5d740c22cd1",
+    "url": "https://www.socap.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x6faBD3aEC027aB898f72E5f9a855a5d740c22cD1"
+    ]
+}

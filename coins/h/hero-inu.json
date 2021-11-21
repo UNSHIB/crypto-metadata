@@ -1,0 +1,26 @@
+{
+    "id": "hero-inu",
+    "symbol": "heros",
+    "name": "Hero Inu",
+    "platforms": {
+        "ethereum": "0x97bfc1700baf347659b525336b967aa375c05b01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hero Inu (HEROS) is a charity focused, NFT based token with original NFT art and community decided charitable contributions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97bfc1700baf347659b525336b967aa375c05b01",
+    "url": "https://www.hero-inu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x97bFC1700bAF347659b525336B967AA375c05b01",
+        "https://ethplorer.io/address/0x97bFC1700bAF347659b525336B967AA375c05b01",
+        "https://etherscan.io/token/0x97bfc1700baf347659b525336b967aa375c05b01",
+        "https://ethplorer.io/address/0x97bfc1700baf347659b525336b967aa375c05b01"
+    ],
+    "twitter": "HeroInuERC20",
+    "telegram": "heroinucoin",
+    "reddit": "https://www.reddit.com"
+}

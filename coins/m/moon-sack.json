@@ -1,0 +1,22 @@
+{
+    "id": "moon-sack",
+    "symbol": "sack",
+    "name": "Moon Sack",
+    "platforms": {
+        "binance-smart-chain": "0x7e24f12b56c870d0e1a6c2085a8f97597fceedea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7e24f12b56c870d0e1a6c2085a8f97597fceedea",
+    "url": "https://www.moonsack.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x7e24f12b56c870d0e1a6c2085a8f97597fceedea"
+    ],
+    "twitter": "MoonSackCoin",
+    "reddit": "SACKCoin/"
+}

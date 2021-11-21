@@ -1,0 +1,23 @@
+{
+    "id": "apricot",
+    "symbol": "apt",
+    "name": "Apricot",
+    "platforms": {
+        "solana": "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Apricot is a next-gen lending protocol that supports leveraged yield farming on Solana. Our mission is to help users maximize yield while protecting their downsides. With Apricot, users can: \r\n1) Deposit assets to earn interests (Apricot Lend)\r\n2) Borrow assets for trading or leveraged yield farming (Apricot Cross-Farm)\r\n3) Pre-configure when and how automated deleveraging takes place (Apricot Assist)\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
+    "url": "https://apricot.one",
+    "explorers": [
+        "https://solscan.io/token/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt"
+    ],
+    "twitter": "ApricotFinance",
+    "telegram": "ApricotOfficial",
+    "github_org": "apricot-finance"
+}

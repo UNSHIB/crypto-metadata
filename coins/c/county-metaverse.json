@@ -1,0 +1,22 @@
+{
+    "id": "county-metaverse",
+    "symbol": "county",
+    "name": "County Metaverse",
+    "platforms": {
+        "binance-smart-chain": "0x1967cabd079fcdd363a044f1444bf00a94558a2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "County Gives you 8% BUSD rewards with only 12% tax. The NFT market overall has ballooned in the past year. We have combined the gaming industry which is expected to grow to 360 Billion USD by 2026 and NFT marketplace which is expected to cross the market value of cryptocurrency itself. We are building a game called county. where people will be creating and setting up cities. Which you can mint and sell."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1967cabd079fcdd363a044f1444bf00a94558a2f",
+    "url": "https://countytoken.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x1967cabd079fcdd363a044f1444bf00a94558a2f"
+    ],
+    "twitter": "County_NFT",
+    "github_org": "tjcv"
+}

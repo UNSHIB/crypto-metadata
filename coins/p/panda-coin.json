@@ -1,0 +1,22 @@
+{
+    "id": "panda-coin",
+    "symbol": "panda",
+    "name": "Panda Coin",
+    "platforms": {
+        "solana": "Aw8qLRHGhMcKq7rxs5XBNCd9oe3BvoAhpNMVz7AdGmty"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Cutest Meme Token in Solana Ecosystem"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "Aw8qLRHGhMcKq7rxs5XBNCd9oe3BvoAhpNMVz7AdGmty",
+    "url": "https://www.pandacrypto.org/",
+    "explorers": [
+        "https://solscan.io/token/Aw8qLRHGhMcKq7rxs5XBNCd9oe3BvoAhpNMVz7AdGmty"
+    ],
+    "twitter": "pandacoin_fi",
+    "telegram": "pandacoin_announcements"
+}

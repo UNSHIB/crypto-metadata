@@ -1,0 +1,23 @@
+{
+    "id": "impactx",
+    "symbol": "impactx",
+    "name": "ImpactX",
+    "platforms": {
+        "ethereum": "0x5af6ad286c8ed6633284f2f135c4716057d52669"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community driven platform giving power and rise to the Impactor, an individual who inspires to be the change they deem needed. Whether in Finance, Ecology or just your local community, Impactors look to leave their mark."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5af6ad286c8ed6633284f2f135c4716057d52669",
+    "url": "http://impacteth.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5af6ad286c8ed6633284f2f135c4716057d52669",
+        "https://ethplorer.io/address/0x5af6ad286c8ed6633284f2f135c4716057d52669"
+    ],
+    "twitter": "ImpactXToken",
+    "telegram": "ImpactXofficial"
+}

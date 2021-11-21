@@ -1,0 +1,24 @@
+{
+    "id": "gm-coin",
+    "symbol": "gm",
+    "name": "Gm Coin",
+    "platforms": {
+        "ethereum": "0x73b8726618f53f84eeb860fd50ab217fdf30dea0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "gm Coin is a memecoin that sits at the intersection of social media and blockchain technologies. The general idea is that the price of the token will reflect the organic propagation of the \"gm\" meme on social platforms. #gm"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73b8726618f53f84eeb860fd50ab217fdf30dea0",
+    "url": "https://gmcoin.eth.link/",
+    "explorers": [
+        "https://etherscan.io/token/0x73b8726618f53f84eeb860fd50ab217fdf30dea0",
+        "https://ethplorer.io/address/0x73b8726618f53f84eeb860fd50ab217fdf30dea0"
+    ],
+    "twitter": "gmcoin_eth",
+    "telegram": "gmCoin_eth",
+    "reddit": "https://www.reddit.com"
+}

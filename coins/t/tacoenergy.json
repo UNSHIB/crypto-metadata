@@ -1,0 +1,22 @@
+{
+    "id": "tacoenergy",
+    "symbol": "tacoe",
+    "name": "TacoEnergy",
+    "platforms": {
+        "binance-smart-chain": "0x441b0882dcfd035766020da6de89c10f03385b99"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TacoEnergy is the first crypto powered energy drink ever made BY a bunch of Chads FOR the entire world! Yeah, that\u2019s right, we are putting on the rocket boosters and headed into outer space with our one-of-kind insane energy blend that will have you primed to do some late night swing trading or snipe a listing or two!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x441b0882dcfd035766020da6de89c10f03385b99",
+    "url": "https://tacoenergy.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x441b0882dcfd035766020da6de89c10f03385b99"
+    ],
+    "twitter": "TacoEnergyToken",
+    "telegram": "TacoEnergyToken"
+}

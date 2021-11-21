@@ -1,0 +1,22 @@
+{
+    "id": "beglobal-finance",
+    "symbol": "glb",
+    "name": "BeGlobal Finance",
+    "platforms": {
+        "binance-smart-chain": "0xcf958b53ec9340886d72bb4f5f2977e8c2ab64d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf958b53ec9340886d72bb4f5f2977e8c2ab64d3",
+    "url": "https://beglobal.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xcf958b53ec9340886d72bb4f5f2977e8c2ab64d3"
+    ],
+    "twitter": "Beglobaldefi",
+    "telegram": "BeGlobalFinance"
+}

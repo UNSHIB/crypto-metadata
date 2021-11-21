@@ -1,0 +1,23 @@
+{
+    "id": "have-fun-staying-poor",
+    "symbol": "hfsp",
+    "name": "Have Fun Staying Poor",
+    "platforms": {
+        "ethereum": "0x7343581f55146951b0f678dc6cfa8fd360e2f353"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HFSP if you don\u2019t buy $HFSP. Your favorite toxic ct lingo is now a coin, with weekly donations to underprivileged communities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7343581f55146951b0f678dc6cfa8fd360e2f353",
+    "url": "https://hfsptoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7343581f55146951b0f678dc6cfa8fd360e2f353",
+        "https://ethplorer.io/address/0x7343581f55146951b0f678dc6cfa8fd360e2f353"
+    ],
+    "twitter": "HFSPEth",
+    "telegram": "HFSPeth"
+}

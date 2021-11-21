@@ -1,0 +1,23 @@
+{
+    "id": "engine-token",
+    "symbol": "engn",
+    "name": "Engine Token",
+    "platforms": {
+        "ethereum": "0xf0d243ee0d7517b1fcf2445ab624ded2dbe3ba54"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ENGN is a blockchain based game mechanics engine that simplifies game development on the blockchain. With Engine developers are able to integrate their existing or new game programs with blockchain features such as P2E, P2P and encrypted servers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0d243ee0d7517b1fcf2445ab624ded2dbe3ba54",
+    "url": "https://engntoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf0d243ee0d7517b1fcf2445ab624ded2dbe3ba54",
+        "https://ethplorer.io/address/0xf0d243ee0d7517b1fcf2445ab624ded2dbe3ba54"
+    ],
+    "telegram": "ENGINEtoken",
+    "github_org": "ENGINEdeployer"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "shinedao",
+    "symbol": "shn",
+    "name": "ShineDAO",
+    "platforms": {
+        "ethereum": "0x1c7ede23b1361acc098a1e357c9085d131b34a01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShineDAO community is a group ambitious contributors with different backgrounds, skill levels, and availability. We share a mission to found, support, and become early adopters of promising blockchain technology.\r\n\r\nSupporters need to hold a predefined amount of SHN to get the right to participate in seed-sale and IDO of incubated projects and access the Supporters Hub in our Discord server. Users will be automatically removed from the Supporters Hub if their SHN balance falls below the minimum threshold.\r\n\r\nSHN as a governance token enables community participation in selecting incubated projects, guiding the direction of the DAO, and usage of funds in our treasury. Facilitation of this process is done through continuous approval voting whereby holders of SHN create and participate in various initiatives and funding proposals.\r\n\r\nAll community members are incentivized to scout interesting new projects and contribute to the development. The contributors that have actively contributed to accelerating incubated projects\u2019 success are rewarded with SHN tokens and access to the seed-sale or IDO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c7ede23b1361acc098a1e357c9085d131b34a01",
+    "url": "https://shinedao.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1c7ede23b1361acc098a1e357c9085d131b34a01",
+        "https://ethplorer.io/address/0x1c7ede23b1361acc098a1e357c9085d131b34a01"
+    ],
+    "twitter": "ShineDAO_",
+    "github_org": "ShineDAO"
+}

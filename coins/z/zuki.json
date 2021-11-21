@@ -1,0 +1,24 @@
+{
+    "id": "zuki",
+    "symbol": "zuki",
+    "name": "Zuki",
+    "platforms": {
+        "ethereum": "0xe561c5973a3ef6aec52b8b1b10eb529c69e1bfc8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zuki will be the official currency as well as the reward token for our upcoming Tsuzuki games.  You will be able to use it for trading ingame items and you will earn it while playing the game!\r\n\r\nTsuzuki is the alpha token of the Metaverse. Zuki is additional support that is required to make it work."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe561c5973a3ef6aec52b8b1b10eb529c69e1bfc8",
+    "url": "https://www.tzki.org/zuki",
+    "explorers": [
+        "https://etherscan.io/token/0xe561c5973a3ef6aec52b8b1b10eb529c69e1bfc8",
+        "https://ethplorer.io/address/0xe561c5973a3ef6aec52b8b1b10eb529c69e1bfc8"
+    ],
+    "twitter": "TsuzukiProject",
+    "telegram": "ZukiTsuzukiETH",
+    "github_org": "TsuzukiInu"
+}

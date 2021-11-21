@@ -1,0 +1,24 @@
+{
+    "id": "nzd-stablecoin",
+    "symbol": "nzds",
+    "name": "NZD Stablecoin",
+    "platforms": {
+        "ethereum": "0xda446fad08277b4d2591536f204e018f32b6831c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "\u201cNZDs\u201d is a New Zealand Dollar stablecoin backed 1:1 with physical New Zealand Dollars in a cash and cash equivalent treasury managed by a New Zealand registered Financial Services Provider (FSP). The New Zealand Dollar cash (and cash equivalents) which underpin NZDs are held \r\n\r\non bare trust for holders of NZDs (Holders) under a bare trust deed and thus the trust funds of Holders will not form part of the assets of the NZDs issuer in the event of a liquidation. New Zealand\u2019s currency is a leader in adaptability, resilience and market trust. NZD is the 10th most traded \r\n\r\ncurrency globally. The NZD stablecoin will offer cryptocurrency users the stability and utility of the New Zealand Dollar with the versatility of a cryptocurrency. NZDs will have governance, management and transparency processes and procedures, with a focus on operations and compliance \r\n\r\nday-to-day. Techemynt is the issuer of NZDs and is a Registered Financial Service Provider (FSP: 9429048880428). NZDs may be made available to people who have an account on the Techemynt portal. NZDs will eventually be listed on exchanges to enable secondary trading. Techemynt \r\n\r\ngenerates returns through interest on the deposited New Zealand Dollars and through stabilizing the NZDs market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xda446fad08277b4d2591536f204e018f32b6831c",
+    "url": "https://www.techemynt.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xda446fad08277b4d2591536f204e018f32b6831c",
+        "https://ethplorer.io/address/0xda446fad08277b4d2591536f204e018f32b6831c"
+    ],
+    "twitter": "techemynt"
+}

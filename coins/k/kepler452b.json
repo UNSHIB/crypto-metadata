@@ -1,0 +1,22 @@
+{
+    "id": "kepler452b",
+    "symbol": "452b",
+    "name": "Kepler452b",
+    "platforms": {
+        "binance-smart-chain": "0xc4544edef986eac0592516b6de4968da2405452b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "kepler452b is a fun meta-universe that aims to create a new and more intriguing world. The project was created by early DAO members and took a total of tens of months from inception to final shape. We were fortunate to be joined by very talented people during the process, such as our brilliant original illustrator.\r\nWe designed an economic model for the project with $452b at its core, and it was tightly integrated with the 7452 NFTs that formed the initial cycle of the project, from which a variety of ways to play were derived."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc4544edef986eac0592516b6de4968da2405452b",
+    "url": "https://kepler452b.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xc4544edef986eac0592516b6de4968da2405452b"
+    ],
+    "twitter": "452bVerse",
+    "telegram": "Kepler425bVerse"
+}

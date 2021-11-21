@@ -1,0 +1,22 @@
+{
+    "id": "hunterdoge",
+    "symbol": "$hd",
+    "name": "HunterDoge",
+    "platforms": {
+        "binance-smart-chain": "0xa27895467940fe37e461046870db5235b5977103"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first Research Platform of its Kind - fully free of any bots/manipulations!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa27895467940fe37e461046870db5235b5977103",
+    "url": "https://hunterdoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa27895467940fe37e461046870db5235b5977103"
+    ],
+    "twitter": "hunterdoge_",
+    "telegram": "hunterdogeofficial"
+}

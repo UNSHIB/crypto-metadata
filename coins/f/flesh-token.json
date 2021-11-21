@@ -1,0 +1,23 @@
+{
+    "id": "flesh-token",
+    "symbol": "flesh",
+    "name": "Flesh Token",
+    "platforms": {
+        "ethereum": "0x25d4bfeeae3360e68c466c65a5e8f8d5cebc5093"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flesh tokens are the utility of the Crypto Zombiez zombieverse. Earn flesh by staking Crypto Zombiez and get access to utilities such as breeding, lore change, name change, buying items in the flesh market, and more!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25d4bfeeae3360e68c466c65a5e8f8d5cebc5093",
+    "url": "http://cryptozombiez.io",
+    "explorers": [
+        "https://etherscan.io/token/0x25d4BFeeaE3360E68C466c65A5E8f8D5CEBc5093",
+        "https://ethplorer.io/address/0x25d4bfeeae3360e68c466c65a5e8f8d5cebc5093",
+        "https://etherscan.io/token/0x25d4bfeeae3360e68c466c65a5e8f8d5cebc5093"
+    ],
+    "twitter": "cryptozombiez_"
+}

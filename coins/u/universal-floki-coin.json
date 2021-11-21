@@ -1,0 +1,23 @@
+{
+    "id": "universal-floki-coin",
+    "symbol": "ufloki",
+    "name": "Universal Floki Coin",
+    "platforms": {
+        "binance-smart-chain": "0xe6e2454bd6d85e52309bfb6a3e3521e83c53da8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A deflationary token meme token that rewards holders through automatic redistribution. Our aim is to change the way meme tokens work and continue evolving the floki!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe6e2454bd6d85e52309bfb6a3e3521e83c53da8a",
+    "url": "https://www.universalfloki.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe6e2454bd6d85e52309bfb6a3e3521e83c53da8a"
+    ],
+    "twitter": "universalfloki",
+    "telegram": "universalflokichat",
+    "github_org": "universalflokibsc"
+}

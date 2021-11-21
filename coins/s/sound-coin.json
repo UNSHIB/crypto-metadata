@@ -1,0 +1,23 @@
+{
+    "id": "sound-coin",
+    "symbol": "sound",
+    "name": "Sound Coin",
+    "platforms": {
+        "binance-smart-chain": "0x4cbdeb687443e2e4dcea1a955186b86c365a2e20"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Attend Events, Exchange NFTs, and stream music from your favorite artists."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4cbdeb687443e2e4dcea1a955186b86c365a2e20",
+    "url": "https://www.soundbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4cbdeb687443e2e4dcea1a955186b86c365a2e20"
+    ],
+    "twitter": "soundbsc",
+    "telegram": "soundbsc",
+    "github_org": "soundtoken"
+}

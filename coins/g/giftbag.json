@@ -1,0 +1,22 @@
+{
+    "id": "giftbag",
+    "symbol": "gbag",
+    "name": "Giftbag",
+    "platforms": {
+        "binance-smart-chain": "0x6820f244b81d0906d70266cc9bccc2a8eaa5464c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Giftbag is a community token based on unique NFT art through an ecosystem where artists, influencers, celebrities and athletes coexist as a community to create the ultimate ownership experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6820f244b81d0906d70266cc9bccc2a8eaa5464c",
+    "url": "https://giftbag.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6820f244b81d0906D70266Cc9bCcC2A8EAa5464c"
+    ],
+    "twitter": "giftbag_io",
+    "telegram": "giftbag_official"
+}

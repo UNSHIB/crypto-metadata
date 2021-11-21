@@ -1,0 +1,22 @@
+{
+    "id": "x99token",
+    "symbol": "x99",
+    "name": "x99Token",
+    "platforms": {
+        "binance-smart-chain": "0x3e520f16ac21c271db7117e8d6574b81fdc9f66c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e520f16ac21c271db7117e8d6574b81fdc9f66c",
+    "url": "https://www.x99token.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3e520f16ac21c271db7117e8d6574b81fdc9f66c"
+    ],
+    "twitter": "x99token",
+    "telegram": "x99token"
+}

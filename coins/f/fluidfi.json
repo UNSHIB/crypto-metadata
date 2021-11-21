@@ -1,0 +1,22 @@
+{
+    "id": "fluidfi",
+    "symbol": "fluid",
+    "name": "FluidFi",
+    "platforms": {
+        "arbitrum-one": "0x876ec6be52486eeec06bc06434f3e629d695c6ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokenized equity in Fluid Finance SA \r\nThe bank alternative based in Switzerland. \r\n\r\nAt FluidFi we work with our community to take the best of traditional banking  and combine it with DeFi technology.\r\n\r\nTogether, we\u2019re on a mission to create a new banking model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x876ec6be52486eeec06bc06434f3e629d695c6ba",
+    "url": "https://fluidfi.ch/",
+    "explorers": [
+        "https://arbiscan.io/token/0x876ec6be52486eeec06bc06434f3e629d695c6ba"
+    ],
+    "twitter": "fluid_fi",
+    "telegram": "fluid_fi"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "4bulls",
+    "symbol": "4b",
+    "name": "4Bulls",
+    "platforms": {
+        "ethereum": "0x43b72464a93687dc2f14d5e49086e641d011b890"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "4Bulls is a decentralized ecosystem that consists of several DeFi products."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43b72464a93687dc2f14d5e49086e641d011b890",
+    "url": "https://4bulls.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x43b72464a93687dc2f14d5e49086e641d011b890",
+        "https://ethplorer.io/address/0x43b72464a93687dc2f14d5e49086e641d011b890"
+    ],
+    "twitter": "4BullsTeam"
+}

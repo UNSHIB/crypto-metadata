@@ -1,0 +1,23 @@
+{
+    "id": "flokipetworld",
+    "symbol": "FPET",
+    "name": "Flokipetworld",
+    "platforms": {
+        "binance-smart-chain": "0x82f669db5aa5ac4a87e7ba23a3527395930b2295"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flokipetworld is a meme coin inspired by Floki and NFT. We are bringing to you the most adorable Floki pets on the blockchain. Trade, collect and diversify your portfolio with a tokenized meme economy. FPET is a defi coin that you'll actually love to hold"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82f669db5aa5ac4a87e7ba23a3527395930b2295",
+    "url": "https://www.flokipet.shop/",
+    "explorers": [
+        "https://bscscan.com/token/0x82f669db5AA5Ac4A87E7Ba23a3527395930B2295",
+        "https://bscscan.com/token/0x82f669db5aa5ac4a87e7ba23a3527395930b2295"
+    ],
+    "twitter": "flokipetworld",
+    "telegram": "flokiworldpet1"
+}

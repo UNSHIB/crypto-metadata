@@ -1,0 +1,22 @@
+{
+    "id": "maximus",
+    "symbol": "maxi",
+    "name": "Maximus",
+    "platforms": {
+        "avalanche": "0x885d748c00a279b67a7749ec6b03301700dd0455"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Maximus is a new generation Yield Farming Aggregator & Optimizer for Avalanche!\r\nMaximus brings a new breath to the Avalanche ecosystem with its unique features and will be providing the most lucrative financial tools to the whole ecosystem through a new token architecture that keeps its price proportional to AVAX with auto buybacks and allows the best mechanisms for people who like to earn other tokens from other projects via various compounders and maximizers while providing a strong token utility and no sell pressure on other projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x885d748c00a279b67a7749ec6b03301700dd0455",
+    "url": "https://www.maximus.farm",
+    "explorers": [
+        "https://snowtrace.io/token/0x885d748c00a279b67a7749ec6b03301700dd0455"
+    ],
+    "twitter": "maximusfarm",
+    "telegram": "maximusfarm"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "gma",
+    "symbol": "gma",
+    "name": "GMA",
+    "platforms": {
+        "avalanche": "0xb092214663b7cb2e0497825aa4cecd5dbd3a178b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "gm is how we greet each other everyday. gma is how we greet each other everyday on Avalanche.\r\n\r\ngas has no place in your gm."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb092214663b7cb2e0497825aa4cecd5dbd3a178b",
+    "url": "https://avagm.io/",
+    "explorers": [
+        "https://snowtrace.io/token/0xb092214663b7cb2e0497825aa4cecd5dbd3a178b"
+    ],
+    "twitter": "AVAGMTOYOU",
+    "telegram": "avagmtoyoutg"
+}

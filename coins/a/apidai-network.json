@@ -1,0 +1,23 @@
+{
+    "id": "apidai-network",
+    "symbol": "apidai",
+    "name": "Apidai Network",
+    "platforms": {
+        "binance-smart-chain": "0x1dbea177ced3dfaedc37223916ed6d7b05bf3247"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Apidai is a fully decentralized, extremely scalable blockchain project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1dbea177ced3dfaedc37223916ed6d7b05bf3247",
+    "url": "https://apidai.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x1dbea177ced3dfaedc37223916ed6d7b05bf3247"
+    ],
+    "twitter": "apidaiofficial",
+    "telegram": "apidaiofficial",
+    "reddit": "apidaiofficial/"
+}

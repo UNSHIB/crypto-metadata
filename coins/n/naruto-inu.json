@@ -1,0 +1,24 @@
+{
+    "id": "naruto-inu",
+    "symbol": "NARUTO",
+    "name": "Naruto Inu",
+    "platforms": {
+        "ethereum": "0xbfce0e06dedcbea3e170ba4df2a6793334cac5ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Nartuto, The Ruler of Anime has come to conquer crypto.\r\n\r\nAfter seeing the success of his fellow characters, Naruto has returned to lead the way.\r\n\r\nStarting with his own Play To Earn Game inspired by the famous game \u2019Temple Run\u2019.\r\n\r\nThe next chapter of the World famous manga series will evolve in the decentralised gaming crypto-sphere."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbfce0e06dedcbea3e170ba4df2a6793334cac5ef",
+    "url": "https://narutoinucoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbfce0e06dedcbea3e170ba4df2a6793334cac5ef",
+        "https://ethplorer.io/address/0xbfce0e06dedcbea3e170ba4df2a6793334cac5ef"
+    ],
+    "twitter": "NARUTOINUETH",
+    "telegram": "NarutoInuToken",
+    "github_org": "NARUTOINU"
+}

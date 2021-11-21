@@ -1,0 +1,23 @@
+{
+    "id": "shiba-inu-billionaire",
+    "symbol": "shibib",
+    "name": "Shiba Inu Billionaire",
+    "platforms": {
+        "binance-smart-chain": "0xb21226a767f255d96163410ff13b010b644df0a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Brother of the Legendary Shiba Inu. A Decentralized Meme Token Evolution. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb21226a767f255d96163410ff13b010b644df0a6",
+    "url": "https://shibibtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb21226a767f255d96163410ff13b010b644df0a6"
+    ],
+    "twitter": "ShibaInuBill",
+    "telegram": "ShibaInuBillionaire",
+    "reddit": "https://www.reddit.com"
+}

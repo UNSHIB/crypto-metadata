@@ -1,0 +1,23 @@
+{
+    "id": "the-spartans",
+    "symbol": "tsp",
+    "name": "The Spartans",
+    "platforms": {
+        "binance-smart-chain": "0x930cec48eddc7f80afad2b08997d0a43912b80d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x930cec48eddc7f80afad2b08997d0a43912b80d4",
+    "url": "https://thespartans.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x930CEc48eddC7f80AFaD2b08997D0A43912B80d4",
+        "https://bscscan.com/token/0x930cec48eddc7f80afad2b08997d0a43912b80d4"
+    ],
+    "twitter": "TheSpartansBSC",
+    "telegram": "thespartanscommunity"
+}

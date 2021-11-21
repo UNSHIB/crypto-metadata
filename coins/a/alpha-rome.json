@@ -1,0 +1,21 @@
+{
+    "id": "alpha-rome",
+    "symbol": "aROME",
+    "name": "Alpha Rome",
+    "platforms": {
+        "moonriver": "0x3d2d044e8c6dad46b4f7896418d3d4dfaad902be"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d2d044e8c6dad46b4f7896418d3d4dfaad902be",
+    "url": "https://romedao.finance/",
+    "explorers": [
+        "https://moonriver.moonscan.io/token/0x3d2d044e8c6dad46b4f7896418d3d4dfaad902be"
+    ],
+    "twitter": "romedaofinance"
+}

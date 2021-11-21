@@ -1,0 +1,22 @@
+{
+    "id": "reverse-protocol",
+    "symbol": "rvrs",
+    "name": "Reverse Protocol",
+    "platforms": {
+        "harmony-shard-0": "0xed0b4b0f0e2c17646682fc98ace09feb99af3ade"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Reverse Protocol is a unique, OHM-Esque yield generating and treasury strategies protocol built on the Harmony Blockchain, using the Defi Kingdoms DEX liquidity pools. Reverse introduces game-theory-inspired products which aim to ensure the long-term sustainability of the protocol, namely: bonding pools, decentralized treasury management, composable and double-layered single-staking through sRVRS (a derivative of Reverse\u2019s native token RVRS), and rebased APYs for liquidity providers. The protocol's treasury mints RVRS tokens on each block, the majority of which are distributed through bonding pools, single-asset auto-compounding staking, and liquidity incentives. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed0b4b0f0e2c17646682fc98ace09feb99af3ade",
+    "url": "https://app.reverseprotocol.one/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0xed0b4b0f0e2c17646682fc98ace09feb99af3ade"
+    ],
+    "twitter": "RVRSProtocol",
+    "github_org": "ReverseProtocol"
+}

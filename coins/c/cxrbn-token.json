@@ -1,0 +1,23 @@
+{
+    "id": "cxrbn-token",
+    "symbol": "cxrbn",
+    "name": "CXRBN Token",
+    "platforms": {
+        "ethereum": "0x720def948b1891a0ba2ca21964e2e5d0a806bc19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TCC was launched with green ethos at heart and with the revolutionary idea to tokenise carbon credits. It is an interesting time in the world of ESG and Blockchain and one thing on everyone's mind as highlighted by Elon Musk is how we are impacting the planet. One industry secret on the reduction of carbon is through carbon offsetting and this is most commonly done via Carbon Credits. TCC has been innovative in it's approach working with the largest corporations globally that are already existing service providers of the group and are proud members of The Crypto Climate Accord advising blockchain companies such as Ripple on how to reduce their carbon footprint. With the growing need for energy and carbon offsetting to meet global targets we feel we have perfectly positioned ourselves to be able to benefit from the growing demand seen in the market today. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x720def948b1891a0ba2ca21964e2e5d0a806bc19",
+    "url": "https://www.carbonco.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x720def948b1891a0ba2ca21964e2e5d0a806bc19",
+        "https://ethplorer.io/address/0x720def948b1891a0ba2ca21964e2e5d0a806bc19"
+    ],
+    "twitter": "Carboncoin1",
+    "telegram": "TheCarbonCoin"
+}

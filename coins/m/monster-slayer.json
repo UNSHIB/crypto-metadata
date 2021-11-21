@@ -1,0 +1,22 @@
+{
+    "id": "monster-slayer",
+    "symbol": "ms",
+    "name": "Monster Slayer",
+    "platforms": {
+        "binance-smart-chain": "0x16a7fa783378da47a4f09613296b0b2dd2b08d06"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Monster Slayer is an esport game based on blockchain technology.\r\nStart your adventure and win PvE tournaments to earn real money.\r\nFree to play, play to earn, now!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16a7fa783378da47a4f09613296b0b2dd2b08d06",
+    "url": "https://monsterslayer.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x16a7fa783378da47a4f09613296b0b2dd2b08d06"
+    ],
+    "twitter": "MonsterSlayerMS",
+    "telegram": "MSCrypto_Official"
+}

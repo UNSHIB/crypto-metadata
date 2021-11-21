@@ -1,0 +1,22 @@
+{
+    "id": "stadium-pepe",
+    "symbol": "SPEP",
+    "name": "Stadium Pepe",
+    "platforms": {
+        "binance-smart-chain": "0x5c2d4caefae1b1a746706aca1bdded72d463215e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stadium Finance is a first-of-its-kind blockchain game, in which tokens battle for financial supremacy using the mechanics of decentralized exchange liquidity pools as a battleground. Players can earn value by holding the token of the winning team, or strategically switching teams.\r\n\r\nStadium is at the forefront of blockchain gaming innovation, with functionality which could not have been possible before the existence and popularization of decentralized exchanges and automated market making (AMM). We are proud to be pioneering this concept of \u201cliquidity battles\u201d, and plan to continue to develop and innovate Stadium through enhancements and improvements. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5c2d4caefae1b1a746706aca1bdded72d463215e",
+    "url": "https://www.stadium.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5c2d4caEfAE1B1a746706acA1bDDed72D463215e"
+    ],
+    "twitter": "PepeBattleToken",
+    "telegram": "PepeBarracks"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "fomo-baby",
+    "symbol": "fomobaby",
+    "name": "FOMO BABY",
+    "platforms": {
+        "binance-smart-chain": "0x82d6e409438e9c2eaed8ceec4bd95918cbd17c87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FOMO BABY is a deflationary rebasing token with an automated liquidity feature, Staking options, NFT\u2019s & Lottery Draws.\r\nOur rebasing feature is mathematically structured to increase the price which will cause the charts to constantly stay green."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82d6e409438e9c2eaed8ceec4bd95918cbd17c87",
+    "url": "https://www.fomobaby.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x82d6e409438e9c2eaed8ceec4bd95918cbd17c87"
+    ],
+    "twitter": "fomobabybsc",
+    "telegram": "fomobabytelegram",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "luckytoken",
+    "symbol": "lkt",
+    "name": "LuckyToken",
+    "platforms": {
+        "binance-smart-chain": "0xd294affd029d89054496675c52693b12decfd6dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LuckyToken is a BSC provably fair casino."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd294affd029d89054496675c52693b12decfd6dc",
+    "url": "https://luckytokenbsc.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xd294affd029d89054496675c52693b12decfd6dc"
+    ],
+    "twitter": "lucky_token_bsc",
+    "telegram": "luckytokencasino"
+}

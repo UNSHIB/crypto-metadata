@@ -1,0 +1,23 @@
+{
+    "id": "nemesis-dao",
+    "symbol": "nms",
+    "name": "Nemesis DAO",
+    "platforms": {
+        "binance-smart-chain": "0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Treasury Protocol with Reserve Currency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3",
+    "url": "https://nemesisdao.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3"
+    ],
+    "twitter": "Nemesis_DAO",
+    "telegram": "nemesisdao",
+    "github_org": "NemesisDao"
+}

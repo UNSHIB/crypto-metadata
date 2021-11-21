@@ -1,0 +1,23 @@
+{
+    "id": "cryptogodz",
+    "symbol": "godz",
+    "name": "Cryptogodz",
+    "platforms": {
+        "binance-smart-chain": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptogodz is a universe of P2P NFT gaming inspired by one of the biggest game in history, DOTA 2. We use Oracle to balance the game rewards and minting so reinvesting will never be an issue."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+    "url": "https://cryptogodz.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43"
+    ],
+    "twitter": "CryptogodzNFTG",
+    "telegram": "cryptogodz1",
+    "github_org": "CryptoGodz"
+}

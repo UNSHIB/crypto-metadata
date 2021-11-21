@@ -1,0 +1,25 @@
+{
+    "id": "altera",
+    "symbol": "aen",
+    "name": "Altera",
+    "platforms": {
+        "binance-smart-chain": "0x9ed1e698f81dabd2fc89406ffdd54951ba35b0a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "By using decentralized finance to completely host, create, and secure web environments, a new form of web infrastructure can be created solving the big metadata problem that dominates modern day internet . A single web3 wallet able to connect to an interface of countless web2 services. Altera Protocol develops technology that hopes to contributes to the ending of a period of insecurity and privacy breach. \r\n\r\nExternal Developers that host and create web applications using the Altera Software Development kit will also be part of the same metadata-free infrastructure created by the protocol. Additionally it uses the proof of stake consensus to finance paid cloud services, e.g. VPN, Domains, Server Hosting, API, Web Storage, and a lot more. Thereby truly creating an internet of blockchains.\r\n\r\nThe Web2 usage of Web3 is tremendous and to help improve global application the interoperability should improve drastically. By combining DeFi with paid cloud services the project will create a new playing field for software engineers and overall web3 users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9ed1e698f81dabd2fc89406ffdd54951ba35b0a9",
+    "url": "https://aen.network",
+    "explorers": [
+        "https://bscscan.com/token/0x9eD1e698f81daBd2Fc89406FFDD54951BA35B0A9",
+        "https://bscscan.com/token/0x9ed1e698f81dabd2fc89406ffdd54951ba35b0a9"
+    ],
+    "twitter": "altera_update",
+    "telegram": "AlteraTech",
+    "reddit": "altera/",
+    "github_org": "Developersvpn"
+}

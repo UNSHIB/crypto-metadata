@@ -1,0 +1,23 @@
+{
+    "id": "metabean",
+    "symbol": "metabean",
+    "name": "MetaBean",
+    "platforms": {
+        "binance-smart-chain": "0x5707c55c8190c6c9ab5e355a1168568e88196556"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaBean is a community-driven token that provides a use case; A unique NFT marketplace where you'll be able to buy and sell our very original NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5707c55c8190c6c9ab5e355a1168568e88196556",
+    "url": "https://metabean.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5707c55c8190c6c9ab5e355a1168568e88196556"
+    ],
+    "twitter": "MetaBeanToken",
+    "telegram": "MetaBean",
+    "reddit": "MetaBean/"
+}

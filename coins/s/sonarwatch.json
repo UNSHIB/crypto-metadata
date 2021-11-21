@@ -1,0 +1,21 @@
+{
+    "id": "sonarwatch",
+    "symbol": "sonar",
+    "name": "SonarWatch",
+    "platforms": {
+        "solana": "sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sonar is a tracking tool on Solana Blockchain that aim to show on a single page the DeFi investments of a public address."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE",
+    "url": "https://sonar.watch/",
+    "explorers": [
+        "https://solscan.io/token/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE"
+    ],
+    "twitter": "Sonarwatch"
+}

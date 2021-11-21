@@ -1,0 +1,24 @@
+{
+    "id": "lunar",
+    "symbol": "lnr",
+    "name": "Lunar",
+    "platforms": {
+        "binance-smart-chain": "0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lunar (LNR) is a DeFi ecosystem that aims to solve the biggest problems preventing crypto from true mass adoption. This starts with their Lunar DEX, which initially aims to streamline the entire process of BSC token trading into a single platform with a frictionless user experience. \r\nAt the core of the Lunar Ecosystem is the Lunar Token (LNR), which distributes 3% of LNR transactions and a percentage of Lunar DEX transactions to holders in passive earnings. The ecosystem also includes an NFT collection, Lunar Legion, that receives 0.5% of LNR transactions in passive reflections."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1",
+    "url": "https://www.lunardefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1"
+    ],
+    "twitter": "lnrdefi",
+    "telegram": "lnrDefi",
+    "reddit": "lnrDefi/",
+    "github_org": "LunarLegionBsc"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "fanterra",
+    "symbol": "fterra",
+    "name": "FanTerra",
+    "platforms": {
+        "fantom": "0x595de67bc0a1ef8925807ea08f8dcb167831f80e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralised stable-yield aggregating farm on Fantom Network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x595de67bc0a1ef8925807ea08f8dcb167831f80e",
+    "url": "https://app.fanterra.finance",
+    "explorers": [
+        "https://ftmscan.com/token/0x595DE67BC0a1eF8925807Ea08f8dcb167831f80e"
+    ],
+    "twitter": "avaterrafinance",
+    "telegram": "avaterra"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ecchi-coin",
+    "symbol": "ecchi",
+    "name": "Ecchi Coin",
+    "platforms": {
+        "binance-smart-chain": "0x5609366c91d87e6aad1f880999825da4875c2054"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EcchiCoin is a community-funded cryptocurrency that is an anime-themed BEP-20 token on the Binance Smart Chain. It intends to use the token as a Kickstarter for our Anime series."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5609366c91d87e6aad1f880999825da4875c2054",
+    "url": "https://ecchicoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5609366c91d87e6aad1f880999825da4875c2054"
+    ],
+    "twitter": "Ecchi_Coin",
+    "telegram": "Ecchicoinofficial",
+    "reddit": "EcchiCoin/",
+    "github_org": "Ecchi-Devs"
+}

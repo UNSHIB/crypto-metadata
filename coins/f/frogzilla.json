@@ -1,0 +1,23 @@
+{
+    "id": "frogzilla",
+    "symbol": "FZL",
+    "name": "FrogZilla",
+    "platforms": {
+        "binance-smart-chain": "0x72fd99c313068267d06af74f0f0f5e6697a5f67b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Welcome to Frogzilla, the first BSC token designed to reward holders while playing mini games thanks to its unique tokenomics.\r\n\r\nThe main utility of FrogZilla is to gather an enormous community around mini-games to become the main gaming platform on the Binance Smart Chain (BSC). Every week, our holders are going to compete on our platform to earn an amazing prize pool never created on the BSC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72fd99c313068267d06af74f0f0f5e6697a5f67b",
+    "url": "https://frogzilla.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x72fD99C313068267D06af74F0f0f5E6697a5F67B"
+    ],
+    "twitter": "FrogZillaBsc",
+    "telegram": "frogzilla",
+    "github_org": "frogzillabsc"
+}

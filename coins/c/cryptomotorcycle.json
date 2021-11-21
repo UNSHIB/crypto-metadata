@@ -1,0 +1,22 @@
+{
+    "id": "cryptomotorcycle",
+    "symbol": "cmc",
+    "name": "CryptoMotorcycle",
+    "platforms": {
+        "binance-smart-chain": "0x8255e7b6fd3467adf0c092a18ae01879627a9755"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Every motorcycle is represented by a non-fungible token (NFT). Owning this token means you are the sole owner of this motorcycle.\r\nCryptoMotorcycle use standard BEP-721 to create NFT Token. That can help players easy to manage their NFT across Binance Smart Chain ecosystem.\r\nCryptoMotorcycle Token (CMC) was deployed on Binance Smart Chain with standard BEP-20."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8255e7b6fd3467adf0c092a18ae01879627a9755",
+    "url": "https://cryptomotorcycle.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x8255e7b6fd3467adf0c092a18ae01879627a9755"
+    ],
+    "twitter": "CryptMotorcycle",
+    "telegram": "CryptoMotorCycleOfficialenglish"
+}

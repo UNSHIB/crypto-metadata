@@ -1,0 +1,24 @@
+{
+    "id": "crypto-twitter",
+    "symbol": "ct",
+    "name": "Crypto Twitter",
+    "platforms": {
+        "ethereum": "0x2e9cce8c3bf731f9bfc39e3d345a70907f454d40"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Twitter is for those who fell. And rose again. Those who went x100 and -90% within the same day. For the ones that look at their phones far too often. \r\nThe meme token is created as a gratitude for all the hours of scrolling on crypto twitter."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e9cce8c3bf731f9bfc39e3d345a70907f454d40",
+    "url": "https://www.ctwagmi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2e9cce8c3bf731f9bfc39e3d345a70907f454d40",
+        "https://etherscan.io/token/0x2E9CcE8C3Bf731f9bfC39e3D345A70907f454d40",
+        "https://ethplorer.io/address/0x2e9cce8c3bf731f9bfc39e3d345a70907f454d40"
+    ],
+    "twitter": "ctwagmi",
+    "telegram": "CryptoTwitterPublic"
+}

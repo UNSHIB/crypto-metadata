@@ -1,0 +1,23 @@
+{
+    "id": "adena-finance",
+    "symbol": "adena",
+    "name": "Adena Finance",
+    "platforms": {
+        "harmony-shard-0": "0x97594e465e6b4df48e58327f566a3f79e9274655"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Adena Finance is an AMM on the HarmonyOne Blockchain. The goal of Adena is to be a one-stop DeFi platform and provide useful services.\r\nWith features like the Faucet, Locker and a planned Launchpad, we aim to be a major part of the Harmony Ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97594e465e6b4df48e58327f566a3f79e9274655",
+    "url": "https://adena.finance/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x97594e465e6b4df48e58327f566a3f79e9274655"
+    ],
+    "twitter": "adenafinance",
+    "telegram": "adenafinance",
+    "github_org": "adenafinance"
+}

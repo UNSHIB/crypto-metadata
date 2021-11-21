@@ -1,0 +1,22 @@
+{
+    "id": "ethersniper",
+    "symbol": "ets",
+    "name": "Ethersniper",
+    "platforms": {
+        "binance-smart-chain": "0x080f2ed125c2e41e979d1ae9f8ef8c262b344855"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ethsniper is the next generation gaming NFT platform.\r\n\r\nEthsniper is the first blockchain powered shooting game with Ethereum reflection.\r\n\r\nHold Ets tokens and get rewarded in Ethereum on every transaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x080f2ed125c2e41e979d1ae9f8ef8c262b344855",
+    "url": "https://ethsniper.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x080f2ed125C2E41E979d1Ae9F8EF8c262B344855"
+    ],
+    "twitter": "ethsniper",
+    "telegram": "ethsniper1"
+}

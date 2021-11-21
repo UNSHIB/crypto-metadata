@@ -1,0 +1,25 @@
+{
+    "id": "matrix-samurai",
+    "symbol": "mxs",
+    "name": "Marketing Samurai",
+    "platforms": {
+        "ethereum": "0x8d95026d139f855b1458f3b8f48960c103d21abb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MXS can handle all your marketing needs with Macro Shilling, Manual Shilling, Content Creation, Social Media Buildout and community engagement. Gain a fully integrated department without the big cost and stress of adding new staff to your team; for new launches and well-established coins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d95026d139f855b1458f3b8f48960c103d21abb",
+    "url": "https://www.mxsamurai.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8d95026d139f855b1458f3b8f48960c103d21abb",
+        "https://ethplorer.io/address/0x8d95026d139f855b1458f3b8f48960c103d21abb"
+    ],
+    "twitter": "MXStoken",
+    "telegram": "MxSamuraiToken",
+    "reddit": "MXSamuraiToken",
+    "github_org": "mx-samurai"
+}

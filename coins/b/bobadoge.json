@@ -1,0 +1,23 @@
+{
+    "id": "bobadoge",
+    "symbol": "bdoge",
+    "name": "BobaDoge",
+    "platforms": {
+        "boba": "0x121636c43e96d97ab00b6c6994cddebef27de1c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BobaDoge is the first Dog coin as well as one of the first native tokens to launch on the newly released Boba network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x121636c43e96d97ab00b6c6994cddebef27de1c7",
+    "url": "https://thebobadoge.com",
+    "explorers": [
+        "https://blockexplorer.boba.network/tokens/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/token-transfers",
+        "https://blockexplorer.boba.network/"
+    ],
+    "twitter": "BobaDoge",
+    "telegram": "thebobadoge"
+}

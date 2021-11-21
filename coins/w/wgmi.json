@@ -1,0 +1,23 @@
+{
+    "id": "wgmi",
+    "symbol": "wgmi",
+    "name": "WGMI",
+    "platforms": {
+        "ethereum": "0x20f6a313cb250062331fe70b9567e3ee5f01888b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community takeover. We've been rugged. But we survived. $WGMI"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20f6a313cb250062331fe70b9567e3ee5f01888b",
+    "url": "https://www.wgmi-takeover.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x20f6a313cb250062331fe70b9567e3ee5f01888b",
+        "https://ethplorer.io/address/0x20f6a313cb250062331fe70b9567e3ee5f01888b"
+    ],
+    "twitter": "wgmi4thepeople",
+    "telegram": "WGMI_chan"
+}

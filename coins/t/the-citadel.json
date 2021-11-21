@@ -1,0 +1,23 @@
+{
+    "id": "the-citadel",
+    "symbol": "thecitadel",
+    "name": "The Citadel",
+    "platforms": {
+        "ethereum": "0x849ba2278cdae7fa7006c0661fea1c35d5af3336"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Citadel is an ERC20 token where all the tax money goes back to The Citadel's Citizens. Unlike other tokens, the Citadel has no developer tax, no team tax. All of the tax money goes back in forms of buybacks and a hedge-fund like a system where the tax money is also used for investing in other coins, where all the profit is given back to the tax wallet (The Iron bank). "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x849ba2278cdae7fa7006c0661fea1c35d5af3336",
+    "url": "https://thecitadeltoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x849ba2278cdae7fa7006c0661fea1c35d5af3336",
+        "https://ethplorer.io/address/0x849ba2278cdae7fa7006c0661fea1c35d5af3336"
+    ],
+    "twitter": "thecitadeltoken",
+    "telegram": "VerifyCitadel"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "jackpot-token",
+    "symbol": "jpt",
+    "name": "Jackpot Token",
+    "platforms": {
+        "binance-smart-chain": "0x8c9e7f82b6d3c816cfd78d6d49ab26268bf05d43"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Jackpot Token is a revolutionary token implementing an unique \u201cinfinite green loop\u201d mechanism. This technique promises an infinite price incline with a consistent chance to win the daily jackpot."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c9e7f82b6d3c816cfd78d6d49ab26268bf05d43",
+    "url": "https://www.jackpot-token.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8c9e7f82b6d3c816cfd78d6d49ab26268bf05d43"
+    ],
+    "twitter": "Jackpot_Token",
+    "telegram": "JackpotTokenOfficial"
+}

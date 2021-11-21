@@ -1,0 +1,25 @@
+{
+    "id": "satoru-inu",
+    "symbol": "sato",
+    "name": "Satoru Inu",
+    "platforms": {
+        "ethereum": "0xaf6f6abf18d2cc611921e6a683164efaa9165b43"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community driven platform sanctioning people of all backrounds to true financial freedom. Satoru was built with love to emphasize community, trust, and healthy innovation. The $SATO token is our equilibrium. The smart contract was built on the ERC-20 blockchain with great tokenomics and anticipation. With locked liquidity and a fully transparent and innovative team, $SATO is a very safe and beneficial token to hold. Buy, shill, and chill as your balance increases with our 2% reward system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf6f6abf18d2cc611921e6a683164efaa9165b43",
+    "url": "https://satorutoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaf6f6abf18d2cc611921e6a683164efaa9165b43",
+        "https://ethplorer.io/address/0xaf6f6abf18d2cc611921e6a683164efaa9165b43"
+    ],
+    "twitter": "SatoruToken",
+    "telegram": "SatoruInu",
+    "reddit": "SatoruInu/",
+    "github_org": "satoruinu"
+}

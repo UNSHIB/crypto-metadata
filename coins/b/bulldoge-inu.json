@@ -1,0 +1,22 @@
+{
+    "id": "bulldoge-inu",
+    "symbol": "bulld",
+    "name": "Bulldoge Inu",
+    "platforms": {
+        "binance-smart-chain": "0x599209ab40daeb44108d9e9426ed1dc207b85460"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x599209ab40daeb44108d9e9426ed1dc207b85460",
+    "url": "https://bulldoginu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x599209ab40daeb44108d9E9426ED1DC207b85460"
+    ],
+    "twitter": "BulldogInu",
+    "telegram": "BullDogInuChat"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "royal-flush-coin",
+    "symbol": "rfc",
+    "name": "Royal Flush Coin",
+    "platforms": {
+        "binance-smart-chain": "0x10ff10d221dd4a64d6346c866e0cc5699bc2f5d1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The objective of the Royal Flush Coin project is to\r\nconsolidate itself as a Crypto Token capable of providing\r\nthe Investor/Player with the opportunity to invest in an\r\nasset that, in addition to the possibility of market\r\nappreciation due to the flow of transactions, also has the\r\noption of using it to perform the most diverse types of\r\nonline bets. \r\n\r\nAt first, only Royal Flush Coin Tokens will be\r\naccepted in its own betting system and following its\r\ndevelopment schedule, in the future on its website in\r\nOnline Casino mode, allowing the holder of the RFC Token\r\nnot only to bet on sporting events , but also uses them to\r\nbuy credits used in Poker, Black Jack, Roulette, Craps\r\ngames within your Casino site."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10ff10d221dd4a64d6346c866e0cc5699bc2f5d1",
+    "url": "https://royalflushcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x10ff10d221dd4a64d6346c866e0cc5699bc2f5d1"
+    ],
+    "twitter": "royalflushcoin",
+    "telegram": "royalflushcoin",
+    "reddit": "https://www.reddit.com"
+}

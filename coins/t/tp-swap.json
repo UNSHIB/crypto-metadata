@@ -1,0 +1,21 @@
+{
+    "id": "tp-swap",
+    "symbol": "tp",
+    "name": "Token Swap",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEX Based on Whitecoin Ecosystem"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "XWCCekBFDevzTR2wbuerzethXPgdgVAWrh9yQ",
+    "url": "https://tokenswap.info/",
+    "explorers": [
+        "https://explorer.whitecoin.info/?lang=cn#/contractOverview/XWCCekBFDevzTR2wbuerzethXPgdgVAWrh9yQ"
+    ],
+    "twitter": "Tokenswap_DEX",
+    "telegram": "TP_EN1",
+    "github_org": "tokenswap-group"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "aspo-world",
+    "symbol": "aspo",
+    "name": "ASPO World",
+    "platforms": {
+        "binance-smart-chain": "0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e",
+    "url": "https://aspo.world/",
+    "explorers": [
+        "https://bscscan.com/token/0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e"
+    ],
+    "twitter": "AspoWorld",
+    "github_org": "phugt"
+}

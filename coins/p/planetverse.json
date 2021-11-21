@@ -1,0 +1,24 @@
+{
+    "id": "planetverse",
+    "symbol": "planetverse",
+    "name": "PlanetVerse",
+    "platforms": {
+        "binance-smart-chain": "0x396cb285a01d46862822f861ced586034a128bb0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Planet Verse is a one of a kind environmental charity token which aims to tackle the environmental issues we are currently facing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x396cb285a01d46862822f861ced586034a128bb0",
+    "url": "https://www.planetverse.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x396cb285a01d46862822f861ced586034a128bb0"
+    ],
+    "twitter": "PlanetVerseBSC",
+    "telegram": "PlanetVerseBSC",
+    "reddit": "planetverse/",
+    "github_org": "planetverse"
+}

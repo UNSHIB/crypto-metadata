@@ -1,0 +1,23 @@
+{
+    "id": "nftbomb",
+    "symbol": "nbp",
+    "name": "NFTBomb",
+    "platforms": {
+        "binance-smart-chain": "0x74c22834744e8d5e36c79420ff7b057964aba8a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "the first NFT protocol ecological project"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x74c22834744e8d5e36c79420ff7b057964aba8a7",
+    "url": "https://nftbomb.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x74C22834744E8D5e36c79420Ff7b057964Aba8a7"
+    ],
+    "twitter": "NFTBomb",
+    "telegram": "NFTBombEn",
+    "github_org": "NFTBomb-Platform"
+}

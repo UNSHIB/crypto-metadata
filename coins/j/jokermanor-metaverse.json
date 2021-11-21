@@ -1,0 +1,22 @@
+{
+    "id": "jokermanor-metaverse",
+    "symbol": "jkt",
+    "name": "JokerManor Metaverse",
+    "platforms": {
+        "binance-smart-chain": "0x8e8123e286437b281caa8abbf3a7f0cdf72b0ae6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "JokerManor Metaverse (JKT) - GameFi & DeFi Metaverse's, latest and popular Aggregator & Launchpad."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e8123e286437b281caa8abbf3a7f0cdf72b0ae6",
+    "url": "https://www.jokerfi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8E8123e286437B281cAa8abbF3A7f0CDf72b0aE6"
+    ],
+    "twitter": "joker_manor",
+    "telegram": "JokerManor_Metaverse"
+}

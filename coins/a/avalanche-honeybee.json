@@ -1,0 +1,24 @@
+{
+    "id": "avalanche-honeybee",
+    "symbol": "a.bee",
+    "name": "Avalanche HoneyBee",
+    "platforms": {
+        "avalanche": "0xb669c71431bc4372140bc35aa1962c4b980ba507"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "a.BEE is a native of Avalanche HoneyBee - HoneyFarm Layer 4, expanded to Avalanche."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb669c71431bc4372140bc35aa1962c4b980ba507",
+    "url": "https://avalanche.honeyfarm.finance",
+    "explorers": [
+        "https://snowtrace.io/token/0xB669c71431bc4372140bC35Aa1962C4B980bA507"
+    ],
+    "twitter": "HoneyFarmFi",
+    "telegram": "HoneyFarmChat",
+    "reddit": "HoneyFarm_Official/",
+    "github_org": "HoneyFarmFi"
+}

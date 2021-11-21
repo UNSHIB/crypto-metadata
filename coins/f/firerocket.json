@@ -1,0 +1,23 @@
+{
+    "id": "firerocket",
+    "symbol": "firerocket",
+    "name": "FireRocket",
+    "platforms": {
+        "binance-smart-chain": "0xf8740caa02d45410de2da9823c5d8b5924bc3b52"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8740caa02d45410de2da9823c5d8b5924bc3b52",
+    "url": "https://firerocket.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xF8740cAA02D45410De2DA9823C5d8b5924bc3B52",
+        "https://bscscan.com/token/0xf8740caa02d45410de2da9823c5d8b5924bc3b52"
+    ],
+    "twitter": "firerocketbsc",
+    "telegram": "firerocket"
+}

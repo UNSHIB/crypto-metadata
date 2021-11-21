@@ -1,0 +1,22 @@
+{
+    "id": "big-dog-coin",
+    "symbol": "bdog",
+    "name": "Big Dog Coin",
+    "platforms": {
+        "binance-smart-chain": "0x4da2b1fafb2e54a775b624e822504a4b504899f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BigDog token is a next-generation community-driven cryptocurrency built on memes, NFT, and the Metaverse. We develops its own intellectual property, which includes visual arts, animated images, merchandising, and virtual reality. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4da2b1fafb2e54a775b624e822504a4b504899f2",
+    "url": "https://bigdogtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4da2b1fafb2e54a775b624e822504a4b504899f2"
+    ],
+    "twitter": "Big_Dog_Token ",
+    "telegram": "bigdogofficial"
+}

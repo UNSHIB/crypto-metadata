@@ -1,0 +1,23 @@
+{
+    "id": "laqira-protocol",
+    "symbol": "lqr",
+    "name": "Laqira Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xbc81ea817b579ec0334bca8e65e436b7cb540147"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Metaverse Complex, Tunneling Between People on Earth and Blockchain-Based Technologies"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc81ea817b579ec0334bca8e65e436b7cb540147",
+    "url": "https://laqira.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xbc81ea817b579ec0334bca8e65e436b7cb540147"
+    ],
+    "twitter": "laqiraprotocol",
+    "telegram": "laqiraprotocol",
+    "github_org": "laqiraProtocol"
+}

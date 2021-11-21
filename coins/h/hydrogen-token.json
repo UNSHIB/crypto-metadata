@@ -1,0 +1,22 @@
+{
+    "id": "hydrogen-token",
+    "symbol": "hgt",
+    "name": "Hydrogen Token",
+    "platforms": {
+        "binance-smart-chain": "0x567540c37bb25dfd0f487525c0eb11f7fa0b63a2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As the HYDROGEN team, our main goal is to increase the use of Hydrogen (H) and to stop global warming. With this project we have realized for this purpose, we are opening the doors to a cleaner and more sustainable world for our investors both in response to global warming and with the increase in hydrogen use."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x567540c37bb25dfd0f487525c0eb11f7fa0b63a2",
+    "url": "https://www.hydrogentoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x567540c37bb25dfd0f487525c0eb11f7fa0b63a2"
+    ],
+    "twitter": "hydrogentokenn",
+    "telegram": "hydrogentoken"
+}

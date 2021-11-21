@@ -1,0 +1,22 @@
+{
+    "id": "shibonics",
+    "symbol": "snis",
+    "name": "Shibonics",
+    "platforms": {
+        "binance-smart-chain": "0x16c0a48fb3b180772b033d0dc5e960ca1534d6b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shibonics is a $SHIB reflection token. We believe $SHIB will change the whole crypto space. That\u2019s why we created Shibonics, the little brother of $SHIB, to help $SHIB conquer the Cryptomarket. Every buy in Shibonics will lead to a 1% burn and a 4% reward in $SHIB which goes to the Shibonics holders automatically."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16c0a48fb3b180772b033d0dc5e960ca1534d6b9",
+    "url": "https://www.shibonics.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x16c0a48fb3b180772b033d0dc5e960ca1534d6b9"
+    ],
+    "twitter": "Shibonicstoken?t=yQMReGOkS0PdveZUVotSWw&s=09",
+    "telegram": "shibonics_official"
+}

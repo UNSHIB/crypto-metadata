@@ -1,0 +1,23 @@
+{
+    "id": "milkywayex",
+    "symbol": "milky",
+    "name": "MilkyWayEx",
+    "platforms": {
+        "binance-smart-chain": "0xa7002fccc20f10a38c579a8d2d14d34f2a9a02a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MilkywayEx will innovate decentralized finance by developing a platform that allow investors to buy into new cryptocurrency projects before the tokens are publicly released and also featuring protocols to give investors sustainable growth when they adopt newly introduced projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa7002fccc20f10a38c579a8d2d14d34f2a9a02a5",
+    "url": "https://milkywayex.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa7002FCCC20F10a38c579A8D2D14D34F2A9a02A5",
+        "https://bscscan.com/token/0xa7002fccc20f10a38c579a8d2d14d34f2a9a02a5"
+    ],
+    "twitter": "MilkywayExGB",
+    "telegram": "milkywayexofficial"
+}

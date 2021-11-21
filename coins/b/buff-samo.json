@@ -1,0 +1,22 @@
+{
+    "id": "buff-samo",
+    "symbol": "bsamo",
+    "name": "Buff Samo",
+    "platforms": {
+        "solana": "2XSuy8RSESbtYRBbVHxGWuoikn3B6iXKVKzN4i3owTCf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BUFF SAMO in the Solana.\r\nThe community and Solana are very supportive of Buff Samo on the Decentralized exchanges (DEX) Blockchain Solana, and we will develop very well for the community and team!\r\n\r\nWe created an interesting roadmap so that the community and team always support the Solana & Buff Samo project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "2XSuy8RSESbtYRBbVHxGWuoikn3B6iXKVKzN4i3owTCf",
+    "url": "https://www.buffsamo.tech/",
+    "explorers": [
+        "https://solscan.io/token/2XSuy8RSESbtYRBbVHxGWuoikn3B6iXKVKzN4i3owTCf"
+    ],
+    "twitter": "BuffSamo",
+    "github_org": "buffsamo"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dok-token",
+    "symbol": "DOK",
+    "name": "DOK Token",
+    "platforms": {
+        "binance-smart-chain": "0xd3424caaf6552647e0c5d27c217c6794c9e39022"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The DOK utility token managed by DokTok, is the fuel of the Decentralized Doconchain\r\nNetwork built to redesign the Gig economy for the Web3, providing entrepreneurs, freelancers, creators and\r\nartists with blockchain and NFTs managed solutions to boost their business using a token economy\r\n(open to unbanked) while offering a \u2018contribute to earn\u2019 reward program to contributors who participate to the\r\nnetwork growth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd3424caaf6552647e0c5d27c217c6794c9e39022",
+    "url": "https://doconchain.com/doc-paperless",
+    "explorers": [
+        "https://bscscan.com/token/0xd3424caaf6552647e0c5d27c217c6794c9e39022"
+    ],
+    "twitter": "doconchain",
+    "telegram": "doconchain",
+    "reddit": "Doconchain/"
+}

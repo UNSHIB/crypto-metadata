@@ -1,0 +1,22 @@
+{
+    "id": "chihuahuasol",
+    "symbol": "chih",
+    "name": "ChihuahuaSol",
+    "platforms": {
+        "solana": "6xtyNYX6Rf4Kp3629X11m1jqUmkV89mf9xQakUtUQfHq"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ChihuahuaSol ($CHIH) is Cute, Collectibles, and Unique Chihuahua's #NFTs Built on #Solana. Both NFT and the token holders will get an exclusive prize. In the future, $CHIH holder can buy CHIHUAHUA NFTs with $CHIH Token.\r\n\r\nChihuahuaSol ($CHIH) is already available in Solana Ecosystem (https://solana.com/ecosystem/ChihuahuaSol) and several NFTs marketplace such as Raydium NFTs Marketplace, Magic Eden NFTs Marketplace, and DigitalEyes"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "6xtyNYX6Rf4Kp3629X11m1jqUmkV89mf9xQakUtUQfHq",
+    "url": "https://chihuahuasol.com/",
+    "explorers": [
+        "https://solscan.io/token/6xtyNYX6Rf4Kp3629X11m1jqUmkV89mf9xQakUtUQfHq"
+    ],
+    "twitter": "ChihuahuaSol",
+    "github_org": "ChihuahuaSol"
+}

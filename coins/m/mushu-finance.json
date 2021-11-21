@@ -1,0 +1,22 @@
+{
+    "id": "mushu-finance",
+    "symbol": "mushu",
+    "name": "Mushu Finance",
+    "platforms": {
+        "binance-smart-chain": "0x72e8cc51a3e30c51b40a99f5a5462704bd0a5f3d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mushu Finance is a decentralized hybrid yield earning with value-optimized, economically sustainable (yield farm and yield aggregator) running on the Genechain blockchain.\r\n\r\nMushu Finance was one of the first yield farms to be launched on Genechain. Our target is to build the largest technology ecosystem in Gene and to render Mushu as one of the best tokens in the DEFI sector within one year with an extremely passionate and experienced team.\r\n\r\nMushu also has a buy back and burn mechanism based on the number of holders, creating a continuously rising price event."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72e8cc51a3e30c51b40a99f5a5462704bd0a5f3d",
+    "url": "https://mushu.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x72e8cc51a3e30c51b40a99f5a5462704bd0a5f3d"
+    ],
+    "twitter": "MushuFinance",
+    "telegram": "mushufinance"
+}

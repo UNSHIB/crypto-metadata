@@ -1,0 +1,22 @@
+{
+    "id": "yohero-yhc",
+    "symbol": "yhc",
+    "name": "YoHero (YHC)",
+    "platforms": {
+        "binance-smart-chain": "0x9bcf82cc8b42b075d6c62436284aa59e77b67c26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9bcf82cc8b42b075d6c62436284aa59e77b67c26",
+    "url": "https://www.yohero.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x9bCf82cc8B42B075d6c62436284AA59e77B67C26",
+        "https://bscscan.com/token/0x9bcf82cc8b42b075d6c62436284aa59e77b67c26"
+    ],
+    "twitter": "yoheroyolo"
+}

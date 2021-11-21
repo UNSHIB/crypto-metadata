@@ -1,0 +1,23 @@
+{
+    "id": "metaportal",
+    "symbol": "metaportal",
+    "name": "MetaPortal",
+    "platforms": {
+        "ethereum": "0xfe7175b606a4f01b009e3cd6f6a5f908815b36f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe7175b606a4f01b009e3cd6f6a5f908815b36f7",
+    "url": "https://metaportalpad.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfe7175b606a4f01b009e3cd6f6a5f908815b36f7",
+        "https://ethplorer.io/address/0xfe7175b606a4f01b009e3cd6f6a5f908815b36f7"
+    ],
+    "telegram": "metaportal",
+    "github_org": "metaportalpad"
+}

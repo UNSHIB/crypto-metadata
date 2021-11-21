@@ -1,0 +1,23 @@
+{
+    "id": "squid-pet",
+    "symbol": "squidpet",
+    "name": "Squid Pet",
+    "platforms": {
+        "binance-smart-chain": "0xcb15fc54d0655150fa3784ec4a355b76a951e4cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SquidPet is a Reflection MEME + NFT Gaming Token with 2% RFI."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcb15fc54d0655150fa3784ec4a355b76a951e4cf",
+    "url": "https://www.squid.pet/",
+    "explorers": [
+        "https://bscscan.com/token/0xcB15FC54d0655150fa3784EC4a355b76A951e4Cf",
+        "https://bscscan.com/token/0xcb15fc54d0655150fa3784ec4a355b76a951e4cf"
+    ],
+    "twitter": "SquidPetBSC",
+    "telegram": "SquidPet"
+}

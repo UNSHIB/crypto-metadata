@@ -1,0 +1,25 @@
+{
+    "id": "anpanswap-token",
+    "symbol": "anpan",
+    "name": "AnpanSwap Token",
+    "platforms": {
+        "binance-smart-chain": "0x10b0a78520fbdda95adc331445d9319b164f85d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AnpanSwap is a DeFi protocol, built on BSC network with AMM (Trade), Farms & Stake (Earn), Prediction & Lottery (Win), and some products such as NFT, Vote, and Derivative, etc. AnpanSwap is aimed at bridging the gap between people and the cryptocurrency market and improving the trading experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10b0a78520fbdda95adc331445d9319b164f85d5",
+    "url": "https://anpanswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x10B0a78520fBDDa95aDc331445d9319B164F85D5",
+        "https://bscscan.com/token/0x10b0a78520fbdda95adc331445d9319b164f85d5"
+    ],
+    "twitter": "anpanswap",
+    "telegram": "anpanswap",
+    "reddit": "anpanswap/",
+    "github_org": "anpanswap"
+}

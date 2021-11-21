@@ -1,0 +1,24 @@
+{
+    "id": "2022moon",
+    "symbol": "2022m",
+    "name": "2022MOON",
+    "platforms": {
+        "binance-smart-chain": "0x047a02a57501a813975b2d347278fdd3df671e86"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x047a02a57501a813975b2d347278fdd3df671e86",
+    "url": "https://www.2022moon.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x047a02a57501a813975b2d347278fdd3df671e86"
+    ],
+    "twitter": "Official_2022m",
+    "telegram": "official_2022MOON",
+    "reddit": "official_2022_moon/",
+    "github_org": "official22moon"
+}

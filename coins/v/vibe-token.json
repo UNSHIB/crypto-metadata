@@ -1,0 +1,23 @@
+{
+    "id": "vibe-token",
+    "symbol": "vibe",
+    "name": "Vibe Token",
+    "platforms": {
+        "ethereum": "0xe7fd8ab781bf7654cfcce2ace6eefabae0891996"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vibe ($VIBE) is an ERC20 meme token that began as a fun token to celebrate the vibe memes in the crypto and nfts communities. the goal is to use the token to create a positive community based around good vibes, bridging the gap between nft and crypto communities. is an ERC20 good vibes only tokens. \r\n\r\nWe vibe each day, every day, all the time. Good energy, good vibes only. Earn $vibe's passively while vibing with us."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe7fd8ab781bf7654cfcce2ace6eefabae0891996",
+    "url": "https://vibetoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe7fd8ab781bf7654cfcce2ace6eefabae0891996",
+        "https://ethplorer.io/address/0xe7fd8ab781bf7654cfcce2ace6eefabae0891996"
+    ],
+    "twitter": "Vibe_Token",
+    "telegram": "VibeDao"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "titan-hunters",
+    "symbol": "tita",
+    "name": "Titan Hunters",
+    "platforms": {
+        "binance-smart-chain": "0x0c1253a30da9580472064a91946c5ce0c58acf7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mobile MMORPG with #NFTs, voxel graphic style & crypto-friendly, addictive gameplay"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0c1253a30da9580472064a91946c5ce0c58acf7f",
+    "url": "https://www.titanhunters.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x0c1253a30da9580472064a91946c5ce0C58aCf7f"
+    ],
+    "twitter": "Titan_Hunters",
+    "telegram": "TitanHunters"
+}

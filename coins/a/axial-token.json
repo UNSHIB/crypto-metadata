@@ -1,0 +1,22 @@
+{
+    "id": "axial-token",
+    "symbol": "axial",
+    "name": "Axial Token",
+    "platforms": {
+        "avalanche": "0xcf8419a615c57511807236751c0af38db4ba3351"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Axial is a decentralized finance protocol built on Avalanche. It is a fully decentralized and self-contained application, and is the centerpiece for liquidity of value-pegged assets in the ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf8419a615c57511807236751c0af38db4ba3351",
+    "url": "https://www.axial.exchange/",
+    "explorers": [
+        "https://snowtrace.io/token/0xcF8419A615c57511807236751c0AF38Db4ba3351"
+    ],
+    "twitter": "AxialDeFi",
+    "telegram": "axialdefi"
+}

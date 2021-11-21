@@ -1,0 +1,23 @@
+{
+    "id": "bsc-mithril",
+    "symbol": "mithril",
+    "name": "BSC Mithril",
+    "platforms": {
+        "binance-smart-chain": "0xc4caf585c2b7eaf3f61ac69b1529e79f90b15569"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are the first(ish) TOKLIEN related do LOTR in the BSC ecosystem.\r\n\r\nWe're made out of nowhere by the fans of the series, when they're lacking a token to buy related to LOTR.\r\n\r\nWe have such an engaged community, since developing the whole site from nothing, passing by shilling and doing art works, every single movement os pure organic, as the growth.\r\n\r\nWith a lots of stuff planned, a game, the NFTs and a proper DEX for the fans, we're just starting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc4caf585c2b7eaf3f61ac69b1529e79f90b15569",
+    "url": "https://www.bscmithril.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc4Caf585c2b7eAF3F61ac69b1529E79F90B15569"
+    ],
+    "twitter": "bscmithril",
+    "telegram": "bscmithril",
+    "reddit": "bscmithril"
+}

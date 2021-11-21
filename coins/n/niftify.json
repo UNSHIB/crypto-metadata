@@ -1,0 +1,22 @@
+{
+    "id": "niftify",
+    "symbol": "nift",
+    "name": "Niftify",
+    "platforms": {
+        "ethereum": "0x4a1d542b52a95ad01ddc70c2e7df0c7bbaadc56f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Niftify\u2122 provides an all-inclusive and the fastest plug-and-play solution devoid of licenses. Anyone can begin their NFT business even with zero technical knowledge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a1d542b52a95ad01ddc70c2e7df0c7bbaadc56f",
+    "url": "https://www.niftify.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4a1d542b52a95ad01ddc70c2e7df0c7bbaadc56f",
+        "https://ethplorer.io/address/0x4a1d542b52a95ad01ddc70c2e7df0c7bbaadc56f"
+    ],
+    "telegram": "niftifycommunity"
+}

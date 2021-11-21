@@ -1,0 +1,22 @@
+{
+    "id": "interstellar-domain-order",
+    "symbol": "ido",
+    "name": "Interstellar Domain Order",
+    "platforms": {
+        "binance-smart-chain": "0x617ba3d39e96c084e60c6db3f7b365a96ee4e555"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IDO is a DAO-based metaverse landing ecology"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x617ba3d39e96c084e60c6db3f7b365a96ee4e555",
+    "url": "http://www.ido-meta.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x617ba3d39e96c084e60c6db3f7b365a96ee4e555"
+    ],
+    "twitter": "ido_meta",
+    "telegram": "IDOMeta_International"
+}

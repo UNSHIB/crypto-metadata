@@ -1,0 +1,22 @@
+{
+    "id": "tokenbook",
+    "symbol": "tbk",
+    "name": "TokenBook",
+    "platforms": {
+        "solana": "2mDJPcvv7vigZo9ZPxhHLpKQSixCkbohVY35eX6NkN6m"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TokenBook is a social media-based token located on the Solana network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "2mDJPcvv7vigZo9ZPxhHLpKQSixCkbohVY35eX6NkN6m",
+    "url": "https://www.tokenbook.online/",
+    "explorers": [
+        "https://solscan.io/token/2mDJPcvv7vigZo9ZPxhHLpKQSixCkbohVY35eX6NkN6m"
+    ],
+    "twitter": "TokenBook_tbk",
+    "github_org": "tokenbooksol"
+}

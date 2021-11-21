@@ -1,0 +1,28 @@
+{
+    "id": "paraswap",
+    "symbol": "psp",
+    "name": "ParaSwap",
+    "platforms": {
+        "ethereum": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "PSP is the governance token for ParaSwap with the aim to\u00a0provide a decentralized exchange aggregator that is decentralized and market efficient."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+    "url": "https://paraswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+        "https://ethplorer.io/address/0xcafe001067cdef266afb7eb5a286dcfd277f3de5"
+    ],
+    "twitter": "paraswap",
+    "telegram": "paraswap",
+    "github_org": "paraswap"
+}

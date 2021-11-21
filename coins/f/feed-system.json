@@ -1,0 +1,22 @@
+{
+    "id": "feed-system",
+    "symbol": "feedtk",
+    "name": "Feed System",
+    "platforms": {
+        "stellar": "GAPN5PVGCA4IMVAQ5V75FTFMBXUZQEMI3F2GYB4NY5Y6UWK2BC2ZYBCW"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An app based on the blockchain technology that will help hospitality industry to grow. We aim to revolutionize the way to make transactions between all main actors of this industry as : the workers, the venues, the suppliers and the consumers. The app will improve the booking experience, secure the payments, simplify accounting, reward generously consumers for their loyalty, provide a token to be used in all the hospitality industry and many more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "GAPN5PVGCA4IMVAQ5V75FTFMBXUZQEMI3F2GYB4NY5Y6UWK2BC2ZYBCW",
+    "url": "http://www.feed-system.com/",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/FEEDTOKEN-GAPN5PVGCA4IMVAQ5V75FTFMBXUZQEMI3F2GYB4NY5Y6UWK2BC2ZYBCW-2"
+    ],
+    "twitter": "systemfeed",
+    "telegram": "feedsystemofficial"
+}

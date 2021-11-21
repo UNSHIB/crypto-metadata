@@ -1,0 +1,23 @@
+{
+    "id": "kitty-solana",
+    "symbol": "kitty",
+    "name": "Kitty Solana",
+    "platforms": {
+        "solana": "6JdcMdhqgCtcP4U9tieRqmKLhPLxRMLC67QfmdXAJBvZ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KITTY SOLANA Is Meme & NFT token buidl on Solana Blockchain.\r\nOur visions on future: NFT Launch, NFT MARKETPLACE, NFT GALLERY APPS AND MANY MORE."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "6JdcMdhqgCtcP4U9tieRqmKLhPLxRMLC67QfmdXAJBvZ",
+    "url": "https://kittysolana.com/",
+    "explorers": [
+        "https://solscan.io/token/6JdcMdhqgCtcP4U9tieRqmKLhPLxRMLC67QfmdXAJBvZ"
+    ],
+    "twitter": "kitty_solana",
+    "telegram": "kittysolana",
+    "github_org": "kittysolana"
+}

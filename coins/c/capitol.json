@@ -1,0 +1,22 @@
+{
+    "id": "capitol",
+    "symbol": "cptl",
+    "name": "Capitol",
+    "platforms": {
+        "binance-smart-chain": "0x407ee64da5bc8107ea8e9cf132b33092374e5894"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x407ee64da5bc8107ea8e9cf132b33092374e5894",
+    "url": "https://thehunger.games/",
+    "explorers": [
+        "https://bscscan.com/token/0x407ee64da5bc8107ea8e9cf132b33092374e5894"
+    ],
+    "twitter": "Capitol_BSC",
+    "telegram": "TheHungerGamesBSC"
+}

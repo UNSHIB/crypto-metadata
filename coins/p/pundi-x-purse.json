@@ -1,0 +1,23 @@
+{
+    "id": "pundi-x-purse",
+    "symbol": "purse",
+    "name": "Pundi X PURSE",
+    "platforms": {
+        "binance-smart-chain": "0x29a63f4b209c29b4dc47f06ffa896f32667dad2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$PURSE, the Pundi X reward token, is now available on both BEP20 and Pundi X Chain. The purpose of the token is to incentivize XPOS usage, expand Pundi X Chain\u2019s ecosystem and increase $PUNDIX value through rewards, gamification (lucky draw / lottery), discount vouchers and redemption for NFTs and other tokens.\r\n\r\n$PURSE can be sent between Pundi X Chain and Binance Smart Chain. There\u2019s no pre-minted tokens or allocation in any form for the team. All initial supply goes to $PUNDIX holders and for absorbing $NPXSXEM tokens, thus sunsetting our support for $NPXSXEM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x29a63f4b209c29b4dc47f06ffa896f32667dad2c",
+    "url": "https://pundix.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x29a63F4B209C29B4DC47f06FFA896F32667DAD2C",
+        "https://bscscan.com/token/0x29a63f4b209c29b4dc47f06ffa896f32667dad2c"
+    ],
+    "twitter": "Pursetoken",
+    "telegram": "Pundix"
+}

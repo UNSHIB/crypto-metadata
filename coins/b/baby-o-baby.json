@@ -1,0 +1,22 @@
+{
+    "id": "baby-o-baby",
+    "symbol": "bob",
+    "name": "Baby o Baby",
+    "platforms": {
+        "binance-smart-chain": "0xe798e8f65e4252a55ffc552c17c576ba9b05c15b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby-O- Baby is a unique reward token which rewards holders with baby tokens straight into their wallets without any need for a claim while the token is unique itself ecosystem is no less you can buy unique collectible and tiered NFT to earn direct reward play Baby-O-Baby games and earn baby token in reward.\r\n\r\nBaby-O-Baby simplifies blockchain for everyone by simply buying the token and holding it in their wallet they can keep on earning easy passive income without needing to know any complex yield farming or staking phenomenon. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe798e8f65e4252a55ffc552c17c576ba9b05c15b",
+    "url": "https://babyobaby.club/",
+    "explorers": [
+        "https://bscscan.com/token/0xe798e8f65e4252a55ffc552c17c576ba9b05c15b"
+    ],
+    "twitter": "BabyoBabytoken",
+    "telegram": "babyobabyofficial"
+}

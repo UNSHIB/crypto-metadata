@@ -1,0 +1,22 @@
+{
+    "id": "shiback",
+    "symbol": "shiback",
+    "name": "SHIBACK",
+    "platforms": {
+        "binance-smart-chain": "0xdf45285ec20604499cff568513b8fae9a0af8372"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf45285ec20604499cff568513b8fae9a0af8372",
+    "url": "https://www.shiback.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xdf45285ec20604499cff568513b8fae9a0af8372"
+    ],
+    "twitter": "ShibackToken",
+    "telegram": "shiback"
+}

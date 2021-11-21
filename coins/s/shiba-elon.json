@@ -1,0 +1,22 @@
+{
+    "id": "shiba-elon",
+    "symbol": "eshib",
+    "name": "Shiba Elon",
+    "platforms": {
+        "binance-smart-chain": "0x03e1c8d25b0dcd41e1073d65ccdd4e40e672a68d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiba Elon is a community driven project, fairly launched, with 0% team tokens. \r\nThe project was inspired by two concepts:\r\n1. Metaverse inhabited by the cutest creatures\r\n2. Elon Impulse for making 3D NFTs accessible to Elon fans\r\n\r\nESHIB is the native token of Shiba Elon. The project was launched November 12, 2021 with a fixed supply of 1 trillion ESHIB tokens. 99% of  the token supply went to liquidity. \r\n\r\nMetaverse - Home for the cutest\r\n10,000 unique 3D animals being prepared for the future game\r\n\r\nElon Impulse Explained\r\n1. Elon Musk posts a tweet\r\n* The 3D cards NFT that are to be distributed within the Elon Impulse campaign include the screenshots of Elon Musk\u2019s official account latest tweets\r\n\r\n2. $ESHIB holders complete tasks\r\n* As long as you hold $ESHIB and complete our tasks, you\u2019re qualified for receiving the airdrops.\r\n\r\n1. We airdrop exclusive Elon NFT\r\n* We airdrop exclusive 3D NFT cards for Shiba Elon\u2019s true fans. This is how we form the Elon army."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x03e1c8d25b0dcd41e1073d65ccdd4e40e672a68d",
+    "url": "https://shibaelon.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x03e1c8d25b0dcd41e1073d65ccdd4e40e672a68d"
+    ],
+    "twitter": "ShibaElonSpace",
+    "telegram": "shibaelontoken"
+}

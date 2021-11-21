@@ -1,0 +1,23 @@
+{
+    "id": "rivrkitty",
+    "symbol": "rkitty",
+    "name": "RivrKitty",
+    "platforms": {
+        "moonriver": "0xc2b0435276139731d82ae2fa8928c9b9de0761c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RivrKitty is community driven token on the Moonriver Network. The project is focused on developing an ecosystem around the $RKitty token. The two utilities currently being developed are NFT based collectibles with the aim of developing a play-to-earn game, and the second development of DeFi protocols with a focus on gamified yield farming."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc2b0435276139731d82ae2fa8928c9b9de0761c1",
+    "url": "https://rivrkitty.com/",
+    "explorers": [
+        "https://moonscan.io/token/0xC2b0435276139731d82Ae2Fa8928c9b9De0761c1"
+    ],
+    "twitter": "rivrkitty",
+    "telegram": "rivrkitty",
+    "github_org": "rivrkitty"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "soldiersland",
+    "symbol": "sld",
+    "name": "SoldiersLand",
+    "platforms": {
+        "binance-smart-chain": "0x24519018513a71f83951336b990098de978f5bad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SoldiersLand is the first real-utility NFT game. In this game, you can build your desired soldier, equip it with your desired equipment, use your NFT assets in other games to make it more powerful, Participate in challenges, Team up with your friends, attack other players individually or as a team online and grow bigger and bigger with your unique strategy and earn money in this way and sell your soldier at the price you want whenever you want."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x24519018513a71f83951336b990098de978f5bad",
+    "url": "https://soldiersland.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x24519018513a71f83951336b990098de978f5bad"
+    ],
+    "twitter": "Soldiers_Land",
+    "telegram": "Soldiers_Land"
+}

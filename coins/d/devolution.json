@@ -1,0 +1,22 @@
+{
+    "id": "devolution",
+    "symbol": "devo",
+    "name": "DeVolution",
+    "platforms": {
+        "binance-smart-chain": "0x0fd98b8c58560167a236f1d0553a9c2a42342ccf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Building a Metaverse! Devolution is a play-to-earn (P2E) NFT game that connects players around the world online. The game features player-versus-environment (PvE) and player-versus-player (PvP) game modes where exciting battles await players and their Evomons."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0fd98b8c58560167a236f1d0553a9c2a42342ccf",
+    "url": "https://devolution-world.com",
+    "explorers": [
+        "https://bscscan.com/token/0x0fd98b8c58560167a236f1d0553a9c2a42342ccf"
+    ],
+    "twitter": "Game_Devolution",
+    "telegram": "devolutionofficial"
+}

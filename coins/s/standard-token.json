@@ -1,0 +1,24 @@
+{
+    "id": "standard-token",
+    "symbol": "tst",
+    "name": "Standard Token",
+    "platforms": {
+        "ethereum": "0xa0b93b9e90ab887e53f9fb8728c009746e989b53"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Standard Protocol is a decentralized finance (DeFi) infrastructure project that enables users to generate stable cryptocurrencies by utilizing asset-backed loans without intermediaries. The protocol focuses on physical and crypto-assets as collateral and will be entirely managed by the community of Standard Token holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa0b93b9e90ab887e53f9fb8728c009746e989b53",
+    "url": "https://thestandard.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa0b93b9e90ab887e53f9fb8728c009746e989b53",
+        "https://ethplorer.io/address/0xa0b93b9e90ab887e53f9fb8728c009746e989b53"
+    ],
+    "twitter": "thestandard_io",
+    "telegram": "TheStandard_io",
+    "github_org": "the-standard"
+}

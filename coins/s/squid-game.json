@@ -1,0 +1,23 @@
+{
+    "id": "squid-game",
+    "symbol": "squid",
+    "name": "Squid Game",
+    "platforms": {
+        "binance-smart-chain": "0x87230146e138d3f296a9a77e497a2a83012e9bc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Squid Game token is the meme token on Binance Smart Chain (BSC) 100% community driven"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87230146e138d3f296a9a77e497a2a83012e9bc5",
+    "url": "https://squidgame-crypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x87230146E138d3F296a9a77e497A2A83012e9Bc5"
+    ],
+    "twitter": "squid_holders",
+    "telegram": "SquidGame_Crypto",
+    "github_org": "bscsquidgame"
+}

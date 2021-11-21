@@ -1,0 +1,23 @@
+{
+    "id": "cryptoblast",
+    "symbol": "cbt",
+    "name": "CryptoBlast",
+    "platforms": {
+        "binance-smart-chain": "0x0853eabe53157d911e0137a9ef987874289ae9d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoBlast is a Binance smart chain token where holders will receive 30% of gross profit of CryptoBlast energy drinks, and 30% of gross profit of the Cryptoblast merchandise store. This will be reflected to holders in Binance-peg Cardano.\r\n\r\nHolders of 200000 or more Cryptoblast tokens recieve 10% reflections in Binance-Peg Cardano on every transaction. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0853eabe53157d911e0137a9ef987874289ae9d0",
+    "url": "https://cryptoblast.energy/",
+    "explorers": [
+        "https://bscscan.com/token/0x0853eabe53157d911e0137a9ef987874289ae9d0"
+    ],
+    "twitter": "Crypblast",
+    "telegram": "CRYPTO_BLAST_TOKEN",
+    "reddit": "https://www.reddit.com"
+}

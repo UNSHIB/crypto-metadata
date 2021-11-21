@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-kadena",
+    "symbol": "wkda",
+    "name": "Wrapped Kadena",
+    "platforms": {
+        "ethereum": "0x85d7bdfc9c3426b33a684241eeee70385bc42820"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped Kadena (wKDA) is a 1:1 equivalent of Kadena (KDA) represented as an ERC-20 on Ethereum.\r\n\r\nAbout wrapped.com:\r\n\r\nWrapped.com lets investors use their digital assets to lend, borrow, and trade on all major DeFi platforms. Each wrapped asset is fully-collateralized and held with a qualified custodian.\r\n\r\nWrapped.com is a collaboration of Tokensoft Inc. with leading custodians and other financial institutions. Tokensoft provides the technology layer via Wrapped.com that allows users to wrap their KDA into wKDA."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85d7bdfc9c3426b33a684241eeee70385bc42820",
+    "url": "https://wrapped.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x85D7bdfc9c3426b33A684241eEEE70385Bc42820",
+        "https://ethplorer.io/address/0x85d7bdfc9c3426b33a684241eeee70385bc42820",
+        "https://etherscan.io/token/0x85d7bdfc9c3426b33a684241eeee70385bc42820"
+    ],
+    "twitter": "wrappedfi",
+    "telegram": "wrappedfi",
+    "github_org": "wrappedfi"
+}

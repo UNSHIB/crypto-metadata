@@ -1,0 +1,25 @@
+{
+    "id": "minihokk",
+    "symbol": "MHokk",
+    "name": "MiniHokk",
+    "platforms": {
+        "binance-smart-chain": "0x47aba69224cbd869e10cc6bda10ea62d363b18a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mini Hokk, son of Hokkaidu Inu is a community-driven, meme theme token powered by Binance Smart Chain (BSC).\r\n\r\nMini Hokk is entirely decentralised and owned by its fun, vibrant community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x47aba69224cbd869e10cc6bda10ea62d363b18a6",
+    "url": "https://minihokk.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x47aba69224cbd869e10cc6bda10ea62d363b18a6"
+    ],
+    "twitter": "mini_hokk",
+    "facebook": "MiniHokk-100222139159333/?hc_ref=ARStrO2UVUqPzpihKNDoM7iiA889K1dhBvwnV8AvaGfTaHLuxI1yrqrZbU8SmQTs-pU&ref=nf_target&__tn__=kC-R",
+    "telegram": "MiniHokkToken",
+    "reddit": "https://www.reddit.comr/minihokk/",
+    "github_org": "MiniHokkBsc"
+}

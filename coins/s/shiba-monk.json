@@ -1,0 +1,23 @@
+{
+    "id": "shiba-monk",
+    "symbol": "shibamonk",
+    "name": "Shiba Monk",
+    "platforms": {
+        "binance-smart-chain": "0x9a95f03a305db3bd25d9c891793118d56c73d012"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHIBA MONK is a hyper-deflationary token which is 100% driven by the community and owned by its fun which the contract is already proven.\r\n\r\nNowadays, the BSC chain is full of a large number of scams, unreasonable token economic models, extremely high marketing wallets fees. After two months of research and development.\r\nShiba Monk, using a classic mechanism contract, will redefine the meme coin environment and be the guardian of the BSC chain. \r\nFor every transaction in the Shiba Monk network a 3% fee is distributed to existing holders.\r\nThat means you earn more Shiba Monk just by holding it in your wallet. Simply hold to earn and watch your Shiba Monk grow every transaction!\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a95f03a305db3bd25d9c891793118d56c73d012",
+    "url": "https://shibamonk.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9a95f03a305db3bd25d9c891793118d56c73d012"
+    ],
+    "twitter": "shiba_monk",
+    "telegram": "shiba_monk",
+    "reddit": "https://www.reddit.com"
+}

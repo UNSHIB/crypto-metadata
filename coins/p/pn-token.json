@@ -1,0 +1,22 @@
+{
+    "id": "pn-token",
+    "symbol": "pn",
+    "name": "PN Token",
+    "platforms": {
+        "tron": "TDxbHVxtpDoJJ5bnG6xJHc1ezJK5Zuuw2S"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PN has a total of 21 million tokens. Its core is ensured based on current security, and plays an important role in the NDW asset aggregator system. When users input mainstream assets as security, they must also pay a small amount of PN as the processing fee. In other words, only by completing the process of possessing PN with security, one would be able to have a chance to obtain NDW."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TDxbHVxtpDoJJ5bnG6xJHc1ezJK5Zuuw2S",
+    "url": "https://pn-defi.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TDxbHVxtpDoJJ5bnG6xJHc1ezJK5Zuuw2S"
+    ],
+    "twitter": "pndefinetwork",
+    "github_org": "pappy0157"
+}

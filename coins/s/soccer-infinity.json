@@ -1,0 +1,25 @@
+{
+    "id": "soccer-infinity",
+    "symbol": "SOCIN",
+    "name": "Soccer Infinity",
+    "platforms": {
+        "binance-smart-chain": "0x788db23baa806c0a1b2af312dd9a6087dd02ef89"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Introduction\r\nSet in the 22nd century, Technology is evolving so quickly. That help everyone who have the best effort and passionate will be stronger to become the best Heroes on the pitch. Own the best players and upgrade equipments & skills to build the strongest club, conquer new challenges. \r\nThe competition on the pitch is increasingly fierce, everyone need the support of technology to become more stronger and stronger. Collect quality players, equip the strongest items to have the strongest Heroes on the pitch\r\n\r\nWhy Blockchain?\r\nThe Soccer Infinity team is made up of seasoned blockchain experts that have been involved in, or are currently developing, some of the industry's earliest infrastructure. With DeFi having been shown as one of the first genuine use cases of blockchain technology, we believe that gaming is the next big revolution.\r\nBy having important elements of the game stored on-chain, blockchain and especially NFT-based gaming will relieve some of the issues currently present in traditional gaming such as provable ownership and trust less item transfers.\r\nWithin the next few years, blockchain gaming will undoubtedly disrupt and earn its place in the overall gaming market, most notably the mobile phone gaming sector. We envision and hope to be able to provide these opportunities through our game, whilst also introducing new people to crypto in a fun and exciting way, starting with the sport that the world knows and loves \u2014 Football."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x788db23baa806c0a1b2af312dd9a6087dd02ef89",
+    "url": "https://soccerinfinity.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x788db23BAA806C0a1b2AF312dD9A6087dd02EF89"
+    ],
+    "twitter": "SoccerxInfinity",
+    "facebook": "Soccer-Infinity-101732512324009",
+    "telegram": "soccerinfinity",
+    "reddit": "SoccerInfinity/",
+    "github_org": "soccerinfinty"
+}

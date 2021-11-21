@@ -1,0 +1,22 @@
+{
+    "id": "titania-token",
+    "symbol": "titania",
+    "name": "Titania Token",
+    "platforms": {
+        "binance-smart-chain": "0x5108c0e857b30a8d191554134628fe0f1b7e78b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Titania is a new-generation platform that uses blockchain technology and smart contracts to provide users with more efficient and transparent interaction with society.\r\n\r\nOur ultimate goal is to create a digital economy that will allow people to more effectively solve everyday problems while generating income.\r\n\r\nThis can be achieved by creating a decentralized ecosystem that provides an array of services, including the Titania Token, which will be used for transactions between different participants in the system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5108c0e857b30a8d191554134628fe0f1b7e78b4",
+    "url": "https://titaniatoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5108c0e857b30a8d191554134628fe0f1b7e78b4"
+    ],
+    "twitter": "titania_token",
+    "telegram": "TitaniaToken"
+}

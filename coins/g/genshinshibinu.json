@@ -1,0 +1,24 @@
+{
+    "id": "genshinshibinu",
+    "symbol": "gshib",
+    "name": "GenshinShibInu",
+    "platforms": {
+        "binance-smart-chain": "0xc0e39cbac6a5c5cdcdf2c1a1c29cbf5917754943"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GenshinShibInu is a novel AI rebase and reward token on binance smart chain (BSC).\r\n\r\nDetailed Project Description, should be appealing, shouldn\u2019t be shilly, factual statements about your project & minimum 450 words max 600 words :\r\n\r\nGSHIB is a novel AI rebase and reward token on BSC. The artificial intelligence (AI) of the token undergoes a series of analysis, calculates the most reasonable increase, and passively awards holders $SHIB.\r\nWith a rebase token, the projects supply is variable and will adjust automatically on a routine basis. \r\n\r\nThe design of rebases makes tokens more tradable and extremely profitable due to increased buying pressure.\r\n\r\nHolders earn a higher proportion of $SHIB rewards the earlier they purchase and the longer they hold. \r\n\r\nThe development team were inspired to create this token (GenshinShibInu) based on Elon Musk\u2019s interest in the Genshin Impact game and the current Shiba Inu frenzy in cryptoverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc0e39cbac6a5c5cdcdf2c1a1c29cbf5917754943",
+    "url": "https://www.genshinshiba.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xc0e39cBaC6a5C5cdCDf2c1a1C29CBF5917754943",
+        "https://bscscan.com/token/0xc0e39cbac6a5c5cdcdf2c1a1c29cbf5917754943"
+    ],
+    "twitter": "GenshinShiba",
+    "telegram": "GenshinShibaOfficial",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "safeshiba",
+    "symbol": "safeshib",
+    "name": "SafeShiba",
+    "platforms": {
+        "binance-smart-chain": "0x0958fac26d489a0c86c053f9a4843ca57cc6ba7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The SafeShiba ecosystem is a holder driven and utility based token. Our mission is simple, provide the most value we can to investors with a sustainable long-term model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0958fac26d489a0c86c053f9a4843ca57cc6ba7a",
+    "url": "https://safeshiba.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x0958fac26d489a0c86c053f9a4843ca57cc6ba7a"
+    ],
+    "twitter": "SafeShibaCoin",
+    "telegram": "safe_shiba_official"
+}

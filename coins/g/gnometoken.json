@@ -1,0 +1,24 @@
+{
+    "id": "gnometoken",
+    "symbol": "gnome",
+    "name": "GnomeToken",
+    "platforms": {
+        "binance-smart-chain": "0x08c811ae0b0d20a396fb07cdaeb7301f2967ce5c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Staking, Deflationary, Transparent, Equitable, NFTs, Gnomes"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x08c811ae0b0d20a396fb07cdaeb7301f2967ce5c",
+    "url": "https://gnome.army/",
+    "explorers": [
+        "https://bscscan.com/token/0x08C811aE0B0d20a396fb07cdAeb7301F2967CE5C",
+        "https://bscscan.com/token/0x08c811ae0b0d20a396fb07cdaeb7301f2967ce5c"
+    ],
+    "twitter": "GnomeArmy_",
+    "telegram": "GnomeArmy",
+    "github_org": "GnomeFather"
+}

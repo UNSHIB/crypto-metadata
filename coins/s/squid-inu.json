@@ -1,0 +1,21 @@
+{
+    "id": "squid-inu",
+    "symbol": "squid",
+    "name": "Squid Inu",
+    "platforms": {
+        "binance-smart-chain": "0x872100aef24bcdd739c084b655a48dee75ab33d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x872100aef24bcdd739c084b655a48dee75ab33d3",
+    "url": "https://squidinudao.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0x872100aef24bcdd739c084b655a48dee75ab33d3"
+    ],
+    "telegram": "Squid_Inu_DAO"
+}

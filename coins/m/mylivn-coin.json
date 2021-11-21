@@ -1,0 +1,18 @@
+{
+    "id": "mylivn-coin",
+    "symbol": "mlvc",
+    "name": "Mylivn Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn. MLVC is an ERC-20 standard token issued on the Ethereum blockchain.  \r\n\r\nThe mylivn network and its users will power the MLVC. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://mylivn.com",
+    "explorers": [],
+    "twitter": "mylivn",
+    "telegram": "mylivncoin",
+    "github_org": "mylivn-gmbh"
+}

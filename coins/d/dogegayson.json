@@ -1,0 +1,22 @@
+{
+    "id": "dogegayson",
+    "symbol": "GOGE",
+    "name": "DogeGaySon",
+    "platforms": {
+        "binance-smart-chain": "0xa30d02c5cdb6a76e47ea0d65f369fd39618541fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogeGaySon, token symbol $GOGE, is an innovative, experimental, and community-based project, aiming to revolutionize the digital and real world in every way. $GOGE was created to unite humans throughout the universe, ensure freedoms, spread love, fight hate and global inequality, directly changing the world through the power of blockchain technology, all while making crypto truly fun.\r\n\r\nGoge is the 1st ever Gay Doge family member token, the 1st ever Doge token with dividend yield automatically paid in $CAKE, the 1st cryptocurrency to utilize direct action peer-to-peer charity and is the 1st cryptocurrency truly for ALL human beings.\r\n\r\nCreating an international, safe, and ever growing permanent virtual community for all, and building an ecosystem for holders to use their $GOGE and $CAKE rewards in the digital and real world. Engaging community members in daily activities, games, events, and highlighting real life stories while utilizing direct action peer-to-peer charity, for anyone in the world who is in need of help"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa30d02c5cdb6a76e47ea0d65f369fd39618541fe",
+    "url": "https://www.goge.co/",
+    "explorers": [
+        "https://bscscan.com/token/0xa30d02c5cdb6a76e47ea0d65f369fd39618541fe"
+    ],
+    "twitter": "DogeGaySon",
+    "telegram": "DogeGaySon"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "strip-finance",
+    "symbol": "strip",
+    "name": "Strip Finance",
+    "platforms": {
+        "binance-smart-chain": "0x0fe178b9a471b3698cb6fcb4625df9a756a2c55c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFT & DeFi Liquidity Platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0fe178b9a471b3698cb6fcb4625df9a756a2c55c",
+    "url": "https://strip.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0fe178b9a471b3698cB6FcB4625DF9A756A2C55C",
+        "https://bscscan.com/token/0x0fe178b9a471b3698cb6fcb4625df9a756a2c55c"
+    ],
+    "twitter": "StripFinance",
+    "telegram": "stripfinance",
+    "github_org": "strip-finance"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "xdefi",
+    "symbol": "xdefi",
+    "name": "XDEFI",
+    "platforms": {
+        "ethereum": "0x72b886d09c117654ab7da13a14d603001de0b777"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XDEFI Wallet is a cross-chain wallet extension.\r\nA fast and secure wallet for NFTs and DeFi, no matter what chain. \r\n\r\nWith XDEFI Wallet, you can:\r\n- Store, send and receive all your digital assets from a single place \r\n- Connect to your favourite DeFi dApps\r\n- Display and manage your NFTs \r\n- Enjoy the same speed and security on any chain\r\n\r\nBecause XDEFI Wallet works seamlessly within your browser, it requires permission to read and write to any webpage. Security is one of our top priorities and our code has been security tested and audited rigorously. \r\n\r\nWe do not store:\r\n- Your seed phrase \r\n- Password \r\n- Private information\r\n\r\nYou are in full control of your funds and data. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+    "url": "https://www.xdefi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x72b886d09c117654ab7da13a14d603001de0b777",
+        "https://ethplorer.io/address/0x72b886d09c117654ab7da13a14d603001de0b777"
+    ],
+    "twitter": "xdefi_wallet",
+    "telegram": "xdefi_io",
+    "reddit": "XDEFI/",
+    "github_org": "XDeFi-tech"
+}

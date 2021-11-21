@@ -1,0 +1,22 @@
+{
+    "id": "santadoge",
+    "symbol": "santa",
+    "name": "SantaDoge",
+    "platforms": {
+        "fantom": "0x41c068d513ba0f38d5af3822ba944662f77ccd35"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SantaDoge aims to be the first official lifeline of a supernova meme coin on the Fantom Opera chain. Aiming to alter the climate of the FTM ecosystem. SantaDoge represents the spirit of Santa by rewarding it's holders in tokens of their choice, the lottery wallet on top of that is constantly used to giveaway various NFTs or $SANTA to random holders. The tokenomics is structured very well for the better growth of liquidity and bigger rewards to it's holders. NFTs and further listings are planned for the next course of action. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41c068d513ba0f38d5af3822ba944662f77ccd35",
+    "url": "https://www.santadogeftm.com",
+    "explorers": [
+        "https://ftmscan.com/token/0x41c068d513ba0f38d5af3822ba944662f77ccd35"
+    ],
+    "telegram": "santadogeftm",
+    "github_org": "santadogeftm"
+}

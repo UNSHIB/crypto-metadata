@@ -1,0 +1,23 @@
+{
+    "id": "coinswap",
+    "symbol": "coins",
+    "name": "CoinSwap",
+    "platforms": {
+        "binance-smart-chain": "0xc53c40fb8ed1522fb9b5a500ae89bc6b1bbc9302"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Cloud (DeCloud)Trading Protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc53c40fb8ed1522fb9b5a500ae89bc6b1bbc9302",
+    "url": "https://coinswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xC53C40FB8Ed1522fB9B5a500ae89Bc6b1BbC9302"
+    ],
+    "twitter": "Coinswap_",
+    "telegram": "Coinswap_EN",
+    "github_org": "coinswap-labs"
+}

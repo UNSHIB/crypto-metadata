@@ -1,0 +1,22 @@
+{
+    "id": "pulsemoon",
+    "symbol": "pulsemoon",
+    "name": "PulseMoon",
+    "platforms": {
+        "binance-smart-chain": "0x67efde48f3d64d9fc5493258a75b43ce3e3f5425"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$PulseMoon is a community token launched fairly on Binance Smart Chain (BSC) with the intention of onboarding users from there to the upcoming PulseChain launch. Users holding $PulseMoon on BSC will receive an equal, 1:1 ratio, airdrop on PulseChain once we have deployed the token on that chain. This means you will have double the amount of tokens, because they will exist independently on each chain (BSC + PulseChain) Once on PulseChain, PulseMoon holders will enjoy new features and use cases as we develop the project further."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x67efde48f3d64d9fc5493258a75b43ce3e3f5425",
+    "url": "https://www.pulsemoon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x67efde48f3d64d9fc5493258a75b43ce3e3f5425"
+    ],
+    "twitter": "pulsemoon2",
+    "telegram": "pulsemoon81"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "doge-zilla",
+    "symbol": "DOGEZ",
+    "name": "Doge Zilla Token",
+    "platforms": {
+        "ethereum": "0x4d8046b2f7986feb5a4b0781ebf5fa2d7a808617"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogeZilla is a project where we aim to create different \"platforms\" of which our community members and holders can benefit. As for now we are finalizing our shop where everyone can buy merchandise, goodies, ledgers, branded materials, ledgers, etc. \r\n\r\nSoon we will be launching our very own DogeZilla Academy where we would like to educate everyone on everything related to blockchain and crypto in general as well as explain what different trading terms mean and how they work. Also aiming for the new joiners in the crypto space and warn them for the many pitfalls that anyone could come across. \r\n\r\nAfter this is up and running we can shift our focus on our very own game, with a play to earn structure, players can earn DOGEZ as they progress through the levels and can get bonus rewards for finding easter eggs and defeating certain hidden bosses.\r\n\r\nSo to sum up we want to set up an ecosystem of platforms where our community can benefit from in terms of token rewards but also with a fun and educating setting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d8046b2f7986feb5a4b0781ebf5fa2d7a808617",
+    "url": "https://www.dogezilla.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4d8046b2f7986feb5a4b0781ebf5fa2d7a808617",
+        "https://ethplorer.io/address/0x4d8046b2f7986feb5a4b0781ebf5fa2d7a808617"
+    ],
+    "twitter": "DogeZillaToken",
+    "telegram": "DogeZillaToken"
+}

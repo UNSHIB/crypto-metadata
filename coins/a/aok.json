@@ -1,0 +1,20 @@
+{
+    "id": "aok",
+    "symbol": "aok",
+    "name": "AOK",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Try a new cryptocurrency. AOK is faster than Bitcoin and thinks about the environment by preventing excessive use of resources.\r\n\r\nAOK is trying to make up for the disadvantages of the value of the real money and make exchange of values easier for many people."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://aok.network/",
+    "explorers": [
+        "https://explorer.aok.network/"
+    ],
+    "twitter": "Official_AOK21",
+    "telegram": "aok21",
+    "github_org": "AokChain"
+}

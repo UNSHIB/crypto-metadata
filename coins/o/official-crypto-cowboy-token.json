@@ -1,0 +1,23 @@
+{
+    "id": "official-crypto-cowboy-token",
+    "symbol": "occt",
+    "name": "Official Crypto Cowboy Token",
+    "platforms": {
+        "ethereum": "0x95a1796437bad6502d1c1cce165cd76e522409a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95a1796437bad6502d1c1cce165cd76e522409a9",
+    "url": "https://officialcryptocowboy.ca/",
+    "explorers": [
+        "https://etherscan.io/token/0x95a1796437bad6502d1c1cce165cd76e522409a9",
+        "https://ethplorer.io/address/0x95a1796437bad6502d1c1cce165cd76e522409a9"
+    ],
+    "twitter": "token_cowboy",
+    "telegram": "cryptocowboytoken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "tempus",
+    "symbol": "temp",
+    "name": "Tempus",
+    "platforms": {
+        "ethereum": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tempus is a future yield tokenization and fixed rate protocol built on the Ethereum network. Most forms of yield farming return a variable rate of yield. This means that depositors can be subject to unpredictable fluctuations in their returns. Currently, there is no easy capital efficient way to obtain a fixed yield or otherwise speculate on the receivable rewards. This is where Tempus steps in. Tempus has three different use cases, each of which offers a unique value proposition:\r\n\r\n- Fix your future yield using any supported Yield Bearing Token (such as stETH, cDai)\r\n- Speculate on the rate of future yield of any supported Yield Bearing Token\r\n- Provide liquidity to earn additional swap fees (on top of yield earned through yield farming protocols) by depositing any supported Yield Bearing Token\r\n\r\nBuilt on Balancer's v2 Stable Pools, Tempus\u2019 Principal-Yield AMM dramatically increases capital efficiency, so that liquidity providers will be able to continue earning the entire underlying yield, as well as Tempus yield, at the same time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
+    "url": "https://tempus.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
+        "https://ethplorer.io/address/0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9"
+    ],
+    "twitter": "tempusfinance",
+    "telegram": "tempusfinance",
+    "github_org": "tempus-finance"
+}

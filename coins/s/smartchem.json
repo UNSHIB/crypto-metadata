@@ -1,0 +1,23 @@
+{
+    "id": "smartchem",
+    "symbol": "smac",
+    "name": "Smartchem",
+    "platforms": {
+        "ethereum": "0xb9964c8b9c48800678e72b2fe7b9b365d3d0019d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SMAC is a Green Chemistry Blockchain Project. SMAC is an ALLinONE utility token as a discount voucher for future cleaning fluids purchases. It represents tradeability, sustainability, green chemistry, NGO support and fallback option (physically backed by cleaning fluids). \r\n\r\nSMAC rewards industrial and private clients who switch from aggressive and harmful solvents to green chemistry as fast as possible. The faster the change, the higher the discounts by redemption of SMAC tokens. On top SMAC supports the NGO oceancare.org plus 12 further NGOs and 10 SDGs of the United Nations. \r\nDeeptech from Germany meets Impact Investing empowered by Blockchain in form of the Utility Token SMAC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb9964c8b9c48800678e72b2fe7b9b365d3d0019d",
+    "url": "https://smartchem.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb9964c8b9c48800678e72b2fe7b9b365d3d0019d",
+        "https://ethplorer.io/address/0xb9964c8b9c48800678e72b2fe7b9b365d3d0019d"
+    ],
+    "twitter": "ScmSmartchem",
+    "telegram": "SmartchemICO"
+}

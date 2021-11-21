@@ -1,0 +1,23 @@
+{
+    "id": "wall-street-inu",
+    "symbol": "wallstreetinu",
+    "name": "Wall Street Inu",
+    "platforms": {
+        "ethereum": "0xd68cb7a643079311b8645ed90f2d5267cfa6ea26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Wall Street Inu (AKA The Inu Of Wall Street) is an ETH project based on a famous Hollywood movie.\r\n\r\nThe Wall Street Inu is for all of us, crypto traders trying to make it. Here you have the long-awaited opportunity you have been looking for. Stop looking for gems because you have just found the whole treasure.\r\n\r\nOne of our plans for $WALLSTREETINU is to create a gallery for exclusive NFT\u2019s with fantastic characters. Our designers are already working on it.\r\n\r\nAnother great idea is to create a 2D game where the user can use his tokens in exchange for items or benefits."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd68cb7a643079311b8645ed90f2d5267cfa6ea26",
+    "url": "https://wallstreetinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd68cb7a643079311b8645ed90f2d5267cfa6ea26",
+        "https://ethplorer.io/address/0xd68cb7a643079311b8645ed90f2d5267cfa6ea26"
+    ],
+    "twitter": "wallstreetinu",
+    "telegram": "wallstreetinu"
+}

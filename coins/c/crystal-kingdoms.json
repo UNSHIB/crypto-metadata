@@ -1,0 +1,22 @@
+{
+    "id": "crystal-kingdoms",
+    "symbol": "ckg",
+    "name": "Crystal Kingdoms",
+    "platforms": {
+        "binance-smart-chain": "0xcd32a0e26b3a87a064476b2c9e5e691df9ca063a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crystal Kingdoms is an NFT play-to-earn game that is focused on long-term sustainability."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd32a0e26b3a87a064476b2c9e5e691df9ca063a",
+    "url": "https://crystalkingdoms.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xcd32a0e26b3a87a064476b2c9e5e691df9ca063a"
+    ],
+    "twitter": "CKingdomsNFT",
+    "telegram": "crystalkingdomspublic"
+}

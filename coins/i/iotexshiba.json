@@ -1,0 +1,22 @@
+{
+    "id": "iotexshiba",
+    "symbol": "ioshib",
+    "name": "IoTexShiba",
+    "platforms": {
+        "iotex": "0x3ea683354bf8d359cd9ec6e08b5aec291d71d880"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IoTexShiba is the first and fairest meme token on the IoTex blockchain with great passive income rewards for holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ea683354bf8d359cd9ec6e08b5aec291d71d880",
+    "url": "https://www.iotexshiba.io/",
+    "explorers": [
+        "https://iotexscan.io/token/0x3ea683354bf8d359cd9ec6e08b5aec291d71d880"
+    ],
+    "twitter": "IoTexShiba",
+    "telegram": "iotexshiba"
+}

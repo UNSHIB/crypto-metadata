@@ -1,0 +1,22 @@
+{
+    "id": "metaface",
+    "symbol": "MFT",
+    "name": "MetaFace",
+    "platforms": {
+        "binance-smart-chain": "0x93116dac9d16434d02e57846da4a62a1d4c40a12"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "METAFACE is a \"FREE TO EARN\"Token NFT, NFT game with many games and other use cases. Percentage distribution goes back to holders on every transaction as well as some percentage auto liquidate as it goes to the liquidity pool hence regulates price of the token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x93116dac9d16434d02e57846da4a62a1d4c40a12",
+    "url": "https://metafacetoken.org/home.html",
+    "explorers": [
+        "https://bscscan.com/token/0x93116dac9d16434d02e57846da4a62a1d4c40a12"
+    ],
+    "twitter": "MetafaceToken",
+    "telegram": "metafacetoken"
+}

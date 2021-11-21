@@ -1,0 +1,24 @@
+{
+    "id": "metagamehub-dao",
+    "symbol": "mgh",
+    "name": "MetaGameHub DAO",
+    "platforms": {
+        "ethereum": "0x8765b1a0eb57ca49be7eacd35b24a574d0203656"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaGameHub DAO combines Utility, Governance & Data in one holistic Ecosystem to allow transparent NFT Valuation and Curation within the Metaverse."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8765b1a0eb57ca49be7eacd35b24a574d0203656",
+    "url": "https://www.metagamehub.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8765b1a0eb57ca49be7eacd35b24a574d0203656",
+        "https://ethplorer.io/address/0x8765b1a0eb57ca49be7eacd35b24a574d0203656"
+    ],
+    "twitter": "MGH_DAO",
+    "telegram": "metagamehub_dao",
+    "github_org": "thedac-space"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "numbers-protocol",
+    "symbol": "num",
+    "name": "Numbers Protocol",
+    "platforms": {
+        "ethereum": "0x3496b523e5c00a4b4150d6721320cddb234c3079"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Numbers Protocol (NUM) builds decentralized photo network for Web3.0.Numbers Protocol aims to bring integrity and authenticity to the digital content space by creating a decentralized photo network where assets are both traceable and verifiable through its innovative Capture, Seal, Trace process."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
+    "url": "https://www.numbersprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3496b523e5c00a4b4150d6721320cddb234c3079",
+        "https://ethplorer.io/address/0x3496b523e5c00a4b4150d6721320cddb234c3079"
+    ],
+    "twitter": "numbersprotocol",
+    "telegram": "numbersprotocol",
+    "github_org": "numbersprotocol"
+}
