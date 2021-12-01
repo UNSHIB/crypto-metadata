@@ -1,0 +1,30 @@
+{
+    "id": "unvaxxed-shiba",
+    "symbol": "UNSHIB",
+    "name": "Unvaxxed Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x34836f79b7db9861b2959c860d18c879be6acc51"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Autonomous Organization (DAO)",
+        "Decentralized Finance (DeFi)",
+        "NFT Platform",
+        "Meme Coin",
+        "Unvaccinated Ecosystem"
+    ],
+    "description": {
+        "en": "Unvaxxed Shiba is a decentralized, P2P crypto currency for the unvaccinated. It wil enable the unvaxxed to create their own DeFi ecosystem."
+    },
+    "country_origin": "UK",
+    "genesis_date": null,
+    "contract_address": "0x34836f79b7db9861b2959c860d18c879be6acc51",
+    "url": "https://unvaxxedshiba.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x34836f79b7db9861b2959c860d18c879be6acc51"
+    ],
+    "twitter": "ShibaUnvaxxed",
+    "telegram": "UnvaxxedShib",
+    "github_org": "UNSHIB"
+}
