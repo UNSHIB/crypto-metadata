@@ -1,5 +1,5 @@
 {
-    "total_cryptos": 10554,
+    "total_cryptos": 10555,
     "orgs": {
         "zocteam": {
             "id": "01coin",
@@ -21930,6 +21930,11 @@
             "id": "unizen",
             "name": "Unizen",
             "symbol": "ZCX"
+        },
+        "unvaxxed-shiba": {
+            "id": "unvaxxed-shiba",
+            "name": "Unvaxxed Shiba",
+            "symbol": "UNSHIB"
         },
         "ufo-project": {
             "id": "unknown-fair-object",
